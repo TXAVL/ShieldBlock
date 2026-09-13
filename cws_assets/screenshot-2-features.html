@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  body {
+    width: 1280px;
+    height: 800px;
+    background: radial-gradient(ellipse at top right, #0e1e38 0%, #080d1a 100%);
+    color: #f8fafc;
+    overflow: hidden;
+    position: relative;
+    padding: 44px 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .bg-glow-1 {
+    position: absolute;
+    top: -100px;
+    left: -100px;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(14, 165, 233, 0.18) 0%, rgba(14, 165, 233, 0) 70%);
+    border-radius: 50%;
+    filter: blur(60px);
+    pointer-events: none;
+  }
+
+  .header {
+    text-align: center;
+    position: relative;
+    z-index: 10;
+  }
+  .top-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.12);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    padding: 4px 14px;
+    border-radius: 999px;
+    margin-bottom: 12px;
+  }
+  .title {
+    font-size: 34px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    background: linear-gradient(135deg, #ffffff 30%, #7dd3fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .subtitle {
+    font-size: 15px;
+    color: #94a3b8;
+    margin-top: 6px;
+    max-width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* 4 Pillars Grid */
+  .features-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+    position: relative;
+    z-index: 10;
+    margin: 20px 0;
+  }
+  .card {
+    background: rgba(15, 23, 42, 0.85);
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    border-radius: 16px;
+    padding: 24px 26px;
+    display: flex;
+    gap: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(8px);
+  }
+  .card-icon {
+    width: 52px;
+    height: 52px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, rgba(14, 165, 233, 0.25), rgba(2, 132, 199, 0.1));
+    border: 1px solid rgba(56, 189, 248, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .card-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #f1f5f9;
+  }
+  .card-desc {
+    font-size: 13px;
+    line-height: 1.5;
+    color: #94a3b8;
+  }
+  .card-tag {
+    margin-top: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #38bdf8;
+  }
+
+  /* Bottom banner */
+  .privacy-banner {
+    background: rgba(14, 165, 233, 0.1);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    border-radius: 14px;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 10;
+  }
+  .privacy-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .privacy-icon {
+    font-size: 28px;
+  }
+  .privacy-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ffffff;
+  }
+  .privacy-desc {
+    font-size: 12px;
+    color: #94a3b8;
+  }
+  .privacy-badge {
+    background: #0284c7;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 8px 16px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(2, 132, 199, 0.4);
+  }
+</style>
+</head>
+<body>
+  <div class="bg-glow-1"></div>
+
+  <div class="header">
+    <div class="top-tag">🛡️ NEXT-GENERATION CONTENT FILTERING</div>
+    <div class="title">Engineered for Extreme Speed & Privacy</div>
+    <div class="subtitle">Built entirely on Chromium's native Declarative Net Request architecture for frictionless web navigation.</div>
+  </div>
+
+  <div class="features-grid">
+    <div class="card">
+      <div class="card-icon">⚡</div>
+      <div class="card-content">
+        <div class="card-title">Native Declarative Net Request</div>
+        <div class="card-desc">Evaluates ad and tracker rules natively inside the browser engine. Zero JavaScript execution overhead for rule matching.</div>
+        <div class="card-tag">⚡ 0ms Latency Overhead</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-icon">🎬</div>
+      <div class="card-content">
+        <div class="card-title">Zero-Delay YouTube Ad Cleaner</div>
+        <div class="card-desc">Automatically eliminates video ads, mid-rolls, and sponsorship banners while bypassing anti-adblock detection scripts.</div>
+        <div class="card-tag">✓ Seamless Video Playback</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-icon">🚫</div>
+      <div class="card-content">
+        <div class="card-title">Intelligent Pop-up & Redirect Blocker</div>
+        <div class="card-desc">Intercepts deceptive pop-unders, shady background tabs, and forced redirect attempts before they hijack your browser.</div>
+        <div class="card-tag">🔒 Safe Browsing Guaranteed</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-icon">🎯</div>
+      <div class="card-content">
+        <div class="card-title">Live Element Picker & Zapper</div>
+        <div class="card-desc">Point, preview, and permanently eliminate any annoying overlay, newsletter popup, or sticky video with 1 click.</div>
+        <div class="card-tag">🛠️ Custom Visual Rules</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="privacy-banner">
+    <div class="privacy-left">
+      <div class="privacy-icon">🛡️</div>
+      <div>
+        <div class="privacy-title">100% Client-Side Evaluation & Zero Telemetry</div>
+        <div class="privacy-desc">No accounts, no external tracking, no analytics. All rules and preferences reside strictly on your device.</div>
+      </div>
+    </div>
+    <div class="privacy-badge">Strict Privacy Shield</div>
+  </div>
+</body>
+</html>

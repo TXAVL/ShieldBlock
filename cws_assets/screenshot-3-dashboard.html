@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  body {
+    width: 1280px;
+    height: 800px;
+    background: #080d1a;
+    color: #f8fafc;
+    overflow: hidden;
+    position: relative;
+    padding: 36px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .logo-box {
+    width: 44px;
+    height: 44px;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: 800;
+    color: #ffffff;
+  }
+  .subtitle {
+    font-size: 13px;
+    color: #94a3b8;
+  }
+  .nav-tabs {
+    display: flex;
+    background: #111b2e;
+    border-radius: 10px;
+    padding: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .nav-tab {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 18px;
+    border-radius: 8px;
+    color: #94a3b8;
+  }
+  .nav-tab.active {
+    background: #0284c7;
+    color: #ffffff;
+    box-shadow: 0 0 12px rgba(2, 132, 199, 0.4);
+  }
+
+  /* Main Dashboard UI Mockup */
+  .dashboard-window {
+    flex: 1;
+    background: #0f172a;
+    border-radius: 16px;
+    border: 1px solid rgba(56, 189, 248, 0.2);
+    margin: 20px 0;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+    display: flex;
+    overflow: hidden;
+  }
+
+  /* Sidebar */
+  .dash-sidebar {
+    width: 240px;
+    background: #0b1220;
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .side-item {
+    font-size: 13px;
+    font-weight: 600;
+    color: #94a3b8;
+    padding: 10px 14px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .side-item.active {
+    background: rgba(14, 165, 233, 0.15);
+    color: #38bdf8;
+    border: 1px solid rgba(14, 165, 233, 0.3);
+  }
+
+  /* Main list */
+  .dash-content {
+    flex: 1;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    overflow: hidden;
+  }
+  .content-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .content-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #f1f5f9;
+  }
+  .update-btn {
+    font-size: 12px;
+    font-weight: 700;
+    background: #0284c7;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 6px;
+    border: none;
+  }
+
+  .ruleset-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .ruleset-item {
+    background: rgba(30, 41, 59, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 10px;
+    padding: 12px 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .ruleset-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .checkbox {
+    width: 18px;
+    height: 18px;
+    background: #0284c7;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .ruleset-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: #f1f5f9;
+  }
+  .ruleset-meta {
+    font-size: 11px;
+    color: #64748b;
+  }
+  .ruleset-count {
+    font-size: 12px;
+    font-weight: 700;
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.1);
+    padding: 3px 10px;
+    border-radius: 999px;
+  }
+
+  /* Bottom status bar */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .stat-pill {
+    font-size: 12px;
+    color: #94a3b8;
+  }
+  .stat-pill strong { color: #38bdf8; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="header-left">
+      <div class="logo-box">
+<svg viewBox="0 0 512 512" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#bgGrad)"/>
+  <path d="M256 70 L390 125 V256 C390 350 330 425 256 450 C182 425 122 350 122 256 V125 Z" 
+        fill="none" stroke="#38bdf8" stroke-width="20" stroke-opacity="0.3" filter="url(#glow)"/>
+  <path d="M256 85 L375 135 V256 C375 340 320 405 256 430 C192 405 137 340 137 256 V135 Z" 
+        fill="url(#shieldGrad)"/>
+  <path d="M256 120 L345 160 V256 C345 320 305 370 256 390 C207 370 167 320 167 256 V160 Z" 
+        fill="#0f172a" fill-opacity="0.35"/>
+  <path d="M200 255 L240 295 L315 200" 
+        fill="none" stroke="#ffffff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+</div>
+      <div>
+        <div class="title">ShieldBlock Control Dashboard</div>
+        <div class="subtitle">Complete control over your privacy rulesets and declarative filter engines</div>
+      </div>
+    </div>
+    <div class="nav-tabs">
+      <div class="nav-tab">General</div>
+      <div class="nav-tab active">Filter Lists</div>
+      <div class="nav-tab">My Filters</div>
+      <div class="nav-tab">Backup</div>
+    </div>
+  </div>
+
+  <div class="dashboard-window">
+    <div class="dash-sidebar">
+      <div class="side-item active">📋 Built-in Filters</div>
+      <div class="side-item">🛡️ Ads & Trackers</div>
+      <div class="side-item">🎬 YouTube Enhancer</div>
+      <div class="side-item">🚫 Malicious Domains</div>
+      <div class="side-item">💾 Storage & Backup</div>
+      <div class="side-item">⚙️ Advanced Settings</div>
+    </div>
+
+    <div class="dash-content">
+      <div class="content-header">
+        <div class="content-title">Active Filter Rulesets (325,480 rules compiled)</div>
+        <div class="update-btn">Update Now</div>
+      </div>
+
+      <div class="ruleset-list">
+        <div class="ruleset-item">
+          <div class="ruleset-left">
+            <div class="checkbox">✓</div>
+            <div>
+              <div class="ruleset-name">ShieldBlock Filters – Core Engine</div>
+              <div class="ruleset-meta">Optimized Declarative Net Request rules</div>
+            </div>
+          </div>
+          <div class="ruleset-count">48,210 rules</div>
+        </div>
+
+        <div class="ruleset-item">
+          <div class="ruleset-left">
+            <div class="checkbox">✓</div>
+            <div>
+              <div class="ruleset-name">EasyList Standard Ad Blocker</div>
+              <div class="ruleset-meta">Global primary ad blocking network rules</div>
+            </div>
+          </div>
+          <div class="ruleset-count">64,192 rules</div>
+        </div>
+
+        <div class="ruleset-item">
+          <div class="ruleset-left">
+            <div class="checkbox">✓</div>
+            <div>
+              <div class="ruleset-name">EasyPrivacy Tracker Defense</div>
+              <div class="ruleset-meta">Blocks third-party web trackers & analytics</div>
+            </div>
+          </div>
+          <div class="ruleset-count">32,840 rules</div>
+        </div>
+
+        <div class="ruleset-item">
+          <div class="ruleset-left">
+            <div class="checkbox">✓</div>
+            <div>
+              <div class="ruleset-name">Peter Lowe's Ad & Tracking Server List</div>
+              <div class="ruleset-meta">Curated ad server DNS & domain blocks</div>
+            </div>
+          </div>
+          <div class="ruleset-count">4,200 rules</div>
+        </div>
+
+        <div class="ruleset-item">
+          <div class="ruleset-left">
+            <div class="checkbox">✓</div>
+            <div>
+              <div class="ruleset-name">YouTube Ad Cleaner & Bypass</div>
+              <div class="ruleset-meta">Eliminates video ads and anti-adblock notices</div>
+            </div>
+          </div>
+          <div class="ruleset-count">12,150 rules</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="stat-pill">Engine status: <strong>Operational (Manifest V3)</strong></div>
+    <div class="stat-pill">Local Memory Profile: <strong>14.2 MB RAM consumed</strong></div>
+    <div class="stat-pill">Declarative Net Request: <strong>Active (Zero latency)</strong></div>
+  </div>
+</body>
+</html>
