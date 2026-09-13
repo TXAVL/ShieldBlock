@@ -1,0 +1,107 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "banners.igloro.info",
+        "bms.creativepartner.lt",
+        "prod.one.lt",
+        "trackers.adtarget.me",
+        "rkl.draugas.lt",
+        "r-scale-fb.static.go3.tv",
+        "skpiramide.lt",
+        "core.dimatter.ai",
+        "befirstcdn.com",
+        "trafficbass.com"
+      ]
+    },
+    "_sourceKeys": [
+      "310c06384a499a79fbae030986c33186304f9fecfd3fb88bc0128c4ef017a3f5",
+      "9966dc59f9a7b16e9b6f03b2495ad8f5d557fb0293acd4f1b2df8022a6686ed9",
+      "162d69944e658a20259466161d1a06ae3269b4cfdb413cc9274e2b6034ee6caf",
+      "6b23c0877238051b98861a977eb6c2af13555b23d6e13af2c138607758a0480d",
+      "773f815ea6cae4c9051fc1d69f4eef1d0481703fd8dc47f69d2bca15a8f535cf",
+      "857e8bafbebb010f6da09b0bafac2aa8f6bd2b67c289c2ec4ab95bfe4bb747d6",
+      "a4002dcd955552239b6c632f708876c29ae710d42a5e3e810fb1b78e38fb0864",
+      "6001a6571c8e1a3814275d84a962a75f520b661c5e8351d90693245a7ca417da",
+      "a5a00e91240a2f3637cca0178ced03f8b3ef559e6111e8bc5f4b65bf4ef9fc33",
+      "640593979cfc880305fdeebe96d9ab408b2e6a04b0c2b61cc8da35fcb45ad0f9"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "banners.igloro.info",
+        "keys": [
+          "310c06384a499a79fbae030986c33186304f9fecfd3fb88bc0128c4ef017a3f5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bms.creativepartner.lt",
+        "keys": [
+          "9966dc59f9a7b16e9b6f03b2495ad8f5d557fb0293acd4f1b2df8022a6686ed9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "prod.one.lt",
+        "keys": [
+          "162d69944e658a20259466161d1a06ae3269b4cfdb413cc9274e2b6034ee6caf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackers.adtarget.me",
+        "keys": [
+          "6b23c0877238051b98861a977eb6c2af13555b23d6e13af2c138607758a0480d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rkl.draugas.lt",
+        "keys": [
+          "773f815ea6cae4c9051fc1d69f4eef1d0481703fd8dc47f69d2bca15a8f535cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "r-scale-fb.static.go3.tv",
+        "keys": [
+          "857e8bafbebb010f6da09b0bafac2aa8f6bd2b67c289c2ec4ab95bfe4bb747d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "skpiramide.lt",
+        "keys": [
+          "a4002dcd955552239b6c632f708876c29ae710d42a5e3e810fb1b78e38fb0864"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "core.dimatter.ai",
+        "keys": [
+          "6001a6571c8e1a3814275d84a962a75f520b661c5e8351d90693245a7ca417da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "befirstcdn.com",
+        "keys": [
+          "a5a00e91240a2f3637cca0178ced03f8b3ef559e6111e8bc5f4b65bf4ef9fc33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafficbass.com",
+        "keys": [
+          "640593979cfc880305fdeebe96d9ab408b2e6a04b0c2b61cc8da35fcb45ad0f9"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  }
+]

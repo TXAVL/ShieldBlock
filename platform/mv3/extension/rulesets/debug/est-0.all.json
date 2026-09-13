@@ -1,0 +1,2781 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/js/ads_"
+    },
+    "_sourceKeys": [
+      "16b01547b754a65e8407a9c3b4817eb764a3b8e97704e72cbffc38eecb312376"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads."
+    },
+    "_sourceKeys": [
+      "d6601f3dd3966b77ce1e44e1aba1e285abdfe64a41552a73f51dbd0ab32e2f46"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "://ads2."
+    },
+    "_sourceKeys": [
+      "a80feeb59ca345e30994e5072fb4c94c3ee14b9b02f0d762b3dc3747fbab19a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "cdn.playapi.mtgx.tv/*/banners/"
+    },
+    "_sourceKeys": [
+      "79634d7790f4cc8060b49844a2e0043e5cc3149f3bc2c894aa1d64cae1668681"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "http://*.rr.ru"
+    },
+    "_sourceKeys": [
+      "1000c98c4deea784eb8e59dc705dec7240d7f00fc178206afd4140a67849d364"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "kalale.ee/upload/images/reklaam/"
+    },
+    "_sourceKeys": [
+      "4530804a3b5aa1db8eb3a866ad462a2f441a03157fca8fdb380f923f1d0a3a4c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "lounaeestlane.ee/*/banners/"
+    },
+    "_sourceKeys": [
+      "edc3675f41ab1ca3a93d1e571cb47fa48b027d11b48fbfad5f2683d9e8a69ff6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "mail.ee/banners/2.0/bx.js*"
+    },
+    "_sourceKeys": [
+      "27fb80984f24f85be49566c53d2e018abff448ff4105634f41fbb043a649e195"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "mallukas.com/reklaamid/"
+    },
+    "_sourceKeys": [
+      "f218f49675fd7eda62fdad779827e4ace3f0e1c59867eca47dd2cd2eb122d0d3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "perekool.ee/pkfiles/adjs.php"
+    },
+    "_sourceKeys": [
+      "5d588c5dc6b1b3826f67fab43a4d33563da1591180a58543ada9eb8fa9b263cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "soccernet.ee/img/reklaam/"
+    },
+    "_sourceKeys": [
+      "b832c9ce7da6a25a9e22f8209d133f9393cda0b6b4972c21a35834b642b50534"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "static.kava.ee/openx"
+    },
+    "_sourceKeys": [
+      "9341eff4c2581a6a8235cebdabcb002a52a7d03b02f483bcc69660c9c1f0aceb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "video.reporter.ee/files*.flv?start=0"
+    },
+    "_sourceKeys": [
+      "00d0b855fcd3eb571bb0f79614d27464714fc72cc400640836e283b560073e01"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "whatcar.ee/ads/"
+    },
+    "_sourceKeys": [
+      "819dd221376b45ec3cdfa0191115e011f12ab7ff350158033861c35ca94fcd30"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "www.ehitusfoorum.com/bannerid/www/delivery/ajs.php"
+    },
+    "_sourceKeys": [
+      "857873fd35d3b20037f92851abadf82628c1a335b1f6c40ef3fa3a2fce32c122"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://www.auto24.ee/js/auto24popup.js"
+    },
+    "_sourceKeys": [
+      "27e766e17e4063ae872d84fbba66f093e7fc53fe830dd34e53a4cee7d27622a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||212.47.219.162/banners"
+    },
+    "_sourceKeys": [
+      "2a32605e932939415b05789fafd629a1a1b1298513f93345503872255bc369ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||admin.naistemaailm.ee/upload/images/reklaam/"
+    },
+    "_sourceKeys": [
+      "93665ec495cbaa4b001475beb0425ff5ac29e4d0ca6267263d3c6f932f1a8dd5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||admp-tc.delfi.ee"
+    },
+    "_sourceKeys": [
+      "9054302fced8098592694d29e2ac7760010ec740494c941cfa29566a3619235b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||ajaleht.ekspress.ee/*/reklaam_"
+    },
+    "_sourceKeys": [
+      "afe542f3906b0752475370b5ecba7287b723cffb61656aaac27393a5aab1d9d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||an.yandex.ru/system/context.js"
+    },
+    "_sourceKeys": [
+      "be99f653420952d8e2f58db9976cba9470ac8f60ef65c15357ea209fa2d3e476"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||aripaev.ee/js/banners.min.js"
+    },
+    "_sourceKeys": [
+      "dbae1a4e869838d4455c3a5dcb4d85cd0f585cf5d94ffdbdced6219f7997359a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.tr.ee/banner"
+    },
+    "_sourceKeys": [
+      "f749c98cc6c75b49756bbfdaf4e387a3c0cb3f905b31699dfe6dbb3681906a56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||bnrs.ilm.ee"
+    },
+    "_sourceKeys": [
+      "fa42d940caa21cd6fcc9c7325d04b78dfbd71739e94e545704e6012c41d05679"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||buduaar.ee/files/upload/banners"
+    },
+    "_sourceKeys": [
+      "bcb9401402dfae88e35562116202b6077da45a0aba241f533df45db5ba341b19"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||buduaar.ee/files/upload/marketitems"
+    },
+    "_sourceKeys": [
+      "e1a1554273a0088ba73147ab71e6eee0befc3086117c032a714ad706d02f0256"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||cherrystatic.net/banners"
+    },
+    "_sourceKeys": [
+      "881d902c043f611ca73da4b32e7b66b3a92b7d729edd0b24606289896f6cd2d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.ee/misc/cobancar/*.php"
+    },
+    "_sourceKeys": [
+      "7a5b122bd22b34fa2cb2a20223851c72766876ef3f915eacbb9149f3449734ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||harjuelu.ee/wp-content/banners/"
+    },
+    "_sourceKeys": [
+      "81691f504dd196b9df4058277b9af69d51dc262e37df4b985cbfc27d39d913d1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||ilm24.ee/uus/ban/"
+    },
+    "_sourceKeys": [
+      "24a85d2221a331ee25478271fbe228a86752e83d2da518e0a96334b073904fa8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.auto24.ee/banners/ox/"
+    },
+    "_sourceKeys": [
+      "2479fdc0539334c9f312ba8f93e6083b559d61d971a0f95006e351b6b82f021f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||kalale.ee/media/b2nnerid"
+    },
+    "_sourceKeys": [
+      "be29130117fbf3d5b588eb1dd5624bc942d2b24f25b51654b6d43dbe92aa3c15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||laanlane.ee/reklaam"
+    },
+    "_sourceKeys": [
+      "f8ec8abe2d9d5c4c1517e8d13779853904de7e57332da5ec4cd90127c7483c1b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||lpdigileht.epl.ee/*/reklaam_"
+    },
+    "_sourceKeys": [
+      "0264d6d6c67070a54e9db33643553a73d64b711e9e7d6c327d8b7d1d5e1774df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||neti.ee/reklaam"
+    },
+    "_sourceKeys": [
+      "f82e3ad1813c4f0dde818c5cae30e969fd5c1536c4bbdcbbe4b97403d7ed5872"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||perefoorum.ee/banner"
+    },
+    "_sourceKeys": [
+      "8b196f020d2cfd3a653ff78b3e42ddaa7ad3f596a3878df9418cc01f948de09f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||perekool.ee/banners"
+    },
+    "_sourceKeys": [
+      "9273728ef63000c711f7addcf46fb37eba466b27b2fe5afd6510ff9295f91946"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||pmo.ee/*/banners/"
+    },
+    "_sourceKeys": [
+      "236e7f32252acd8213ab6a5fd8f8c524a1719f5bf05f3dbd6cd90233615424a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||reklaam.kava.ee"
+    },
+    "_sourceKeys": [
+      "827040b3861e51dd1a64fff6ac18b3042304a77981667c3a0ce7d66d813bd288"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||reklaam.naistemaailm.ee"
+    },
+    "_sourceKeys": [
+      "5dc3d9ec466c8fa91723544f80b4f4d220a730621f92947e1bc36ab6323135e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||toidutare.ee/img/ads"
+    },
+    "_sourceKeys": [
+      "42f32d0bafc51d948a044364a50ca006d0744b15084436d493f0e4b95677acab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.postimees.ee/proxy-ads/"
+    },
+    "_sourceKeys": [
+      "49a22f886a506ea44a066bb92de65e7fe5a19321b772a3eacc37fa242e2d5442"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.postimees.ee/reklaam/"
+    },
+    "_sourceKeys": [
+      "ca3ec389e5d8724029afd57bc32ffa09369ce208220859a7897c074eede85493"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.postimees.ee/newsletter/block"
+    },
+    "_sourceKeys": [
+      "25410ad2684a7a14caba16ccceb1ca268952f644316bb073f31c3fae644473ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||yyr.ee/images/banners"
+    },
+    "_sourceKeys": [
+      "0188211358e5b56cebf8e47722c4938fa6ec2dfcf7a3ea9c9fc19d2d0e6c500b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "openx.static.kava.ee"
+      ]
+    },
+    "_sourceKeys": [
+      "a4012bf3ae09fb0ad26e5c8b42250ed8d2805fb68a2ccedd258ca8d8a11efcac"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "openx.static.kava.ee",
+        "keys": [
+          "a4012bf3ae09fb0ad26e5c8b42250ed8d2805fb68a2ccedd258ca8d8a11efcac"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.hinnavaatlus.ee/s/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3b38ba2f9464285f57eb6e45101d01cbd0026d0a53703760709997bc09b53241"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||imgsrv.kuldnebors.ee/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e830d20b4a6cd851202c0e62a3e82446d7e90b95dd6921681c06d564b23b0c76"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||imgsrv.kuldnebors.ee/static/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "63c9f84b020ae1b4d87061ea920483cd627914a69740243158117255750908bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pay4results.ee",
+        "2mdn.net",
+        "ad.dumedia.ru",
+        "ad.mylook.ee",
+        "adbox.lv",
+        "adbrite.com",
+        "adbull.com",
+        "adbureau.net",
+        "adclick.co.ee",
+        "adengage.com",
+        "adform.net",
+        "adition.com",
+        "adkontekst.pl",
+        "adland.ru",
+        "adlegend.com",
+        "admeld.com",
+        "admixer.net",
+        "admulti.com",
+        "adnet.ee",
+        "adnetmedia.ee",
+        "adnxs.com",
+        "adocean.pl",
+        "adonspot.com",
+        "adonweb.ru",
+        "adreactor.com",
+        "adriver.ru",
+        "ads.ee",
+        "adserver.com",
+        "adsfac.eu",
+        "adtaily.pl",
+        "adtarget.me",
+        "adtech.de",
+        "adtechus.com",
+        "adtegrity.net",
+        "adultadvertising.net",
+        "adultfriendfinder.com",
+        "advertising.aol.com",
+        "advertising.com",
+        "advertserve.com",
+        "afilo.pl",
+        "afy11.net",
+        "ahcdns.com",
+        "aimatch.com",
+        "am10.ru",
+        "am11.ru",
+        "ap.delfi.ee",
+        "apex-ad.com",
+        "atdmt.com",
+        "axf8.net",
+        "bannerboxes.com",
+        "bannerhost.ru",
+        "bannex.ee",
+        "bbelements.com",
+        "begun.ru",
+        "bepolite.eu",
+        "bidvertiser.com",
+        "bizographics.com",
+        "bkrtx.com",
+        "blogads.com",
+        "bluekai.com",
+        "bluelithium.com",
+        "brazzers.com",
+        "budsinc.com",
+        "casalemedia.com",
+        "chartbeat.com",
+        "chartbeat.net",
+        "cherry.ee",
+        "chitika.net",
+        "collective-media.com",
+        "connextra.com",
+        "contextweb.com",
+        "cpxinteractive.com",
+        "crowdscience.com",
+        "crwdcntrl.net",
+        "cxense.com",
+        "dclick.ru",
+        "domdex.com",
+        "doubleclick.be",
+        "doubleclick.com",
+        "doubleclick.de",
+        "doubleclick.net",
+        "doublepimp.com",
+        "dowjoneson.com",
+        "dt00.net",
+        "eloqua.com",
+        "estara.com",
+        "etology.com",
+        "extreme-dm.com",
+        "fastclick.net",
+        "fastonlineusers.com",
+        "fortumo.ee",
+        "freeze.com",
+        "gemius.pl",
+        "getclicky.com",
+        "googleadservices.com",
+        "googlesyndication.com",
+        "harrenmedianetwork.com",
+        "hbmediapro.com",
+        "hitbox.com",
+        "hitfarm.com",
+        "imlive.com",
+        "impartner.lt",
+        "invitemedia.com",
+        "ixnp.com",
+        "klikivabrik.ee",
+        "klikki.com",
+        "kqzyfj.com",
+        "lekane.net",
+        "luxup.ru",
+        "magnetic.is",
+        "marketgid.com",
+        "maxtraffic.com",
+        "maxtraffic.eu",
+        "mediaindex.ee",
+        "mediaplex.com",
+        "metaffiliation.com",
+        "msads.net",
+        "neoffic.com",
+        "netaffiliation.com",
+        "netsales.pl",
+        "newrelic.com",
+        "novem.pl",
+        "olark.com",
+        "onthe.io",
+        "openx.org",
+        "overture.com",
+        "oxado.com",
+        "pakkumised.ee",
+        "pardot.com",
+        "passion.com",
+        "pcads.ru",
+        "pheedo.com",
+        "pop6.com",
+        "pro-9.com",
+        "pro-market.net",
+        "realmedia.com",
+        "reklaam.keskus.ee",
+        "reklaam.nagi.ee",
+        "relevant.fi",
+        "rmxads.com",
+        "roiservice.com",
+        "scorecardresearch.com",
+        "searchco.com",
+        "serving-sys.com",
+        "sexinyourcity.com",
+        "smartad.ee",
+        "smartadserver.com",
+        "sn00.net",
+        "specificclick.net",
+        "spring-tns.net",
+        "spylog.com",
+        "spylog.ru",
+        "starwave.com",
+        "static.chilli.ee",
+        "statistik-gallup.net",
+        "streamray.com",
+        "sweetmedia.org",
+        "tacoda.net",
+        "teasernet.com",
+        "textads.ee",
+        "tns-counter.ru",
+        "traceworks.com",
+        "trackalyzer.com",
+        "tradedoubler.com",
+        "trafficjunky.net",
+        "tribalfusion.com",
+        "trigger.ee",
+        "uimserv.net",
+        "underclick.ru",
+        "ventivmedia.com",
+        "viglink.com",
+        "way2traffic.com",
+        "webtrendslive.com",
+        "wsod.com",
+        "xgraph.net",
+        "xiti.com",
+        "xtendmedia.com",
+        "yadro.ru",
+        "yceml.net",
+        "yieldmanager.com",
+        "ytsa.net",
+        "zangocash.com",
+        "zanox-affiliate.de",
+        "zedo.com",
+        "ztod.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c030880746e663bc94455843160a7b630ce81b04769057e80f698df0eaa18a1b",
+      "e7463089b9207c9bc474885d711eedb383a2bf0ad0baa6a325a8b37e1005ed4c",
+      "fb4d1bbfebef5386f9e84deb5eb0adea6158b0d84897d92004037b2b845a8711",
+      "8feeac5039e681ce22d554730b2f647cadc56d3b27430f82ba88d0e4af1c2cef",
+      "5c87023a10fe94f6049f3622b3d4628aa1901ec6bd2029dcf8db79615db20d33",
+      "0340f0972a2eb7533d2156ca26086bcebebfdc9ebc163e2061e8eba7c53df062",
+      "e7cec2f06c9be9acd0f1078d4d56e53ec2e148f224afe312136317bdcbcb41e9",
+      "029e0c447e14cb006883e59121c3492ae92e9f3ebef8758f3f3a735bde2a0ce3",
+      "4f444ebf52e90288029b313736f946596a9ab27b77b948a64e1f280aa6161ab3",
+      "2034a21ac0708a8955be85c102e1f597c662ed2b04dc63f78c5345baa426e489",
+      "c7bbc70bb73ef11a5423defdc05302b016d8fb216e24bca3af6828ba4a617112",
+      "eedd094b38f7ec8f7f0188e74905ef5b4674f7287eea7e28686e9ce76f2bf759",
+      "9c812d05ead62823aae06cd636997016affa4645bcbe9e45d6ce3f9ffe9fd3b0",
+      "5fda837113643be6a9b042890821577b7e49b6cc0c8c086f23b31fdcf7910fa0",
+      "32a0a2f3842f1802ef508bbc16260521bfdfa492a106281aae1de95492c673cb",
+      "afa573531d176fce31c07e4d2a65092d56484ef1f52d75f2fbba69b501be39b2",
+      "feeba36897da0becd4afd0eb351fd4c1df3f36791b74673fc7d26c698ec5d2e8",
+      "b3ce925e64f8c59cccf2590b96a4bc1e0c7d495ded3e315513a7e8535953e3d0",
+      "9fdad790b275e32dcc4b2d8065ed7c4d96e677e54bbdd71f995653cd4ae0aa09",
+      "56cfad94f1fd80c360088180e86f6a370e15820ea783ad96ced99c3082b0f1b3",
+      "1b1562d4607cec573542fd98dd1bf5c9c025590ceb84a3df3bbee6160f0f376d",
+      "9a765294ef5c1b9540777b6eb0a6479c3550e6e89546b1e67245c8cb194034df",
+      "0c0af02021ea7f0342b027de541e335f8fa6e14260f78658b693c653eb631079",
+      "b5e3796da48f6665a6b211209ac79767af298a7aa71580cbf286a778fe02cc6f",
+      "a899601bb31270fbb95f984ddeb0648e96325d675382324215cb4f5b7f7e855c",
+      "2306b8e568e41260d972ba77ac2f976d7e591c3b721ab379d2d303fbeac37417",
+      "1b390d7684ed35068222a45f710e1761a0feec80d13809aa0f24b5b13971f3d0",
+      "a351d85080b38e0083da3b1277ef17787fe7c739bb9ee7e946024551d562f2e2",
+      "5ae804cf74b1027aaab220c8d88f55c286e449b2b9c13b16e4cd0a12a8eafb29",
+      "df490a708cfda46551cad2b378c26bc5fa7fc5de664d2ed181501a71e06862a3",
+      "86b0fc39ebaea14be56398b4db203a7ea91bc60b0e6eb4bdf42b55e9bd17e8fb",
+      "375e0b257855813163a74c91eaa9f8b1abdb7a63cd9912a3b20577828f7db0b0",
+      "76c32655fb8229e7b5078ed72fc483859410d6a2ecf37f87a7b43afbe4fbe1fa",
+      "045485dfc955b4d8e4eedf7d34d21fc433bc65838bdf203582432b7616f6c811",
+      "606863c2c08c9e042a158b4a595515359840aa550fb958cebc62dbf4db355e2e",
+      "7a28dab9190b4c3ece284237a00d20e6659b82c1d4bbc2b0850cc46c5b25c6f9",
+      "6cb682d4d8b689210a08cf9797681a1db7ac391947baef7f92140ce7a44aaee0",
+      "8986f462864eadfa4a1ad34657e2aa159f6d10864923e405d110167412cb7688",
+      "0e8321c507acc53e8e726cc56be48be0182b5a0038c328d0071e0e3420088d92",
+      "2b44f6f2154650d3d007b201a1d7ceb9c8bd00fc0caae35ac9ec9a29a23c20a2",
+      "e9db11d52ed2e7fe828154c98ef2b4ca054ce7e84e7fbdb1a6a46fcdc8264b40",
+      "1274fd9d1d8e3fe4a4d08e0f7b26ac86bb0cc85c3d8f1c9ca3cd28650e85b8f8",
+      "e0cbcfdacbce3029606b41dabc9de5a34384caad549c77c358f8f732d499a80f",
+      "de3494a47a7f809673802dfc7577f2ea800ba28cc0dc3e49d375d12b4ab63fc6",
+      "bd89fa474deed75c99c1c4ddcd349913c5169192df2b61e664837e056478ee79",
+      "eea7ef36b8cccbb1dcb5fa1762ba9df3ca4535a500f445c3c3f4b8f3beba6937",
+      "87e9029d8b463fa0d1e8e87181305541d00c1bf8a6e58fdda245aea5aacdba1e",
+      "310d57e8b696a8bd5699e8b2917c4f1c76aace300b45ce7c19aa0a5db5c4a425",
+      "f635acdf013ebb1120048789586e951babae329f21efeb7b4cb2d3f6b8dae40f",
+      "8d99ec93aef6634539fbd430ac2a3af5ec7a3dee90f03720ec6ad5e7c194d116",
+      "cced1741863e7218c315d1d3f6709ae4046ff7bc3211ac368e06d1f313ffdde5",
+      "c16e7ea1ef8de5182dc19eeee2b47bb86c7bcfa8a7784121c0d939825a324f36",
+      "1710801ef2dd8d247bf086535366627c517c2e4f63ee85ae3851c9b698152f60",
+      "9c3e594febc43fe6c9ce36ad1320709cfd7f0ce45ff2e82259dc8476a8f65d6f",
+      "74ae65c4973134d8a5c2fb773d62693b470023859bf28abb5693296758e230c9",
+      "a10bdf93800b03462286520c7dcb8f0e144306eb4c64994046f69fb1a4c89119",
+      "1b6020b19fac07f5ed75f6e10d5d130f00dd40e2bfd25d285efaa44feee50c75",
+      "7c6fac6962df24f24ff5072326665ef421e6329df6c1338bd88e439a8ee9a06b",
+      "1b5f49fe0413c20cdd5a5dd1383ed2b3c54ca4ec3abcb6e28fb56358fcff4416",
+      "9d2c770d637ebdf8fdaf76ff408f5cf15dbccd2094337e1060affb45c261a2c8",
+      "6889239087b157e808613ea6cbead066641bcb055fdb73a31b7a91b4e8986c4e",
+      "cf3764b89c08033e2acef896e50c57407e98ab8fb2ee0ae35b209edc8b9bc0ed",
+      "9e9cd85a23a10ffdf96ed7b54f5e6210ff62d91a08b4b58831be98055581053d",
+      "19255758b5abf174187f82af886b40318da327752a67440d1bfea092633dc5ba",
+      "3880ed8f8c60de6aae86718adab713892e298ef204a24c2cdd248e90a1b8017a",
+      "79365a990ae80e3dd23255cb637e7b6484a94753d37a86ce4cd61e0f11ab1677",
+      "31bdb2faa7d522d4b94d63dc6d534c8f4fa3f7a0b0b75e6e2abc6dba1e70c125",
+      "678dc2b99580cc15c0c5d0d8aeb3cfa533e27be1a7c04b6455e41077ca60c643",
+      "c285dd7e3e93d74be3edfa380cd35f4511b059496c32b2f12ce87bd1a597683b",
+      "20bc06ac6b21e8c182625b90c7a1181b24d850912942201955e7d9bc56c4e7ab",
+      "59b10b9cc45445f7d0013f32c3c397d98bd8882b341a69db5399f9c1ebf1bd07",
+      "f5d9c24f45587e831680bfca45acebe75f72acde95090e66f5ddb6005d91fbfc",
+      "46d7439a72af19cd534a3eb58090a9d27d961a7665e7f1f2da584dbe776d016f",
+      "908a2294a65a1012ead499975709ac2e23ccf38d0b633707439a3e6af7217d7b",
+      "98bdc859e7f2c0041a693b78fce0aa5de6e0ab7992ca33195f4983832993d1ab",
+      "c174fb56940999ff0dab9126619c1f8b98f60f3f6f0de757de7581849a7b14b8",
+      "b610d0a8a69f63bff9ed691e852ca37c0ea9cd6dfca4cece1d32d070f5d21635",
+      "d4a54ea0028d0e461aa25188f0b1988ec17115468ddea9510d48d20bfd2823b9",
+      "6f9b2379b3ce8c8fcf67fce4e876e34f1fa6ec0e4c8a43753f5279898d3c5786",
+      "7f0a2ab4c3d6d7c0145ff5e1efd7440e22755e89dff5b2d524fa736fd717ff51",
+      "d3da78dbcf15a2731d2d90b45927533dbcc00f3c48342bbb175656e4ab062906",
+      "4b972dc1e012a14666381b0559b12ac96c20d90d28e29ad0c11a39bec35c62b8",
+      "fa8123be65995abbfa46b68142bbe2607bd31ac54797a1d75d091c903092b5ca",
+      "75feeeb7d14bc532be75c8e50079fdabb27ad625e6c51ecca24d811417e96ab6",
+      "1f3fadacb001282f0aac4c44a2fff4728c96a2210f96548d2bb434d8dcd6b1a8",
+      "efd653547b7b5b081d5e8c2f7ff31326caf95842b591e3381cb007f6e0950e6d",
+      "273f24d586f0686205f4917cccd6181444685d070030fc23ae601b1de763843b",
+      "91c3ccdb7c9f2a054b9136216f67231a379e273ff40f0a18089be67a30a7d9d2",
+      "d53a878f171805bfa8d05e61ad8937b38bad79b3e200ebdba16c2ae5e7b2dd1b",
+      "ced166d07e3d97b8f28dadb58f29b4c9996731bae244f0025c6a95c16f10cce5",
+      "2ca2019d24ec7bb57ad94a4f6d67224a0ad4f19bad866ac46382ddc3aa3cf2dd",
+      "b46906d3d9ec989a1360deff19f3e627f33deaf5432cbf95e46d2f73a61e65b0",
+      "fb1e41fd50daef663a9a93132b274d82bc72c8a3849f62a9f090c8a2e7b8f013",
+      "690df8295dfeb55b195879144ad42d2be24e527cc66fe6647f177c2b12993083",
+      "ec0c769895c6b680906aefe28bca3cf6312aaa8da2afc2981360d2baba805193",
+      "04a92e0acc25293bd8d0cffb6ac1bce01b32dd6a51fd8c547f01d62a1495fbd3",
+      "b37e074a855fd5d68be120175962034695f90978425d6a40bf6193f50fe91619",
+      "93bc983efc356c36d40a2d468f1fb23d22b922faf27329c55033dc124a597d40",
+      "cf5b5e3a5dd88e8e7ba384af79d1dc10faf2a9892c2e7b42ede82e51ef2356a1",
+      "886f7d54c061b12189f3fe92efd5d276eb529fde8502afe937f2bf497d6d65ff",
+      "291347bc045d90191975c13cfd1228be2c15960e43f6be322034a7e5aab4cad8",
+      "b67cffac763947b92b2c1366721119ac80bdff16231c22d7341b630e7155b153",
+      "ac32dafa08007d6f0f704ae7008e7acf7ea43d6e5de9a416c5557ae88e81b876",
+      "9aab848e9f0f3c2d7552670375fb970c372bbf03a91d31a1c272239c7d5e5f7a",
+      "53d80153fc2fbe9190c3898ffd54a1894723a290894dc87bf69d763cf3bab06b",
+      "335a8f09565d508b6d23859b7a641dc4d7062b329137b3a7d25fb126b913fcb5",
+      "77afead9ad790cb74a03152cfe6f442e14b6af71d74012490dde9852fade23ba",
+      "875bc14ee86bb55a34ace3bc0f983d7612e8a5908621dbbe0a8c3cdd61667e51",
+      "aa7f09b9921cf8a1eb96fe9677dba712af5c51d422fc9a1bc174730f403f1cd5",
+      "35ee4add2c48e8c563d860005c82630f2e07c8cd162bb74e8f70861fa3478404",
+      "d2bce09d5a9ab97ba649a6a04def3af2faf1bfc792e914123a11eff79a494ed3",
+      "4c0765a01b3bca552bc73ab451d92d34fa9ed683c5cb3c4685cb7a3e6a0a24fb",
+      "2073bc5465d64516e723212850ef6d7c1331de1da203c2505a4faacbc7acd2b4",
+      "8b4e290ae273ffdd3532f137637f8d51def39a64f0c6cacdcb986a9c9957947e",
+      "7c71b673342fcb53274b2b6e5656ffe63a28e247d1f24736376f3f5c49b70c4b",
+      "067bb23e660fe83669ed451995a06b613e195ea2b90729533f3e6c3a00a07262",
+      "5978db8e64aab6bf79ce35cbe859063cf44c107b38d6b00e30dbfe3bcc3512f6",
+      "13a7afdf0fd654ed125d2beebb7268090bdef437bbb90e70eb9768aaa7055c1c",
+      "060823b08f90dae4c4d0c3b08bcaf3a0c3246ac9cec6c5abd2e66583ba306134",
+      "be0f32d29e96ecdc88282ebdee2665ceb0f6c05e7cf5206f345a81e525f195ed",
+      "9035facf03c7566b9af6c1235a5ebb78105b3c162dcdb214521e7d700f45cdae",
+      "0cb418794fd89f7f9494380e178946a8069e7ac10dfd941d4f15b8c521df2b43",
+      "fb13d6bca7e2f800be3c0d2ac62b10e5db53a979a710ed31752cb47829bd4845",
+      "7fc1089a9d0cacedd66347e0dcc7678152cd828d697cbef7a073347d54f9d524",
+      "372fb32bc3fb4a0af50c3cb0151002dd419bfcab179fd8c055d4e9c898d5590c",
+      "6f85c93e913633aca5083411bd909a900b66d387740ef66d0cc237880d7ac3a5",
+      "90855749544e898b7d240ec927cd6ae9a9efe5dea9a45a72c044d6345c2f4d6f",
+      "7d618e8144a0a53dec6f0f296a6e6988474fa960c60a745b6e3c90d695b4d9d9",
+      "467acb0f8a799b978ee77d900afe3d6feb4a5d149a4eccc6b211fd44f3c10390",
+      "915d078222411a9d2b323d0833cbae36d0e2f55733a8858ca266bc74f29ce487",
+      "e6033cc35bde04657f539200176d45459e88dbbed64286f1f0c87630ce8e903f",
+      "3ab9eb6dfcbc489c53dadb3fd4e758caed918c8b3247d0968bb886f6ebf72e86",
+      "d1f1414518e40f25349aa38862fb3704eb4c8be7f2bde9783bbcd40edca09f10",
+      "fd7d08d594f23707d5f327ceda1c29c4be038f3fe6f2a8f74b7dd1036b097aa3",
+      "8454532fd096e16c1a8e619e0f268eb883dd429d08ed00ad0363cd8af1d95615",
+      "8d5b758a4f5ed91e996831847c91775bee4d7b9c6f0880d74b3e4852518e4880",
+      "aed420449971bdf5b0c1945ea62aea7902cd857818792b8ae9363a0dd4ec8c76",
+      "12a794c8411a448811bd48ea8340c48b13f8ead431a988b146e58f4365409d6d",
+      "2a41e07ed445bdee1909a42f10a5fc9c40f48e0840457b2665dd7f58d14d2bea",
+      "db203a1aa7655c6da0f9e01e982273ca48f849bfa9e5f278c211996e11fe6ed0",
+      "92b042d6fc1c82f358f27a4eb78bc3044c8f9119c663c791559988c1055910bf",
+      "c7b01a8f0966b389210a8f486ed2f7e4712053be416293003790307da95ca182",
+      "ad23467387369e831025fc2bd4694921f4302037e8d778b2288aa2df761cc1c7",
+      "43c1ce5af09c98d0390edf3cdec2c520f50be32e7382990303c5ed175c6c2c63",
+      "73369e7f441edca5986e6ed20c08dd563eb9cbc10931329158939f97d8be5488",
+      "d334f4ad78df7ffcaea8910e7e1f2c1bfe76e53d286d856a6c87c4dba3cd5a9b",
+      "9a7dba00f94a34c94cbe34067f09fa63ae4d5c7869fa1c92731fdb14bd48bf7c",
+      "1459fa48fc73edb6bd515a2541b2329468d4f18796d22fecb164b25123f7daf8",
+      "86ec2dc2695ce7f1a5cfd93ebabb5ef773dd46312bcd163c6fd6ac2161d6de60",
+      "68ddae22fa0762ad31caf878635efd5c36c6e9540b0900e9b3968962d6968887",
+      "fac4d20b2c1e4767dac1fee4b15dc25e3a54e47bd7d6c8d3ce9ebd4861c6fdf1",
+      "b92e8d1d7c43207fb57549485e6542c100167bde9596bef90f198dde8ff754bb",
+      "df1cfdaf9608f9acd92380646e623107a53d494b178e9e1d25fc5bc4e8dc45a8",
+      "37ca66147c308a371ffee9f931c82a9008df1e04e7e9afb1110ff5f7809fb1f1",
+      "af7b6620033d2aecbfd90aa89021094cdc598a9446777a198688b063bdebe03a",
+      "a9b6f776313c16c7319c120626fe8e1d74395d0e8ff92126f22febfea786a6bf",
+      "cc8a2614fe541abc851e6fccc5fdacac0c20dfa6e33475a6976807e47f1e65cc",
+      "770cad8846463d2b79f5db32f88b10151b1bb156a12dc926d08603c1b932cafe",
+      "161c1ded3b72f2e33923e14e7d279785b8d026b7be4502a24eb4dad5d8c5069b",
+      "f2b31544ba729807b7177ca291d373cad555f434274465ee8c932c7526f40297",
+      "a0ae16e17905a346784a49061c6468da8232db2369c7924c2214852acf9acc2a",
+      "85cfd33a3c505a89e08a27b632cfd0b23a1da4ec070191f3419127fb0da691e5",
+      "64be1fa8c4908bfe77f28412ef65289acf499e5f3c4e5d60ec3630b87b00d610",
+      "619939fa80b6a98ba997ec84c32db7f5b6a82cbaeeb5f3a08d6fdb268cd662e5",
+      "5a04b07ebedb5498e0d04c2335e40817a69d2618e958635d8b294c0b0c85d71a",
+      "8714c4eb855b917aed3ed20aaceb77c30f543dbd3f0a2b4cb22d87bad418598c",
+      "d9b2bede260a2dc0501cf27f23a6e4085edfd5a1b1380301e682936497f8be3e",
+      "66c5bc4fe67114b139a01812f27eea9313e4bd79206525a4da848e6f7a0c3b49",
+      "994493efcfe01898f9e7d7d79564ba276fef430576e3b087f54224bc3af29534",
+      "53f02f831c8f3b93b66fcdff83932cea7d2f8f9586f2881270180ae91006778b",
+      "18af901a43fdd9af28fdb0375a900be91fd83a5fe1a9973e46b097c52478657f",
+      "1d62cab79264c169da87c0d04c6d817b91ad6a09c23c1737110ef75b6dc91f96",
+      "f6e29a82910197fc9a1373e85eeee150672fe4af97e756238de67c94caf1db95",
+      "95225bd476250a97acaf6dbb901f3974180ea7a971f24e92d74b3f452ad588b1",
+      "d7db2a7a69bfa20184ff15e05074e6971fb8cf473b59ff776e9b60ef8d525aab",
+      "35a10e3a496e9482c32b166704b6620a56111a811aab457e261eea1fecfec940",
+      "d727e7678fd7faf7e9f49451e540d9065a6f13ad802a418e9201da433091f3e5",
+      "1d113356511efa7b4cd9382dc9d495414d54f7f907b17f76e9e331ca88d9e653",
+      "217b2b703c577dc5f91672ea8e963400efe771b45340058cdc5da0e114566bea",
+      "1d582c2b1832d6c732ec39de243bbed7c8494295146432bfa7d16c2093e4a0eb",
+      "febe2163d93ff6720942019637e51da490cd559b96850e7ae257dd3a8030b1bd",
+      "5873c875df38177135d9d385c58673490a26f2a329331c08b36e747747c805fc",
+      "dc3ca3b1888aa0a74d6f54820603b0875e6ba57c3922c35c499a90f79a538c9e",
+      "ad0e4062ef207e02a1735436fb785723cea71a199d587c50504f139fff6e1a11",
+      "65f556c348cc80c851dec658b5189f4846eb3197681f439f963963ef6bb2321f"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "pay4results.ee",
+        "keys": [
+          "c030880746e663bc94455843160a7b630ce81b04769057e80f698df0eaa18a1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "2mdn.net",
+        "keys": [
+          "e7463089b9207c9bc474885d711eedb383a2bf0ad0baa6a325a8b37e1005ed4c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.dumedia.ru",
+        "keys": [
+          "fb4d1bbfebef5386f9e84deb5eb0adea6158b0d84897d92004037b2b845a8711"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.mylook.ee",
+        "keys": [
+          "8feeac5039e681ce22d554730b2f647cadc56d3b27430f82ba88d0e4af1c2cef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adbox.lv",
+        "keys": [
+          "5c87023a10fe94f6049f3622b3d4628aa1901ec6bd2029dcf8db79615db20d33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adbrite.com",
+        "keys": [
+          "0340f0972a2eb7533d2156ca26086bcebebfdc9ebc163e2061e8eba7c53df062"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adbull.com",
+        "keys": [
+          "e7cec2f06c9be9acd0f1078d4d56e53ec2e148f224afe312136317bdcbcb41e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adbureau.net",
+        "keys": [
+          "029e0c447e14cb006883e59121c3492ae92e9f3ebef8758f3f3a735bde2a0ce3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adclick.co.ee",
+        "keys": [
+          "4f444ebf52e90288029b313736f946596a9ab27b77b948a64e1f280aa6161ab3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adengage.com",
+        "keys": [
+          "2034a21ac0708a8955be85c102e1f597c662ed2b04dc63f78c5345baa426e489"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adform.net",
+        "keys": [
+          "c7bbc70bb73ef11a5423defdc05302b016d8fb216e24bca3af6828ba4a617112"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adition.com",
+        "keys": [
+          "eedd094b38f7ec8f7f0188e74905ef5b4674f7287eea7e28686e9ce76f2bf759"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adkontekst.pl",
+        "keys": [
+          "9c812d05ead62823aae06cd636997016affa4645bcbe9e45d6ce3f9ffe9fd3b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adland.ru",
+        "keys": [
+          "5fda837113643be6a9b042890821577b7e49b6cc0c8c086f23b31fdcf7910fa0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adlegend.com",
+        "keys": [
+          "32a0a2f3842f1802ef508bbc16260521bfdfa492a106281aae1de95492c673cb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admeld.com",
+        "keys": [
+          "afa573531d176fce31c07e4d2a65092d56484ef1f52d75f2fbba69b501be39b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admixer.net",
+        "keys": [
+          "feeba36897da0becd4afd0eb351fd4c1df3f36791b74673fc7d26c698ec5d2e8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admulti.com",
+        "keys": [
+          "b3ce925e64f8c59cccf2590b96a4bc1e0c7d495ded3e315513a7e8535953e3d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adnet.ee",
+        "keys": [
+          "9fdad790b275e32dcc4b2d8065ed7c4d96e677e54bbdd71f995653cd4ae0aa09"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adnetmedia.ee",
+        "keys": [
+          "56cfad94f1fd80c360088180e86f6a370e15820ea783ad96ced99c3082b0f1b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adnxs.com",
+        "keys": [
+          "1b1562d4607cec573542fd98dd1bf5c9c025590ceb84a3df3bbee6160f0f376d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adocean.pl",
+        "keys": [
+          "9a765294ef5c1b9540777b6eb0a6479c3550e6e89546b1e67245c8cb194034df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adonspot.com",
+        "keys": [
+          "0c0af02021ea7f0342b027de541e335f8fa6e14260f78658b693c653eb631079"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adonweb.ru",
+        "keys": [
+          "b5e3796da48f6665a6b211209ac79767af298a7aa71580cbf286a778fe02cc6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adreactor.com",
+        "keys": [
+          "a899601bb31270fbb95f984ddeb0648e96325d675382324215cb4f5b7f7e855c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adriver.ru",
+        "keys": [
+          "2306b8e568e41260d972ba77ac2f976d7e591c3b721ab379d2d303fbeac37417"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.ee",
+        "keys": [
+          "1b390d7684ed35068222a45f710e1761a0feec80d13809aa0f24b5b13971f3d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.com",
+        "keys": [
+          "a351d85080b38e0083da3b1277ef17787fe7c739bb9ee7e946024551d562f2e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsfac.eu",
+        "keys": [
+          "5ae804cf74b1027aaab220c8d88f55c286e449b2b9c13b16e4cd0a12a8eafb29"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtaily.pl",
+        "keys": [
+          "df490a708cfda46551cad2b378c26bc5fa7fc5de664d2ed181501a71e06862a3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtarget.me",
+        "keys": [
+          "86b0fc39ebaea14be56398b4db203a7ea91bc60b0e6eb4bdf42b55e9bd17e8fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtech.de",
+        "keys": [
+          "375e0b257855813163a74c91eaa9f8b1abdb7a63cd9912a3b20577828f7db0b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtechus.com",
+        "keys": [
+          "76c32655fb8229e7b5078ed72fc483859410d6a2ecf37f87a7b43afbe4fbe1fa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtegrity.net",
+        "keys": [
+          "045485dfc955b4d8e4eedf7d34d21fc433bc65838bdf203582432b7616f6c811"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adultadvertising.net",
+        "keys": [
+          "606863c2c08c9e042a158b4a595515359840aa550fb958cebc62dbf4db355e2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adultfriendfinder.com",
+        "keys": [
+          "7a28dab9190b4c3ece284237a00d20e6659b82c1d4bbc2b0850cc46c5b25c6f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertising.aol.com",
+        "keys": [
+          "6cb682d4d8b689210a08cf9797681a1db7ac391947baef7f92140ce7a44aaee0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertising.com",
+        "keys": [
+          "8986f462864eadfa4a1ad34657e2aa159f6d10864923e405d110167412cb7688"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertserve.com",
+        "keys": [
+          "0e8321c507acc53e8e726cc56be48be0182b5a0038c328d0071e0e3420088d92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "afilo.pl",
+        "keys": [
+          "2b44f6f2154650d3d007b201a1d7ceb9c8bd00fc0caae35ac9ec9a29a23c20a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "afy11.net",
+        "keys": [
+          "e9db11d52ed2e7fe828154c98ef2b4ca054ce7e84e7fbdb1a6a46fcdc8264b40"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ahcdns.com",
+        "keys": [
+          "1274fd9d1d8e3fe4a4d08e0f7b26ac86bb0cc85c3d8f1c9ca3cd28650e85b8f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aimatch.com",
+        "keys": [
+          "e0cbcfdacbce3029606b41dabc9de5a34384caad549c77c358f8f732d499a80f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "am10.ru",
+        "keys": [
+          "de3494a47a7f809673802dfc7577f2ea800ba28cc0dc3e49d375d12b4ab63fc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "am11.ru",
+        "keys": [
+          "bd89fa474deed75c99c1c4ddcd349913c5169192df2b61e664837e056478ee79"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ap.delfi.ee",
+        "keys": [
+          "eea7ef36b8cccbb1dcb5fa1762ba9df3ca4535a500f445c3c3f4b8f3beba6937"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "apex-ad.com",
+        "keys": [
+          "87e9029d8b463fa0d1e8e87181305541d00c1bf8a6e58fdda245aea5aacdba1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "atdmt.com",
+        "keys": [
+          "310d57e8b696a8bd5699e8b2917c4f1c76aace300b45ce7c19aa0a5db5c4a425"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "axf8.net",
+        "keys": [
+          "f635acdf013ebb1120048789586e951babae329f21efeb7b4cb2d3f6b8dae40f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerboxes.com",
+        "keys": [
+          "8d99ec93aef6634539fbd430ac2a3af5ec7a3dee90f03720ec6ad5e7c194d116"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerhost.ru",
+        "keys": [
+          "cced1741863e7218c315d1d3f6709ae4046ff7bc3211ac368e06d1f313ffdde5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannex.ee",
+        "keys": [
+          "c16e7ea1ef8de5182dc19eeee2b47bb86c7bcfa8a7784121c0d939825a324f36"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bbelements.com",
+        "keys": [
+          "1710801ef2dd8d247bf086535366627c517c2e4f63ee85ae3851c9b698152f60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "begun.ru",
+        "keys": [
+          "9c3e594febc43fe6c9ce36ad1320709cfd7f0ce45ff2e82259dc8476a8f65d6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bepolite.eu",
+        "keys": [
+          "74ae65c4973134d8a5c2fb773d62693b470023859bf28abb5693296758e230c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bidvertiser.com",
+        "keys": [
+          "a10bdf93800b03462286520c7dcb8f0e144306eb4c64994046f69fb1a4c89119"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bizographics.com",
+        "keys": [
+          "1b6020b19fac07f5ed75f6e10d5d130f00dd40e2bfd25d285efaa44feee50c75"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bkrtx.com",
+        "keys": [
+          "7c6fac6962df24f24ff5072326665ef421e6329df6c1338bd88e439a8ee9a06b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "blogads.com",
+        "keys": [
+          "1b5f49fe0413c20cdd5a5dd1383ed2b3c54ca4ec3abcb6e28fb56358fcff4416"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bluekai.com",
+        "keys": [
+          "9d2c770d637ebdf8fdaf76ff408f5cf15dbccd2094337e1060affb45c261a2c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bluelithium.com",
+        "keys": [
+          "6889239087b157e808613ea6cbead066641bcb055fdb73a31b7a91b4e8986c4e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "brazzers.com",
+        "keys": [
+          "cf3764b89c08033e2acef896e50c57407e98ab8fb2ee0ae35b209edc8b9bc0ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "budsinc.com",
+        "keys": [
+          "9e9cd85a23a10ffdf96ed7b54f5e6210ff62d91a08b4b58831be98055581053d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "casalemedia.com",
+        "keys": [
+          "19255758b5abf174187f82af886b40318da327752a67440d1bfea092633dc5ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chartbeat.com",
+        "keys": [
+          "3880ed8f8c60de6aae86718adab713892e298ef204a24c2cdd248e90a1b8017a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chartbeat.net",
+        "keys": [
+          "79365a990ae80e3dd23255cb637e7b6484a94753d37a86ce4cd61e0f11ab1677"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cherry.ee",
+        "keys": [
+          "31bdb2faa7d522d4b94d63dc6d534c8f4fa3f7a0b0b75e6e2abc6dba1e70c125"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chitika.net",
+        "keys": [
+          "678dc2b99580cc15c0c5d0d8aeb3cfa533e27be1a7c04b6455e41077ca60c643"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "collective-media.com",
+        "keys": [
+          "c285dd7e3e93d74be3edfa380cd35f4511b059496c32b2f12ce87bd1a597683b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "connextra.com",
+        "keys": [
+          "20bc06ac6b21e8c182625b90c7a1181b24d850912942201955e7d9bc56c4e7ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "contextweb.com",
+        "keys": [
+          "59b10b9cc45445f7d0013f32c3c397d98bd8882b341a69db5399f9c1ebf1bd07"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cpxinteractive.com",
+        "keys": [
+          "f5d9c24f45587e831680bfca45acebe75f72acde95090e66f5ddb6005d91fbfc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crowdscience.com",
+        "keys": [
+          "46d7439a72af19cd534a3eb58090a9d27d961a7665e7f1f2da584dbe776d016f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crwdcntrl.net",
+        "keys": [
+          "908a2294a65a1012ead499975709ac2e23ccf38d0b633707439a3e6af7217d7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cxense.com",
+        "keys": [
+          "98bdc859e7f2c0041a693b78fce0aa5de6e0ab7992ca33195f4983832993d1ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dclick.ru",
+        "keys": [
+          "c174fb56940999ff0dab9126619c1f8b98f60f3f6f0de757de7581849a7b14b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "domdex.com",
+        "keys": [
+          "b610d0a8a69f63bff9ed691e852ca37c0ea9cd6dfca4cece1d32d070f5d21635"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.be",
+        "keys": [
+          "d4a54ea0028d0e461aa25188f0b1988ec17115468ddea9510d48d20bfd2823b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.com",
+        "keys": [
+          "6f9b2379b3ce8c8fcf67fce4e876e34f1fa6ec0e4c8a43753f5279898d3c5786"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.de",
+        "keys": [
+          "7f0a2ab4c3d6d7c0145ff5e1efd7440e22755e89dff5b2d524fa736fd717ff51"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.net",
+        "keys": [
+          "d3da78dbcf15a2731d2d90b45927533dbcc00f3c48342bbb175656e4ab062906"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doublepimp.com",
+        "keys": [
+          "4b972dc1e012a14666381b0559b12ac96c20d90d28e29ad0c11a39bec35c62b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dowjoneson.com",
+        "keys": [
+          "fa8123be65995abbfa46b68142bbe2607bd31ac54797a1d75d091c903092b5ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dt00.net",
+        "keys": [
+          "75feeeb7d14bc532be75c8e50079fdabb27ad625e6c51ecca24d811417e96ab6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eloqua.com",
+        "keys": [
+          "1f3fadacb001282f0aac4c44a2fff4728c96a2210f96548d2bb434d8dcd6b1a8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "estara.com",
+        "keys": [
+          "efd653547b7b5b081d5e8c2f7ff31326caf95842b591e3381cb007f6e0950e6d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "etology.com",
+        "keys": [
+          "273f24d586f0686205f4917cccd6181444685d070030fc23ae601b1de763843b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "extreme-dm.com",
+        "keys": [
+          "91c3ccdb7c9f2a054b9136216f67231a379e273ff40f0a18089be67a30a7d9d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastclick.net",
+        "keys": [
+          "d53a878f171805bfa8d05e61ad8937b38bad79b3e200ebdba16c2ae5e7b2dd1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastonlineusers.com",
+        "keys": [
+          "ced166d07e3d97b8f28dadb58f29b4c9996731bae244f0025c6a95c16f10cce5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fortumo.ee",
+        "keys": [
+          "2ca2019d24ec7bb57ad94a4f6d67224a0ad4f19bad866ac46382ddc3aa3cf2dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "freeze.com",
+        "keys": [
+          "b46906d3d9ec989a1360deff19f3e627f33deaf5432cbf95e46d2f73a61e65b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gemius.pl",
+        "keys": [
+          "fb1e41fd50daef663a9a93132b274d82bc72c8a3849f62a9f090c8a2e7b8f013"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getclicky.com",
+        "keys": [
+          "690df8295dfeb55b195879144ad42d2be24e527cc66fe6647f177c2b12993083"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "googleadservices.com",
+        "keys": [
+          "ec0c769895c6b680906aefe28bca3cf6312aaa8da2afc2981360d2baba805193"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "googlesyndication.com",
+        "keys": [
+          "04a92e0acc25293bd8d0cffb6ac1bce01b32dd6a51fd8c547f01d62a1495fbd3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "harrenmedianetwork.com",
+        "keys": [
+          "b37e074a855fd5d68be120175962034695f90978425d6a40bf6193f50fe91619"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hbmediapro.com",
+        "keys": [
+          "93bc983efc356c36d40a2d468f1fb23d22b922faf27329c55033dc124a597d40"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hitbox.com",
+        "keys": [
+          "cf5b5e3a5dd88e8e7ba384af79d1dc10faf2a9892c2e7b42ede82e51ef2356a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hitfarm.com",
+        "keys": [
+          "886f7d54c061b12189f3fe92efd5d276eb529fde8502afe937f2bf497d6d65ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "imlive.com",
+        "keys": [
+          "291347bc045d90191975c13cfd1228be2c15960e43f6be322034a7e5aab4cad8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "impartner.lt",
+        "keys": [
+          "b67cffac763947b92b2c1366721119ac80bdff16231c22d7341b630e7155b153"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "invitemedia.com",
+        "keys": [
+          "ac32dafa08007d6f0f704ae7008e7acf7ea43d6e5de9a416c5557ae88e81b876"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ixnp.com",
+        "keys": [
+          "9aab848e9f0f3c2d7552670375fb970c372bbf03a91d31a1c272239c7d5e5f7a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klikivabrik.ee",
+        "keys": [
+          "53d80153fc2fbe9190c3898ffd54a1894723a290894dc87bf69d763cf3bab06b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klikki.com",
+        "keys": [
+          "335a8f09565d508b6d23859b7a641dc4d7062b329137b3a7d25fb126b913fcb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kqzyfj.com",
+        "keys": [
+          "77afead9ad790cb74a03152cfe6f442e14b6af71d74012490dde9852fade23ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lekane.net",
+        "keys": [
+          "875bc14ee86bb55a34ace3bc0f983d7612e8a5908621dbbe0a8c3cdd61667e51"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "luxup.ru",
+        "keys": [
+          "aa7f09b9921cf8a1eb96fe9677dba712af5c51d422fc9a1bc174730f403f1cd5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magnetic.is",
+        "keys": [
+          "35ee4add2c48e8c563d860005c82630f2e07c8cd162bb74e8f70861fa3478404"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "marketgid.com",
+        "keys": [
+          "d2bce09d5a9ab97ba649a6a04def3af2faf1bfc792e914123a11eff79a494ed3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "maxtraffic.com",
+        "keys": [
+          "4c0765a01b3bca552bc73ab451d92d34fa9ed683c5cb3c4685cb7a3e6a0a24fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "maxtraffic.eu",
+        "keys": [
+          "2073bc5465d64516e723212850ef6d7c1331de1da203c2505a4faacbc7acd2b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediaindex.ee",
+        "keys": [
+          "8b4e290ae273ffdd3532f137637f8d51def39a64f0c6cacdcb986a9c9957947e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediaplex.com",
+        "keys": [
+          "7c71b673342fcb53274b2b6e5656ffe63a28e247d1f24736376f3f5c49b70c4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "metaffiliation.com",
+        "keys": [
+          "067bb23e660fe83669ed451995a06b613e195ea2b90729533f3e6c3a00a07262"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "msads.net",
+        "keys": [
+          "5978db8e64aab6bf79ce35cbe859063cf44c107b38d6b00e30dbfe3bcc3512f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "neoffic.com",
+        "keys": [
+          "13a7afdf0fd654ed125d2beebb7268090bdef437bbb90e70eb9768aaa7055c1c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netaffiliation.com",
+        "keys": [
+          "060823b08f90dae4c4d0c3b08bcaf3a0c3246ac9cec6c5abd2e66583ba306134"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netsales.pl",
+        "keys": [
+          "be0f32d29e96ecdc88282ebdee2665ceb0f6c05e7cf5206f345a81e525f195ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "newrelic.com",
+        "keys": [
+          "9035facf03c7566b9af6c1235a5ebb78105b3c162dcdb214521e7d700f45cdae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "novem.pl",
+        "keys": [
+          "0cb418794fd89f7f9494380e178946a8069e7ac10dfd941d4f15b8c521df2b43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "olark.com",
+        "keys": [
+          "fb13d6bca7e2f800be3c0d2ac62b10e5db53a979a710ed31752cb47829bd4845"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onthe.io",
+        "keys": [
+          "7fc1089a9d0cacedd66347e0dcc7678152cd828d697cbef7a073347d54f9d524"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "openx.org",
+        "keys": [
+          "372fb32bc3fb4a0af50c3cb0151002dd419bfcab179fd8c055d4e9c898d5590c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "overture.com",
+        "keys": [
+          "6f85c93e913633aca5083411bd909a900b66d387740ef66d0cc237880d7ac3a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "oxado.com",
+        "keys": [
+          "90855749544e898b7d240ec927cd6ae9a9efe5dea9a45a72c044d6345c2f4d6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pakkumised.ee",
+        "keys": [
+          "7d618e8144a0a53dec6f0f296a6e6988474fa960c60a745b6e3c90d695b4d9d9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pardot.com",
+        "keys": [
+          "467acb0f8a799b978ee77d900afe3d6feb4a5d149a4eccc6b211fd44f3c10390"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "passion.com",
+        "keys": [
+          "915d078222411a9d2b323d0833cbae36d0e2f55733a8858ca266bc74f29ce487"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pcads.ru",
+        "keys": [
+          "e6033cc35bde04657f539200176d45459e88dbbed64286f1f0c87630ce8e903f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pheedo.com",
+        "keys": [
+          "3ab9eb6dfcbc489c53dadb3fd4e758caed918c8b3247d0968bb886f6ebf72e86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pop6.com",
+        "keys": [
+          "d1f1414518e40f25349aa38862fb3704eb4c8be7f2bde9783bbcd40edca09f10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pro-9.com",
+        "keys": [
+          "fd7d08d594f23707d5f327ceda1c29c4be038f3fe6f2a8f74b7dd1036b097aa3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pro-market.net",
+        "keys": [
+          "8454532fd096e16c1a8e619e0f268eb883dd429d08ed00ad0363cd8af1d95615"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "realmedia.com",
+        "keys": [
+          "8d5b758a4f5ed91e996831847c91775bee4d7b9c6f0880d74b3e4852518e4880"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reklaam.keskus.ee",
+        "keys": [
+          "aed420449971bdf5b0c1945ea62aea7902cd857818792b8ae9363a0dd4ec8c76"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reklaam.nagi.ee",
+        "keys": [
+          "12a794c8411a448811bd48ea8340c48b13f8ead431a988b146e58f4365409d6d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "relevant.fi",
+        "keys": [
+          "2a41e07ed445bdee1909a42f10a5fc9c40f48e0840457b2665dd7f58d14d2bea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rmxads.com",
+        "keys": [
+          "db203a1aa7655c6da0f9e01e982273ca48f849bfa9e5f278c211996e11fe6ed0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "roiservice.com",
+        "keys": [
+          "92b042d6fc1c82f358f27a4eb78bc3044c8f9119c663c791559988c1055910bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "scorecardresearch.com",
+        "keys": [
+          "c7b01a8f0966b389210a8f486ed2f7e4712053be416293003790307da95ca182"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "searchco.com",
+        "keys": [
+          "ad23467387369e831025fc2bd4694921f4302037e8d778b2288aa2df761cc1c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serving-sys.com",
+        "keys": [
+          "43c1ce5af09c98d0390edf3cdec2c520f50be32e7382990303c5ed175c6c2c63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sexinyourcity.com",
+        "keys": [
+          "73369e7f441edca5986e6ed20c08dd563eb9cbc10931329158939f97d8be5488"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartad.ee",
+        "keys": [
+          "d334f4ad78df7ffcaea8910e7e1f2c1bfe76e53d286d856a6c87c4dba3cd5a9b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartadserver.com",
+        "keys": [
+          "9a7dba00f94a34c94cbe34067f09fa63ae4d5c7869fa1c92731fdb14bd48bf7c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sn00.net",
+        "keys": [
+          "1459fa48fc73edb6bd515a2541b2329468d4f18796d22fecb164b25123f7daf8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "specificclick.net",
+        "keys": [
+          "86ec2dc2695ce7f1a5cfd93ebabb5ef773dd46312bcd163c6fd6ac2161d6de60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spring-tns.net",
+        "keys": [
+          "68ddae22fa0762ad31caf878635efd5c36c6e9540b0900e9b3968962d6968887"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spylog.com",
+        "keys": [
+          "fac4d20b2c1e4767dac1fee4b15dc25e3a54e47bd7d6c8d3ce9ebd4861c6fdf1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spylog.ru",
+        "keys": [
+          "b92e8d1d7c43207fb57549485e6542c100167bde9596bef90f198dde8ff754bb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "starwave.com",
+        "keys": [
+          "df1cfdaf9608f9acd92380646e623107a53d494b178e9e1d25fc5bc4e8dc45a8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.chilli.ee",
+        "keys": [
+          "37ca66147c308a371ffee9f931c82a9008df1e04e7e9afb1110ff5f7809fb1f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statistik-gallup.net",
+        "keys": [
+          "af7b6620033d2aecbfd90aa89021094cdc598a9446777a198688b063bdebe03a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "streamray.com",
+        "keys": [
+          "a9b6f776313c16c7319c120626fe8e1d74395d0e8ff92126f22febfea786a6bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sweetmedia.org",
+        "keys": [
+          "cc8a2614fe541abc851e6fccc5fdacac0c20dfa6e33475a6976807e47f1e65cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tacoda.net",
+        "keys": [
+          "770cad8846463d2b79f5db32f88b10151b1bb156a12dc926d08603c1b932cafe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "teasernet.com",
+        "keys": [
+          "161c1ded3b72f2e33923e14e7d279785b8d026b7be4502a24eb4dad5d8c5069b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "textads.ee",
+        "keys": [
+          "f2b31544ba729807b7177ca291d373cad555f434274465ee8c932c7526f40297"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tns-counter.ru",
+        "keys": [
+          "a0ae16e17905a346784a49061c6468da8232db2369c7924c2214852acf9acc2a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "traceworks.com",
+        "keys": [
+          "85cfd33a3c505a89e08a27b632cfd0b23a1da4ec070191f3419127fb0da691e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackalyzer.com",
+        "keys": [
+          "64be1fa8c4908bfe77f28412ef65289acf499e5f3c4e5d60ec3630b87b00d610"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tradedoubler.com",
+        "keys": [
+          "619939fa80b6a98ba997ec84c32db7f5b6a82cbaeeb5f3a08d6fdb268cd662e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafficjunky.net",
+        "keys": [
+          "5a04b07ebedb5498e0d04c2335e40817a69d2618e958635d8b294c0b0c85d71a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tribalfusion.com",
+        "keys": [
+          "8714c4eb855b917aed3ed20aaceb77c30f543dbd3f0a2b4cb22d87bad418598c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trigger.ee",
+        "keys": [
+          "d9b2bede260a2dc0501cf27f23a6e4085edfd5a1b1380301e682936497f8be3e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "uimserv.net",
+        "keys": [
+          "66c5bc4fe67114b139a01812f27eea9313e4bd79206525a4da848e6f7a0c3b49"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "underclick.ru",
+        "keys": [
+          "994493efcfe01898f9e7d7d79564ba276fef430576e3b087f54224bc3af29534"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ventivmedia.com",
+        "keys": [
+          "53f02f831c8f3b93b66fcdff83932cea7d2f8f9586f2881270180ae91006778b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "viglink.com",
+        "keys": [
+          "18af901a43fdd9af28fdb0375a900be91fd83a5fe1a9973e46b097c52478657f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "way2traffic.com",
+        "keys": [
+          "1d62cab79264c169da87c0d04c6d817b91ad6a09c23c1737110ef75b6dc91f96"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webtrendslive.com",
+        "keys": [
+          "f6e29a82910197fc9a1373e85eeee150672fe4af97e756238de67c94caf1db95"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wsod.com",
+        "keys": [
+          "95225bd476250a97acaf6dbb901f3974180ea7a971f24e92d74b3f452ad588b1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xgraph.net",
+        "keys": [
+          "d7db2a7a69bfa20184ff15e05074e6971fb8cf473b59ff776e9b60ef8d525aab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xiti.com",
+        "keys": [
+          "35a10e3a496e9482c32b166704b6620a56111a811aab457e261eea1fecfec940"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xtendmedia.com",
+        "keys": [
+          "d727e7678fd7faf7e9f49451e540d9065a6f13ad802a418e9201da433091f3e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yadro.ru",
+        "keys": [
+          "1d113356511efa7b4cd9382dc9d495414d54f7f907b17f76e9e331ca88d9e653"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yceml.net",
+        "keys": [
+          "217b2b703c577dc5f91672ea8e963400efe771b45340058cdc5da0e114566bea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yieldmanager.com",
+        "keys": [
+          "1d582c2b1832d6c732ec39de243bbed7c8494295146432bfa7d16c2093e4a0eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ytsa.net",
+        "keys": [
+          "febe2163d93ff6720942019637e51da490cd559b96850e7ae257dd3a8030b1bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zangocash.com",
+        "keys": [
+          "5873c875df38177135d9d385c58673490a26f2a329331c08b36e747747c805fc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zanox-affiliate.de",
+        "keys": [
+          "dc3ca3b1888aa0a74d6f54820603b0875e6ba57c3922c35c499a90f79a538c9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zedo.com",
+        "keys": [
+          "ad0e4062ef207e02a1735436fb785723cea71a199d587c50504f139fff6e1a11"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ztod.com",
+        "keys": [
+          "65f556c348cc80c851dec658b5189f4846eb3197681f439f963963ef6bb2321f"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cherrystatic.net"
+      ],
+      "excludedInitiatorDomains": [
+        "cherry.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "29acfbfe26a30940dbc3eae5f4a02bcd788f1b820a163d17e647a155a7b8eb4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "city24.ee"
+      ],
+      "excludedInitiatorDomains": [
+        "city24.postimees.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "bc85c7fe81d00ac8dbd997079f64c4d2485aafc2d19174028a693f55c77627fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fwmrm.net"
+      ],
+      "excludedInitiatorDomains": [
+        "tv3.ee",
+        "tv3play.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4308da27449f621ace290375a3dd9006db4e856612a1596de1ce95ff716a5cb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ui-portal.de"
+      ],
+      "excludedInitiatorDomains": [
+        "gmx.com",
+        "mail.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a6e9fe88cca8f8a5d03344df1f300b7107ceefc5e602e482a37c3da6d89c6df5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "ado.delfi.ee/files/js/ado.js"
+    },
+    "_sourceKeys": [
+      "f61728c01c9ca2d8e1085d8fec614c58e0dda25775cd8c98ea61aa22f040d7d9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "http://ads.postimees.ee/ads/list/*telecast"
+    },
+    "_sourceKeys": [
+      "9396c9811ed82fca09c3d158242b5ad50948b320526da11ef482caaccd11fddf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "http://ads.postimees.ee/crossdomain.xml"
+    },
+    "_sourceKeys": [
+      "f6bb37d5c0f810c0e10738f0b0fd827e813e36c0c9d9b1449f863f796aef7160"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||autonet.ee/showads.js"
+    },
+    "_sourceKeys": [
+      "987c0e82a66dff51be43ba846ed14eb31c777f0e2da19d10497d067125f89b90"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.ee*/js/ads."
+    },
+    "_sourceKeys": [
+      "0bf11bfd7f035fb2043c1ded03c1a748eb745b8e04dfa09c2c72eb3914c3ea28"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 59
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fwmrm.net"
+      ],
+      "initiatorDomains": [
+        "tv3play.tv3.ee"
+      ]
+    },
+    "_sourceKeys": [
+      "aed2c5749d815b495b2ab4dc88d1e8f012eb1704f54356961bb86c3a98e5d421"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinnistuportaal.rik.ee/kaep/media/img/logos/exchange_banner_idkaart.gif"
+    },
+    "_sourceKeys": [
+      "6a3fa56dcfe20633032c85a94fdf6f00c9fd7bee16a89ede4a6c0415eba717b6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 61
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "newrelic.com"
+      ],
+      "initiatorDomains": [
+        "tv3play.tv3.ee"
+      ]
+    },
+    "_sourceKeys": [
+      "26bec8f57801eaba4e7c324e9bf13ecb8a4797b8ca6cf9307931e0acc0628a25"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3play.tv3.ee/ad/banner/"
+    },
+    "_sourceKeys": [
+      "79a9f2fb5d593e0d4ab7aa2f9637103104ab6bce0ce1d0802e06e111fc001915"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 63
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ui-portal.de"
+      ],
+      "initiatorDomains": [
+        "gmx.net",
+        "web.de"
+      ]
+    },
+    "_sourceKeys": [
+      "4f9a557fc4f6f13fd78897e4af692a8944366b3d9965d7b976f92520091bbba5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 64
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "auth-delfi-ee.tinypass.com"
+      ]
+    },
+    "_sourceKeys": [
+      "f3dd746f9a99fcd22bcbd9c7011ec59b59a296a158414abad293a4650fcf7858"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "auth-delfi-ee.tinypass.com",
+        "keys": [
+          "f3dd746f9a99fcd22bcbd9c7011ec59b59a296a158414abad293a4650fcf7858"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.ee/static/scripts/trackdb/events.gif",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a13d037fc7a77f5935824fc95b984688e9319b372a6c07f82a7d83770cf2b551"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||adform.net/banners/scripts/adx.js",
+      "initiatorDomains": [
+        "delfi.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "abee4689813b1fdace102d522afd0fbbb11c72bb9eb17f9b630eb9e66e827b6e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "imasdk.googleapis.com"
+      ],
+      "initiatorDomains": [
+        "duoplay.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f48b7e9d32b1a11837a05a4aba5fbb9838c2a65fa462a346b362c53ab2786bd0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||mssl.fwmrm.net/libs/adm/",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a33fe166808661ceaf6e59a8c921b40ccf92bc01b0fc0c40cfc19870c1ed4464"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.ee/static/scripts/ima3.js",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e92535b67954f8a41d3400133dbdeafe4fdc8fbeb68b107b35afc377ccffa15b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.go3.tv/file/go3/resources/scripts/tv3play/onetrust/lv/onetrust.html",
+      "initiatorDomains": [
+        "play.tv3.ee"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "472e88f57f400edb2af413f75b6ae457881e8c89f820269905090e7c5a623e2f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "emediate.se"
+      ],
+      "initiatorDomains": [
+        "postimees.ee",
+        "tartupostimees.ee"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d6c02b672b9cd3bb2db778a5aa8068384f348e3558bdb10b8564c68a524ff426"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 72
+  },
+  {
+    "__modifierAction": 1,
+    "__modifierType": "removeparam",
+    "__modifierValue": "trackingCode",
+    "condition": {
+      "urlFilter": "^trackingCode=",
+      "requestDomains": [
+        "itella.ee"
+      ],
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "816662551595ab5d80eb2ad749407404df0099e6433af3710ba39c2fdf1b83da"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "id": 73
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "removeparam",
+    "__modifierValue": "dsrc",
+    "condition": {
+      "urlFilter": "^dsrc=",
+      "requestDomains": [
+        "delfi.ee"
+      ],
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5d64250b82b0e3b32035581527535bff4e231b2f51bf714e9db6c16bf46d7f08"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": [
+              "dsrc"
+            ]
+          }
+        }
+      }
+    },
+    "id": 74
+  }
+]

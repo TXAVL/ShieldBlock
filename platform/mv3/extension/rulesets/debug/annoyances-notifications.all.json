@@ -1,0 +1,5833 @@
+[
+  {
+    "condition": {
+      "urlFilter": "-push-notification.",
+      "excludedInitiatorDomains": [
+        "github.com"
+      ]
+    },
+    "_sourceKeys": [
+      "f89d045634bcef2198dbc1dcc0e458d6354c476e2e80fd2c0fdfae353a3e8262"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "-push-notification/",
+      "excludedInitiatorDomains": [
+        "github.com"
+      ]
+    },
+    "_sourceKeys": [
+      "50101bb31ce498f4167a4b986bf7a574b67fd60fd56148fee3431bfe2917ab7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/accusmartwebpush-fire-push-public.js"
+    },
+    "_sourceKeys": [
+      "423fa31dc7ffba7b00a9a9cceea1e9525b3124392fc8c78f8b5b3aa87c4f1f03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/al-fb-notification/assets/scripts/al-main-script.js"
+    },
+    "_sourceKeys": [
+      "4c8ab05a589f138ca0e05f44dd632a58cdbf5c1bd07d1e4ecffb24b1f6cc8d6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/amp-user-notification-"
+    },
+    "_sourceKeys": [
+      "97c58fb2c66f1995476fc38e5487f778ebf0e5fa49a234789105b93ac4ff45ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "/amp-web-push-0.1.js"
+    },
+    "_sourceKeys": [
+      "9cdf1c7d3db983679525fc6bcc52e40436265f91fc79fbaab49119679a806303"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "/assets/www/notification."
+    },
+    "_sourceKeys": [
+      "787de352d35aa388c5a0af5f4ba5297aca33f73c1dfdae90dd3f762b1fa3526f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "/bildirimtr-sw.js"
+    },
+    "_sourceKeys": [
+      "e77538ed5ed7b985f6d649c4113a51ae58ac99d7000ef4fccfc6fa3037ace714"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/build/push.js"
+    },
+    "_sourceKeys": [
+      "0751741762ca43871574f1343bb14e0c6817fb8206768cd9985761a902ae793f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "/checkpush.js"
+    },
+    "_sourceKeys": [
+      "b65add35c9a33c4a006633663bfb4a217bf17155c08f84fd8edfb26a9232d015"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "/content/js/push.js"
+    },
+    "_sourceKeys": [
+      "a92b66217456340682b3665a9f60a5657501abe4d6c8e9049f57cc175f232835"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "/fcm-notifications.js"
+    },
+    "_sourceKeys": [
+      "2167ba0cc9d988eeeab27deb8e838e44516d93b9df82e6d6a9f562700a4fcc00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "/fcmpush.js"
+    },
+    "_sourceKeys": [
+      "902ca6501a7627cdcebf5ebac3c3f6af6c99efcdd30bde9eaa44afe04b793e8f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "/feedifysw.js"
+    },
+    "_sourceKeys": [
+      "e827b6ca6a2333fed8bd3e3f00ff50829c0aa72a7e781839f11c1275a26cbeb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "/flying_push.js"
+    },
+    "_sourceKeys": [
+      "2bca3176961a93ea829cbcbb0fa1300858f9507e5757c9d688f4f70f590455b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "/gr-push-notifications/assets/js/push-front.js"
+    },
+    "_sourceKeys": [
+      "70b3ef459f5441fb68a592d303ac7238f7a2b376f970684976b0350b3e2ede0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "/ilabspush.min.js"
+    },
+    "_sourceKeys": [
+      "229b8d0a04ff55ea98359bcf8ae26fb6af6175349ce2ddd05027acb25b9ea696"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "/inpl.webpush.js"
+    },
+    "_sourceKeys": [
+      "adceb182e2e91f582c7e578763f3cd86d0855c0d3d88257e06e694f57eae5b3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery-notification.js"
+    },
+    "_sourceKeys": [
+      "65642182f2084458760864d2c894e0f7c170bc4073ea4d1a9daf0ae5135854c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "/jsb/pushnotifications?"
+    },
+    "_sourceKeys": [
+      "e8153926573ec8524794b80b635d19a9c1d2d983828ace16f1a9eeaa234736ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "/larapush-popup-"
+    },
+    "_sourceKeys": [
+      "953c206575b06fbcedcdf393c92aebae3a013f68a7136825ea640b089c9d6a79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "/list_notificaciones.php"
+    },
+    "_sourceKeys": [
+      "5da7f539bccbff1d0d32ed2660ada0df862ca5e91486a4a502235651439b8a7a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "/maximizly-push.js"
+    },
+    "_sourceKeys": [
+      "8d708130ffea74c0e810160f6d0d591a04c7663b091627934ce03f912b374d0d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "/mp-web-notification.js"
+    },
+    "_sourceKeys": [
+      "20d619869c17e0e5b8b61624be5c09035c76135739ee5b0f5b88bb87f23960a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "/notifee/notifee.js"
+    },
+    "_sourceKeys": [
+      "5f64c8e16fca94f78d6127a416d565603953908dc118839cda29a4633f60abfd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "/notification-prod-sw.js"
+    },
+    "_sourceKeys": [
+      "c4cbe68c616075043d755e0ae358e145089fc2f25f8c52a04e8efc2b8fb56783"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "/notification-sw.js"
+    },
+    "_sourceKeys": [
+      "c8651cad541dc1b4130f234e308bc6f06bb735789edb4c997d02cf03533fb7cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "/notification/notify.js"
+    },
+    "_sourceKeys": [
+      "2e3caa4430ea80335e1fa0eeb1bb5c0bacb0a3c083655f90f850a58485c5671e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "/notifyme.js"
+    },
+    "_sourceKeys": [
+      "530b03efecff608e7be7953f8c103beab722c63501b328fdbc55f7871134b597"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/notifyme.min.js"
+    },
+    "_sourceKeys": [
+      "3028a3dae433cad96650e1009f8022de5adf6045ebca03bf33f2522647495ae4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "/one-signal.js"
+    },
+    "_sourceKeys": [
+      "90cb39110c0b438c690c035da388f79038f2755212d81a475eaef6c274690ae9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "/one-signal.min.js"
+    },
+    "_sourceKeys": [
+      "793bd30e4d87e752c210163bf6e4ee1afa728c782ba0944248ecc9202ec8cc83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignal.js"
+    },
+    "_sourceKeys": [
+      "f376534865d7021aec61e799e89fc8f92af08a8a0c3538e3ade123e8caeb6639"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignal.min."
+    },
+    "_sourceKeys": [
+      "81fafd5751adf61c92d57976ec25a4d282b28e7c41139757f1222d759dc31b61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignal/manifest."
+    },
+    "_sourceKeys": [
+      "1627d524273e31cfe3c2f97bc64aae05d89e36d6d97194483d60494a038601de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignalfix.js"
+    },
+    "_sourceKeys": [
+      "a69fdd57c0e00e287b7f9edc3eb505c65e95cb82d35f8683b6e3fb0d86e1feab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignalsdk.page.js"
+    },
+    "_sourceKeys": [
+      "a67e84e758f41e8eb2c85537165c29c7ab3179aaf3c1e7ef3753ae6844bf3473"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignalsdkupdaterworker.js"
+    },
+    "_sourceKeys": [
+      "98e2bc57e3f3c142ec3f72882fcf975d1cb4737fd1fa752a67b91e96b0cf7b0a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "/onesignalsdkworker.js"
+    },
+    "_sourceKeys": [
+      "0130c79d648d2b20088c1db74e6a0290a7cbd9f09bd23575fc7ebf0b4a5229a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "/partytown-sw.js"
+    },
+    "_sourceKeys": [
+      "e742b703f00c3af3bd394fdd3104ceeb01ed630b9f5f269c4ea29043a8ad64a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "/perfecty-push-sdk.min.js"
+    },
+    "_sourceKeys": [
+      "bfeac6fd80d7eb76e809863df35910cf04809e3660d7821eb276b1b0c61ec048"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/tfnotifier-wp/swloader.php"
+    },
+    "_sourceKeys": [
+      "e6e2e1d84292a9757eff7d45817e3623f82eecf083150ea9500e62d084e073c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notification.js"
+    },
+    "_sourceKeys": [
+      "821bf2bc95a23baf32f6210050d7b212d910dbfac6c5153dc2fb2380029a42eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notification.min.js"
+    },
+    "_sourceKeys": [
+      "f077d3898876b82dadae1c829676fe8259c74a3166fe6e566e8dd723b6275586"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notification/",
+      "excludedInitiatorDomains": [
+        "upwork.com"
+      ]
+    },
+    "_sourceKeys": [
+      "9bbe652b659899a986c2a2ee7353889bb01fe3ae890621d49b232401aa4cff70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notifications.",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "1ab1f01b6d53c65e59e4a8c492a8142c929407e8b5dc00c085a0e23f4b1efd32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notifications/"
+    },
+    "_sourceKeys": [
+      "636a10988e65c32e5a0cf0ec35a116a9dce4c0869fb6f482b3a840e7fdac0be4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-notifications?"
+    },
+    "_sourceKeys": [
+      "c02d2828c58d992bc475f8e0f444690fd01070c27e841344a49d6c068421c28d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-sw.js"
+    },
+    "_sourceKeys": [
+      "22a0a68c540aa2a2cb6391483016e8d163954b7e12f3a9663663454c3ca0fb3c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-wrap.js"
+    },
+    "_sourceKeys": [
+      "93d200508ba3f4ba9026534ef5a571dbc88c5d5726549764f1114daf87a598b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "/push/sbscr.js"
+    },
+    "_sourceKeys": [
+      "4c3261261346328444e146453be47ccc3d47292f7ef6e90a3274cb8e63608ad6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "/push/sbscrp.js"
+    },
+    "_sourceKeys": [
+      "6057894181b0e90970dbea0710b03c02cf80722838fdee340113d932199c21f2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "/push/subscribe.js"
+    },
+    "_sourceKeys": [
+      "9947ccbdd1ec35c0e843bcd4765348092b8bf7af052b667ab73420b86acceefc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_app.js"
+    },
+    "_sourceKeys": [
+      "b343e39294568957ac521e313dcb70acde8b5f99de15169ce5679c0d647eb5ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_notification.js"
+    },
+    "_sourceKeys": [
+      "d796ff2ee2f3333a02cb5724ace98a382037b184a32fc1cd12dee87e95638841"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_notification.min.js"
+    },
+    "_sourceKeys": [
+      "b970fd88d8713852db48293e1dff066d3f2fb039bc14078f12f3c6427d386cbc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_notification/"
+    },
+    "_sourceKeys": [
+      "9ff2696bba84be98b86274b1122c9455380e359029539309dda7b9b1df658e5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_notifications.js"
+    },
+    "_sourceKeys": [
+      "dc65785fd271e96912420b149ef11ed94111fbe48eb4f0905512e0ca4b22be91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "/push_subscription.js"
+    },
+    "_sourceKeys": [
+      "525835321295798ef6c62bfe7401867d042f9053f85472ad0542bf936398de1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushengine.js"
+    },
+    "_sourceKeys": [
+      "f4272719d63b49f32469335febe90b24b04363b5b621df0d86f1c98e92c9c5d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushes/firebase.js"
+    },
+    "_sourceKeys": [
+      "493b2feb5169834fa6b3c1a0e14802571c0adb60b30067fd8079a0c89b6a4605"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushes/notification.js"
+    },
+    "_sourceKeys": [
+      "5e855be54576909a6750b37016164c5d2a5e9e3dcde8c465b672e9f9b00a9c35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushexsdk.js"
+    },
+    "_sourceKeys": [
+      "2d05c6f60748cf82f79c121b7d7729696182f2ec97e4fb9ee18b27ae8ad76d5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushly-sdk.min.js"
+    },
+    "_sourceKeys": [
+      "1d3fce669347b23e1362c94eb4147b924b47e8f1a62708dd2926f99f3b0b8580"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushnotification.js"
+    },
+    "_sourceKeys": [
+      "336da59e3fd4200cd59e64ecbea77683ab58816e40ab0c638b6939837cad00b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushnotifications.js"
+    },
+    "_sourceKeys": [
+      "ba0f431a94c0ffb93110399c3d79d3c256cfc7ef433f3061aee75937869459a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushnotifications/"
+    },
+    "_sourceKeys": [
+      "5bf6abf50830a47ebbb08137f06dd5605fe6845835862e407862052d2970b431"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushnotificationsdkjs.js"
+    },
+    "_sourceKeys": [
+      "29ff2b31953e953ec64a6ad7453619c497bafe3a0e0065b142926a402bbe4f4a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushpro-lib.js"
+    },
+    "_sourceKeys": [
+      "19a32567815a8808ba436ec69e9f42b9ef34618831f8bd5ff1d2efa1491ccb99"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushsubscribe.js"
+    },
+    "_sourceKeys": [
+      "be199a1022266b1c8aa2b340f5d37b56b571b119a1875b5f7b9d5c75a56217bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushup-notification/push-app.js"
+    },
+    "_sourceKeys": [
+      "b17b546cc9c5fa2a17c90f9bb61869b124d052971d06e4af362d284a3c8cbaea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushup-notification/push-messaging.js"
+    },
+    "_sourceKeys": [
+      "955ae2dc741f600d4ef85811b11ee5c33a24fb79811f7abd5a006e64c30f7bc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushv2.js"
+    },
+    "_sourceKeys": [
+      "0c605ce5a0d540001673595c0fa9e68ac2af3d67270b6886742e67ed136a73d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushwoosh-service-worker.js"
+    },
+    "_sourceKeys": [
+      "b07f70e6ea1110543f40d2b3f7d0f99b3ab03d384ea08ef09efd86eca0d5c75a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushwoosh-web-notifications.js"
+    },
+    "_sourceKeys": [
+      "a4b8c225153299341168b93c7e57fa1a91eb4cc55fa83b89aaf876bbf3879bcc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushwoosh-web-pushes-http-sdk.js"
+    },
+    "_sourceKeys": [
+      "690817c4d64fac9b9cf4bd5973582db113be025e31bfdd74513aebe69d6bcd67"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushy-ver.js"
+    },
+    "_sourceKeys": [
+      "4148c7797eabf3a4c066e77a0667780f9bc874282bec5570511211a0125d87c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "/site-notification-desk.min.js"
+    },
+    "_sourceKeys": [
+      "0c1390ca3dfb30f3a5528e61f980ac43cf5f10a3ce3afa4dd21e1b86cf00c88f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "/smio-push-notification/js/frontend_webpush.js"
+    },
+    "_sourceKeys": [
+      "72edbc1df8fa88ff4eb7697be23199489343f2b745f96c59f2b0affc40ecca39"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "/subscribe-push-notifications.js"
+    },
+    "_sourceKeys": [
+      "c4c9e9cd2ed737a7d5cbaddb391fe3861e79c8f2d33d7308979c0334d627560f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "/web-push-notifications.js"
+    },
+    "_sourceKeys": [
+      "f02439f4f35f690a07a805ca09fbc565f9331f860d6ede582267edcbcf51fa01"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "/web-push.js"
+    },
+    "_sourceKeys": [
+      "80114d5823e986d14c9f4eddb60fb8f11bc0ed2dc9eb3fdc6070132f9a079ebc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "/web-push/init.min.js"
+    },
+    "_sourceKeys": [
+      "7d526c93b3fe023dca4faae3e227fea16259731a3ffa38058be676c0a9e44a75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "/webalert-notification.js"
+    },
+    "_sourceKeys": [
+      "33a899271e49a380762711e73fd3778f75217839e2c8a330550d5d9c5c62f5f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "/webnotf.js"
+    },
+    "_sourceKeys": [
+      "112a28fef3aa0e178af397c27f6d9da790536cde6229a2975287ff6d32eac23c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "/webnotification.js"
+    },
+    "_sourceKeys": [
+      "4eb5fef5b6b662d7f4e252ca09b4b9b733595cb19389466f7d09e764a0d5d7cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush-client/webpush-client.min.js"
+    },
+    "_sourceKeys": [
+      "6b284a5959bd0b86597f6a3a078f32547551f17c79b236bd3ea6a9d1f75305e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush-production.js"
+    },
+    "_sourceKeys": [
+      "61e961173262e26a07aa4d9eb27907c299d8ea25cd601636b153cc1dd38c3de6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush.js"
+    },
+    "_sourceKeys": [
+      "ff76db799c8c992bb8ca0843873fbee432228574010f6da8d81622e42f0199ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush.min.js"
+    },
+    "_sourceKeys": [
+      "c00a7a5920ac3db6d68035c68f2fbc0cc38cf6d4027131cff16001da53931636"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush_register.php"
+    },
+    "_sourceKeys": [
+      "b09a4ef063681b6a6950834c9ec5dac257f2cd142b66f166915612255d386dcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpush_service-worker.js"
+    },
+    "_sourceKeys": [
+      "1b4e73d0ef403570f325f40b1adfb360396996b569fab88112ffe7da2738f472"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "/webpushnotifications.js"
+    },
+    "_sourceKeys": [
+      "fd6f012625271d6d4f24b984c38ab39a7d133b5e77de360d7686114d86b08b4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "/wonderpush-loader.min.js"
+    },
+    "_sourceKeys": [
+      "190f626a3d2fe3a1b667fa340ee1f8adabf225e89f58dea944d413adc728300d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "/wonderpush.js"
+    },
+    "_sourceKeys": [
+      "6ab6e702522d9a33baf07ef0d89a77c72126372b0f3910a9835ce3033dd7b8da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "/wonderpush.min.js"
+    },
+    "_sourceKeys": [
+      "87e6151d275d2a56c37a852492348591e2d52cf91359314f2e6c88d81d6bb209"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "/wordpress-fire-push-public.js"
+    },
+    "_sourceKeys": [
+      "8ffd9a0bb5a77455daf57049161b142ce5a9dc76e9d353215d8a7d7aef09da94"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-notification-bars-public.js"
+    },
+    "_sourceKeys": [
+      "4010671c7318cde4628716e1141a361741c1bd42756e6f471f09b5c21b8dab79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery.androidbanner.js"
+    },
+    "_sourceKeys": [
+      "ba37e058b4bea338c4104bc98cb831e4a5d3cb5db21f5b027d2c9e213cbf1198"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/jquery.smartbanner.js|"
+    },
+    "_sourceKeys": [
+      "bc14ec21d9a3908c8bac5b121df3c23c38bf907577b349bd1748bf7c9f6f004c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/jquery.smartbanner.min.js|"
+    },
+    "_sourceKeys": [
+      "158b4904871f63889fc934c73623ded2685f256fe727e5cf2cffb094fdafdfbb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "/mobile-app-invite-banner.umd.min.js"
+    },
+    "_sourceKeys": [
+      "00156737499c932733f327778a852a62110445df355e2671547a1953c1fcb6e1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "/mobiledownloadbanner.js"
+    },
+    "_sourceKeys": [
+      "bc2e3381d938320977c0e263923266fb104d4106f14e57da51aac5036ce17f25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "/smart-app-banner.js"
+    },
+    "_sourceKeys": [
+      "d2e0fae6c3d68d3a9cd502466c44e05cd6fb67e6606943c041a0b4e25eb3ee32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||azureedge.net/js/cookie_notificacao.min.js"
+    },
+    "_sourceKeys": [
+      "9ae07dc59a9504a5578d7d2389f4ec21b2932a67319c03d4570216879d1212b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||medallia.com^*/onsite/embed.js"
+    },
+    "_sourceKeys": [
+      "dc92d3f97e60bcd4da96b646c3abb0b7b80692bad7b3c4fb30b772f057f8793d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||surveymonkey.com/fides.js"
+    },
+    "_sourceKeys": [
+      "f0f13790e5366b2bebaa5ab2ecafdae24bcbc411424e411daf2606d64fb035a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||ternairsoftware.com/publicwebpush/"
+    },
+    "_sourceKeys": [
+      "43429e584dd47ffea612a0f441fa4e36824811e1c29414b1a12432cf2814fbe1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||viafoura.net/push_handlers.js"
+    },
+    "_sourceKeys": [
+      "6f64d5b6cf226c388a7587c49eaa7683e0270395ca8b1cfe5f305e0872e83f66"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||youlead.pl/webpushprompt.js"
+    },
+    "_sourceKeys": [
+      "ce53b8543091bd309c147ecc7932bf1ca1ec9dd1739b7d1a9c503368345d51d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/cdn.aimtell.com/"
+    },
+    "_sourceKeys": [
+      "319676faf255d71ba10001ebb9debb9c6a1517b0a6a9d040814d19ae1062845a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.adjust.net.in/smart_banner"
+    },
+    "_sourceKeys": [
+      "7b2125d3a50ed5036c628c06c1ae86a0dfa845e1b2547a225eb1c5c1cfbfae72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||acquire.io/assets/sound/"
+    },
+    "_sourceKeys": [
+      "8d43fd8c7371395124322e1ce4e76799faba3d7aea9c98bc3b19a0b9dabd5e6a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.chaport.com/sounds/"
+    },
+    "_sourceKeys": [
+      "11217a940fd7e17077f0b7b077dbf4050c4cee1c538d82effdf663e26dc1ebe5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.chatwoot.com/audio/"
+    },
+    "_sourceKeys": [
+      "13f65964839b956ab4c88af3a13801c309a33375777ec929ef8c0cb4b7f270a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.onlim.com/app/assets/audios/"
+    },
+    "_sourceKeys": [
+      "9699446bea891d19520911588be22de293621a75d9259a32d6b7c3d2239aecba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||appspot.com/sounds/chatmsg.mp3"
+    },
+    "_sourceKeys": [
+      "e89f594dd058fbae48a45d04d1f9206917f4eef9956592aa71ec413ccccf0edf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.chaport.com/sounds/"
+    },
+    "_sourceKeys": [
+      "8b433ae80772d3db77c9009fe6f018a5057cc77b5f1c4ae958e6f7931debdb35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||callback24.io/sounds/"
+    },
+    "_sourceKeys": [
+      "b6442e582cfeca3a0a84bc1c86d289f6a9dfbdb0361a550532a0d8c6d7786fd0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||carrotquest.app/sounds/"
+    },
+    "_sourceKeys": [
+      "0f593e48f45fb87cd24f5a306a3116b2704735f030c67d92202b3f456b4a6496"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn-widget.callpage.io/build/sounds/"
+    },
+    "_sourceKeys": [
+      "3f5b71c018bbd33b2920bd1412856a155e541ecec413f7cdce04c8cb4611b9ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnapps.avada.io/faq/sounds/"
+    },
+    "_sourceKeys": [
+      "6a529758c83a75342fd357dfc1460a78d644e02f1678e0992ab38113ea24abe2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatango.com/pcache/sounds/"
+    },
+    "_sourceKeys": [
+      "da54c51bc3aada55c2c9ed0819e756f16a3f35c8c7c5773308193d6278a28c68"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatplus.jp/app/s/sound/"
+    },
+    "_sourceKeys": [
+      "6e68bd13ea4fe07bd886b1a86613c25efddfb8e0b39d0773a050654cdd418007"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatwidget-prod.web.app/sounds/"
+    },
+    "_sourceKeys": [
+      "26f34e24c56547bdd8fa14824b4cb1f430d62e7d8e46ff31d4d7ed4772ffda1c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||cleversite.ru/client/default/sound/"
+    },
+    "_sourceKeys": [
+      "c17efedb14df458207c74db469967b55e910ef5dbd3afa6c4bea7912cb3a329a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||client.salesmartly.com/setting/sounds/"
+    },
+    "_sourceKeys": [
+      "7939df1b50883e038c190fcedc501f6a601d0a0a3f4aa0f6dee01b269a606040"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/prod/media/",
+      "initiatorDomains": [
+        "birdeye.com"
+      ]
+    },
+    "_sourceKeys": [
+      "8850394bf90a9a1df06e5f6d66be3cfdfe8f2d1187fa5b219f3122a32b8d8191"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||clustertextilzgz.com/catalogoborman/ca-web/mobile/style/raw/flipsound.ogg"
+    },
+    "_sourceKeys": [
+      "292a10d438978fdee5463893b1306b07b5aba8bf8466bba428c03dc8313668c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||contivio.com/chat2/audio/"
+    },
+    "_sourceKeys": [
+      "528d746de66172a94004ab75de5209904bf046af345b15c2ef332b8eff94299a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||cpmlink.net/audio.mp3"
+    },
+    "_sourceKeys": [
+      "59441eb1747b34346ffeb050ccd5bcc3ca67e236f38f579aba58bc5787d95c93"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||cpmlink.net/go/assets/audio/audio.mp3"
+    },
+    "_sourceKeys": [
+      "ccfb84fc1c57b3ea2a3a2d1d37304d166ee03a2d2c742cde9a06deabc13074a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||crisp.chat/static/sounds/"
+    },
+    "_sourceKeys": [
+      "a5c5a5310cc6dba21c9a810f05fe622c81fb76e23bd4ac70bf91640d8abce2cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||czater.pl/assets/sounds/"
+    },
+    "_sourceKeys": [
+      "c13c52aa2e73733cdac5f3987ac6e9be4a054fcf9f0ba744d98825c37f918b70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||driftqa.com/conductor/assets/media/"
+    },
+    "_sourceKeys": [
+      "7ac95e91924f432c9e818ad5475c6c287509a3d92d453d28d6b3b4bd90013a01"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||echatsys.com/sounds/"
+    },
+    "_sourceKeys": [
+      "22e2f8e02bbe9f3df4f9f8648def4b8c9a0b4ca7e7945d5386f61025719de979"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||formilla.com/remoteassets/media/"
+    },
+    "_sourceKeys": [
+      "2ac8407e689311da4f3df1665ea137abdaeec5789fb5ba4c451cde3449abf7bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||gubagoo.io/v4/media/"
+    },
+    "_sourceKeys": [
+      "2f0e2a6a572b36e773f0fb971d3604df59f32992e11e324f713864a813b42611"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||helpcrunch.com/sounds/"
+    },
+    "_sourceKeys": [
+      "fa2d86f305bde43ad8f4a3ed051366a719c1cb304c4308e4015ece1de6a96634"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||helpscout.net/static/ui-sounds/"
+    },
+    "_sourceKeys": [
+      "b3cf5a687a629d918503e7c0990b7e3e34d8e5dd313c78e25a4d33cd4d45b923"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||jack.bio/click.mp3"
+    },
+    "_sourceKeys": [
+      "3ce2d7fd1bce80f59c44fee7c28db8e7cbec82787ea379f3924f4e73431504f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||jivo.ru/sounds/"
+    },
+    "_sourceKeys": [
+      "b40520933e8d8e23fc436f9854c283f2d1617b94659f1dbeaf449348296e1411"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||jivosite.com/sounds/"
+    },
+    "_sourceKeys": [
+      "ced28b7e11eec0eb0e560b089cd7e5c5a7bd4a313e7540615ec50da16864f00a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.driftt.com/conductor/assets/media/"
+    },
+    "_sourceKeys": [
+      "7aa126e4a2a9bb3b5043823b3e1fef84a2ecd774118a3ac36eb8053c455cc799"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.driftt.com/deploy/assets/static/audio/"
+    },
+    "_sourceKeys": [
+      "7a716c9601c7ae1744db9311e0551cceabecbce3f6981b94f5fc264258aa2ad7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.intercomcdn.com/audio/"
+    },
+    "_sourceKeys": [
+      "4e2fd6f5f361c065194b0657ac137a6ef35a92d16ad5a3bf3567752623502fe7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||live2support.com/uploads/sound/"
+    },
+    "_sourceKeys": [
+      "45ebac12255b62946d208b0408fa3ba371676779a80be879efa84d665b9375fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||livechatinc.com/widget/static/media/"
+    },
+    "_sourceKeys": [
+      "a0954815f94a5261c60884b95da7a472f6d425cd8e149a95a276aaeac73bbb9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||me-talk.ru/support/sounds/"
+    },
+    "_sourceKeys": [
+      "c387a4bb4940118adc5253a9d50b662e458b464c9467a77aa851e0af9729a33e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||polaria.ai/sounds/"
+    },
+    "_sourceKeys": [
+      "093058cc84dda28519d28985b8454233343a5e53dd947ba37f1a69b39ad05083"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||purechatcdn.com/content/audio/"
+    },
+    "_sourceKeys": [
+      "23dd95bae9edd29a1b6f1dd34792777ada384cdfc414d3931056de2384adfab6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||quicktext.im/assets/audio/"
+    },
+    "_sourceKeys": [
+      "04ccd81114dedfb4d328bec278fff41125e0b570591fed9a5d6ffae481d22040"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||raychat.io/assets/widget/audio/"
+    },
+    "_sourceKeys": [
+      "2a96ab1ea0be555c48bc4f475fbb9f0b4ce30bce5829eb1c2d5efaa7874f4d1a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||reamaze.com/audio/"
+    },
+    "_sourceKeys": [
+      "e1f81c15b482cd212a46554989a0bfa625bad69c8bfe0634fe62f37064c4cb17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||revechat.com/client/sound/"
+    },
+    "_sourceKeys": [
+      "5e0816ac7ad91a5ecbdab6cd71c13b2286324a65a40a3bf75140adb9480acdca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||richpanel.com/audio/"
+    },
+    "_sourceKeys": [
+      "c174bfe948a0db5f950650dea0c62ab85292d2103b37a497ed38b734d0064378"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||salesmartly.com/sounds/"
+    },
+    "_sourceKeys": [
+      "375e776c19f5da1f88a9c52a448753aadac0b564f566ad0a24db46fc88454dd8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||smartsuppcdn.com/assets/sounds/"
+    },
+    "_sourceKeys": [
+      "29e2de0dafb12f2355419996248df80b741949a5726b1833716224331f36315a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||snapengage.com/sounds/"
+    },
+    "_sourceKeys": [
+      "12dc4698822b38252d00e63c5a9b7fb47f4e5c21b30a9cbd0fdc8cee8d3a098a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.olark.com/jsclient/sounds/"
+    },
+    "_sourceKeys": [
+      "c90dd3433d66817765e71f385f69973535d59d1c4ad1ccd0f01a7a9faf5f03ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||tawk.to/*/audio/"
+    },
+    "_sourceKeys": [
+      "9eb4ff02a45086b7b18a0b4bcbcfabc83166f8c072f0d32ef4989297e29f94b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||userbot.ai/widget-chat/dist/audio/"
+    },
+    "_sourceKeys": [
+      "b5c4f008aadbcb07c8e888c8b352faea7a6cce998458bce53e7b95784ff2ce9f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||userway.org/widgetapp/sounds/"
+    },
+    "_sourceKeys": [
+      "5efb4de7d0fbce48ec478ad4604607c6c23f8fafb0e063d98673f188311b63f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.insent.ai/static/media/"
+    },
+    "_sourceKeys": [
+      "088cd70599f6a46bbd0759bfda9691eda1f27c101422b950340793805e871cf9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpengine.com/wp-content/mu-plugins/wpengine-dotcom/audio/"
+    },
+    "_sourceKeys": [
+      "5a590197aaf8407021383e23d4bb2eff101118084c145154cff054d10bea1283"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||zohocdn.com/salesiq/*/sound/"
+    },
+    "_sourceKeys": [
+      "7b8c792096994ac9cd81cdcac7575ffe5874a5be1bff7f9a307da2d60ea168ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||zopim.com/widget/sounds/"
+    },
+    "_sourceKeys": [
+      "2e2349382f74b863be7a8f9f6e8e6083fe76e4b3f46b7c142c0df21058523840"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||9to5terminal.com/push.js"
+    },
+    "_sourceKeys": [
+      "6b380eade3bd06e1b39caebcae15210977f335aaf6abf67ce68ceb693ae70313"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||abendpoint.com/dist/js/push.js"
+    },
+    "_sourceKeys": [
+      "3e59725121e64147cfeda77a8cf5484eaa6a853414effd4b8b674cdce2d9f98a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||alibaba.com/sw.js"
+    },
+    "_sourceKeys": [
+      "5cd43380f3e6a5dcd429a9d33a6b963f6241b9d51c14052feab3f6d17e3f87b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||anewz.tv/firebase-messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "324f61f896556b49bf2920b9e0156543523c694f42b7c50fd0fe57fe4d779f1a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||annahar.com/assets/js/notifications.js"
+    },
+    "_sourceKeys": [
+      "f0c95175fea956be9ccd4dad0ca5949abf7c22ab05c33bbf2fadd6a252ee134b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||astian.org/?push_notification_sw"
+    },
+    "_sourceKeys": [
+      "a249c11a56e60ab84fba9ca2cd97502d71c22d3fefea16c1fb5c612619e38a65"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||bdstatic.com/linksubmit/push.js"
+    },
+    "_sourceKeys": [
+      "ed6c7b8c0b702c28a18557337e4d096837066221e8f2af1ecbb9c9cc528a11ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailymail.co.uk/api/web-push-notification/"
+    },
+    "_sourceKeys": [
+      "343a8e46680ce5fb8eec4f93cc72104f6213be5b09a887f75147d6fb25e1c337"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||diabetes.co.uk/wp-content/themes/spotlight/src/sw.js"
+    },
+    "_sourceKeys": [
+      "eb56d1fcba0ccea7b3c6434b9aabc2395e8818d4e1adf4032623c1df18880096"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||gadgetsnow.com/sw.cms"
+    },
+    "_sourceKeys": [
+      "ec5ac81fa841812b4ba1f1969055b8e37ec0f9c032a791661d9a85c6e842a468"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||gstatic.com/firebasejs/",
+      "initiatorDomains": [
+        "joins.com",
+        "kompas.com",
+        "novayagazeta.eu",
+        "packaginginsights.com"
+      ]
+    },
+    "_sourceKeys": [
+      "096532573a55ce37859f7f2bd5cf358ae758c22fa1ec4bb5092fae5191f6da1c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||hindustantimes.com/messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "d4b6bff6c897e8ebe917ea5ef7607a94d2eda360357a15ad446ac2a209b4ac5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||hindustantimes.com/sw.js"
+    },
+    "_sourceKeys": [
+      "a4b485c26ed6df505865615f56c92da99d60c1aa61ca24298d19067f516fb32f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||hindustantimes.com^*/ht-notification-"
+    },
+    "_sourceKeys": [
+      "bc7407f5c5479a73dc41959d96728ca48ba5cf7cafa143311e0756064d8854fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||hulkprod.anm.co.uk/api/web-push-notification/"
+    },
+    "_sourceKeys": [
+      "6972cfaf1d4c72c32e9f9561fed6d1f49601edc9cb76755c4c1125f0ccaa4848"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||indiatimes.com/pn/"
+    },
+    "_sourceKeys": [
+      "531522d64ba3d38abd9fdb5f9cdfa5ebd9f23d25a7e80664fb22e1e8a3850c58"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||iol.co.za/sw.js"
+    },
+    "_sourceKeys": [
+      "7d95771e269158a3d28afcba073ab23937c0852e096f21e9a626e50b40364d16"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||kogan.com/sw.js"
+    },
+    "_sourceKeys": [
+      "85f7cfb7defbecd6615e72f3c77e82939a5be9299d4755493fa89a123320be84"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||latestdeals.co.uk/sw.js"
+    },
+    "_sourceKeys": [
+      "5da38cfd363b7c3d8f2d0c96e74cba747126e9576db8dc238993b8175aa45fa7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||msn.com/bundles/v1/homepage/latest/experiences_conditional-banner"
+    },
+    "_sourceKeys": [
+      "82d94d9ade2969956e8782d5ce8f9f1c1934eab59c8dd74e39dd1f6828d1a665"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||ndtv.com/js/breaking_pushalert_revised.js"
+    },
+    "_sourceKeys": [
+      "b059337dc64ad378a5ac35dca6bf7a79d16ddbd6ee84b8b536784bdef0935d55"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||ndtv.com/sw.js"
+    },
+    "_sourceKeys": [
+      "fbd4d090c340e4fc043f5590dca5f0314fb6b77b7e7a1213a99989c85b0fc673"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsukraine.rbc.ua/sworker.js"
+    },
+    "_sourceKeys": [
+      "554eb479f2a2e7bca0083131b55c08fbd704509561f9bdf39dd398eec1fd6ea9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||nookazon.com/firebase-messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "b9e3db62f7de14331375e657b905baab9a9dd972d7bd823209ad88e921ea1a50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcguide.com/sp-push-worker-fb.js"
+    },
+    "_sourceKeys": [
+      "af3829736246b68746b523ed00698c0486d2c2e65e5d793ac28addf1e733c6ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||personaclick.com/assets/webpush/sw.js"
+    },
+    "_sourceKeys": [
+      "7c9bae8fbcbf36cba7d3e005482ddab0aa3ceb193f6c44ae4ab50508cab510bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||pinterest.com/sw.js"
+    },
+    "_sourceKeys": [
+      "26724fcfbee619c1e4f99d0ca77a04e553daf238e4838288eaf5cc913c4f1bae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||renaultsport.com/spip.php?page=sw.js"
+    },
+    "_sourceKeys": [
+      "c06595dc7658eb0ab4110fbe72d8fde1adf115cbc9e197545e827c18633f970a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||rottentomatoes.com/service-worker/sw.js"
+    },
+    "_sourceKeys": [
+      "1d9216685e6438e9884dd218df206326169be037867b567382832612fcbc5781"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||rt.com/homescreen-sw.js"
+    },
+    "_sourceKeys": [
+      "ae79b42874ecb4a86c8c6c7f5f9a04098b151f751d151b67a70d77b4ab2e6f5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||sammobile.com/wp-content/plugins/sam-push-notifications/"
+    },
+    "_sourceKeys": [
+      "976cae5a0ee166e47a194863fce06a31cb6c027d7972be240fb350a65b6bc199"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||scmp.com/sw.js"
+    },
+    "_sourceKeys": [
+      "fc41bf411949e205b10b25f954d6132c8d90d6216b4786b62be2a3ca47518bdf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportskeeda.com/js/production/web-notifications/"
+    },
+    "_sourceKeys": [
+      "f911a70b8fc380c81cebcfe10123212277fcef8111c6b57ccb200db5c9ddba37"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||techwalla.com/push-service-worker.js"
+    },
+    "_sourceKeys": [
+      "2fe3b19107fab256cdc41d0861e18e3d1ab8aefd0cf32ffab931deaa89a9e7d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||timesnownews.com/sw.js"
+    },
+    "_sourceKeys": [
+      "054f839b1caf00a9fd39f444d9daf41bf1cd7214f55a75b6abd5ad7110513f24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||ultimedia.com/js/common/notification.js"
+    },
+    "_sourceKeys": [
+      "86b3354d344a1a62960dd04b228ca14ec67755630170fc401497dfe246c4344d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||unherd.com/push-worker.js"
+    },
+    "_sourceKeys": [
+      "dca735dc19b4e13687add66bc29495d04d973a45dff3d5ac7e287020e4532ba7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||weather.com/*.medalliasurvey."
+    },
+    "_sourceKeys": [
+      "8505204b51d268562a2a70709deb87787ce98b0729bab80143c7e6587b4ba6b9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||wepc.com/sp-push-worker-fb.js"
+    },
+    "_sourceKeys": [
+      "c5f81db9050033802861d1d1a54945a9983d1ceb852bee27ff59b686808b20f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||0564.ua/assets/d6ade384/js/alertswidget.js"
+    },
+    "_sourceKeys": [
+      "b8465398df8cc30804b9f12bf734bac94fc613924908fa948df3ee0123a356ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad-hoc-news.de/js/push.js"
+    },
+    "_sourceKeys": [
+      "07e55453a36ee7b991740e27b1421a2d253e62c832ba0399c63a7a4be04bbba1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||agazeta.com.br/assets/javascript/notification.js"
+    },
+    "_sourceKeys": [
+      "d4abbf70c9bcc7ba25cb389c1b8c0e0306e2a6aa0996f0798c6e0faa4ea76a79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||asiae.co.kr/js/asia_fcm.js"
+    },
+    "_sourceKeys": [
+      "9412b88b9b292fbe4b172960ff5ac26d69d99d02e4131da202da6c3efd229776"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||cnnindonesia.com/sw.js"
+    },
+    "_sourceKeys": [
+      "68f6321a1f5cc456d5eb11cdeaadae570dbf41940b4e0295b46428b6d9361c0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcnews.ro/sm-"
+    },
+    "_sourceKeys": [
+      "3d36a7503a5eee83dce2d3e075da1b8aedbbdf2b0e1f5c9e3cc8709aad556d62"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||elpais.com.uy/utms.js"
+    },
+    "_sourceKeys": [
+      "a0220053842ee9a2d8380e08ea85fe80201eacaf97ffbde4ef6c889cf4f98a9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||flashscore.fr^*/build/notifications."
+    },
+    "_sourceKeys": [
+      "d71375ef06879238710bc99764d80826fabcd4989f5d652c6f0d54571577ec39"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||futura-sciences.com/clientscript/push.js"
+    },
+    "_sourceKeys": [
+      "be406cd1947352d67dab56c5467b11cbffc2b75b5791aa003dcb5d03c433f9e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||horoscope.fr/notifications/"
+    },
+    "_sourceKeys": [
+      "8691e7d124ce2f84be0e1e9eb85b9efab8e50d7e12941c3e40d2c029396a67e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||informazione.it/wr/promo-miainfo.js"
+    },
+    "_sourceKeys": [
+      "e9686c8aceba303ebeeb0a7eba21da2b98fd4fd55fb0ec1e09f6807a86f4087d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||japan.cnet.com/static/js/webpush/push.js"
+    },
+    "_sourceKeys": [
+      "a77df57d805034f2b1c9e1a58371776317be7f9869b0dd066abbab00b2f897c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||kompas.com/firebase-messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "ddfc3996cd492c16754bd81b71cbc9986c79cbcff666144883a7302b31c55858"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||metrobilbao.eus/firebase-messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "2022e63a381976c87f8807cc68129c16097c2f92063c8e2f27eafed822e613b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||strettoweb.com/notifiche/"
+    },
+    "_sourceKeys": [
+      "a8a67933c205f4b4010702f68600f594ea8107ce28e23926d6378a917bcd36ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||tio.ch/js/api.push.js"
+    },
+    "_sourceKeys": [
+      "f5f39bb3aeecf494a607b60b990bc8ea715214e4bdb4bb4b9bd1f69c0f6044a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||tutto.tv/wp-content/plugins/plugin-notifiche-"
+    },
+    "_sourceKeys": [
+      "c5a8832c6c367783844b42a4228e8aaed5a70ce7b4fd840c187d48c8f56d36d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js"
+    },
+    "_sourceKeys": [
+      "a1e38c3e5d0677a77c86f9e718b22495c626584261674397c505358d4aca5898"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||winnipegfreepress.com/firebase-messaging-sw.js"
+    },
+    "_sourceKeys": [
+      "93c7deba110cbc82b288dcd36820dd19fc5098e7d071d10e7edead549a8623c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||animatebookstore.com/js/smartbanner/smart-app-banner.js"
+    },
+    "_sourceKeys": [
+      "c3ddfe69856bdff92e6e54e037ba94984360fb5d8c3b6bfa71ab850ce2059b28"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||baby-calendar.jp/nazuke/img/app/header_"
+    },
+    "_sourceKeys": [
+      "80ee73dcd74d1b973da1e56b62deca034e00ad4ee674a21561f11c3cf7ba5cbe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||browser.geekbench.com/assets/ads/"
+    },
+    "_sourceKeys": [
+      "8460203ec7c8dd159482170ab17b6ee4609fb0598c0efa67f6279140a5ca100f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.chrono24.com/lib/generated/js/app-hint-layer."
+    },
+    "_sourceKeys": [
+      "2f1b850a881d9bd416b1d5803990e97dd5bb2da10a70bf692acb92992e8fd46a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||tapcart.com/mobile-download-banner/banner-min.js"
+    },
+    "_sourceKeys": [
+      "18cea52f92a70a4188092437f45908e2add3048bf3c0a5201be7485ea1c2d12c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "css.xcss.me",
+        "my-pu.sh",
+        "notificaciones-web.com",
+        "notification.tubecup.net",
+        "notifications.viafoura.co",
+        "poosh.wizzo.media",
+        "push.asahiinteractive.com",
+        "push.brownbrothers.io",
+        "push.bytesignal.com",
+        "push.delivery.ethinking.de",
+        "push.esputnik.com",
+        "push.getbeamer.com",
+        "push.intreface.com",
+        "push.knd.ro",
+        "push.newscraft.io",
+        "push.reamaze.com",
+        "pushdeploy.estrema.it",
+        "puuush.me",
+        "alerts.ndtv.com",
+        "alerts.thedailystar.net",
+        "push.cnnindonesia.com",
+        "push.ictsd.org",
+        "push.idowa.de",
+        "push.neko-san.fr",
+        "pushme.magellanotech.it",
+        "widget.push.forja.ma"
+      ]
+    },
+    "_sourceKeys": [
+      "edf7b3e47bbfbad6affeee3425feb159661e21adefbd26f0d8878b10752b6b20",
+      "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1",
+      "06858e22d81c03ec868e54e0641bf39d2b881104c23f8c65f788102b93e9e7d8",
+      "5c561e7d4b78b6b67aecfd742a36b3a5c4e516d302c35daba0c4a41e7b3b6486",
+      "9f716c4bc99b749b9932d57f1db3f116e2d9af10dc5060091618fab0099b8cc1",
+      "22de9172be2f076a00480933e0911240a340e52a76689c61caa80417ad3a8dcb",
+      "d71d32d3e70ff0504eece6eb79d7cc181b342faa82e5b50c605aca9cf49f9241",
+      "4f5569e37cf4d5df563390509aa73f3025321611d311db9fcbbfd6c889d63b63",
+      "34f074ab9d6def6e4d8e4e24489fa44adbe6a3bb3da08d5ef9851264054f5cb5",
+      "8de028f0c8bd2b9b02c72525672ad72632d1b9e79142d2fdf2ac54a975067c45",
+      "966ea3d9dae75bc55f804abf8569713d1212e692373803d84184e2399b3f9aff",
+      "c0478425bb6727eabc9b0262ffa5d97310a17ef621a9a1c1994100a4f0ca55de",
+      "1b37992f55f323cba4c58a64a5bf6a537b157078599ce3df39399d244bcb6c6f",
+      "21df4d4174f27ad4e49fed3a3592e4735da61598329cb7737588bb72a06ad38e",
+      "a0d3c749da57a1899d43e95a831f623adfe48e68921d8e0f6075b725e1c847ee",
+      "05aa2f7b539a5cad15df6eeeefc5fce035116456801b9306b82b95ba579e2b1e",
+      "5c9965d5de6556413eaf6842fe1ceff04756cb85b6687438a8ab80da569cb824",
+      "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a",
+      "31449ba80658195b79882f10eeff32ba29547dbf929e45245b1eecbb9d3e5a05",
+      "fffcb4929b78af7a39dfe440c74f05dc86edf3d526f1db693e1837b367203db2",
+      "39b2fd6962648f4da5b09641d37a6bdd50dd26512db4f42a66ae98a36f0c32bd",
+      "ea25d51afc93c85cc7bccbaf2aa25ac088a6653b1f71f15d770e5de2a299c7ae",
+      "e9e426c813867f508f68b7f4068f7649429a0b183d1306951e142e19271f9f59",
+      "9116f379747f6ad9e7e840e42df79518c400455b106a3a01d99cb2bf38757f89",
+      "b98948773cd1984dfe0df72914070300545829a7571931ef1077f0b12e93c896",
+      "c855e458fc474cfddbf4ea99881e3dbc7dbf5f1e27bff615b53c1f44896f9578"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "css.xcss.me",
+        "keys": [
+          "edf7b3e47bbfbad6affeee3425feb159661e21adefbd26f0d8878b10752b6b20"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "my-pu.sh",
+        "keys": [
+          "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notificaciones-web.com",
+        "keys": [
+          "06858e22d81c03ec868e54e0641bf39d2b881104c23f8c65f788102b93e9e7d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notification.tubecup.net",
+        "keys": [
+          "5c561e7d4b78b6b67aecfd742a36b3a5c4e516d302c35daba0c4a41e7b3b6486"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifications.viafoura.co",
+        "keys": [
+          "9f716c4bc99b749b9932d57f1db3f116e2d9af10dc5060091618fab0099b8cc1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "poosh.wizzo.media",
+        "keys": [
+          "22de9172be2f076a00480933e0911240a340e52a76689c61caa80417ad3a8dcb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.asahiinteractive.com",
+        "keys": [
+          "d71d32d3e70ff0504eece6eb79d7cc181b342faa82e5b50c605aca9cf49f9241"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.brownbrothers.io",
+        "keys": [
+          "4f5569e37cf4d5df563390509aa73f3025321611d311db9fcbbfd6c889d63b63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.bytesignal.com",
+        "keys": [
+          "34f074ab9d6def6e4d8e4e24489fa44adbe6a3bb3da08d5ef9851264054f5cb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.delivery.ethinking.de",
+        "keys": [
+          "8de028f0c8bd2b9b02c72525672ad72632d1b9e79142d2fdf2ac54a975067c45"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.esputnik.com",
+        "keys": [
+          "966ea3d9dae75bc55f804abf8569713d1212e692373803d84184e2399b3f9aff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.getbeamer.com",
+        "keys": [
+          "c0478425bb6727eabc9b0262ffa5d97310a17ef621a9a1c1994100a4f0ca55de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.intreface.com",
+        "keys": [
+          "1b37992f55f323cba4c58a64a5bf6a537b157078599ce3df39399d244bcb6c6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.knd.ro",
+        "keys": [
+          "21df4d4174f27ad4e49fed3a3592e4735da61598329cb7737588bb72a06ad38e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.newscraft.io",
+        "keys": [
+          "a0d3c749da57a1899d43e95a831f623adfe48e68921d8e0f6075b725e1c847ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.reamaze.com",
+        "keys": [
+          "05aa2f7b539a5cad15df6eeeefc5fce035116456801b9306b82b95ba579e2b1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushdeploy.estrema.it",
+        "keys": [
+          "5c9965d5de6556413eaf6842fe1ceff04756cb85b6687438a8ab80da569cb824"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "puuush.me",
+        "keys": [
+          "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alerts.ndtv.com",
+        "keys": [
+          "31449ba80658195b79882f10eeff32ba29547dbf929e45245b1eecbb9d3e5a05"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alerts.thedailystar.net",
+        "keys": [
+          "fffcb4929b78af7a39dfe440c74f05dc86edf3d526f1db693e1837b367203db2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.cnnindonesia.com",
+        "keys": [
+          "39b2fd6962648f4da5b09641d37a6bdd50dd26512db4f42a66ae98a36f0c32bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.ictsd.org",
+        "keys": [
+          "ea25d51afc93c85cc7bccbaf2aa25ac088a6653b1f71f15d770e5de2a299c7ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.idowa.de",
+        "keys": [
+          "e9e426c813867f508f68b7f4068f7649429a0b183d1306951e142e19271f9f59"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.neko-san.fr",
+        "keys": [
+          "9116f379747f6ad9e7e840e42df79518c400455b106a3a01d99cb2bf38757f89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushme.magellanotech.it",
+        "keys": [
+          "b98948773cd1984dfe0df72914070300545829a7571931ef1077f0b12e93c896"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.push.forja.ma",
+        "keys": [
+          "c855e458fc474cfddbf4ea99881e3dbc7dbf5f1e27bff615b53c1f44896f9578"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-worker-",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "69318f86f7b49939c70e976d9c6b373b0253759de54d0f1911790b3b274daf0a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "/js-mobile-*/header_",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e018348188fac767611f37efde9a2f88c3ccefb1e3d3ad3b51cae5c71f85f051"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "/mobile-welcome-overlay/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9beefb272d6e4cd0f46692dfd0be463d1f9bb976f5302afe84acd25dba411cb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "/firebase-messaging.js",
+      "initiatorDomains": [
+        "tribunnews.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cbbd92d1104caf3f49a70a9068265150ad6bb543286900ad6a903de7a924a229"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.ilcdn.fi/questback.popup-",
+      "initiatorDomains": [
+        "iltalehti.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "874f898d87cf8758b79bb7a709748a762768ab25be88d3dca5102a0641628710"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||imyfone.com/*/notification/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0e6e2a86bb6a374b30be243ff8854ea393a2d268a813d3fe9eb06d72540149db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||seattletimes.com/wp-content/plugins/st-user-messaging/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ea7f7c7ef483f2968851936faf38faf09bba04a7a43acb7b5068d6df3b092c69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "/app-banner/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5b96f21ef37b9dcdc1b718633149e12e55dee050b6cf9ee36dc7e9a91d691628"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/alive5cdn/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "08c7da5d441748771e62ee2231d678804d10b9f07b4156e28ac3e239b4118b76"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||apex.live/media/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "8ee03bd16a4b4d96eecf59e7f01f8c39d923e6cc7c3d7bb2855f279a96881a2f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||assetscdn-wchat.freshchat.com/static/assets/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "24e479e276b7cfb95ee6362bc3ceaf9b4e54754c67f0b5ef5d5f4afc62ca8c2b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "azureedge.neti"
+      ],
+      "initiatorDomains": [
+        "oct8ne.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "fb016d38c018f90f5ae78feaf27fc948101047be828e7b515351eed223e9bc4c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||bac-assets.com/chat/spa-assets/",
+      "initiatorDomains": [
+        "bankofamerica.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "977af19298f2e666fc78c6c1d7cf9f7f6e2870822a9635e571681725e42f3828"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||bac-assets.com/spa/widgets/www-chat/",
+      "initiatorDomains": [
+        "bankofamerica.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "aa0aa8457411d51dd9bd854883f441c150a3678a53a77fc3f53cea067827a61a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||camel1.tv/media/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "e9264dbc6acecb4707f3fa2f7f26c45ab288b0e99e00a19f84e1b5357ee3eae6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||carchat24.com/inpagechat/audio/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "dcd74daadf409440eea3c87333547a2641e7da56873aa140c70b45b56fe600ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||cariai.com/webclient/pages/3",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "bbc36aedb5d3659a8406df4f7a5a6e686b4cc2744de675eca5dca27b8a8180df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.24liveblog.com/audio/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "6980bd871176d5abeba1d2dbc9145cb814190f3a4af5f7ea8262c3d9ce181f7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||channel.io/plugin/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "cc2f720762f141e017ef8adbac560b04339a5f1f5afb55dab8c621302502a574"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||chat.octadesk.services/embed/static/media/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "bbb9f6ef7ba599cb80dc5b6058ac280eee1269d367aab8c467bb33f04192fa57"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatbot.denizbank.com/content/media/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "8bf02cefaf15217b0a060d496a3b84876ca67d977580dd52ac5e16a52714a0ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||d7keiwzj12p9.cloudfront.net/widget-sounds/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "48d27ad64126d96e18f8cb8e49cdb3a854f968ce112012c8d55bb6140dfa2c30"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||fxcity.pl/images/mp4/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "5375abfc1911f95fcd18328299e22820531dacdad631bff5eeb3819456f0107e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||goftino.com/static/assets/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "150ac121999be7683b64eae6b809da8441e9c41fa5cb73acc2c307a7a9c34c3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||intelliticks.com/prod/common/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "e63d90355b645f8c2b363aa07db7a047f22ed5572b89ae739d55dbce80ebcd3c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||kommunicate.io/kommunicate/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "baa2779c597a3467b511d18c9657a0d30f1be9bd730d3968ca5702e4b89e959f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadback.ru/sounds/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "d5365a7409b27bd48068f2a0e31d9d0414729d3673c10429dfb7f53b65774148"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadgenic.ru/production/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "331a7586646e85524dbb3f97c0be28cd55d786728c60ecd8d404c25ea5dc4e69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||livebeep.com/visitor/events/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "b5cb6ddfcd912fb5981a77e6b48b043501e9b9596550d2f7fc2eec62dfae4d40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||lpsnmedia.net/le_unified_window/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "a344e15b621d712a650af939b6c72eed5aef72c44c5d0c4ba158ccb2bf41e3c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||nice-incontact.com/incontact/chatclient/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "7fba9a88469ac66865abc60452c1772313c182c84c5714af18e519a7b032e0f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||phenompeople.com/txm-bot/prod/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "9f664f2efd94cef12fdeb76ed4db8191350504737b9f0429d8d1ea66c4596b4a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||qualified.com/packs/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "6c3890fa848fe07874de25107ea7ff21a97257b7558b6dfb31d69c27bb02107c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.widget.trengo.eu/assets/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "4430b4082d6de1ec5605663b400771090c94dc457d989dcfdb8d8b8b7479fa07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||streamwood.ru/img/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "9eb89d194fbb28f4275b0f7959b47aeb1125de04992995ba752af288dc522f97"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.awhy.it/chat/img/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "79f76dc70ee2482114a0349f0b6fced0b775a72c6c28fea3961c1f85fc38a6c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.binotel.com/w/chat/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "d332bd18207e8da928866f986d8a4c9c5f6746635fcb559371d6ccfd967c7621"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||zdassets.com/web_widget/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "5d136cad348bcda4c058630455944e135f5128f2099f56112f3e6407b2b55531"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||zyratalk.com/contractorschatbot/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "6c750c47178849f6ded85836d52fdef902a0decb810582c5c4d0eb0da4afc447"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cliengo.com",
+        "collectcdn.com",
+        "tars-file-upload.s3.amazonaws.com",
+        "tidiochat.com"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "4073052caa97fb833837a77e8e18b3d64d96952b9fe27950e1d39b3067fd8e43",
+      "f0d398e8e8a582b644e38ca525e30290d17f65befba562e7d2a97fffd98b988a",
+      "02f994bf1ce15cf7fe3746e41419abf0b7246b9f07bbd52d2cd4f527194ecb9e",
+      "b9105f66c34edc35722cab4cc9f951bb576c734e9d84b56c3f7c1a56fc2e9e12"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "cliengo.com",
+        "keys": [
+          "4073052caa97fb833837a77e8e18b3d64d96952b9fe27950e1d39b3067fd8e43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "collectcdn.com",
+        "keys": [
+          "f0d398e8e8a582b644e38ca525e30290d17f65befba562e7d2a97fffd98b988a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tars-file-upload.s3.amazonaws.com",
+        "keys": [
+          "02f994bf1ce15cf7fe3746e41419abf0b7246b9f07bbd52d2cd4f527194ecb9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tidiochat.com",
+        "keys": [
+          "b9105f66c34edc35722cab4cc9f951bb576c734e9d84b56c3f7c1a56fc2e9e12"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "api-push.com",
+        "bildirim.com.tr",
+        "bildirimat.com",
+        "bildirnet.com",
+        "braze.com",
+        "cappushino.com",
+        "cdn.p-n.io",
+        "cdn.qgr.ph",
+        "cdn.qgraph.io",
+        "centrnotify.com",
+        "confirmit.com",
+        "conforama-push.com",
+        "controlpush.com",
+        "css.xjsx.lol",
+        "digipush.io",
+        "dpns-notifications.com",
+        "evolok.net",
+        "farteniuson.com",
+        "getnotification.me",
+        "irpush.com",
+        "krakenoptimize.com",
+        "larapush.com",
+        "linker.hr",
+        "luravius.com",
+        "neopush.io",
+        "news2day.me",
+        "notifee-manager.cz",
+        "notifications.ltd",
+        "notifikuj.cz",
+        "notifstation.com",
+        "notix.io",
+        "ntvsw.com",
+        "partishion.com",
+        "pathlime.com",
+        "popmechanic.ru",
+        "propush.net",
+        "pt.appirits.com",
+        "puscomosca.com",
+        "push-engage.com",
+        "push-notifications.top",
+        "push.daksham.in",
+        "push.delivery",
+        "push.rollout.io",
+        "push.world",
+        "pushaddict.com",
+        "pushango.com",
+        "pushassist.com",
+        "pushaya.com",
+        "pushbaza.com",
+        "pushbots.com",
+        "pushbox.info",
+        "pushchev.info",
+        "pushcrew.com",
+        "pushdealer.com",
+        "pushe.co",
+        "pusherapp.com",
+        "pushinpage.com",
+        "pushinstruments.com",
+        "pushio.com",
+        "pushjunky.com",
+        "pushkahouse.com",
+        "pushkaplus.com",
+        "pushloop.io",
+        "pushly.com",
+        "pushmaster-cdn.xyz",
+        "pushmejs.com",
+        "pushnews.eu",
+        "pushnotifications.click",
+        "pushouse.com",
+        "pushowl.com",
+        "pushpad.xyz",
+        "pushpanda.io",
+        "pushpro.io",
+        "pushprofit.ru",
+        "pushprospush.com",
+        "pushpushgo.com",
+        "pushstack.it",
+        "pushtide.com",
+        "pushvip.ru",
+        "pushwhy.com",
+        "pushy.ai",
+        "quarepush.com",
+        "quaruzon.com",
+        "qushad.com",
+        "realpush.media",
+        "realpush.network",
+        "revpusher.com",
+        "sckxppzdm.com",
+        "signaly.co",
+        "snrcdn.net",
+        "spacepush.ru",
+        "system-notify.app",
+        "titanpush.com.br",
+        "topswp.com",
+        "unative.com",
+        "virtualpushplatform.com",
+        "webpush.jp",
+        "webpushr.com",
+        "webpushs.com",
+        "worldpush.co",
+        "wps.relateddigital.com",
+        "wpush.biz",
+        "wpushsdk.com",
+        "xedo.me",
+        "actirinius.com",
+        "aimtell.com",
+        "alertme.news",
+        "aswpsdkeu.com",
+        "aswpsdkus.com",
+        "bildirt.com",
+        "bosspush.com",
+        "browserpusher.com",
+        "cdn-sitegainer.com",
+        "cleverpush.com",
+        "copush.com",
+        "cracataum.com",
+        "danorenius.com",
+        "digitalpush.org",
+        "edrone.me",
+        "face-push.com",
+        "feedify.net",
+        "feraciumus.com",
+        "fernomius.com",
+        "fkondate.com",
+        "foxpush.com",
+        "foxpush.net",
+        "getback.ch",
+        "getpush.net",
+        "getpushmonkey.com",
+        "gravitec.net",
+        "heroesdom.com",
+        "jeeng.com",
+        "kattepush.com",
+        "master-push.com",
+        "master-push.net",
+        "misrepush.com",
+        "moengage.com",
+        "mp3vizor.com",
+        "najva.com",
+        "nativesubscribe.pro",
+        "notifadz.com",
+        "notifpush.com",
+        "notify.solutions",
+        "olgtex.com",
+        "on-push.com",
+        "onepush.app",
+        "provesrc.com",
+        "psh.one",
+        "push-ad.com",
+        "push-free.com",
+        "pushalert.co",
+        "pushbird.com",
+        "pushengage.com",
+        "pushible.com",
+        "pushify.com",
+        "pushwoosh.com",
+        "reprocautious.com",
+        "sendpulse.com",
+        "setrowid.com",
+        "shroughtened.com",
+        "snd.tc",
+        "subscribers.com",
+        "truenat.bid",
+        "truepush.com",
+        "urbanairship.com",
+        "viapush.com",
+        "webpu.sh",
+        "whiteclick.biz",
+        "wnpbdan.bid",
+        "wonderpush.com",
+        "wwclicknews.club",
+        "wwclicktm.club",
+        "xtremepush.com",
+        "mobi24.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5e745f6bb18fd0a56abcdbb2a91d5440d2274289f6d8deefdc7f8522cd967617",
+      "a05fe34df51624c28c15af716b1c98c03f8561ad643089a829912405ffe3587d",
+      "c533ebc8f2197c1b09d5ab8b20e81ba873b7166131a2b64cbb54891f46d747b0",
+      "9121a483c1fdfdaea00abdb92be540febeff498d987777c54398c571fea21fa5",
+      "c0a235ce61a832e4eae2ef2bdf669ab22234f0b1f3d11ace26b71376e92a1443",
+      "015ddc2a80b4b96fb8fd05f47f02aeeb15aefbe2b8e8ffe9ac0e102dfb21fa86",
+      "6de4eb66390cae0c5ee013aabbad2f3ed2e38b3fcfdb84d02edfb6e5a5bfab6a",
+      "6438927ad2e2f22ceb0955f9502c697b702407f1dd03c41fa53215a9c94a7ebb",
+      "f588e8dca73998de32117d3c93a6f599f056f2e802e7fb548a3328902ace4276",
+      "cd6ab6abb296a4807de8be4676f2f883fdbee0f4581fa6c46a04d94d31d839fa",
+      "c560038311d705d0e1f7825e8765e92522e51c4e49f81d0b45bc3a34b6a24edb",
+      "3279cd3575ea2e37f5fec1ff186878e99f6675e2853de33c838537830b213165",
+      "43efd94cdc11edb8a55f0f4c1c7f198e8e167089e562eeef8a535cf415647fa0",
+      "044aa6685304d07ac14282de2fa36437b471d3f2ba23bbff0eda08c3d64b51ff",
+      "450775bd950076f0c6dd6f172441a05ebeb93cd3db0cb229483de8fa11a9543d",
+      "1335055b691c6d94df45453b59ad5853e297eaca9cb493a5646fd72f367a3fcc",
+      "677e9c943bd22c191b28849128221d4e4968da2f7a226f3330f5cc05c6933aed",
+      "f9ebff842fc7302236e2c252dd922f57097512352b21fb7e8dd9711d0aa21593",
+      "b7131cbb6b8c0c06f6608ac50fef1a82b6bca8330919a09ead4d6b45a28f9321",
+      "4aca94053d956158d0f37c9e454b49473910f030becfba3cdc1d54cb997dd3ae",
+      "69b46e5e7ed3078ce5f648afe5231bf989c3b66568bdea46de6900e73ed7c1d6",
+      "8785ec022e5837630ede865e4544178da34e2f565e7d2d1ce9fbd8892dea8ce6",
+      "cdca151528ccda831a9725adfb311eef50c2d46b3f91f54cfb575bc7c5255234",
+      "e8df0ffbed39019928397a160b8bbba876bc0bc7f5f4e86d33d2afc5cbe0a543",
+      "5a28d9cca49c7065aa0bb6e293285f053ea5f498ea69fed303bf26d4b3fc3805",
+      "03d68b76f16df652c7779578783b8755722585fa5a571d65a6778b9551d9b7e6",
+      "5adc65daeedb7fb48cfefef3182e2621239317740f4b9e9051f421029909a1f9",
+      "e3d660a438826a64dfef4ce71973079b6444a3504ef130fc2a92b04e2123daae",
+      "7cc675936093b11be4170849bbc8e0e130a4cba45f96ea296b39e8f4b3d32195",
+      "3dc7349d396d60949484efa324773afc5c2362af5847f9194c297ff3e3d9d872",
+      "5ebb9efebf23c42cf436ea33b225cc68e98adccdbb31796f3ec629b44cf45611",
+      "02c2aad28c9e50580216e91f3bf7e29022b32a5f99e421ef19b19b1a52701149",
+      "1b92b44992d82d42b64e8344d615a129ce7b4b7ae736d38f5249220ad6744b93",
+      "2f16d35e117f919eb2507389f1b1e2e172a40ca4c7e199acdf905b3fc7a0cd54",
+      "2562fe42a2d3e9c00131d82390adcb9feeb9791f37956a5394e64562f15e7f92",
+      "718e0d400e1917719062a83719282ed9c1f4ea00f64e4c0ca60699a9a0855044",
+      "5bfc56fbf067e1d3a5918237e04ce9fe248bad5a04dde3be6443f68605dbf691",
+      "f99e72f4f5d500ab9c3b0885408218bca8e594cd48fc21b4d80c2e988c40b128",
+      "add8a0e845b1988bf8eb1be36d7064388e9d7a930ceccb52f92e3bd17d90bb65",
+      "113ed6c2e851d71a2c2ccb6100a11826245f37cc31243dcd4cde6a8b7fdc0ed6",
+      "9d0e00901ebfd3c3592d89d149e8b9131ece4ed4349649fc0b32b1e0e306a67b",
+      "fdf3b6365bbad62f8b73fe6b6655597ca8a5df5a99d7d4d88a3ab3f384a74761",
+      "966439c4dd494f996cea27373dd32da5cb0c16e667f5f673c411dfa02bb803f9",
+      "1c2dae6dda0b9248bcf53e872d4516325b95dae30d02a4e395531329fa11b832",
+      "f044cb24f89bae6f18c0c7ea88bd3acd0a4d33b5f97e16946f04af4b47c056c7",
+      "d826b467c6c7e3742364f678cedd401ae72dacba4a3664f72be3c41a79f0d7f7",
+      "674f654e20da1fa47a03c9f4723d07f832bfa66374f36c6a7e2a403fbed901ba",
+      "33a377a73b573daa025835dc319c8d4a3978317e3b5382ce055565ae7d4e961e",
+      "729be6b7d15221e083fa4a91aeced15392ac8c7ed3018b6a3d59290cf87da414",
+      "3032ddbd9ba9d74401c121c4b169a7fb823b34f3be84f107c230d4ce8f34df1e",
+      "6d20b4383bd605e36176677ab8eae8bcf449490435c6cddd07e4061c80196a8c",
+      "b0567fd6c9e02acdeeb1ddc9b9bd73cd571eada10c0fa18191dcacb3e038bc84",
+      "df134b7c4c95364b298d6bf65bad869ac29ab19153a5e17f4144f71415e5a5e4",
+      "49c803a765d6256fce25f1b5524d503fcfb57b7e68a70e18d11083e649adc17b",
+      "06885b0eb231c8d437ab6e4952f10ea8333164d83d640ce6baac3a3f8948078b",
+      "b205877a3b7e927db3a8000c78a5e0090b6f8d80e70fd8240e7031f528b46ec2",
+      "6ab0f3be4ed7ba643843331400f0e0d014b43a3d11a10bb42d9e02632adc134b",
+      "4f98856b1f7cf6fd94c5bb71f3adfafe6604ffdaef0b071d8345c3d9abf115a6",
+      "e14c6de30bba2653b82b940e9ca2ea5c5b24df0c0c9da1323dad5bb6c9bfeea1",
+      "9364c8caad79461747439d26e7bc4802291e82939409aac2fed4998dcb798920",
+      "eacc45a490215b46051fb04eb6d17781db189dd5ad40bc72ebff130fe3734ce7",
+      "4017a2bfc3fcd5de3860621982bc6665970f6d0522460f1020b679c8065d3f84",
+      "840a0c0f3e241999014036388e96bddb81a4b1ff15033722a4dd357eb0bf92c7",
+      "9b556acbbb1e341036ba9e0c87613ba711260a3d4594c253180f6e8022dc8ec3",
+      "d0ca7b1d79bcd27e88905472602a6a456fe7ddcf18c02ce6d0e2efee7ddb25a9",
+      "27ad762a1700a75f52dce4ac4f00525b3dd4b4066ed4cc1656c358ff1f5591f2",
+      "7c45a0d8285df67bd89fa667c601adc8199e52e266aa3bdbdb82112459c952ed",
+      "9b8d0d1e6390c972a721541c69789542ded84127ee20a10d84e21ada4d20745e",
+      "ee8347425d82cc51de5aa1d6e229601a593a0264242cfcd91f8f3afc21d09499",
+      "1a41a17bf9b0da3e3c081f3ad926e3ba24f2541cd73956b754c706057dd900a2",
+      "567cd09a540a44dcffec06bfcb8a1a0741c84debc29f66301004c6cb8cc475ce",
+      "f571d498a62f0f4bb3ac2db6102e5b978e0d16cb4a3cd8144fd9b31d3163b0a0",
+      "a169ae37d239be14c7cba6c532e0466e32d262bfc5c61ce3651ad06f3c92b022",
+      "47a045897e4cfe9192c0a224b9429a6726d83a57ae790664228887056c370735",
+      "08e7622397e7985ecab32558cb7f788d8550c822597e5a9227dfa1ae31f038a5",
+      "ddbba7a8bced1689a6d7ac9f6a05bd29f2d2aeaeaf723512d75922a294d630b2",
+      "c72cefe46de4c4fc5a51f91a66ee3ff4e45527f3e03acab82a99c2ab61bde171",
+      "7ec1228ab901ac87b5c70dcfe9845609dedc130e68ec7d66bb8716f45b5c72ff",
+      "dcc5c586302985a8e2d88f4272b07bee98ca7ba1a32deff1bbb6d78349671409",
+      "dc84449e513301406ebed1f2eb46e2b0405148fb988691437ebde1b77060995c",
+      "481efb54b418b39f9d088e5be1b42f2ca520a2c7d8184aa40b545e477b0187ed",
+      "ffcc9a63cabfe58bc47ed3666bb506110311c44902f0d4866d11d4126ccd3c66",
+      "6ac899fbf31bcc00a47473fd8e67627346c6241367ca19865e9008fdaa25b5e2",
+      "d50257e241e30b26efc9d4dcd19eaba99b67ce06393b5091d5708964eec9c7cc",
+      "eae51336f333d16f0bb2f525f05f1b089e69b46ba25c692759178da67f16d8e5",
+      "c8779e091d164a60db61b60d95d7d63bd4d03a2754029b323ac4178455e3ff52",
+      "2625085d111606d8fb436f923a04704ff32b91e00a809c3670670a2756cede03",
+      "5050628d4f4e88712d3edfbcd2290a6837bdc70b84d25dd42d7855975f85f37a",
+      "c357e0eaa59075dc597f465614ed5663e27a2fc01a38715325297e1c25ff72be",
+      "59ff55ca8f19760543221136572265904a0294f739cbce3a47816593faff36ea",
+      "fea104c7eab53deb722ed69c47cb584262b747e736228191a68adfb662b964b2",
+      "306fb92bdafe39171d2b27c84c9eee888e074bf53a1e34b39b003a36a72adb14",
+      "8eaeacaac87d7c4d8a76524481825e593492ef21397489c798c1a4d9141b17ee",
+      "ab1242204a0209f4da65f35a6981746fc1ebfd702e877dbed78cfaf2f6e2e49a",
+      "35987bd1970c4b3a7c658edf4594b7b3972e91fd8c0bf0308873feb03bb0a78c",
+      "d2c0410f621b15d3ca8db86b7457350e0159afcbefe5a093eac37920bb9c1efe",
+      "2382d0590ba5a13defa7f5bd8d9e1fc7fbc2404b9a21e381ee4ed6d4b2b38186",
+      "9bbd391756e82a18f137f1d0b220f76c1d24f19c50a462e80c6c01ceb1adaf1a",
+      "f2fef927942bbde3e14b07e04f675e8609491879deebd1dbe48343e6c04a4bc7",
+      "df8cc89b99f8db7d905ea71caa0c1ccdef7d0108f6da192b4bd4620ca032a79d",
+      "bac3ca409fef001171fa05166ad6c7fb6f4819e57488bd6a36d244ee2862869e",
+      "2cdc79186efd9d679b48abf9d1528ed5cb162a71e5c558b74a3e06f6ccd8ad54",
+      "8d43ccc36e7b779180c514a1884ccd239ae96e8f472adec27fcd54a0482b0d45",
+      "4d995d64170dc164843c7f547f8161edea40db3ab2cb92c738956685d65bc5f6",
+      "24f7d843b6156a56f570a6b5ec171e8f6e2d0192064fbae371de10f1f929dce2",
+      "57ad7a0ac076692b4d6ec33b4e65a97ad7d920823681ff8f4c7436314eab9bb7",
+      "1b226d808e115fc731d344908320148f4e35ab6e5e264b27b9b1b4daa815f603",
+      "093723397b0c267c7cfbd5c75042f6f28d26b6a9db4a36ae8a5a60722d427a3a",
+      "6d06d4b86abe8286c54450cd6432c66e4219e64b27b4d6fccae758382423302e",
+      "03738e672973ad51e325de0e3d9521dd12d2ef88866cae186315ba8b564d6bdf",
+      "a875e2579ff4f06e458ec480762e14efef2dfe391f8e69518f1f832fa56aae65",
+      "8c9b1387b730c319c56c97657325704e1775a1d6affca04e6dd70d0caa7dbb70",
+      "7e81f172392440bd6b54255152609a4a7e5df2eb289bf23501de506a9e18a785",
+      "f2f0ab0d165e71b3bd7f3b56e26a7076dbce07ba9dfc5bb0ac1628552e5a286e",
+      "3a945bddfb5b406639c5166626e94dc0465ef4efa1b005cdd617ba2b741727aa",
+      "c14af9f9bd09c0b11410439334a24fb76a5f82ab58343c1ce9dabc97f4afb58a",
+      "9adeb1661c17c44d6ff769dc3bac6ce90e90265f3810d7e3b4ee6aeead45d65d",
+      "86776ea4599245f560cca04c42693a29561c05d5236882add24a318014fe72e2",
+      "dec0fb005043f3f497aac832e4e54b427cd16b66d11ab0a5dde3cc556a539b4b",
+      "18f28d598ad27422faf9cfc7abcaaf6652deee5c9260146abb5467c91a43d75a",
+      "7a446b3a2c9798476ae77bd0478c11db2a673f7b9a05ba2f7ca3178a5403e407",
+      "88cbfa7015b1ecf98028c68e352dd9a157d3b92e39081104b5ea6d7bdb736b6e",
+      "fd00b0f42479efb8fa32080833cb37e52e2d21edf6c0b085b269dee98ecff496",
+      "21820897759ced0b34899e8325e094584cd0cf678da141ecb558266931f3c5cf",
+      "93ddf4a8bbf4cbc9636b328629b43a4a2391973c716c077faa7391f9b12e29aa",
+      "cc242f535595252bd657a120baa64a02e2e0eea41dc6b203291fac5c0532ee06",
+      "7277db1920b4bccaae76786ff10032ff46f80869dd32a84afbb1522f891f4146",
+      "d3b0069258b9a8c25a3f8c79ef65b8177ac9664d6b58bb6b4f07190d133e8c0c",
+      "beb1bf55aa07b2d36b7a0e2988b44e9a1e5d256833dd69645e33de7bdc236553",
+      "d6bd50732e1df0907f988cb41676ae30a774a5e6c280c37e815d16f416f68a50",
+      "f5bb205e85f908c7c82e3cc464204a7a164d00999dc3180747d0ea3d3da0cc98",
+      "7b2929e529620ac398c049d94495a6faf2ce107ed1d1a6c31d4a3d0ef8c14be0",
+      "c19836493bda5f1a9dffff4dac4eeda32e218745f5be1894e456825c2b6b0e7e",
+      "0bb4033445104c159cbeeee60609ee716d0a3004e6b00f0c713d3d111d96f254",
+      "90110733d2016f419c3700c787a1f6b7b45b36da70381c14d7344f331374a320",
+      "98fe03ad4c7caed648f3f1b3346bb3c868282f4a58a479c9ad00389cccba668a",
+      "978dad9bdd0ecd738442cf3c07e276027037e4b7781c0a76c9dca8927b48210e",
+      "16d44df3e9522c1338974bf105bd1d545cef6ac8f0cbc65b388027a22712f31c",
+      "91d43e6f2b1a85f2d7105fab624478b9b7e68931dece22c3a625583aca2ab9a9",
+      "0092d05f5ea95775d96ce0f37bf478aa02611a9a82dbd035311418cc11de9b0f",
+      "1346744ccc32e0c9bc394df81aec18512c2a98a6d08ee4a17a3245287a72e062",
+      "4db0db50059c3bccc8b69cd22d56f60c9273ffe0f54164b7bfbfe3655e848f6f",
+      "e2cd96c35b5159411e945ff589596ff6dc61e67217be465b6a58ef4b544b6695",
+      "c89b1a0c4d910c07e1e8e18122943a74428d9d348347bcef6fd88aeb2b386ec4",
+      "06cc253bfa832b019914134b31dffbd96050f46134fabb24a075e44d0c97b737",
+      "940a865178a7be9e7473aeb065161f168168b59ee03fbb4ec16bc0640bb31978",
+      "7f7916354f12f2e1cae59db0318feea4f5ea5379cbd15ac0306b5bf5a7b25065",
+      "bf1484a35945847b92447f75cdf39c65d54183451c6e51d2aabf2f72781edaea",
+      "f61622fa7966839942f0887a7edcc64590dfca1281fd3be9e40c8ba325ea6fb5",
+      "29e496437f637794cecc3b9d744833547d0b53b8a4f29aeb22ac1070edfed588",
+      "7491b5a739aed680110ce0ecf9050ffc6b88671a084421598ce3f5fb9c7bbdc2",
+      "070b68cb19663e16cc5c38a34f280fdbe8657106302f211bf968adc0159e7d09",
+      "bf298d3e5888d3ba6e9e0f1c8c624ff2230e4ad2afbddec910e64a9e6b98e9e2",
+      "ef2254223c4118afa950e48578240f49da3da08ff9e18c47d120f12f62363a55",
+      "fbc4aeb6babf37a793bc5dccf196ec05e1e8ad808f4f5be218fd07777caa7976",
+      "8eb19896d8932bce9b90e1302e8707c3d61623cb58e1ebf518aeb8be075e45d0",
+      "a3e4261e8f886e83c7eb07b63796a2e575b4e4c079493d1587867e160b15fa16",
+      "564fde720dd04a4c53833bb5150ea815a5fa1a4190bf8d8277f53f496d46165a",
+      "b4c79f03c846d861a610cd44a9b7fdc4b059861621bfb526bc8d5ede43e2c3de",
+      "d34043a8ade2bea6f7c65898c9a060ae1586eab8b750deb068345cb2055d8273",
+      "bad0984a77bbdd0496f434be2e512873dec70d910a1dad4f5cda7e1b8ede0989",
+      "5659772869e0bca2afb1e567905e20f3224677d081d7dde825d33c5efa585572",
+      "16156c7b4f6ec291fa15d81d4a61e5667e2ab8e7e3f9a62baa37af62d7d556f9",
+      "be0aae107caa55e3406d8f805bdda850acb53b67c39fa006fbaa49f7bd42b30b",
+      "9e7c7ede3fe73d28d018c92646dc6d1d7859c58f975e95651f997be5e6bf081f",
+      "ddfcc448efee726782558c7926d617ecb6c3ecfeb6df9d3953e8e621d1e8d047",
+      "5c0062f4c1e03516d280e070810d4fc8f4c0a0b838b871733a326367d96069e8",
+      "42cf138a4acc486110cd1c5e400f694521acc1db5b6876f4ec63c71c89aed146",
+      "2d28d27b3c7913d9f777c9817529db80bccd21b9c6c756fc9f0a7b9f269a34bd",
+      "d36504bfd124fa91e5579cd29bafa6c294089406469d5f63ba79a4319d4276ca",
+      "82c6a23f820e9c0a27715e0ce294050bd1849ef2212ecef174f5cbc3fc2b621a",
+      "bb75f3ceb8d274ac3ee52c0c092c75819f452273eb4376e1e7545ef37cce7b89",
+      "1321ce71fcee915ee4b8e348bb2be9751584f9e360b0e19cd85c075fc897d429",
+      "0be0f45b23f6a048613040ef151a5e1c68d4c064154b54939eeb3a3012bf37a3"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "api-push.com",
+        "keys": [
+          "5e745f6bb18fd0a56abcdbb2a91d5440d2274289f6d8deefdc7f8522cd967617"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bildirim.com.tr",
+        "keys": [
+          "a05fe34df51624c28c15af716b1c98c03f8561ad643089a829912405ffe3587d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bildirimat.com",
+        "keys": [
+          "c533ebc8f2197c1b09d5ab8b20e81ba873b7166131a2b64cbb54891f46d747b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bildirnet.com",
+        "keys": [
+          "9121a483c1fdfdaea00abdb92be540febeff498d987777c54398c571fea21fa5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "braze.com",
+        "keys": [
+          "c0a235ce61a832e4eae2ef2bdf669ab22234f0b1f3d11ace26b71376e92a1443"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cappushino.com",
+        "keys": [
+          "015ddc2a80b4b96fb8fd05f47f02aeeb15aefbe2b8e8ffe9ac0e102dfb21fa86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.p-n.io",
+        "keys": [
+          "6de4eb66390cae0c5ee013aabbad2f3ed2e38b3fcfdb84d02edfb6e5a5bfab6a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.qgr.ph",
+        "keys": [
+          "6438927ad2e2f22ceb0955f9502c697b702407f1dd03c41fa53215a9c94a7ebb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.qgraph.io",
+        "keys": [
+          "f588e8dca73998de32117d3c93a6f599f056f2e802e7fb548a3328902ace4276"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "centrnotify.com",
+        "keys": [
+          "cd6ab6abb296a4807de8be4676f2f883fdbee0f4581fa6c46a04d94d31d839fa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "confirmit.com",
+        "keys": [
+          "c560038311d705d0e1f7825e8765e92522e51c4e49f81d0b45bc3a34b6a24edb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "conforama-push.com",
+        "keys": [
+          "3279cd3575ea2e37f5fec1ff186878e99f6675e2853de33c838537830b213165"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "controlpush.com",
+        "keys": [
+          "43efd94cdc11edb8a55f0f4c1c7f198e8e167089e562eeef8a535cf415647fa0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "css.xjsx.lol",
+        "keys": [
+          "044aa6685304d07ac14282de2fa36437b471d3f2ba23bbff0eda08c3d64b51ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "digipush.io",
+        "keys": [
+          "450775bd950076f0c6dd6f172441a05ebeb93cd3db0cb229483de8fa11a9543d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dpns-notifications.com",
+        "keys": [
+          "1335055b691c6d94df45453b59ad5853e297eaca9cb493a5646fd72f367a3fcc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "evolok.net",
+        "keys": [
+          "677e9c943bd22c191b28849128221d4e4968da2f7a226f3330f5cc05c6933aed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "farteniuson.com",
+        "keys": [
+          "f9ebff842fc7302236e2c252dd922f57097512352b21fb7e8dd9711d0aa21593"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getnotification.me",
+        "keys": [
+          "b7131cbb6b8c0c06f6608ac50fef1a82b6bca8330919a09ead4d6b45a28f9321"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irpush.com",
+        "keys": [
+          "4aca94053d956158d0f37c9e454b49473910f030becfba3cdc1d54cb997dd3ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "krakenoptimize.com",
+        "keys": [
+          "69b46e5e7ed3078ce5f648afe5231bf989c3b66568bdea46de6900e73ed7c1d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "larapush.com",
+        "keys": [
+          "8785ec022e5837630ede865e4544178da34e2f565e7d2d1ce9fbd8892dea8ce6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "linker.hr",
+        "keys": [
+          "cdca151528ccda831a9725adfb311eef50c2d46b3f91f54cfb575bc7c5255234"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "luravius.com",
+        "keys": [
+          "e8df0ffbed39019928397a160b8bbba876bc0bc7f5f4e86d33d2afc5cbe0a543"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "neopush.io",
+        "keys": [
+          "5a28d9cca49c7065aa0bb6e293285f053ea5f498ea69fed303bf26d4b3fc3805"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "news2day.me",
+        "keys": [
+          "03d68b76f16df652c7779578783b8755722585fa5a571d65a6778b9551d9b7e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifee-manager.cz",
+        "keys": [
+          "5adc65daeedb7fb48cfefef3182e2621239317740f4b9e9051f421029909a1f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifications.ltd",
+        "keys": [
+          "e3d660a438826a64dfef4ce71973079b6444a3504ef130fc2a92b04e2123daae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifikuj.cz",
+        "keys": [
+          "7cc675936093b11be4170849bbc8e0e130a4cba45f96ea296b39e8f4b3d32195"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifstation.com",
+        "keys": [
+          "3dc7349d396d60949484efa324773afc5c2362af5847f9194c297ff3e3d9d872"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notix.io",
+        "keys": [
+          "5ebb9efebf23c42cf436ea33b225cc68e98adccdbb31796f3ec629b44cf45611"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ntvsw.com",
+        "keys": [
+          "02c2aad28c9e50580216e91f3bf7e29022b32a5f99e421ef19b19b1a52701149"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partishion.com",
+        "keys": [
+          "1b92b44992d82d42b64e8344d615a129ce7b4b7ae736d38f5249220ad6744b93"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pathlime.com",
+        "keys": [
+          "2f16d35e117f919eb2507389f1b1e2e172a40ca4c7e199acdf905b3fc7a0cd54"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popmechanic.ru",
+        "keys": [
+          "2562fe42a2d3e9c00131d82390adcb9feeb9791f37956a5394e64562f15e7f92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "propush.net",
+        "keys": [
+          "718e0d400e1917719062a83719282ed9c1f4ea00f64e4c0ca60699a9a0855044"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pt.appirits.com",
+        "keys": [
+          "5bfc56fbf067e1d3a5918237e04ce9fe248bad5a04dde3be6443f68605dbf691"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "puscomosca.com",
+        "keys": [
+          "f99e72f4f5d500ab9c3b0885408218bca8e594cd48fc21b4d80c2e988c40b128"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push-engage.com",
+        "keys": [
+          "add8a0e845b1988bf8eb1be36d7064388e9d7a930ceccb52f92e3bd17d90bb65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push-notifications.top",
+        "keys": [
+          "113ed6c2e851d71a2c2ccb6100a11826245f37cc31243dcd4cde6a8b7fdc0ed6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.daksham.in",
+        "keys": [
+          "9d0e00901ebfd3c3592d89d149e8b9131ece4ed4349649fc0b32b1e0e306a67b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.delivery",
+        "keys": [
+          "fdf3b6365bbad62f8b73fe6b6655597ca8a5df5a99d7d4d88a3ab3f384a74761"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.rollout.io",
+        "keys": [
+          "966439c4dd494f996cea27373dd32da5cb0c16e667f5f673c411dfa02bb803f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.world",
+        "keys": [
+          "1c2dae6dda0b9248bcf53e872d4516325b95dae30d02a4e395531329fa11b832"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushaddict.com",
+        "keys": [
+          "f044cb24f89bae6f18c0c7ea88bd3acd0a4d33b5f97e16946f04af4b47c056c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushango.com",
+        "keys": [
+          "d826b467c6c7e3742364f678cedd401ae72dacba4a3664f72be3c41a79f0d7f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushassist.com",
+        "keys": [
+          "674f654e20da1fa47a03c9f4723d07f832bfa66374f36c6a7e2a403fbed901ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushaya.com",
+        "keys": [
+          "33a377a73b573daa025835dc319c8d4a3978317e3b5382ce055565ae7d4e961e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushbaza.com",
+        "keys": [
+          "729be6b7d15221e083fa4a91aeced15392ac8c7ed3018b6a3d59290cf87da414"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushbots.com",
+        "keys": [
+          "3032ddbd9ba9d74401c121c4b169a7fb823b34f3be84f107c230d4ce8f34df1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushbox.info",
+        "keys": [
+          "6d20b4383bd605e36176677ab8eae8bcf449490435c6cddd07e4061c80196a8c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushchev.info",
+        "keys": [
+          "b0567fd6c9e02acdeeb1ddc9b9bd73cd571eada10c0fa18191dcacb3e038bc84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushcrew.com",
+        "keys": [
+          "df134b7c4c95364b298d6bf65bad869ac29ab19153a5e17f4144f71415e5a5e4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushdealer.com",
+        "keys": [
+          "49c803a765d6256fce25f1b5524d503fcfb57b7e68a70e18d11083e649adc17b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushe.co",
+        "keys": [
+          "06885b0eb231c8d437ab6e4952f10ea8333164d83d640ce6baac3a3f8948078b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pusherapp.com",
+        "keys": [
+          "b205877a3b7e927db3a8000c78a5e0090b6f8d80e70fd8240e7031f528b46ec2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushinpage.com",
+        "keys": [
+          "6ab0f3be4ed7ba643843331400f0e0d014b43a3d11a10bb42d9e02632adc134b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushinstruments.com",
+        "keys": [
+          "4f98856b1f7cf6fd94c5bb71f3adfafe6604ffdaef0b071d8345c3d9abf115a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushio.com",
+        "keys": [
+          "e14c6de30bba2653b82b940e9ca2ea5c5b24df0c0c9da1323dad5bb6c9bfeea1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushjunky.com",
+        "keys": [
+          "9364c8caad79461747439d26e7bc4802291e82939409aac2fed4998dcb798920"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushkahouse.com",
+        "keys": [
+          "eacc45a490215b46051fb04eb6d17781db189dd5ad40bc72ebff130fe3734ce7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushkaplus.com",
+        "keys": [
+          "4017a2bfc3fcd5de3860621982bc6665970f6d0522460f1020b679c8065d3f84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushloop.io",
+        "keys": [
+          "840a0c0f3e241999014036388e96bddb81a4b1ff15033722a4dd357eb0bf92c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushly.com",
+        "keys": [
+          "9b556acbbb1e341036ba9e0c87613ba711260a3d4594c253180f6e8022dc8ec3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushmaster-cdn.xyz",
+        "keys": [
+          "d0ca7b1d79bcd27e88905472602a6a456fe7ddcf18c02ce6d0e2efee7ddb25a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushmejs.com",
+        "keys": [
+          "27ad762a1700a75f52dce4ac4f00525b3dd4b4066ed4cc1656c358ff1f5591f2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushnews.eu",
+        "keys": [
+          "7c45a0d8285df67bd89fa667c601adc8199e52e266aa3bdbdb82112459c952ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushnotifications.click",
+        "keys": [
+          "9b8d0d1e6390c972a721541c69789542ded84127ee20a10d84e21ada4d20745e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushouse.com",
+        "keys": [
+          "ee8347425d82cc51de5aa1d6e229601a593a0264242cfcd91f8f3afc21d09499"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushowl.com",
+        "keys": [
+          "1a41a17bf9b0da3e3c081f3ad926e3ba24f2541cd73956b754c706057dd900a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushpad.xyz",
+        "keys": [
+          "567cd09a540a44dcffec06bfcb8a1a0741c84debc29f66301004c6cb8cc475ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushpanda.io",
+        "keys": [
+          "f571d498a62f0f4bb3ac2db6102e5b978e0d16cb4a3cd8144fd9b31d3163b0a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushpro.io",
+        "keys": [
+          "a169ae37d239be14c7cba6c532e0466e32d262bfc5c61ce3651ad06f3c92b022"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushprofit.ru",
+        "keys": [
+          "47a045897e4cfe9192c0a224b9429a6726d83a57ae790664228887056c370735"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushprospush.com",
+        "keys": [
+          "08e7622397e7985ecab32558cb7f788d8550c822597e5a9227dfa1ae31f038a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushpushgo.com",
+        "keys": [
+          "ddbba7a8bced1689a6d7ac9f6a05bd29f2d2aeaeaf723512d75922a294d630b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushstack.it",
+        "keys": [
+          "c72cefe46de4c4fc5a51f91a66ee3ff4e45527f3e03acab82a99c2ab61bde171"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushtide.com",
+        "keys": [
+          "7ec1228ab901ac87b5c70dcfe9845609dedc130e68ec7d66bb8716f45b5c72ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushvip.ru",
+        "keys": [
+          "dcc5c586302985a8e2d88f4272b07bee98ca7ba1a32deff1bbb6d78349671409"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushwhy.com",
+        "keys": [
+          "dc84449e513301406ebed1f2eb46e2b0405148fb988691437ebde1b77060995c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushy.ai",
+        "keys": [
+          "481efb54b418b39f9d088e5be1b42f2ca520a2c7d8184aa40b545e477b0187ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quarepush.com",
+        "keys": [
+          "ffcc9a63cabfe58bc47ed3666bb506110311c44902f0d4866d11d4126ccd3c66"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quaruzon.com",
+        "keys": [
+          "6ac899fbf31bcc00a47473fd8e67627346c6241367ca19865e9008fdaa25b5e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "qushad.com",
+        "keys": [
+          "d50257e241e30b26efc9d4dcd19eaba99b67ce06393b5091d5708964eec9c7cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "realpush.media",
+        "keys": [
+          "eae51336f333d16f0bb2f525f05f1b089e69b46ba25c692759178da67f16d8e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "realpush.network",
+        "keys": [
+          "c8779e091d164a60db61b60d95d7d63bd4d03a2754029b323ac4178455e3ff52"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "revpusher.com",
+        "keys": [
+          "2625085d111606d8fb436f923a04704ff32b91e00a809c3670670a2756cede03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sckxppzdm.com",
+        "keys": [
+          "5050628d4f4e88712d3edfbcd2290a6837bdc70b84d25dd42d7855975f85f37a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "signaly.co",
+        "keys": [
+          "c357e0eaa59075dc597f465614ed5663e27a2fc01a38715325297e1c25ff72be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "snrcdn.net",
+        "keys": [
+          "59ff55ca8f19760543221136572265904a0294f739cbce3a47816593faff36ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spacepush.ru",
+        "keys": [
+          "fea104c7eab53deb722ed69c47cb584262b747e736228191a68adfb662b964b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "system-notify.app",
+        "keys": [
+          "306fb92bdafe39171d2b27c84c9eee888e074bf53a1e34b39b003a36a72adb14"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "titanpush.com.br",
+        "keys": [
+          "8eaeacaac87d7c4d8a76524481825e593492ef21397489c798c1a4d9141b17ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "topswp.com",
+        "keys": [
+          "ab1242204a0209f4da65f35a6981746fc1ebfd702e877dbed78cfaf2f6e2e49a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unative.com",
+        "keys": [
+          "35987bd1970c4b3a7c658edf4594b7b3972e91fd8c0bf0308873feb03bb0a78c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "virtualpushplatform.com",
+        "keys": [
+          "d2c0410f621b15d3ca8db86b7457350e0159afcbefe5a093eac37920bb9c1efe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webpush.jp",
+        "keys": [
+          "2382d0590ba5a13defa7f5bd8d9e1fc7fbc2404b9a21e381ee4ed6d4b2b38186"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webpushr.com",
+        "keys": [
+          "9bbd391756e82a18f137f1d0b220f76c1d24f19c50a462e80c6c01ceb1adaf1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webpushs.com",
+        "keys": [
+          "f2fef927942bbde3e14b07e04f675e8609491879deebd1dbe48343e6c04a4bc7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "worldpush.co",
+        "keys": [
+          "df8cc89b99f8db7d905ea71caa0c1ccdef7d0108f6da192b4bd4620ca032a79d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wps.relateddigital.com",
+        "keys": [
+          "bac3ca409fef001171fa05166ad6c7fb6f4819e57488bd6a36d244ee2862869e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wpush.biz",
+        "keys": [
+          "2cdc79186efd9d679b48abf9d1528ed5cb162a71e5c558b74a3e06f6ccd8ad54"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wpushsdk.com",
+        "keys": [
+          "8d43ccc36e7b779180c514a1884ccd239ae96e8f472adec27fcd54a0482b0d45"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xedo.me",
+        "keys": [
+          "4d995d64170dc164843c7f547f8161edea40db3ab2cb92c738956685d65bc5f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "actirinius.com",
+        "keys": [
+          "24f7d843b6156a56f570a6b5ec171e8f6e2d0192064fbae371de10f1f929dce2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aimtell.com",
+        "keys": [
+          "57ad7a0ac076692b4d6ec33b4e65a97ad7d920823681ff8f4c7436314eab9bb7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alertme.news",
+        "keys": [
+          "1b226d808e115fc731d344908320148f4e35ab6e5e264b27b9b1b4daa815f603"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aswpsdkeu.com",
+        "keys": [
+          "093723397b0c267c7cfbd5c75042f6f28d26b6a9db4a36ae8a5a60722d427a3a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aswpsdkus.com",
+        "keys": [
+          "6d06d4b86abe8286c54450cd6432c66e4219e64b27b4d6fccae758382423302e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bildirt.com",
+        "keys": [
+          "03738e672973ad51e325de0e3d9521dd12d2ef88866cae186315ba8b564d6bdf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bosspush.com",
+        "keys": [
+          "a875e2579ff4f06e458ec480762e14efef2dfe391f8e69518f1f832fa56aae65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "browserpusher.com",
+        "keys": [
+          "8c9b1387b730c319c56c97657325704e1775a1d6affca04e6dd70d0caa7dbb70"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn-sitegainer.com",
+        "keys": [
+          "7e81f172392440bd6b54255152609a4a7e5df2eb289bf23501de506a9e18a785"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cleverpush.com",
+        "keys": [
+          "f2f0ab0d165e71b3bd7f3b56e26a7076dbce07ba9dfc5bb0ac1628552e5a286e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "copush.com",
+        "keys": [
+          "3a945bddfb5b406639c5166626e94dc0465ef4efa1b005cdd617ba2b741727aa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cracataum.com",
+        "keys": [
+          "c14af9f9bd09c0b11410439334a24fb76a5f82ab58343c1ce9dabc97f4afb58a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "danorenius.com",
+        "keys": [
+          "9adeb1661c17c44d6ff769dc3bac6ce90e90265f3810d7e3b4ee6aeead45d65d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "digitalpush.org",
+        "keys": [
+          "86776ea4599245f560cca04c42693a29561c05d5236882add24a318014fe72e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "edrone.me",
+        "keys": [
+          "dec0fb005043f3f497aac832e4e54b427cd16b66d11ab0a5dde3cc556a539b4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "face-push.com",
+        "keys": [
+          "18f28d598ad27422faf9cfc7abcaaf6652deee5c9260146abb5467c91a43d75a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "feedify.net",
+        "keys": [
+          "7a446b3a2c9798476ae77bd0478c11db2a673f7b9a05ba2f7ca3178a5403e407"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "feraciumus.com",
+        "keys": [
+          "88cbfa7015b1ecf98028c68e352dd9a157d3b92e39081104b5ea6d7bdb736b6e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fernomius.com",
+        "keys": [
+          "fd00b0f42479efb8fa32080833cb37e52e2d21edf6c0b085b269dee98ecff496"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fkondate.com",
+        "keys": [
+          "21820897759ced0b34899e8325e094584cd0cf678da141ecb558266931f3c5cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "foxpush.com",
+        "keys": [
+          "93ddf4a8bbf4cbc9636b328629b43a4a2391973c716c077faa7391f9b12e29aa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "foxpush.net",
+        "keys": [
+          "cc242f535595252bd657a120baa64a02e2e0eea41dc6b203291fac5c0532ee06"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getback.ch",
+        "keys": [
+          "7277db1920b4bccaae76786ff10032ff46f80869dd32a84afbb1522f891f4146"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getpush.net",
+        "keys": [
+          "d3b0069258b9a8c25a3f8c79ef65b8177ac9664d6b58bb6b4f07190d133e8c0c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getpushmonkey.com",
+        "keys": [
+          "beb1bf55aa07b2d36b7a0e2988b44e9a1e5d256833dd69645e33de7bdc236553"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gravitec.net",
+        "keys": [
+          "d6bd50732e1df0907f988cb41676ae30a774a5e6c280c37e815d16f416f68a50"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "heroesdom.com",
+        "keys": [
+          "f5bb205e85f908c7c82e3cc464204a7a164d00999dc3180747d0ea3d3da0cc98"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jeeng.com",
+        "keys": [
+          "7b2929e529620ac398c049d94495a6faf2ce107ed1d1a6c31d4a3d0ef8c14be0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kattepush.com",
+        "keys": [
+          "c19836493bda5f1a9dffff4dac4eeda32e218745f5be1894e456825c2b6b0e7e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "master-push.com",
+        "keys": [
+          "0bb4033445104c159cbeeee60609ee716d0a3004e6b00f0c713d3d111d96f254"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "master-push.net",
+        "keys": [
+          "90110733d2016f419c3700c787a1f6b7b45b36da70381c14d7344f331374a320"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "misrepush.com",
+        "keys": [
+          "98fe03ad4c7caed648f3f1b3346bb3c868282f4a58a479c9ad00389cccba668a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "moengage.com",
+        "keys": [
+          "978dad9bdd0ecd738442cf3c07e276027037e4b7781c0a76c9dca8927b48210e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mp3vizor.com",
+        "keys": [
+          "16d44df3e9522c1338974bf105bd1d545cef6ac8f0cbc65b388027a22712f31c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "najva.com",
+        "keys": [
+          "91d43e6f2b1a85f2d7105fab624478b9b7e68931dece22c3a625583aca2ab9a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nativesubscribe.pro",
+        "keys": [
+          "0092d05f5ea95775d96ce0f37bf478aa02611a9a82dbd035311418cc11de9b0f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifadz.com",
+        "keys": [
+          "1346744ccc32e0c9bc394df81aec18512c2a98a6d08ee4a17a3245287a72e062"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifpush.com",
+        "keys": [
+          "4db0db50059c3bccc8b69cd22d56f60c9273ffe0f54164b7bfbfe3655e848f6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notify.solutions",
+        "keys": [
+          "e2cd96c35b5159411e945ff589596ff6dc61e67217be465b6a58ef4b544b6695"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "olgtex.com",
+        "keys": [
+          "c89b1a0c4d910c07e1e8e18122943a74428d9d348347bcef6fd88aeb2b386ec4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "on-push.com",
+        "keys": [
+          "06cc253bfa832b019914134b31dffbd96050f46134fabb24a075e44d0c97b737"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onepush.app",
+        "keys": [
+          "940a865178a7be9e7473aeb065161f168168b59ee03fbb4ec16bc0640bb31978"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "provesrc.com",
+        "keys": [
+          "7f7916354f12f2e1cae59db0318feea4f5ea5379cbd15ac0306b5bf5a7b25065"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "psh.one",
+        "keys": [
+          "bf1484a35945847b92447f75cdf39c65d54183451c6e51d2aabf2f72781edaea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push-ad.com",
+        "keys": [
+          "f61622fa7966839942f0887a7edcc64590dfca1281fd3be9e40c8ba325ea6fb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push-free.com",
+        "keys": [
+          "29e496437f637794cecc3b9d744833547d0b53b8a4f29aeb22ac1070edfed588"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushalert.co",
+        "keys": [
+          "7491b5a739aed680110ce0ecf9050ffc6b88671a084421598ce3f5fb9c7bbdc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushbird.com",
+        "keys": [
+          "070b68cb19663e16cc5c38a34f280fdbe8657106302f211bf968adc0159e7d09"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushengage.com",
+        "keys": [
+          "bf298d3e5888d3ba6e9e0f1c8c624ff2230e4ad2afbddec910e64a9e6b98e9e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushible.com",
+        "keys": [
+          "ef2254223c4118afa950e48578240f49da3da08ff9e18c47d120f12f62363a55"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushify.com",
+        "keys": [
+          "fbc4aeb6babf37a793bc5dccf196ec05e1e8ad808f4f5be218fd07777caa7976"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushwoosh.com",
+        "keys": [
+          "8eb19896d8932bce9b90e1302e8707c3d61623cb58e1ebf518aeb8be075e45d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reprocautious.com",
+        "keys": [
+          "a3e4261e8f886e83c7eb07b63796a2e575b4e4c079493d1587867e160b15fa16"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sendpulse.com",
+        "keys": [
+          "564fde720dd04a4c53833bb5150ea815a5fa1a4190bf8d8277f53f496d46165a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "setrowid.com",
+        "keys": [
+          "b4c79f03c846d861a610cd44a9b7fdc4b059861621bfb526bc8d5ede43e2c3de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shroughtened.com",
+        "keys": [
+          "d34043a8ade2bea6f7c65898c9a060ae1586eab8b750deb068345cb2055d8273"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "snd.tc",
+        "keys": [
+          "bad0984a77bbdd0496f434be2e512873dec70d910a1dad4f5cda7e1b8ede0989"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "subscribers.com",
+        "keys": [
+          "5659772869e0bca2afb1e567905e20f3224677d081d7dde825d33c5efa585572"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "truenat.bid",
+        "keys": [
+          "16156c7b4f6ec291fa15d81d4a61e5667e2ab8e7e3f9a62baa37af62d7d556f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "truepush.com",
+        "keys": [
+          "be0aae107caa55e3406d8f805bdda850acb53b67c39fa006fbaa49f7bd42b30b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "urbanairship.com",
+        "keys": [
+          "9e7c7ede3fe73d28d018c92646dc6d1d7859c58f975e95651f997be5e6bf081f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "viapush.com",
+        "keys": [
+          "ddfcc448efee726782558c7926d617ecb6c3ecfeb6df9d3953e8e621d1e8d047"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webpu.sh",
+        "keys": [
+          "5c0062f4c1e03516d280e070810d4fc8f4c0a0b838b871733a326367d96069e8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "whiteclick.biz",
+        "keys": [
+          "42cf138a4acc486110cd1c5e400f694521acc1db5b6876f4ec63c71c89aed146"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wnpbdan.bid",
+        "keys": [
+          "2d28d27b3c7913d9f777c9817529db80bccd21b9c6c756fc9f0a7b9f269a34bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wonderpush.com",
+        "keys": [
+          "d36504bfd124fa91e5579cd29bafa6c294089406469d5f63ba79a4319d4276ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wwclicknews.club",
+        "keys": [
+          "82c6a23f820e9c0a27715e0ce294050bd1849ef2212ecef174f5cbc3fc2b621a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wwclicktm.club",
+        "keys": [
+          "bb75f3ceb8d274ac3ee52c0c092c75819f452273eb4376e1e7545ef37cce7b89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xtremepush.com",
+        "keys": [
+          "1321ce71fcee915ee4b8e348bb2be9751584f9e360b0e19cd85c075fc897d429"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mobi24.net",
+        "keys": [
+          "0be0f45b23f6a048613040ef151a5e1c68d4c064154b54939eeb3a3012bf37a3"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||contentsitesrv.com/js/push/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7fc34a063531e92a6330ced0b7f2a9f87bb2bcc05ecf1cd53105fb3397e8477f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||jubi.ai/buttonbot/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bf834533b478f69a7d25009a38848f9658c35c5ab4ffd185eb41677ead5ad4ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||braze.com/api/",
+      "initiatorDomains": [
+        "dairyqueen.com",
+        "deezer.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d26cc62cb6865eef35611d5a70c80a689c611bdaa68101dd283f7c4197318804"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||snrcdn.net/sdk/3.0/synerise-javascript-sdk.min.js",
+      "initiatorDomains": [
+        "komputronik.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "36d17439dd91c89469652dfa9493fd8d110153a8423dd356c32b35866f38cf27"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||webpush.jp/js/browserpushv3.js",
+      "initiatorDomains": [
+        "zakzak.co.jp"
+      ]
+    },
+    "_sourceKeys": [
+      "2927236224397be2f8a276b503606b8d8745984f53751b7998ce572d90c8135c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 277
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ok.ru"
+      ],
+      "urlFilter": "||st.mycdn.me/static/*/webpush.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bc6ad4801f2fc2b3ac7f2f78f2c9108724ba8631e3738cd94e2142147182ef6a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||budzetobywatelski.pl/themes/site/js/webpush.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "1d36bcf4139ef755ebc355689f3e447e4ee1b1dbce1d859ad214a0714cdbb7a5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||creator.klarna.com/plugins/onesignal-cordova-plugin/www/onesignal.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "4f8cadc41c12cc1ae328b2cd4bcb7ffa4e2337215de83a6054129d25dd76f79f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||fortnitedb.com/js/v3/onesignal.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "22042420f2d271d3c17fd63c876224bab52b87887fc007c739796ea371a7941d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||oakley.com^*/notifications.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "5c3aad90db4ad12f20d8c7f4377b8878017a06ed282b7bbbdacbb1ef10c7c540"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||weekend.ee/static/*/push-notifications.chunk.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "8f33c38ecdc63d52d10e47888e1e7cfbba58cbc92a090ea761786c672d1f4ddb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||anadolu.edu.tr/assets/js/jquery.smartbanner.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "61dcbdf8292cf8c5c0724f584cbb175ccdd8750163e252d9f600e18a8777b665"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||assure.ameli.fr^*/smart-app-banner.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "7b488bf3718db4f1213f83209c1affd5bb1a0ed0293e40b2c5baad24d5c0d12b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||frankonia.de/js/lib/smart-app-banner.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "4ff83ee844791c4f9b809c315d554b7d8c48dec0e6fe85b0a3b66b82a5f20ca0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinepolis.*/js/smart-app-banner.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "ca16491b81322bcea18c16a97fb4c1efa2d72f242d0cd4f78b23c091c1467faa"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||inevent.com/js/wizard/pushnotification.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5b7e779263c68e0fe027294ef5a4b7b9030edbfff95fb519a0d43f8f623028c7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||ledevoir.com/js/web-push.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "26dffafaa8efab06858b26b24cfee06d5809aba258ad97212c6c95977f4f0ec9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||mafia.ua/js/jquery.smartbanner.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a3262485464475d1fafcb2e757fbb7e5f120dff5ab323ffe43fe63e83b5b8ffc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||mirage.ru/js/jquery.smartbanner.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ba3c9f471bf5d7ce025ad428621a741b6f79a0b64b976981a1c1c32ab61b053d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 291
+  }
+]

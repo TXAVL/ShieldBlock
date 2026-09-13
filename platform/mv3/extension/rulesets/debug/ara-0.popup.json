@@ -1,0 +1,1293 @@
+[
+  {
+    "condition": {
+      "urlFilter": ".cash/?clickid="
+    },
+    "_sourceKeys": [
+      "cfb751841250063588a1e4f9e0cbadc14539d1d3f1901aaa56e0a5eca76a1577"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 834
+  },
+  {
+    "condition": {
+      "urlFilter": ".do?offer=*&publisher_id="
+    },
+    "_sourceKeys": [
+      "ee1aefbf8a81ccb9e180c1242b2896cf46aca4ee32c8fbd3f8df8667c6f5143b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 835
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsph2/"
+    },
+    "_sourceKeys": [
+      "a3581f754cf1dec16d9d2d29d31303dd56871114e46fae2f387561c05ec04a79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 836
+  },
+  {
+    "condition": {
+      "urlFilter": "/afstrack.*?affid="
+    },
+    "_sourceKeys": [
+      "fcd0691ac42eb10a6897779a4b4ecf5cb88d57b61459e8ac0dc1351721b1bf5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 837
+  },
+  {
+    "condition": {
+      "regexFilter": "clicks.*\\/afs"
+    },
+    "_sourceKeys": [
+      "59dbe77897829e2bbe31d0c65c0a1f84478ad31ba61978c72597bfc5ccacb05a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 838
+  },
+  {
+    "condition": {
+      "urlFilter": "/cpm/ad."
+    },
+    "_sourceKeys": [
+      "6030b7d4b15b83e52f35d274e447bcaa12b4d7b325e99bfb551fe68e37b10c12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 839
+  },
+  {
+    "condition": {
+      "urlFilter": "/get/iad/"
+    },
+    "_sourceKeys": [
+      "a0b56ea4a9480927e5cfa96b79a96991ddd9210e2cad2b02d6f15398275f68fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 840
+  },
+  {
+    "condition": {
+      "urlFilter": "/imp/*?scontext_b="
+    },
+    "_sourceKeys": [
+      "92f77366e7849ee3e5f8efa1c6238b0c1db5856a6490d0f0e89f724f6180667a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 841
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "faselhds.world"
+      ]
+    },
+    "_sourceKeys": [
+      "fba9e0348753f9b60f93b54190320679cac1d09d1291c3eafb47be8f66433318"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 842
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "5jle.com"
+      ],
+      "initiatorDomains": [
+        "maas1.com"
+      ]
+    },
+    "_sourceKeys": [
+      "f562093176540aaae92ef0cc2e0f6cfb6f493d14a841239d03aa82c1061a5a7b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 843
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aflamy.tv"
+      ],
+      "initiatorDomains": [
+        "mrfile.co",
+        "spikyup.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bfa3c568b42cf12bd6d203a5a9029c9cb5d4bbc1f0d5af9f20fcbf2330a30acf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 844
+  },
+  {
+    "condition": {
+      "urlFilter": "||bahai-forum.com/go/"
+    },
+    "_sourceKeys": [
+      "1cfa5f76739327f427443a02a0b1fd7cd4f7bce93ffbd74649feef0261b9cd64"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 845
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bit.ly"
+      ],
+      "initiatorDomains": [
+        "esm3ha.com",
+        "sm3ha.mx"
+      ]
+    },
+    "_sourceKeys": [
+      "2a2723ccf7544995445e063aef40203891f68d80611e9a29737db65721acf6b9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 846
+  },
+  {
+    "condition": {
+      "urlFilter": "||deals.souq.com^*&pubref="
+    },
+    "_sourceKeys": [
+      "457d21283a20dfde02feae08807356c923688769ecd829192c0031f47e2a163d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 847
+  },
+  {
+    "condition": {
+      "urlFilter": "||dropvideo.com/adorika/"
+    },
+    "_sourceKeys": [
+      "e196189aef9a08a7febdba1538c4b7fbd0461d64bac4ec6279d01044592163a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 848
+  },
+  {
+    "condition": {
+      "urlFilter": "||dubizzle.com^*/?utm_source="
+    },
+    "_sourceKeys": [
+      "bf534e269069d0e935c8fa61077a0179dab6acd24d53629db914689d4cbb6baf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 849
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/best-iptv2016-",
+      "initiatorDomains": [
+        "3gyptsat.net"
+      ]
+    },
+    "_sourceKeys": [
+      "99c4d49a267eab2c3e7ece9ba4fe5eb37e7e6070c211516a16d9a56ddeaae49d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 850
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "googleusercontent.com"
+      ],
+      "initiatorDomains": [
+        "yalla-shoot.today"
+      ]
+    },
+    "_sourceKeys": [
+      "8fe2943782666070afd70c343f889e526d8009af345975bbff8bc3f017923368"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 851
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mfeeed.com"
+      ],
+      "initiatorDomains": [
+        "arteenz.com"
+      ]
+    },
+    "_sourceKeys": [
+      "494d6a252027796fb28d23ff236444a075b4d33b6f73e5f1798fc3994babc55a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 852
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mycar4ever.blogspot.com"
+      ],
+      "initiatorDomains": [
+        "egyptladies.net"
+      ]
+    },
+    "_sourceKeys": [
+      "007fd4f52a2ee5a4db3641c9cc33b81f005d577445b0b1696a4232f989460b20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 853
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "open.anghami.com"
+      ],
+      "initiatorDomains": [
+        "esm3ha.com",
+        "sm3ha.mx"
+      ]
+    },
+    "_sourceKeys": [
+      "3b74b756b8c9c3dd3a749b75a4c209d0a6651e636d39ec381f196e88f06a5407"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 854
+  },
+  {
+    "condition": {
+      "urlFilter": "||shein.com/?aff_id="
+    },
+    "_sourceKeys": [
+      "0fe661c13c00896efea7a624241609b61b2ff818170330b08af9f29322525650"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 855
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sites10.top"
+      ],
+      "initiatorDomains": [
+        "sgtpepperat50.com"
+      ]
+    },
+    "_sourceKeys": [
+      "0a3d0c43a5e2586bd531878464e2d923821488bbea79706310c77687cd4c3a61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 856
+  },
+  {
+    "condition": {
+      "urlFilter": "||actionz.net:"
+    },
+    "_sourceKeys": [
+      "e62e07a6389f5af43f022fa77d255b12fd06cd9a59ecc98a75a56fc6066751cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 857
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adf.ly"
+      ],
+      "initiatorDomains": [
+        "cods-gta.blogspot.com",
+        "nassamat.com"
+      ]
+    },
+    "_sourceKeys": [
+      "0ade18b49a9dac89ed7cb5d38dde7ec2216b0c8e471444699c2a951ff5e33448"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 858
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "arabmersal.net"
+      ],
+      "initiatorDomains": [
+        "rmoz.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "b999613203b2bdf1ed7452069d3d8452783013fd272d3eb2ef7e12fb8c55e4c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 859
+  },
+  {
+    "condition": {
+      "urlFilter": "||arabseed.*/photos/shares/"
+    },
+    "_sourceKeys": [
+      "4d55a2f7eb371d40ed42e393eb56c0390aedead1b4c67063cd4f424e9f70c7b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 860
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "azyya.com"
+      ],
+      "initiatorDomains": [
+        "beautymaroc.com"
+      ]
+    },
+    "_sourceKeys": [
+      "39511cbbc85904b3106e4792a40a7c17f55182fda855de21cce1f55d1fdc549e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 861
+  },
+  {
+    "condition": {
+      "urlFilter": "||cima4u1.*/wp-content/"
+    },
+    "_sourceKeys": [
+      "1d7f85d9c8638da89cceb10ef2def4108d0af6880fb49aedc901da1088fa2ab3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 862
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "eaglepro.net"
+      ],
+      "initiatorDomains": [
+        "bramjnet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "a4cd0f7011898200198900dde5f3a7ad926e21abe1e1ed381ed252bb88e53594"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 863
+  },
+  {
+    "condition": {
+      "urlFilter": "||egybest.*/click."
+    },
+    "_sourceKeys": [
+      "740a0278f975c2d7da8112fe2d2f42fbdda22bb1deea6fdc9f756ab89f2c161e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 864
+  },
+  {
+    "condition": {
+      "urlFilter": "||egybest.*/cv."
+    },
+    "_sourceKeys": [
+      "62d1da4a8cd33e4349520aca87a081e2b296cc028022eb85a611df9e99f927bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 865
+  },
+  {
+    "condition": {
+      "urlFilter": "||egydead.*/wp-content/"
+    },
+    "_sourceKeys": [
+      "ad4d74bc7500ab61dfb9f4f44a27f31029022580eeb5ad3e45d0d2d2d3217ba6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 866
+  },
+  {
+    "condition": {
+      "urlFilter": "||esheeq.co/ex/"
+    },
+    "_sourceKeys": [
+      "8ff06b7a1003efe93af3b31aaaccb6fcff134ad638a923aff416560f16428f40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 867
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/nansy.sbry1",
+      "initiatorDomains": [
+        "dtyds.blogspot.com"
+      ]
+    },
+    "_sourceKeys": [
+      "adbb53ff1a3f8a57b9c4200cc10f55388f6b0f06e51d7da6859a5a23b84e8c11"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 868
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fatafeeet.com"
+      ],
+      "initiatorDomains": [
+        "egyptladies.net"
+      ]
+    },
+    "_sourceKeys": [
+      "6756161e0c58c95f5f9add423d74e0f35b063f0da97f32d332124ec561f8cf50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 869
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "forex1040.blogspot.com"
+      ],
+      "initiatorDomains": [
+        "aflmsexarab.com"
+      ]
+    },
+    "_sourceKeys": [
+      "df479929064dc41a034c17f34c9c0877ae821c77cde8024720ebb07884522528"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 870
+  },
+  {
+    "condition": {
+      "urlFilter": "||gamezon.top/redirect.php"
+    },
+    "_sourceKeys": [
+      "dd76ffe03983d1c9e8720c2d57da9f99719f311c09bab1f49faa611e4dc9da1a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 871
+  },
+  {
+    "condition": {
+      "urlFilter": "||iranproud.com/ad"
+    },
+    "_sourceKeys": [
+      "ca73a4972d2c4a3bf847fdd217145e02a993c20b8c052f8bd2ecaa77a6742223"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 872
+  },
+  {
+    "condition": {
+      "urlFilter": "||lodynet.*/wp-content/"
+    },
+    "_sourceKeys": [
+      "44322c28b0bb0ee649a90d2d04af8ea4b28de7f983c59e01a400a4d7fbb0558a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 873
+  },
+  {
+    "condition": {
+      "urlFilter": "||movs4u.*/d/"
+    },
+    "_sourceKeys": [
+      "6437636081c03f9fea04cd836d0038cbde36d0bc0684721332b43733e73147c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 874
+  },
+  {
+    "condition": {
+      "urlFilter": "||myegy.*/ad/"
+    },
+    "_sourceKeys": [
+      "40c7d1ab964b2eec0f133a37bab64d0ffcef6ee4424bcef0904c278425283fdf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 875
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "r-x0.com"
+      ],
+      "initiatorDomains": [
+        "rb7ne.com"
+      ]
+    },
+    "_sourceKeys": [
+      "98e0b96b4f9588d07e0e77db247f89f66d80886d4a85961ebf26ca7a8033abe6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 876
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "right-allthie-times.blogspot.com"
+      ],
+      "initiatorDomains": [
+        "egynt.net"
+      ]
+    },
+    "_sourceKeys": [
+      "7f53d6471b9c40f14dcd743ea935910273e0e42677997c8fca5cb4670a9e1277"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 877
+  },
+  {
+    "condition": {
+      "urlFilter": "||shahidforu.*/wp-content/"
+    },
+    "_sourceKeys": [
+      "a39423a1c2d7c8e0e1fdd7d744ff9d8c951ab9014eb1a10913a9542b00ed232c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 878
+  },
+  {
+    "condition": {
+      "urlFilter": "||shahidmosalsalat.*/shahid.php"
+    },
+    "_sourceKeys": [
+      "788ca9ae3ab1f4c9e2f36cb463b0a7e81c411d317d728d1216535ba31af9f688"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 879
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "souss24.com"
+      ],
+      "initiatorDomains": [
+        "ilmaroc.org"
+      ]
+    },
+    "_sourceKeys": [
+      "e02748bb7a2b39e6da6b0da3d8fd392eca40ad0ba8f90a831b7facb56f8e2254"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 880
+  },
+  {
+    "condition": {
+      "urlFilter": "||stardima.com/redirect.php?"
+    },
+    "_sourceKeys": [
+      "e46d02b6f43f3cd6101ee05b1d943b9b73d8ba715b13edf10a9ad8fe3fc1a934"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 881
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tabeebk.com"
+      ],
+      "initiatorDomains": [
+        "egynt.net"
+      ]
+    },
+    "_sourceKeys": [
+      "61481cf579d0659350c1ccd189b76cbbf8482d145cf2cc21e648343d316c7e9a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 882
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "travpl.com"
+      ],
+      "initiatorDomains": [
+        "nokiagate.com"
+      ]
+    },
+    "_sourceKeys": [
+      "00e1ff67728cae645d3d9abcb98b84bd580fb40db2a3f25b20a85b062626813b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 883
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aflam.io",
+        "elmassar-ar.com",
+        "eonads.com",
+        "protect-web.com",
+        "zlps.xyz",
+        "add-friendso.blogspot.com",
+        "adv.videomega.tv",
+        "aflam.info",
+        "arabiawin.com",
+        "arabnewscom.ipage.com",
+        "forexxzx.blogspot.com.eg"
+      ]
+    },
+    "_sourceKeys": [
+      "59a746ba04263e55055918e9f868c3dc4aa7cf3135a2ff5a2ac0fd2ea91e1452",
+      "0e96bc5d70285040f49b18675f2fe9daf9c3168c8151be8f4109b6f744ced7ca",
+      "3ed245620d4ed6e9f3644c82d80b2ac7caead04c79b4bb07e08dee0f045095c2",
+      "20f00c5af1a2ec6f4cc8d8845f28edfc4bd298d4bb9f47c8fdc8f7add20b0725",
+      "be0cf7fc07df84bd4fa269b28be37c03e690f84e89dc0575ce591e337107edf5",
+      "2e2afdff2fc4d47685ea64e9afb787166c3bbda0ac4d6d5874aa9497fc216d90",
+      "b1f2698e004a81373a6757e495484720ac397077cb9dcfc302784b055ade4dc6",
+      "eb74fa99cb25d7c2c7a3745d989bae82a78ba772f7768b931af8eeefcab28809",
+      "0d017f90e14fa5d651eafbe335773e82b6e00f41e125508821f479c4914cbbeb",
+      "4ba37224041bd00a09754e7ade412f402ba08dfccb24bc2e2534cba1e9b8bb80",
+      "83217ef87471e6e1fbad7f26af9a487fb7bf390d2e369bc17acbcbb7bb4a2f2f"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "aflam.io",
+        "keys": [
+          "59a746ba04263e55055918e9f868c3dc4aa7cf3135a2ff5a2ac0fd2ea91e1452"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "elmassar-ar.com",
+        "keys": [
+          "0e96bc5d70285040f49b18675f2fe9daf9c3168c8151be8f4109b6f744ced7ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eonads.com",
+        "keys": [
+          "3ed245620d4ed6e9f3644c82d80b2ac7caead04c79b4bb07e08dee0f045095c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "protect-web.com",
+        "keys": [
+          "20f00c5af1a2ec6f4cc8d8845f28edfc4bd298d4bb9f47c8fdc8f7add20b0725"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zlps.xyz",
+        "keys": [
+          "be0cf7fc07df84bd4fa269b28be37c03e690f84e89dc0575ce591e337107edf5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "add-friendso.blogspot.com",
+        "keys": [
+          "2e2afdff2fc4d47685ea64e9afb787166c3bbda0ac4d6d5874aa9497fc216d90"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.videomega.tv",
+        "keys": [
+          "b1f2698e004a81373a6757e495484720ac397077cb9dcfc302784b055ade4dc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aflam.info",
+        "keys": [
+          "eb74fa99cb25d7c2c7a3745d989bae82a78ba772f7768b931af8eeefcab28809"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arabiawin.com",
+        "keys": [
+          "0d017f90e14fa5d651eafbe335773e82b6e00f41e125508821f479c4914cbbeb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arabnewscom.ipage.com",
+        "keys": [
+          "4ba37224041bd00a09754e7ade412f402ba08dfccb24bc2e2534cba1e9b8bb80"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "forexxzx.blogspot.com.eg",
+        "keys": [
+          "83217ef87471e6e1fbad7f26af9a487fb7bf390d2e369bc17acbcbb7bb4a2f2f"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 884
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adfoc.us",
+        "adintop.com",
+        "adoptim.com",
+        "eclkspbn.com",
+        "fullspeeddownload.com",
+        "iafov.com",
+        "ir-dl.com",
+        "kimia.es",
+        "mobna.com",
+        "newtab-tv.com",
+        "nozzorli.com",
+        "omasatra.com",
+        "onclickbright.com",
+        "partners.xm.com",
+        "pipaffiliates.com",
+        "popupaval.com",
+        "popupplus.ir",
+        "prwidgets.com",
+        "theclickcheck.com",
+        "tncrun.net",
+        "ublockerext.com",
+        "zarpop.com",
+        "zermeo.com",
+        "cdn.hostdl.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "62b389760170ef058d21d31267d8ebf990eddb61978affd9f38bad238afd6006",
+      "dfc2672c74a977f8f7a5de2425ef51321dcd187edc863478081bf92954259695",
+      "e1f1c59faa08d5671dce7af40d86ffd455026abcabdc9c6dd5dfa2d0c8152e04",
+      "fb9636343d341a89385dad866768afe207ec31a2aeb00cad8d4489fcb6f9ee89",
+      "a15b20afed9d684ddba8a95a7c5e2b909a5928d9911ae35fac73fbbedbfceb67",
+      "4382477cfe5f46a15e11d829c1032cf6be5ff5bb762b805239df88d1eee09688",
+      "ef6407f441bc93ac4145d3b281645cfd284f755aa494123cb9219fe01af8c42a",
+      "a169b6863414cec8d0f2c3a3b37629d390319cc03461a451f7832c6f07116f08",
+      "75a035972c0177f5213235bd0bdc69373ac56b5d485d369a7b001d536a4829b5",
+      "e47c765a4d7eed539f1400342df95199003fdac6294326d6b91edb2800b80604",
+      "4c4efa6135a0cf6d67881bb973b62e41dab5923eaf80b7af886a750e6281d7cf",
+      "bd678d0e30c8e1a558968387b3487100366bc03eba7058648dbe8fbbe5a15cc7",
+      "616d9ef54058e07110c86b5e7f840d90052a7c66b7ce362dee1539fbf94b22d8",
+      "304b275457deeb4af7b4d7157509ffca089002711ec176704b7f6ea92755bb08",
+      "1bd71a87048930ba3cf9c4034b7526986eb18f2130921d4d89a0f8b65eb21e10",
+      "eac016cf443cc7c56be2889009a87eae8455143025a12fd747bbf487ccbd6937",
+      "27aeb6b14d375926ba61dd32960513c144b6381622834a540368f0372b3a6e9f",
+      "ee84685ea7383cfd393369ef57d92c6f6d2381a7deec4098a8d582be15886bde",
+      "27ad16502b5d86fc36c121dbf965c40a454e83b36a51069dd64bae95173b621c",
+      "9218704ecdc66d61d2512b7758e106dd2b5614bb43b0658877be37ab731e56da",
+      "4fb518a0f72233003e4d47d48a4a13906751afb6e97168071662593033e2ed60",
+      "423dd162733f71ce299c021fb8eb15343b1e30c1521f091dda339a912a496f0e",
+      "138093d7e57feae93cfe6249fb2bf3ee6f1894e0776959290211cde16413e140",
+      "6716c9be5c00873a7272514a69792d62cfe978379dd13212acc6bb038d5c382c"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adfoc.us",
+        "keys": [
+          "62b389760170ef058d21d31267d8ebf990eddb61978affd9f38bad238afd6006"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adintop.com",
+        "keys": [
+          "dfc2672c74a977f8f7a5de2425ef51321dcd187edc863478081bf92954259695"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adoptim.com",
+        "keys": [
+          "e1f1c59faa08d5671dce7af40d86ffd455026abcabdc9c6dd5dfa2d0c8152e04"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eclkspbn.com",
+        "keys": [
+          "fb9636343d341a89385dad866768afe207ec31a2aeb00cad8d4489fcb6f9ee89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fullspeeddownload.com",
+        "keys": [
+          "a15b20afed9d684ddba8a95a7c5e2b909a5928d9911ae35fac73fbbedbfceb67"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "iafov.com",
+        "keys": [
+          "4382477cfe5f46a15e11d829c1032cf6be5ff5bb762b805239df88d1eee09688"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ir-dl.com",
+        "keys": [
+          "ef6407f441bc93ac4145d3b281645cfd284f755aa494123cb9219fe01af8c42a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kimia.es",
+        "keys": [
+          "a169b6863414cec8d0f2c3a3b37629d390319cc03461a451f7832c6f07116f08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mobna.com",
+        "keys": [
+          "75a035972c0177f5213235bd0bdc69373ac56b5d485d369a7b001d536a4829b5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "newtab-tv.com",
+        "keys": [
+          "e47c765a4d7eed539f1400342df95199003fdac6294326d6b91edb2800b80604"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nozzorli.com",
+        "keys": [
+          "4c4efa6135a0cf6d67881bb973b62e41dab5923eaf80b7af886a750e6281d7cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "omasatra.com",
+        "keys": [
+          "bd678d0e30c8e1a558968387b3487100366bc03eba7058648dbe8fbbe5a15cc7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onclickbright.com",
+        "keys": [
+          "616d9ef54058e07110c86b5e7f840d90052a7c66b7ce362dee1539fbf94b22d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partners.xm.com",
+        "keys": [
+          "304b275457deeb4af7b4d7157509ffca089002711ec176704b7f6ea92755bb08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pipaffiliates.com",
+        "keys": [
+          "1bd71a87048930ba3cf9c4034b7526986eb18f2130921d4d89a0f8b65eb21e10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popupaval.com",
+        "keys": [
+          "eac016cf443cc7c56be2889009a87eae8455143025a12fd747bbf487ccbd6937"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popupplus.ir",
+        "keys": [
+          "27aeb6b14d375926ba61dd32960513c144b6381622834a540368f0372b3a6e9f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "prwidgets.com",
+        "keys": [
+          "ee84685ea7383cfd393369ef57d92c6f6d2381a7deec4098a8d582be15886bde"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "theclickcheck.com",
+        "keys": [
+          "27ad16502b5d86fc36c121dbf965c40a454e83b36a51069dd64bae95173b621c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tncrun.net",
+        "keys": [
+          "9218704ecdc66d61d2512b7758e106dd2b5614bb43b0658877be37ab731e56da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ublockerext.com",
+        "keys": [
+          "4fb518a0f72233003e4d47d48a4a13906751afb6e97168071662593033e2ed60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zarpop.com",
+        "keys": [
+          "423dd162733f71ce299c021fb8eb15343b1e30c1521f091dda339a912a496f0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zermeo.com",
+        "keys": [
+          "138093d7e57feae93cfe6249fb2bf3ee6f1894e0776959290211cde16413e140"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.hostdl.com",
+        "keys": [
+          "6716c9be5c00873a7272514a69792d62cfe978379dd13212acc6bb038d5c382c"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 916
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "4yftwvrdz7.sbs",
+        "6sfkrspw4u.sbs",
+        "ak.sv",
+        "alkoora.live",
+        "animeiat.tv",
+        "arabveturk.com",
+        "hd7live.xyz",
+        "hyperwatching.com",
+        "iplayerhls.com",
+        "koora-stream.live",
+        "koora24.sbs",
+        "kora-api.top",
+        "kora-tv.vip",
+        "larhu.website",
+        "segavid.com",
+        "strema.top",
+        "topcinema.cam",
+        "turkvearab.com",
+        "yalla4shoot.live"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "112abda24909bdbeae42c521901fbcd221db52279aa2f925c8f4f2cbe2da1daa",
+      "650364dbdf0bd592d9a16c739865c9359ed6695ae73243986e5284a9b270f97c",
+      "b07a44e757526dacca65776bcd0934811bd82934aa2992955f8b6120eb53f0a4",
+      "18711af8d804bf870a398527c8927b1b51281de3e90c91b99ba26d38f6fdb103",
+      "10d083b03c2cc60d83864fef27e25c970012e64785a73225d7596a8a4321fdbf",
+      "da54b0177d6714e07a60b4d7666e14ade796a289d87802e36ea43d75aa5e5394",
+      "0e64d108cfd79a5be616701098bf46fac005f2aeb9ff96cab329e8b63dde72f7",
+      "48baf4e850bdbe3fd3b6e72e6a26703d92093e608c4f77f4fc73a04f83a7234f",
+      "83d44a364d5f63fb74261f5d4abe3dd2402a6ce3540dcadcc8ea383643474b03",
+      "d6fe98a22199f69a391d625f3fe2984304e62c2ef9a6f51c902f6abd4ecd136d",
+      "f7ccda35cb55674e722530d1e5ff374a9255ff27a58a5ee55780b6bde599a430",
+      "dc796ccfb242b76fe5cc4365fc9a71dd2df19881e8acffcfe10967c38754a2da",
+      "c88997f3a6c7f327b6278faa65439eab66410d8f904025f212d2b92cf1fa37f4",
+      "b98635d572e69b9070d5e65c205a91be1b89cf9af241eb3500b26299b2083ac1",
+      "57fa706d9ad375a1f37be496b4ee46161f10a199575730f48867b3504abc26e9",
+      "8126566a56ffc72c6ac87586e12565095af1fe2ee7e3097bc1555a29efc23364",
+      "8d54450f1419dfd2e2ef3cdc9614c69bfbbdddbdbce6d30c0d79008c5d299f7a",
+      "01a905e828d5005507c4004c0e4fab3d77f9ffb88bf76ba094b31fad8b777541",
+      "2a779eccf7241816f05f36e0e3f2bd64bb5a7266691247073fdc54fa5f14fbc6"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "4yftwvrdz7.sbs",
+        "keys": [
+          "112abda24909bdbeae42c521901fbcd221db52279aa2f925c8f4f2cbe2da1daa"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "6sfkrspw4u.sbs",
+        "keys": [
+          "650364dbdf0bd592d9a16c739865c9359ed6695ae73243986e5284a9b270f97c"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "ak.sv",
+        "keys": [
+          "b07a44e757526dacca65776bcd0934811bd82934aa2992955f8b6120eb53f0a4"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "alkoora.live",
+        "keys": [
+          "18711af8d804bf870a398527c8927b1b51281de3e90c91b99ba26d38f6fdb103"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "animeiat.tv",
+        "keys": [
+          "10d083b03c2cc60d83864fef27e25c970012e64785a73225d7596a8a4321fdbf"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "arabveturk.com",
+        "keys": [
+          "da54b0177d6714e07a60b4d7666e14ade796a289d87802e36ea43d75aa5e5394"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "hd7live.xyz",
+        "keys": [
+          "0e64d108cfd79a5be616701098bf46fac005f2aeb9ff96cab329e8b63dde72f7"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "hyperwatching.com",
+        "keys": [
+          "48baf4e850bdbe3fd3b6e72e6a26703d92093e608c4f77f4fc73a04f83a7234f"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "iplayerhls.com",
+        "keys": [
+          "83d44a364d5f63fb74261f5d4abe3dd2402a6ce3540dcadcc8ea383643474b03"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "koora-stream.live",
+        "keys": [
+          "d6fe98a22199f69a391d625f3fe2984304e62c2ef9a6f51c902f6abd4ecd136d"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "koora24.sbs",
+        "keys": [
+          "f7ccda35cb55674e722530d1e5ff374a9255ff27a58a5ee55780b6bde599a430"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "kora-api.top",
+        "keys": [
+          "dc796ccfb242b76fe5cc4365fc9a71dd2df19881e8acffcfe10967c38754a2da"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "kora-tv.vip",
+        "keys": [
+          "c88997f3a6c7f327b6278faa65439eab66410d8f904025f212d2b92cf1fa37f4"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "larhu.website",
+        "keys": [
+          "b98635d572e69b9070d5e65c205a91be1b89cf9af241eb3500b26299b2083ac1"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "segavid.com",
+        "keys": [
+          "57fa706d9ad375a1f37be496b4ee46161f10a199575730f48867b3504abc26e9"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "strema.top",
+        "keys": [
+          "8126566a56ffc72c6ac87586e12565095af1fe2ee7e3097bc1555a29efc23364"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "topcinema.cam",
+        "keys": [
+          "8d54450f1419dfd2e2ef3cdc9614c69bfbbdddbdbce6d30c0d79008c5d299f7a"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "turkvearab.com",
+        "keys": [
+          "01a905e828d5005507c4004c0e4fab3d77f9ffb88bf76ba094b31fad8b777541"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "yalla4shoot.live",
+        "keys": [
+          "2a779eccf7241816f05f36e0e3f2bd64bb5a7266691247073fdc54fa5f14fbc6"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 917
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "a.blesk.cz",
+        "a.centrum.cz",
+        "a.csfd.cz",
+        "a.denik.cz",
+        "api-exponea.o2.cz",
+        "bannery.ccb.cz",
+        "bannery.navratdoreality.cz",
+        "c.seznam.cz",
+        "cdn.cpex.cz",
+        "liveagent.mobilbonus.cz",
+        "report.seznamzpravy.cz",
+        "report.sport.cz",
+        "ssp.seznam.cz",
+        "stat.novinky.cz",
+        "stat.super.cz",
+        "tracker.cncenter.cz",
+        "videoad.cz",
+        "0af2a962b0102942d9a7df351b20be55.com",
+        "adb.azet.sk",
+        "api-exponea.o2.sk",
+        "bannersector.sector.sk",
+        "image.sector.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "76098f658b4988471cdbafb4713e4f7df334c9380cb024fc7d41e56710108237",
+      "f8497fec3f9ca68fd55da9c01d5133ed89d17a09d3ccf622a46702236d58d1d2",
+      "a7de0309d10c7931d6572ab4399932aca7a8011c1a461650924dee2d3d206465",
+      "e0ec650c366b1300ad07de4c2e8f0f3cfff08a5095cb6e9e1a449a9778f95481",
+      "a5950a17ddb0b8440796d6c9370064530b1e0a9382374964c43dcb91477c66f7",
+      "c22fde7853e9f4240631d9d42fbfeb5d4c646c0a32cc166066c537c70671058a",
+      "88e2204f34b4d055576813b233151299d554abfdc7cbb1f5ce8bec820dc9d26b",
+      "84916efa0e2d6445a68f0caf2fdc2c405f37607279ee793286ce34237bfbfb60",
+      "25ae2c0cd0017feeaa2dd5edc0444a2c28c6f0f5ad195884a91c6ac31ca9a0df",
+      "8a591c25205862fb8e30a5393a2cc2f8415e33fd0ef91ab027defb11e598dafe",
+      "c790baa5db40cc87af53138a4a8681a717f2f945b8663327403af2b0cd444ca9",
+      "f87bbdeb6def9be2213c016cc82ac196230d954b6d28f945c2dd76c6c22dbcbb",
+      "f1819a40ba8b1744f3a83a2afe213da08a89d2b81ae5407a71d85e0e31cb7470",
+      "18073f827bf70a485778394cbfb76d287a99a149206ceafffca9a00ea68229cf",
+      "e01f5fcc69a55c842167a651b8ef690c88aab511e1f2538ed816326fd859abfb",
+      "f9751203380b9348302f9d1306c7ed929ac8beb58fceab02e4d62ff8ef7389b1",
+      "6a873c61cfe62d9c31aeffca917754c74eadfd5e188efd9d6e05cb05b068787e",
+      "8520c04c7b4abc21ab7e7bcc642636d3c29b46b244af54abc3755baffa6cd4b6",
+      "32f17eb9498fef38b0d11f6736abf19903238043bdb02eed7f868e78a2395451",
+      "c47a7e55fe78df4f2ad8d674875e59447ea56e923fe03035a535543418cd8160",
+      "c0c0758faa8ceb47ffca89897ebf989587aedc03bffb6d9037153ec1310f5514",
+      "c2efa44138ef06a57b9bcdac3ede3c3c26df16c52df21a86541d08247ca08f31"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "a.blesk.cz",
+        "keys": [
+          "76098f658b4988471cdbafb4713e4f7df334c9380cb024fc7d41e56710108237"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.centrum.cz",
+        "keys": [
+          "f8497fec3f9ca68fd55da9c01d5133ed89d17a09d3ccf622a46702236d58d1d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.csfd.cz",
+        "keys": [
+          "a7de0309d10c7931d6572ab4399932aca7a8011c1a461650924dee2d3d206465"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.denik.cz",
+        "keys": [
+          "e0ec650c366b1300ad07de4c2e8f0f3cfff08a5095cb6e9e1a449a9778f95481"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api-exponea.o2.cz",
+        "keys": [
+          "a5950a17ddb0b8440796d6c9370064530b1e0a9382374964c43dcb91477c66f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannery.ccb.cz",
+        "keys": [
+          "c22fde7853e9f4240631d9d42fbfeb5d4c646c0a32cc166066c537c70671058a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannery.navratdoreality.cz",
+        "keys": [
+          "88e2204f34b4d055576813b233151299d554abfdc7cbb1f5ce8bec820dc9d26b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "c.seznam.cz",
+        "keys": [
+          "84916efa0e2d6445a68f0caf2fdc2c405f37607279ee793286ce34237bfbfb60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.cpex.cz",
+        "keys": [
+          "25ae2c0cd0017feeaa2dd5edc0444a2c28c6f0f5ad195884a91c6ac31ca9a0df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "liveagent.mobilbonus.cz",
+        "keys": [
+          "8a591c25205862fb8e30a5393a2cc2f8415e33fd0ef91ab027defb11e598dafe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "report.seznamzpravy.cz",
+        "keys": [
+          "c790baa5db40cc87af53138a4a8681a717f2f945b8663327403af2b0cd444ca9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "report.sport.cz",
+        "keys": [
+          "f87bbdeb6def9be2213c016cc82ac196230d954b6d28f945c2dd76c6c22dbcbb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ssp.seznam.cz",
+        "keys": [
+          "f1819a40ba8b1744f3a83a2afe213da08a89d2b81ae5407a71d85e0e31cb7470"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.novinky.cz",
+        "keys": [
+          "18073f827bf70a485778394cbfb76d287a99a149206ceafffca9a00ea68229cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.super.cz",
+        "keys": [
+          "e01f5fcc69a55c842167a651b8ef690c88aab511e1f2538ed816326fd859abfb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.cncenter.cz",
+        "keys": [
+          "f9751203380b9348302f9d1306c7ed929ac8beb58fceab02e4d62ff8ef7389b1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "videoad.cz",
+        "keys": [
+          "6a873c61cfe62d9c31aeffca917754c74eadfd5e188efd9d6e05cb05b068787e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "0af2a962b0102942d9a7df351b20be55.com",
+        "keys": [
+          "8520c04c7b4abc21ab7e7bcc642636d3c29b46b244af54abc3755baffa6cd4b6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adb.azet.sk",
+        "keys": [
+          "32f17eb9498fef38b0d11f6736abf19903238043bdb02eed7f868e78a2395451"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api-exponea.o2.sk",
+        "keys": [
+          "c47a7e55fe78df4f2ad8d674875e59447ea56e923fe03035a535543418cd8160"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannersector.sector.sk",
+        "keys": [
+          "c0c0758faa8ceb47ffca89897ebf989587aedc03bffb6d9037153ec1310f5514"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "image.sector.sk",
+        "keys": [
+          "c2efa44138ef06a57b9bcdac3ede3c3c26df16c52df21a86541d08247ca08f31"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||indian-tv.cz/uploads/"
+    },
+    "_sourceKeys": [
+      "faf0e38760d75ae83d5f1fc131f9bd1d52ebfd0bb9256f00104ca1629cf92261"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  }
+]

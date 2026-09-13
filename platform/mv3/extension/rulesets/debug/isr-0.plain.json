@@ -1,0 +1,6835 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "213.8.137.51",
+        "a.walla.co.il",
+        "exposeboxwallashops.blob.core.windows.net",
+        "wrtm.walla.co.il",
+        "totalmedia2.ynet.co.il",
+        "adserv.mako.co.il",
+        "sdc.mako.co.il",
+        "ads.one.co.il",
+        "banners.news1.co.il",
+        "atardrushim.com",
+        "avoda-mehabait.co.il",
+        "hasdarot.club",
+        "hasdarot.com",
+        "hasdarot.info",
+        "hasdarot.life",
+        "hasdarot.live",
+        "hasdarot.net",
+        "hasdarot.tv",
+        "hasdarot.vip",
+        "hasdarot.xyz",
+        "isdarot.com",
+        "israeljobstoday.com",
+        "losittooday.info",
+        "pinukim.net",
+        "play.milly-style.co.il",
+        "plushome.co.il",
+        "sdarot-il.org",
+        "sdarot-tv.org",
+        "sdarot.cc",
+        "seret.live",
+        "storyshop.co.il",
+        "tvfeel.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "40bf5457d0dbb6df0e608485713b14dd608ce6a0ad8c4831048f5a867ba8f640",
+      "e8500e6fbde7fa29c822ce74e4c1e40d5afcc8e866484cf237f3d6b15e731959",
+      "4de8d35dff9051cb2ba81d6d8f1a14d966946019e535524a4bd9db1923af6fe6",
+      "c838468d1bc1eb0131d61140468e06e186acfc663bcf4ec9452d01e4f8eb2cd3",
+      "bfcba0edbb2684b09864e62bec3c557eafa92551ac49130e7b6d533fe6c3c203",
+      "19fa9f8ab5d48b2182826bc495415c1a3cd84e9945cbbdf25328cdde46f0a105",
+      "9fdbe8d754538bceb9a4aad57ca78ff03724af13de0d9b0aa18a286543933991",
+      "39ed6acf259c236f0f42eaca0bfd000691b9d827c9f8dabde3f9e63783bb7727",
+      "b1f1ae14b948a4316ed0eec181ba794ea6f279acf49b3541f00e3a2fb282d1dc",
+      "663b5b4d610cbe7d4165adc81f12036306b7159b8713dd282945834c747246ee",
+      "943da9257e6680a0d9ff3db9d14f3d165a620bd7526b61ea0147851dd3e87cb5",
+      "64f12443bac1912113ec3e0dea54f1d3caf4e81f29b37aa825e7ac6cddd51174",
+      "e376e44256a4a11c79176d80dac6d82676baef15123d4a3fafcfc95c541fb3ed",
+      "405fce6a205beaec780808952bdfdfdb69cd7af3def2bb5f82fd51b10ade18f8",
+      "e1491f971a13f83cb6cc4966f476f8f3b8ede0e1cb7f0e5b79e145edfc9b4fc6",
+      "87644b1e6c6289d3f0389c64c2f32d3b035a2b36ffb54b273f14b228f4a639be",
+      "745c846f648d87de82aa0900da0e833a79d17027ab967b13be70853b91a98f90",
+      "70726d14e9130b2880d81f1172569047838139d037ec025e66a5da246f5c6021",
+      "693bfd0aa09240d531e96e5d29d874fbbc9ee29b3c4cdab03e5b0c998b3b4827",
+      "d2e45b8313d1d6db5c84fac0779a6b59bf1624701036ee36983a7364146a9a28",
+      "5eeb84f86aa56699746c4014c120190a8d299dbce98d9ca223a10a6df5cdd1c8",
+      "7aef8b6972f426ea744a3fa0804d0e1be1c55d6a3ed7778c80aec480d4a61841",
+      "26244a1c90509f6140273243b8c3c7ae42a805f7fb6ae6fede85a6c5f67d3a08",
+      "5e659de6f519ba3cdd853953f47c62dfc4867a4a6e1cec853d5ff28a53965148",
+      "d41760b25302b71296b87a0a4cbae0fa059721ed882c564003095e34fc6b18ef",
+      "98103cb48263342dbbc0a966c1a9724029b1abfa5ded27655379ed04288f75e9",
+      "3d3412689dcce4451ad322f3f656d79cdb401ffab6e3e19839a8378afbe9cdf2",
+      "2d50188711341c01cf2f43347b8ccd1c338fc13d650213ed55845af2d47b7a50",
+      "7ef89eb77b4aed02fa3d8a1dbbd3f0c9b26eab372f6be7a83d9e8258ffcae46e",
+      "70f5f7dcca594b7f5cd68f12462104a8a7a123f007a771aa82997a87cd28f129",
+      "40b4ce26bef62785cd0b863a15db102282f65985e385d6470843554217cd7923",
+      "48659eb3263f9e4fdaba7fd1f8722a39c7454497ddabae2b03f2fcb51fa416d0"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "213.8.137.51",
+        "keys": [
+          "40bf5457d0dbb6df0e608485713b14dd608ce6a0ad8c4831048f5a867ba8f640"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.walla.co.il",
+        "keys": [
+          "e8500e6fbde7fa29c822ce74e4c1e40d5afcc8e866484cf237f3d6b15e731959"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "exposeboxwallashops.blob.core.windows.net",
+        "keys": [
+          "4de8d35dff9051cb2ba81d6d8f1a14d966946019e535524a4bd9db1923af6fe6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wrtm.walla.co.il",
+        "keys": [
+          "c838468d1bc1eb0131d61140468e06e186acfc663bcf4ec9452d01e4f8eb2cd3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "totalmedia2.ynet.co.il",
+        "keys": [
+          "bfcba0edbb2684b09864e62bec3c557eafa92551ac49130e7b6d533fe6c3c203"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserv.mako.co.il",
+        "keys": [
+          "19fa9f8ab5d48b2182826bc495415c1a3cd84e9945cbbdf25328cdde46f0a105"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdc.mako.co.il",
+        "keys": [
+          "9fdbe8d754538bceb9a4aad57ca78ff03724af13de0d9b0aa18a286543933991"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.one.co.il",
+        "keys": [
+          "39ed6acf259c236f0f42eaca0bfd000691b9d827c9f8dabde3f9e63783bb7727"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.news1.co.il",
+        "keys": [
+          "b1f1ae14b948a4316ed0eec181ba794ea6f279acf49b3541f00e3a2fb282d1dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "atardrushim.com",
+        "keys": [
+          "663b5b4d610cbe7d4165adc81f12036306b7159b8713dd282945834c747246ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "avoda-mehabait.co.il",
+        "keys": [
+          "943da9257e6680a0d9ff3db9d14f3d165a620bd7526b61ea0147851dd3e87cb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.club",
+        "keys": [
+          "64f12443bac1912113ec3e0dea54f1d3caf4e81f29b37aa825e7ac6cddd51174"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.com",
+        "keys": [
+          "e376e44256a4a11c79176d80dac6d82676baef15123d4a3fafcfc95c541fb3ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.info",
+        "keys": [
+          "405fce6a205beaec780808952bdfdfdb69cd7af3def2bb5f82fd51b10ade18f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.life",
+        "keys": [
+          "e1491f971a13f83cb6cc4966f476f8f3b8ede0e1cb7f0e5b79e145edfc9b4fc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.live",
+        "keys": [
+          "87644b1e6c6289d3f0389c64c2f32d3b035a2b36ffb54b273f14b228f4a639be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.net",
+        "keys": [
+          "745c846f648d87de82aa0900da0e833a79d17027ab967b13be70853b91a98f90"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.tv",
+        "keys": [
+          "70726d14e9130b2880d81f1172569047838139d037ec025e66a5da246f5c6021"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.vip",
+        "keys": [
+          "693bfd0aa09240d531e96e5d29d874fbbc9ee29b3c4cdab03e5b0c998b3b4827"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.xyz",
+        "keys": [
+          "d2e45b8313d1d6db5c84fac0779a6b59bf1624701036ee36983a7364146a9a28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "isdarot.com",
+        "keys": [
+          "5eeb84f86aa56699746c4014c120190a8d299dbce98d9ca223a10a6df5cdd1c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "israeljobstoday.com",
+        "keys": [
+          "7aef8b6972f426ea744a3fa0804d0e1be1c55d6a3ed7778c80aec480d4a61841"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "losittooday.info",
+        "keys": [
+          "26244a1c90509f6140273243b8c3c7ae42a805f7fb6ae6fede85a6c5f67d3a08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pinukim.net",
+        "keys": [
+          "5e659de6f519ba3cdd853953f47c62dfc4867a4a6e1cec853d5ff28a53965148"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "play.milly-style.co.il",
+        "keys": [
+          "d41760b25302b71296b87a0a4cbae0fa059721ed882c564003095e34fc6b18ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plushome.co.il",
+        "keys": [
+          "98103cb48263342dbbc0a966c1a9724029b1abfa5ded27655379ed04288f75e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot-il.org",
+        "keys": [
+          "3d3412689dcce4451ad322f3f656d79cdb401ffab6e3e19839a8378afbe9cdf2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot-tv.org",
+        "keys": [
+          "2d50188711341c01cf2f43347b8ccd1c338fc13d650213ed55845af2d47b7a50"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot.cc",
+        "keys": [
+          "7ef89eb77b4aed02fa3d8a1dbbd3f0c9b26eab372f6be7a83d9e8258ffcae46e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "seret.live",
+        "keys": [
+          "70f5f7dcca594b7f5cd68f12462104a8a7a123f007a771aa82997a87cd28f129"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storyshop.co.il",
+        "keys": [
+          "40b4ce26bef62785cd0b863a15db102282f65985e385d6470843554217cd7923"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tvfeel.cc",
+        "keys": [
+          "48659eb3263f9e4fdaba7fd1f8722a39c7454497ddabae2b03f2fcb51fa416d0"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "excludedResourceTypes": [
+        "script",
+        "main_frame"
+      ],
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "2e6a2314b87ec1327800baf29355332c9fb5a8a499a99d347b9816fc53037afb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/report/"
+    },
+    "_sourceKeys": [
+      "3c1cc02bc76b307af0a6da89f8c1ed19517a6b515325ec613e50fc98fea046d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/script.js?1",
+      "initiatorDomains": [
+        "forums.walla.co.il",
+        "tv-guide.walla.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "3fef521eb8b94ea1787e1143f1369c61c47e3f626033809b2ba1217da2ef8bca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/vast/"
+    },
+    "_sourceKeys": [
+      "7f2408e7afebfb423849b43c33eee78058121dca4c451e75bc0787668955822d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||x.walla.co.il^*.mp4|"
+    },
+    "_sourceKeys": [
+      "0f581b9e9553f14d54cda4aceabb095419e33536273fc1fb95a72fa4b56f55e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "xwne.wcdn.co.il"
+      ],
+      "initiatorDomains": [
+        "walla.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "0b213d5d422d097107e721246a5446b0c2dbfd531a3a956c5903ffa0726ce60f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "/cdamarkettextlinks_"
+    },
+    "_sourceKeys": [
+      "0ed44a3113af9d95c9dd117c2e9152979eef1573c10fc87c079644c92a2cfd64"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/cdamarketinglink/"
+    },
+    "_sourceKeys": [
+      "75cfbf975ce63a3cfa2aa3759c2c427713ab334d1d9ac618ff29bc6b4a09a61e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||alljobs.co.il/partners/ynet/engine.aspx"
+    },
+    "_sourceKeys": [
+      "38fc36a0527b5ef7d8be993192da2fa07de998cb9bc39af2b6d312ece5b045f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||article.yedioth.co.il/assets/banners"
+    },
+    "_sourceKeys": [
+      "39def22326e17b595fd2ff277f0d981dbd18cc93dd5f305ec63221047534ab6c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.ynet.co.il/short/demos/*/ads/"
+    },
+    "_sourceKeys": [
+      "08f786c3c1d0a2a3f7c8f41404b2e537d5633ea457e56a8b3a909eec569db1b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||go.ynet.co.il/short/content/2013/career/sidejobs/"
+    },
+    "_sourceKeys": [
+      "efcdd8e1c49e0a51f9a5a63d4fd0b2af28a4a909cd1ac5c3f817b32fcd099bf3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||infomed.co.il/ynet/sidebox.aspx?"
+    },
+    "_sourceKeys": [
+      "221ddb82801bf4ede2f82d78bf74aaca3b23b2293397ddf20bce670ccb92c0bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/externalframes/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "6973af2458f26e24590d276777a4854477ebbe57916ccc82d16d5c8106114cdf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "excludedResourceTypes": [
+        "script",
+        "main_frame"
+      ],
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "51ef1cc6b6e7da728f50ec1c7803bfe0c028722345faae4ddf38cf86904437ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "api.conduit.com"
+      ],
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "73713876997eb79fa20f0b8718677050fafea792701778dc6bf675f54235b505"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/minicampaigns/"
+    },
+    "_sourceKeys": [
+      "a99fd31486d3f0ed851c814114b7c5cb166e0a49373f56649853a8fe5f60d577"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "cf8e777ce81b18686791701a2263cdb4724b000152aa1ff825b4962fa3ccb054"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||mako.co.il/makotv/loginsocialconfig.json"
+    },
+    "_sourceKeys": [
+      "1357b9686944a98f7d1f58ec7e4ceb2734a52113e27cbabc592680fb6a9b07ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/externalframes/",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "bef915faf226512e6cfd27bb2474a8acff7d110b429e1be4017b1f82ac6c2830"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/player/*/artimedia/artimediaadmanager.js"
+    },
+    "_sourceKeys": [
+      "6bb72f8a2f3ba06729ab1bc5fab15e3df46eaecab0001cf3674f82f5e2e7c4de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||shironet.mako.co.il/jsp/images/main_strip_ad_box_718.gif"
+    },
+    "_sourceKeys": [
+      "f721dfd901a8ba85997e05bdfd6641c2f47d4c2a5afa8a56aeb5f1b249174601"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/externalframes/",
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "25e9640704b964055477595f3b5020f7efd6b2861ba91ffc652b98a85a350895"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il/banners2/"
+    },
+    "_sourceKeys": [
+      "2a61e72ea87dbde39d39d7b0f54e4a9560a04aed7c287bf5d74c167795c3ea9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/cdn/sdk"
+    },
+    "_sourceKeys": [
+      "942d0c88f5fff5a80551b9dc9ea99620fb9b0073c41a1b815ec7738765e12eb7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/adblock/"
+    },
+    "_sourceKeys": [
+      "0b9460e0e9a5f85e0744e73b0e59566ce5e700d0bc133ecec7d6a821f67bbc45"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/maavaron.js"
+    },
+    "_sourceKeys": [
+      "21852585e208e7eb160791af2fc3ef0c2d67606cf2197e4c56bbf8451e7a8c93"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||dwnmedia.a7.org/inntv/media/"
+    },
+    "_sourceKeys": [
+      "21934e5a60408d525254c965acbfed26d9d77ab80a3d15daf300c822a525af40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "info.a7.org"
+      ],
+      "initiatorDomains": [
+        "inn.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "5e93fff93df5f5f8d7686b7b15b9b085d6d0e02f44b248926f34cf897c0b8f01"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/info_en/"
+    },
+    "_sourceKeys": [
+      "13a60e0c201af7e78e023b9c6eaa1072b38ecf9cedaff80ea023ae54de818d45"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/leads/content/upload/"
+    },
+    "_sourceKeys": [
+      "7a8570eba04648dc2cd524a226239bb1540d9603bb4ebd07275a700bfb4b88b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||kipa.co.il/banner/"
+    },
+    "_sourceKeys": [
+      "8dc6b21a4fe7a1c21df2d3dfa301bc77a727d53b99419ff6a57c9d2ef8373c3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||bhol.co.il/rich_banners/"
+    },
+    "_sourceKeys": [
+      "65c607030acb7c49a65417f6509336c523cbc17e3dc2b939bee0cd30e20b6cab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.bhol.co.il/"
+    },
+    "_sourceKeys": [
+      "c8b32644e8489cddedbad2b59bcd86e03a7bb7dfd12be17373d08449a2f0656b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||a.kikar.co.il/v1/ads"
+    },
+    "_sourceKeys": [
+      "ac6b0e5dd412224a471f9a31170a7dba7bf27363775b97315d6fe2245f79350c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "ed48e7c7c6747ee4f8db3ef5ef13a69fa6245283c0de911db5a4224f7ede91d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.yad2.co.il/banner/"
+    },
+    "_sourceKeys": [
+      "7a1e1af3eec5db61b047bcdb88968d491a1363dd55fe0c4f60761c8aeefd4fae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.yad2.co.il/dfpv3/script/desktopmediamanager.js"
+    },
+    "_sourceKeys": [
+      "c2f961e59ba0a4d10e379a455ddbbff16613cd622fd454f48528290f8848a29b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/js-new/blockpirsum.js"
+    },
+    "_sourceKeys": [
+      "fee66f2171d405a15609eb56686229b3255ee7f197b60cfba8c7802455bc0f88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||rotter.net/banners/"
+    },
+    "_sourceKeys": [
+      "cdeaed211e57aa95819b8d183d3a238e04c180d50e08fb5fbbd7196d4f006e1d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||rotter.net/edit/text/"
+    },
+    "_sourceKeys": [
+      "a4c8450011b5f1c015b58ca0b036b876620fcdcf4043cf560e4fa1d0150a35c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||beaverscripts.com/openwindow.js"
+    },
+    "_sourceKeys": [
+      "fa7102b7df359351fbf7c1f306fc626ab90df0da95ac5a3841964220305940be"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||bladna.co.il/public/flash/"
+    },
+    "_sourceKeys": [
+      "0297c056477b140c5dea4cfe6575ec602e0c3e454443e1bb56875cbaef50fac7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||ch10.co.il/wp-content/plugins/arti-banners/components/arti-banner-popup/"
+    },
+    "_sourceKeys": [
+      "7edd5e8b40ab7c09076ac3420762d6e34f8447e518b9af53d7be50a925470d27"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "googleusercontent.com"
+      ],
+      "initiatorDomains": [
+        "trusted-software.com"
+      ]
+    },
+    "_sourceKeys": [
+      "993dda2c7457193de6db81fe0d3550da3e049a6c109f6f3aeb86aae5ff2e9ce5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadim4u.com/accounts/default1/banners/"
+    },
+    "_sourceKeys": [
+      "3ad661a48eed32e779a4654d0bd671dd1c8b4fd84fd9aceecc13edfd0a9f8c55"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||negishim.com/accessibility/"
+    },
+    "_sourceKeys": [
+      "1d9b06a657f76a2ac22a384f318f16637f4d050ef0745b38a92c0cacaa1fc0ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||psakdin.co.il/pictures/banners/"
+    },
+    "_sourceKeys": [
+      "2f972734eb0a5a39ce8236d90eab572e4e96a5c58077d7a341132dc048856db9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||wcdn.co.il/banners/"
+    },
+    "_sourceKeys": [
+      "4667bb2a2fc60e479e0ca8cab3adc59794cd8f52a23e48ca021b3db4913ed843"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||admin.applicaster.com/v12//7047/channel0_android_banners"
+    },
+    "_sourceKeys": [
+      "27513a34c2726ca8a9cea1aec607f070d6245bdfdbb6e4c249e5b2660c35284c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/mobile/config/android/sport5/ad_config.xml"
+    },
+    "_sourceKeys": [
+      "a03d04649bb0ebf28a62cad288d20be60a38d7edfa23c315748ff122675c700b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.mako.co.il/mobile/config/android/sport5/banner_config.xml"
+    },
+    "_sourceKeys": [
+      "5d051f1befc12177f1c98c088cc3e924a9cc35f86c94f3fff5263853aa0e0176"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/json/5804468/mint.walla_android.homepage/spons"
+    },
+    "_sourceKeys": [
+      "fa54cad705c02929bb02e46d7695816e8536d3cbb7bc5ad27758d01e84fef78d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.yad2.co.il/pic/yad2new/homepage_promotions/prom"
+    },
+    "_sourceKeys": [
+      "66c185861b005f4e2e96edd5671364a379e1d0612155a7fa4cced7dfc7e3ed4f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||m.sport5.co.il/images/dreamteam320x40.png"
+    },
+    "_sourceKeys": [
+      "33ee41d7d82db5a47385ea92c05815f22b745445660cfdeb03d46d58154ca9ff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||resources.fortvision.com/staticfiles"
+    },
+    "_sourceKeys": [
+      "d8f0b489774ed64241a2de9c2a531b80a46909ba5fd12b0bdf947a65fc205353"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il/cm8ads/"
+    },
+    "_sourceKeys": [
+      "84a5629018a14155b68f0e8803ea8b39ed3e0d0ded83504e48292aea739d3702"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.fortvision.com/staticfiles/fb-web/"
+    },
+    "_sourceKeys": [
+      "833e40847b8dbb20ad3d4d945d118220ac14eae51f7feca2a7b2dbe4bc6a8822"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "warmafterthought.com"
+      ],
+      "initiatorDomains": [
+        "morfix.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "76f1730c7b158abfb8747978fe16eb96ddd931711a8d487ca32c103caf7b2092"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "x.walla.co.il"
+      ],
+      "initiatorDomains": [
+        "mail.walla.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "802fbc36ab70b9dac7198670a58f7e692ce0380c3d8113ec9d17a4be79099140"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.mako.co.il/2018/*/*/970x90a.jpg|",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "67f432ce90aa36ab89d3fd3601c31cd837ba60784dc866fa2f95a5675187bc23"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "xwbe.wcdn.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "55be26fc0cb84522fcee0bfb7a7dc9ffab0eba13a9ebbc011a5c92e0a04156de"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "xwbe.wcdn.co.il",
+        "keys": [
+          "55be26fc0cb84522fcee0bfb7a7dc9ffab0eba13a9ebbc011a5c92e0a04156de"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||fus.walla.co.il/js/purcf/walla.friends.rashi.main",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c313d8840fd75f10f99f4c73131ee5cfd90df59bf2d4054e63a86aa8b8f17ac8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dynamicyield.com"
+      ],
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3c47e91894f29234538a866a25c48012412e01c64b5d2ca8d35613e9565d2b9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "s3.amazonaws.com"
+      ],
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ddcf98e4e8d2798b2301c8eb31c55fae53d205b05db7d8e9d059efd3635bb1c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "s3.amazonaws.com"
+      ],
+      "initiatorDomains": [
+        "globes.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a1facb3dbf1e647226310c7c3d5e4f8dd1c255420a900c79e4c504cae7a4dfdf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "s3.amazonaws.com"
+      ],
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "94edd8bb05a432cf99a887072cc5190fdaa67937bad056a0d7847cb68cf55c70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/media",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "917a8f6eb4b5b796f02dbcb58b918e6ba1bcfd266de5cc77d0c82a1f6dea792a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.kore.co.il/out/",
+      "initiatorDomains": [
+        "www.kore.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2e53cb970243bf1e66d1dcaab19d71f3a12fda57bea679256e1545d4ca49ecb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn1.zoomanalytics.co/js",
+      "initiatorDomains": [
+        "zap.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "80825acda844b3ed95919b4125139e498b5c91437d53c406bc341a3b180d9dfb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "s3.amazonaws.com"
+      ],
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1f65c670bb1f3945cff57659bfa848d2ecc0fe7e64151bd578e43711df3e28de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "/amsdk.js",
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ecc073fabe7e60be5cb001d36ed6d212c959849c93c5a97add89275a9e7680f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||ext.hidabroot.org/out/banners.js?webid=",
+      "initiatorDomains": [
+        "www.hidabroot.org"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "dfdfc0e0ab48562ed1497daf097b7c622b9a8eb3a0818c14fc18affbc7458b69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/media",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "917a8f6eb4b5b796f02dbcb58b918e6ba1bcfd266de5cc77d0c82a1f6dea792a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.srugim.co.il/v1/ads|",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5b527ea8a45270db56ebe0fbbfbb1c152644d68daaf326a26e4204a8b17bf018"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||bhol.co.il/system/ad_manager/get_all_banners",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "8c875575ea9a03375918d1785810dfab4234146fe054aa09a1a8a1c3dfa78896"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.kore.co.il/system/ad_manager/get_all_banners",
+      "initiatorDomains": [
+        "www.kore.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "8c92fced11cfbfeed4bae990e4f08376dbb0d216aa61fa8d5b46a5c2197584ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "/amsdk.js",
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "ecc073fabe7e60be5cb001d36ed6d212c959849c93c5a97add89275a9e7680f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||mishpati.co.il/-partners/walla-form",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "4260fc23a6a15b9ca98b0ad8d980b6edccfe22ab6b1ada6a9ad2026a6926a76f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "stari.world"
+      ],
+      "initiatorDomains": [
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "ba8248d1f58f9a0ed78371b57eaa1d88c5f03bd960af8486879eafacae6c4506"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "urlFilter": "||walla.yad2.co.il/*banner",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a71f94d2b697cd7aeef38758a68fc64d81e6f30cac2994b427604830d4335f2b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynetbanneradmin.yit.co.il/assets/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "ef3c8439e5cd09b268fbde7ab7f0932b9a6fe851241124be85c21605a4d215c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||a7.org/*.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "14c0368611ed99c8a548a70712ef5ff5d5c963ca61784a84870ea4fdbbf50af0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||moodaot.kipa.co.il/userfiles/moods/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "bef2ee2536b3ddd840ef5d53f6ce6265a3eff8685fc30bb8a8c6b5e644b003db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.kikar.co.il/a/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "4e7d1853f76b0f49be6dcb66f2e6e04cddbd4777a3d845c6ee165c2229db5f0f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||auto.co.il/static/iframe_bn.html?*=",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "e9f537f4af938b75be98d4268118f2f5dff2f8626a8069eae149eb8e47884773"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.vimeo.com/video/383596619|",
+      "initiatorDomains": [
+        "ch10.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "8a082633932020cd73ce1284f36c13c3a71f2e5956003ef2de0a2fec8bc562ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||radio.coolsite.co.il/sekindo/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "c55ca2a17770352435499fad7550da852547714646f04a9e9345d3ebe339de3b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il/rotteriframe|",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "7634c7aa6ae92106631c2cb7c12e3f6ec776cc02c655ce52abdff9a3924638c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "/dfp.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "d7ebcac829a1107fa3b4ccd3625c7dea5b112404ac3c30a740ddac42809fe33b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "/dfp/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "b4f4c76d54630454301eb21a59b8aebf9ce90caef4ec1d3e220b76967596c8ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "walla.co.il"
+      ],
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "effac58e2d2beedc7ddd335c82d0ea0b7de33c3cdb410cb95c84c73b7e086fbf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.ynet.co.il"
+      ],
+      "initiatorDomains": [
+        "www.ynet.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "79aae37c82ddbd3a3d09987519a2705e4a2183f7593027dec0db15b505be9417"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.mako.co.il"
+      ],
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "a30f0a00bdffb1753571944fa06317fb3de942782543c32729e7c5053a52c9af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.globes.co.il"
+      ],
+      "initiatorDomains": [
+        "www.globes.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "9212d0ff750fedf2a7fb65be21cfa0722af02ae9f5120f6a3f8782ae9922350a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.calcalist.co.il"
+      ],
+      "initiatorDomains": [
+        "www.calcalist.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "d986afa8854dee67cee286b49a24d29fcc6769fa0d786df295620c41eb2959b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "13news.co.il"
+      ],
+      "initiatorDomains": [
+        "13news.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "0784baa7cfe30ddc8c4825fd912997326714d9f81e5ea078709a9d6a75fd637e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "13tv.co.il"
+      ],
+      "initiatorDomains": [
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "37a7f083c49cceb56149b88130c68a0fbd703eff175dedde3c9a0cb0a01fe828"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sport5.co.il"
+      ],
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "6a240fc794c67ad2664a1742fcb57025f492195778d519b8e27e87203aa2d8b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "yad2.co.il"
+      ],
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "ef07cc0223f194eaa64d56a07a8801f620a283601a00ea42a1388a0635c89459"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.bizportal.co.il"
+      ],
+      "initiatorDomains": [
+        "www.bizportal.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "50c3581d9b90ced3fe17f520cf9baa76e2f91d341cbfa0359f1d453176e9b440"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "activated.co.il",
+        "adland.co.il",
+        "browsiprod.com",
+        "buballmighty.com",
+        "clickon.co.il",
+        "erate.co.il",
+        "gitam.1host.co.il",
+        "kway.co.il",
+        "linicom.co.il",
+        "mitbahon.co.il",
+        "qovani.com",
+        "sekindo.com",
+        "talkahead.com",
+        "tblcontent.com",
+        "trustmedia.co.il",
+        "ultra.clicka1.co.il",
+        "upapi.net",
+        "valuad.cloud",
+        "wesell.co.il",
+        "ws.walla.co.il",
+        "boostquery.com",
+        "bostonparadise.com",
+        "bostonwall.com",
+        "depresis.com",
+        "loopmaze.com",
+        "maskoter.com",
+        "nothering.com",
+        "regi.tech",
+        "sprawley.com",
+        "srvjar.com",
+        "wodoka.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "96937e0fb60c2a24b405dc002601855e2f6991ef71089350fc70d1a4ccd14a8c",
+      "9fe712619d27b905e6f069ba1c13366aa0e006f7dcae1b995bb916e4672ce0c4",
+      "7a64f4e0047b3250b44d46fd77ac46effa87b4a7890e3b240ebd054fe8e53a7b",
+      "bdbfe5789ca484ed9de5c197b957f1b500c317d66b4572ef4678b6095de9b076",
+      "488982f32518ba0f00e353bad31490ff6184e8ca61a87c6d34c42a72d974fa6e",
+      "2ed4ab39c77645cdec68576571142eaefa7d7d32933be9c63a54493e7ae4d604",
+      "63fa8c8a154db060c47e9fa358af58a4fe93f9fa7c6774ec33ccd60212a9781e",
+      "8ee6a8303c6c2fbd468b0693db85159f97980b74cae6aa8e044ba6b3f72d33b8",
+      "5c48ce70fadc3be5c27288f7c3b79bd8febf6ac413aff5e7c9a337a0a1191363",
+      "fa6d53c7ca3e8a0421b82ed73254f41fdf830df18aebb87dce409bb32201ed31",
+      "5b871e6db858efcc3be52bb21f8b8b89f16d2df7b166f493a01155a623d52f80",
+      "7d36ab0041e709a671bbd0517ffcb51c705c3440ca6c61b035645392d529c945",
+      "ed4c558a0f2437b049b145ff530e3bde561d41e7bbc5d8e887e02f75ec664ef1",
+      "5cb619f40b323ee0525599889d37b890b33bcf0421f4f2d14f0cad2a79ad8fdd",
+      "225bcbe139612d46f7d00d7ceb88d74cfc9bdd30db60069c00364fb6f8a2cd5e",
+      "1e5e5dc2c1d280ef07ce8ce91be816d853185fc26f21394d56e328b3a64f6649",
+      "ebff17b9bccd0c39ca6ba0d6dfd521bedb0abd8856b6b983906019712c9832a5",
+      "0dc4c4a762f66703ff7f9eb6e0e6cc589d2435b936e83d5634664a89d81e4d71",
+      "1774af53f804bee87d5406d71a1e9f199bad7f6b95239a505ddc5ce7bcffa1a5",
+      "2c7e47c8c430e222d042aa6e0a2995591d671a3651c59ade3a1bcb8e9b5f9f65",
+      "fddaa4089119ccc12f580c4c4a4db06f0abda5ae5d8f2375ebd3d57c9d5a3eca",
+      "e828a22e2c21446f1114dd448c2f52d5a30f4be554159c686bb68142e37cb076",
+      "799d457a9a2cef06862efde8fe6c58a8e5989a1d457b6891e15a731926b4d1c3",
+      "6747cb2519ff0ece78b31ae77cf78322188e67ab18078118ad41aae3975f0ea7",
+      "ee6fce8ece07427a27c20da3961cc9adb02d7e654a731894dbd22e9bffd7c16c",
+      "20eaf28fd78044797003f61b05b128a3a5789a090f55b45cafb9943126610f03",
+      "5b98ca30d2efc4c0a3e28be19b760603f643218b4cb9ddd6f2a74ac34ed6e924",
+      "3ed891725c031a59b09eacc40747ee99db4fdc8f0ddff61ed54218a5d75b81c1",
+      "93a70ad3b3e3254205353165ca146e8d01fb8fe9deb5853980561d1c25591e91",
+      "583b44a25aa561d952dbc014f0bd1c2ce43d012ef64d2c24f189ba1ac3e0663f",
+      "f5d06c9c849f83bd4851d815727c2f24603c0ce98724141d89f1ba6115121f29"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "activated.co.il",
+        "keys": [
+          "96937e0fb60c2a24b405dc002601855e2f6991ef71089350fc70d1a4ccd14a8c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adland.co.il",
+        "keys": [
+          "9fe712619d27b905e6f069ba1c13366aa0e006f7dcae1b995bb916e4672ce0c4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "browsiprod.com",
+        "keys": [
+          "7a64f4e0047b3250b44d46fd77ac46effa87b4a7890e3b240ebd054fe8e53a7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "buballmighty.com",
+        "keys": [
+          "bdbfe5789ca484ed9de5c197b957f1b500c317d66b4572ef4678b6095de9b076"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickon.co.il",
+        "keys": [
+          "488982f32518ba0f00e353bad31490ff6184e8ca61a87c6d34c42a72d974fa6e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "erate.co.il",
+        "keys": [
+          "2ed4ab39c77645cdec68576571142eaefa7d7d32933be9c63a54493e7ae4d604"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gitam.1host.co.il",
+        "keys": [
+          "63fa8c8a154db060c47e9fa358af58a4fe93f9fa7c6774ec33ccd60212a9781e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kway.co.il",
+        "keys": [
+          "8ee6a8303c6c2fbd468b0693db85159f97980b74cae6aa8e044ba6b3f72d33b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "linicom.co.il",
+        "keys": [
+          "5c48ce70fadc3be5c27288f7c3b79bd8febf6ac413aff5e7c9a337a0a1191363"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mitbahon.co.il",
+        "keys": [
+          "fa6d53c7ca3e8a0421b82ed73254f41fdf830df18aebb87dce409bb32201ed31"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "qovani.com",
+        "keys": [
+          "5b871e6db858efcc3be52bb21f8b8b89f16d2df7b166f493a01155a623d52f80"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sekindo.com",
+        "keys": [
+          "7d36ab0041e709a671bbd0517ffcb51c705c3440ca6c61b035645392d529c945"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "talkahead.com",
+        "keys": [
+          "ed4c558a0f2437b049b145ff530e3bde561d41e7bbc5d8e887e02f75ec664ef1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tblcontent.com",
+        "keys": [
+          "5cb619f40b323ee0525599889d37b890b33bcf0421f4f2d14f0cad2a79ad8fdd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trustmedia.co.il",
+        "keys": [
+          "225bcbe139612d46f7d00d7ceb88d74cfc9bdd30db60069c00364fb6f8a2cd5e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ultra.clicka1.co.il",
+        "keys": [
+          "1e5e5dc2c1d280ef07ce8ce91be816d853185fc26f21394d56e328b3a64f6649"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "upapi.net",
+        "keys": [
+          "ebff17b9bccd0c39ca6ba0d6dfd521bedb0abd8856b6b983906019712c9832a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "valuad.cloud",
+        "keys": [
+          "0dc4c4a762f66703ff7f9eb6e0e6cc589d2435b936e83d5634664a89d81e4d71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wesell.co.il",
+        "keys": [
+          "1774af53f804bee87d5406d71a1e9f199bad7f6b95239a505ddc5ce7bcffa1a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ws.walla.co.il",
+        "keys": [
+          "2c7e47c8c430e222d042aa6e0a2995591d671a3651c59ade3a1bcb8e9b5f9f65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "boostquery.com",
+        "keys": [
+          "fddaa4089119ccc12f580c4c4a4db06f0abda5ae5d8f2375ebd3d57c9d5a3eca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bostonparadise.com",
+        "keys": [
+          "e828a22e2c21446f1114dd448c2f52d5a30f4be554159c686bb68142e37cb076"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bostonwall.com",
+        "keys": [
+          "799d457a9a2cef06862efde8fe6c58a8e5989a1d457b6891e15a731926b4d1c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "depresis.com",
+        "keys": [
+          "6747cb2519ff0ece78b31ae77cf78322188e67ab18078118ad41aae3975f0ea7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loopmaze.com",
+        "keys": [
+          "ee6fce8ece07427a27c20da3961cc9adb02d7e654a731894dbd22e9bffd7c16c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "maskoter.com",
+        "keys": [
+          "20eaf28fd78044797003f61b05b128a3a5789a090f55b45cafb9943126610f03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nothering.com",
+        "keys": [
+          "5b98ca30d2efc4c0a3e28be19b760603f643218b4cb9ddd6f2a74ac34ed6e924"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "regi.tech",
+        "keys": [
+          "3ed891725c031a59b09eacc40747ee99db4fdc8f0ddff61ed54218a5d75b81c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sprawley.com",
+        "keys": [
+          "93a70ad3b3e3254205353165ca146e8d01fb8fe9deb5853980561d1c25591e91"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "srvjar.com",
+        "keys": [
+          "583b44a25aa561d952dbc014f0bd1c2ce43d012ef64d2c24f189ba1ac3e0663f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wodoka.com",
+        "keys": [
+          "f5d06c9c849f83bd4851d815727c2f24603c0ce98724141d89f1ba6115121f29"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||webid.co.il/b144/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0b33a9812c83c849e061c8a9bdefdb2a2691fcfe7217f900f7dc257989122620"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "wee.co.il"
+      ],
+      "excludedInitiatorDomains": [
+        "askoli.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "fe39bf215027b14a702be1310ebea37fa04679d02254beaa8ab29794ca324246"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "3dots.co.il"
+      ],
+      "excludedInitiatorDomains": [
+        "maple-team.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a29743d96b554a1b6b6a3480f17e30c82e9671333eab85b8c2cef7fd9d3b91b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "artipbox.net"
+      ],
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b138608d080cee3f0e8218a6a13214ba9f17bbb1127727c9e4e17fcac780b0a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cooladata.com"
+      ],
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "81dccfcdd0eb4fac8c7b34ddf31196c8993e58cf0db9546e9bd5e991ccf5fb6c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "firebaseio.com"
+      ],
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b58a8235fd7a22006c27bab0afa735ef85a19562198843582879c9abccee4fec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "trace.events"
+      ],
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "655c673df07934be033e42127c380312b10c368896535148e88950973ebced25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "activetrail.com"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7119e5607712ff491b324094521aedc4d71d03c82e84e8e085196293e2f14a30"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adoric-ads.com"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8bda4544da64f3d40d1a70bcadc7254c8011da337d3862ac0078d1516dfb771f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "analytics.edgesuite.net"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b9599d1754fc2dac87220eceb344214a3ebfe4396c0a37ea0ab1adab168998e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "netdna-ssl.com"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "54ad614a9c8dcf3f5dc694b00c6a7edb5287f934e7b5006a9400c8d253ad6485"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "viewbix.com"
+      ],
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "aa6a673f1c828751d997c1743b98e9566b5cba2b6a0340d267e51c2c909fc009"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "shopupz.com"
+      ],
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "cd3a1ce0be265e9aba17dfef7ded545d291442b1a62e894db7ea989ef0314794"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||ban.d-group.co.il/banners/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "51195dbdbe1766762fb6ff0172e217c74cd2151e0a80931309dfd89aed909682"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "netform.co.il"
+      ],
+      "initiatorDomains": [
+        "0-15.co.il",
+        "2b-bari.co.il",
+        "50plus.co.il",
+        "abortion.org.il",
+        "acnecenter.co.il",
+        "add-syndrome.co.il",
+        "allergy.org.il",
+        "alzheimer.co.il",
+        "asthma.org.il",
+        "autism.org.il",
+        "bariatric.org.il",
+        "blinds.org.il",
+        "blood.co.il",
+        "burn.org.il",
+        "candidafree.co.il",
+        "cfs.org.il",
+        "cholesterol.org.il",
+        "cold.co.il",
+        "commitment.org.il",
+        "degeneration.co.il",
+        "dementia.co.il",
+        "dermatology.co.il",
+        "dialysis.org.il",
+        "ear.org.il",
+        "east-west.co.il",
+        "emun.org.il",
+        "ent.org.il",
+        "feeling.co.il",
+        "fms.org.il",
+        "gastro-israel.org.il",
+        "genes.co.il",
+        "human.co.il",
+        "hyperhidrosis.org.il",
+        "iaawh.co.il",
+        "ibd.org.il",
+        "ifeel.co.il",
+        "ilsi.org.il",
+        "immunology.org.il",
+        "implants.org.il",
+        "ioh.org.il",
+        "isala.org.il",
+        "le-la.co.il",
+        "linshom.org.il",
+        "lung.org.il",
+        "lupus.org.il",
+        "maane.co.il",
+        "matnachim.co.il",
+        "matnachim.org.il",
+        "medicalcannabis.co.il",
+        "mifrakim.co.il",
+        "my-rights.org.il",
+        "myeyes.co.il",
+        "myhealth.co.il",
+        "myheart.co.il",
+        "myrights.co.il",
+        "nashy.co.il",
+        "neurology.org.il",
+        "noga.org.il",
+        "obesity.org.il",
+        "oncology.org.il",
+        "pain.org.il",
+        "parkinsons.org.il",
+        "pediatrics.co.il",
+        "pigur.co.il",
+        "pso.org.il",
+        "psychiatrist.org.il",
+        "psychiatry.org.il",
+        "stdinfo.co.il",
+        "stroke.org.il",
+        "takana.co.il",
+        "tevalife.co.il",
+        "urinary.co.il",
+        "urine.org.il",
+        "voices.co.il",
+        "womenonly.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f95617369b64dfd7591ed5059741e86a6358a4e19e9149c66edfb19f51514137"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "virtualspirits.com"
+      ],
+      "initiatorDomains": [
+        "0-15.co.il",
+        "2b-bari.co.il",
+        "50plus.co.il",
+        "abortion.org.il",
+        "acnecenter.co.il",
+        "add-syndrome.co.il",
+        "allergy.org.il",
+        "alzheimer.co.il",
+        "asthma.org.il",
+        "autism.org.il",
+        "bariatric.org.il",
+        "blinds.org.il",
+        "blood.co.il",
+        "burn.org.il",
+        "candidafree.co.il",
+        "cfs.org.il",
+        "cholesterol.org.il",
+        "cold.co.il",
+        "commitment.org.il",
+        "degeneration.co.il",
+        "dementia.co.il",
+        "dermatology.co.il",
+        "dialysis.org.il",
+        "ear.org.il",
+        "east-west.co.il",
+        "emun.org.il",
+        "ent.org.il",
+        "feeling.co.il",
+        "fms.org.il",
+        "gastro-israel.org.il",
+        "genes.co.il",
+        "human.co.il",
+        "hyperhidrosis.org.il",
+        "iaawh.co.il",
+        "ibd.org.il",
+        "ifeel.co.il",
+        "ilsi.org.il",
+        "immunology.org.il",
+        "implants.org.il",
+        "ioh.org.il",
+        "isala.org.il",
+        "le-la.co.il",
+        "linshom.org.il",
+        "lung.org.il",
+        "lupus.org.il",
+        "maane.co.il",
+        "matnachim.co.il",
+        "matnachim.org.il",
+        "medicalcannabis.co.il",
+        "mifrakim.co.il",
+        "my-rights.org.il",
+        "myeyes.co.il",
+        "myhealth.co.il",
+        "myheart.co.il",
+        "myrights.co.il",
+        "nashy.co.il",
+        "neurology.org.il",
+        "noga.org.il",
+        "obesity.org.il",
+        "oncology.org.il",
+        "pain.org.il",
+        "parkinsons.org.il",
+        "pediatrics.co.il",
+        "pigur.co.il",
+        "pso.org.il",
+        "psychiatrist.org.il",
+        "psychiatry.org.il",
+        "stdinfo.co.il",
+        "stroke.org.il",
+        "takana.co.il",
+        "tevalife.co.il",
+        "urinary.co.il",
+        "urine.org.il",
+        "voices.co.il",
+        "womenonly.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "660ce9b25d30e7df2347b337e8deef9fee53c5ca4eadcdd936188fd7e8b7f613"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "whats-new.co.il"
+      ],
+      "initiatorDomains": [
+        "0-15.co.il",
+        "2b-bari.co.il",
+        "50plus.co.il",
+        "abortion.org.il",
+        "acnecenter.co.il",
+        "add-syndrome.co.il",
+        "allergy.org.il",
+        "alzheimer.co.il",
+        "asthma.org.il",
+        "autism.org.il",
+        "bariatric.org.il",
+        "blinds.org.il",
+        "blood.co.il",
+        "burn.org.il",
+        "candidafree.co.il",
+        "cfs.org.il",
+        "cholesterol.org.il",
+        "cold.co.il",
+        "commitment.org.il",
+        "degeneration.co.il",
+        "dementia.co.il",
+        "dermatology.co.il",
+        "dialysis.org.il",
+        "ear.org.il",
+        "east-west.co.il",
+        "emun.org.il",
+        "ent.org.il",
+        "feeling.co.il",
+        "fms.org.il",
+        "gastro-israel.org.il",
+        "genes.co.il",
+        "human.co.il",
+        "hyperhidrosis.org.il",
+        "iaawh.co.il",
+        "ibd.org.il",
+        "ifeel.co.il",
+        "ilsi.org.il",
+        "immunology.org.il",
+        "implants.org.il",
+        "ioh.org.il",
+        "isala.org.il",
+        "le-la.co.il",
+        "linshom.org.il",
+        "lung.org.il",
+        "lupus.org.il",
+        "maane.co.il",
+        "matnachim.co.il",
+        "matnachim.org.il",
+        "medicalcannabis.co.il",
+        "mifrakim.co.il",
+        "my-rights.org.il",
+        "myeyes.co.il",
+        "myhealth.co.il",
+        "myheart.co.il",
+        "myrights.co.il",
+        "nashy.co.il",
+        "neurology.org.il",
+        "noga.org.il",
+        "obesity.org.il",
+        "oncology.org.il",
+        "pain.org.il",
+        "parkinsons.org.il",
+        "pediatrics.co.il",
+        "pigur.co.il",
+        "pso.org.il",
+        "psychiatrist.org.il",
+        "psychiatry.org.il",
+        "stdinfo.co.il",
+        "stroke.org.il",
+        "takana.co.il",
+        "tevalife.co.il",
+        "urinary.co.il",
+        "urine.org.il",
+        "voices.co.il",
+        "womenonly.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "678894b4f2432c8a6532d0b31070530d5227a1e665042028c13759d9c5e591a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "takana.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "67df7b2309904ae41cbc7605b850be949a9677d0954e0ff3052ad3f5946b9ae6"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "takana.co.il",
+        "keys": [
+          "67df7b2309904ae41cbc7605b850be949a9677d0954e0ff3052ad3f5946b9ae6"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "regexFilter": "(\\/|\\.)[a-fA-F0-9]{32}\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "171fe422c7c096d971d7663cc4292cd1f511f1563d7ef95c33bc96b42c5feab6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "regexFilter": "(\\/|\\.)[a-fA-F0-9]{32}\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "171fe422c7c096d971d7663cc4292cd1f511f1563d7ef95c33bc96b42c5feab6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.walla.co.il/wallaplayer",
+      "initiatorDomains": [
+        "fxp.co.il"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d8b83a9b8bd4f300153e79ce758ef2bc3dc73c57f30fa624f2eff5e7fb2592f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "regexFilter": "(\\/|\\.)[a-fA-F0-9]{32}\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "171fe422c7c096d971d7663cc4292cd1f511f1563d7ef95c33bc96b42c5feab6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "regexFilter": "(\\/|\\.)[a-fA-F0-9]{32}\\.com\\.?([\\/\\:]|$)",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "171fe422c7c096d971d7663cc4292cd1f511f1563d7ef95c33bc96b42c5feab6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/",
+      "initiatorDomains": [
+        "kikar.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "399fabce92f4ed4d9a5499a860aa6b42e4924d212f9e67500464dd25cdee95fc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/walla/"
+    },
+    "_sourceKeys": [
+      "f444c464f832ccbfe52be41446e0dae951d9ab12e17314fe4af533e3f925691f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/crossdomain.xml",
+      "initiatorDomains": [
+        "one.co.il",
+        "walla.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "60108f3179b9f06e9e89737fb3572a76696edc6b6b020428f32599a5fee68a70"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||bipbip.co.il/style/ads.css"
+    },
+    "_sourceKeys": [
+      "494423761948aeeea45269e63d0659832519e0a3b1fac6f3042ae0204d69d3a5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||clalit.co.il/adimages"
+    },
+    "_sourceKeys": [
+      "e0f402ed7595c670135389bd0fbb927e0baef6136789112fe054714366a37508"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||globes.co.il/js/ads.js"
+    },
+    "_sourceKeys": [
+      "337b176ec5533fbd1bbda07f81d2d03953fad819fd014f090e4f6a8b805bf386"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||globes.co.il/news/inc/banners/show_ads.js"
+    },
+    "_sourceKeys": [
+      "516eb1ede868f0ea764e63f672cfadcc09143a7fe51fd35d45d1b840cd809ade"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagservices.com/tag/js/gpt.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ]
+    },
+    "_sourceKeys": [
+      "abef0a1e1816b3b786c9cded24aa0d9f470922942d893b0eefe1483e5c31f236"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||gplanet.co.il/js/adx.js"
+    },
+    "_sourceKeys": [
+      "3871515d1a6b2d0a07a273f7200287e621a8dcbf291a916c739cbfa24d149ebb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||holmesplace.co.il/sites/all/modules",
+      "initiatorDomains": [
+        "holmesplace.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "0218f7e1f502e5a5f19e4767245bd64cda7d7515d9e0e3b1bd502e1b1d56a474"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||kikar.co.il/js/ads.js"
+    },
+    "_sourceKeys": [
+      "59eb55a776ac8fbd7a7c27514667e8ae68f0510441eedcadf2db9b1712089436"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||lamehadrin.co.il/_layouts/shufersal.yesh/scripts/gtm.js"
+    },
+    "_sourceKeys": [
+      "dc3dbffb85db15a42cbc6ba616b0e647379047b941e41074a339a8fab3341318"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/adserver/?zoneid=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "a34e9cbe26f17ccec902d84bb207a22ef660102a9cb75e4ce653bf354c38dac1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/as",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "c3e5124ad7be43cabc1868f00953b7089dac18a9c4f498ea861992841246771b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||lb.advsnx.net/crossdomain.xml",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "75d3002db57e1d119794f1c04ea03f3e3229d7302eaa40d09210774143b86dac"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||matrix.ynet.co.il/js/ga/ads_controller.js"
+    },
+    "_sourceKeys": [
+      "f5e54c656f55a3d276f0537e386e1200d2b465c87c3a3211b5fa1c4f105ef43f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 170
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js"
+    },
+    "_sourceKeys": [
+      "b2ad31821d18f39ffa7842fc6b1c4c1f0713090084d10e1b979e7791aa438eeb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "haaretz.co.il",
+        "inn.co.il",
+        "isramedia.net",
+        "mako.co.il",
+        "n12.co.il",
+        "pc-dev.co.il",
+        "pc.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "themarker.com",
+        "tvbee.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "1088c71e2d691c4713ca0342ae796843c3c2c47bd940ff070a736c5277cad9e7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/show_ads.js",
+      "initiatorDomains": [
+        "pitaronfree.blogspot.co.il",
+        "pitaronfree.blogspot.com"
+      ]
+    },
+    "_sourceKeys": [
+      "0897c59d08c16fadfbd92d7961c32aff9382e3279ce21b3c4729d4c9ffce5f76"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||pas-rahav.com/creativitys"
+    },
+    "_sourceKeys": [
+      "9fabf5c8733b62ce7e406716591b6c9a34920d22e25adb1bf7e9a8702bcffc2f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 174
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pas-rahav.com"
+      ],
+      "initiatorDomains": [
+        "cinema-city.co.il",
+        "cinemacity.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "a53f20abceacda954e960afdc786277672fd487033a32078fd99cdb3a15563f3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ad",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "291a757ecb15b863511205773ef964a7dc3a0d935e6c58efb7a8bd899b8833d6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ads?ad_rule=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "538f2f31fa194f3b2f420f80fd4c5b1809eb2d26edb475415b05f2275b697246"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/adx?iu=",
+      "initiatorDomains": [
+        "mako.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "0c86f3915e8337c9641d1374d5697b6492dedf9a8c570414c03eb515aae755d6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||qamesh.com/images/advert.png"
+    },
+    "_sourceKeys": [
+      "0906af6b5b3fc87dd218182494cc0e361b5c92738a1a5cd0e4aa3cf79f7dd39c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/pagead/managed/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "6620af935cf99af542629755a0ff1ec92aa36b9a6293d89f8a7233238bd157b4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||shukitv.ucoz.com/script/ads.js"
+    },
+    "_sourceKeys": [
+      "04c63de1443fff121ca140f4d4aff828793a786978c3698d35e3d79ae50107af"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||tornado-top.co.il/template/images/"
+    },
+    "_sourceKeys": [
+      "d3016fa3ff8da8fc2c82d38a90e975938238786cf8d6b834096bdd718aa99f6e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 182
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www-haaretz-co-il.eu1.proxy.openathens.net",
+        "www-themarker-com.eu1.proxy.openathens.net"
+      ],
+      "urlFilter": "*googlesyndication*/pagead/js/adsbygoogle.js"
+    },
+    "_sourceKeys": [
+      "468f6c865bb16c61ca8806cbc8505c364ef97d09d541df9dff47b2f599052bab"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/plugins/jdn_ads/js/info.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "23852a7efd0a85e796b602790207352c80f4ef5d562efeecc7024e867d7710fa"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.ynet.co.il/videojs-ima/videojs.ads.css",
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "16b87a7af7cd99b70fdd8fefb06b5a42d7c8418dca1d11e02448e0558340e961"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 185
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "regexFilter": "^https?:\\/+(www\\.)?google\\.(com|(com?\\.)?[a-zA-Z][a-zA-Z])\\.?\\/ads\\/ga-audiences\\?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0a32d3268efb4c5ba10043ad00cebe577bbcce7eae0c82fd12a2c67a7803f100"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "/advert.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ac82e95e101140b25accb6243075a09bf4c093418b19a7ba1e943ce96b0bc197"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||admedia.com/images/cross_channel_arrows.png",
+      "initiatorDomains": [
+        "isramedia.net"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c37e398c8ad791be0c3c2d0061399e63d0639e0aedeb53ba5313baceea4f95f0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.yad2.co.il/adpic.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3a0d4d74b768e38daf4735e3fc42e233b36ec90fd20570061c2f8b405692d6e0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 189
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||info.a7.org/info/delivery/lg*.php?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1283579bd25e9a2002c86a2d1471b8fc202d2e841e5277424987c8721f59edb2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||israelsport.co.il/digiweb/userfiles/images/ads/getty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d1bf74813c6e1d387c73e9a5de035d9e107ab752f5bdc713f4be3c42834383a7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||kkl-jnf.org/files/banners/",
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2d37673c38433e5f11a351bd4307d5b1bcbdbb4d960125d05754181c2de210fd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 192
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "urlFilter": "||kkl-jnf.org^*/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0f055b2d02d839f2e2c9bfab28811c0894614bf48edbc1f09e47c547213fd1db"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||kkl.org.il/files/banners/",
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "92b4701f71ba65c76b93c0f22dc4af5885acf0f18410c18c718a2a633cd0a735"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 194
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kkl-jnf.org",
+        "kkl.org.il"
+      ],
+      "urlFilter": "||kkl.org.il^*/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9e8960da98dab0a9ccfb120d4c4f4e72171985ce29f2f7dd959ba89841bc492d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||nv.vi-serve.com/vis-media/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8485b1e6aba56e56d8384b355cd83594a66202ae52cb930f6de46cad8ca21d95"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||shop.lametayel.co.il/img/cms/baner_shop/",
+      "initiatorDomains": [
+        "shop.lametayel.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "276613db16523d6f8dc169ff8c472b771d566fe23cc4b68de70eb64138742303"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.vi-serve.com/?event=",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8a09832b73315dc3d60b53ea814f0c9cf71198e178505457311a7970cf4106f6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||thetvdb.com/banners/",
+      "initiatorDomains": [
+        "wizdom.xyz"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b62c25832cfd9628ab19106c6ffdaa3510584a3ec8647f43544c9ec07c431d7c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 199
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "maccabi4u.co.il"
+      ],
+      "urlFilter": "||translate.google.*/gen204?",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "099dd779c13536211ef00b637bbeefa2e911fc5d7edf9188a5f1d13f23a72fde"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 200
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sfx-images.mozilla.org"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "09eae8b1ea7978b456f7491ab2b3cd553a6b281f9f387b7ea16045600d09cc33"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "sfx-images.mozilla.org",
+        "keys": [
+          "09eae8b1ea7978b456f7491ab2b3cd553a6b281f9f387b7ea16045600d09cc33"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 201
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "regexFilter": "^https?:\\/+adservice\\.google\\.(com|(com?\\.)?[a-zA-Z][a-zA-Z])\\.?\\/adsid\\/integrator.js\\?",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f60d1dde3b8d6dedc33790128615bcf063d35857c79655c75956d855a9f3e0a3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||2mdn.net/instream/video/client.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "mako.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e7915b32c3146909695f02ee9c815c058f4e20b28d0b58b2efeb64c855408604"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/combine.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "99efc76e7b24849f18b11001ca989773be86077cb0e97a901e926aab4ce4e9d0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 204
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "||a7.org/cab/*.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d8355c2932a07501f6faa49fa9176cb984c2bea80116092b1333a9acbacb4601"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/forecast.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b516b568075b4a805148e6153ba68a0b1b1fabe47a60787a18e02e81ec0f571e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/jquery/",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1f8eae686f5259ef1f6bd655a35cb77a7dca72cd6bd06a92049701dd22cf70ce"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||a7.org/scripts/mosaic_",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d408834fa539362e6b0db935529e8feda3821d0368b1ca9b36867e741c7f4539"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||adservice.google.co.il/adsid/integrator.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c45fd025832612b59ea74ecc4554cb1f887b49ea649a536326f6a0327e7839f4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||adservice.google.com/adsid/integrator.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9b97187a5e6e5ceb63309d10377333ba76ba9cb8bd07923366f01ae2189464ee"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/arutz7/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6274c97f5ac18fc62eb483adadd2123a14ea753bfb7efa4efc86e3bee5d55b3f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/israelhayom/html5/amsdk.js",
+      "initiatorDomains": [
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bfd1952a152266ee35c50db550fb390d18a0b135e11abf342e5498a56acca0c8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/reshet/html5/amsdk.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "be2ad7a0eeff83a84b914ada85fe0046ad0008b945c31cc85dd1a4fb6491f8f4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 213
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/*-min.js?",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "fd2d846e7e3ed5060334796ebdf63fbdf006b86b0da1ff7a86ad4b53b8ad1c0a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 214
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/*/plugin.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6b380dfcc469303e1c9683ca38b7f335bc12c87b911a738da4c67eea76ff8a32"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/kaltura/plugin.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "israelhayom-cdnwiz.com",
+        "israelhayom.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "903e947e08ab628380cfb15ad98702ad5b96f6c2b33af11c1f468a37f34d0c9c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/plugins/vjs/plugin.js",
+      "initiatorDomains": [
+        "20il.co.il",
+        "ch20-cdnwiz.com",
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "abcde5d2509f5ab31bdce23a91880abf0e50f256a7a785a69bccda191d12da6c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||akamai.advsnx.net/cdn/sdk/system-scripts/sys-moat.js",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3705fa8a70d96a94974e42c4e6fd8a62ce912fa7051a3803a8dd1fdc706f073e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||biu.ac.il^*/stormcaster.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8a56cfb09a470de3f0ec05b70ee93595c21da7083d674927c1c08cd817eccdc2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7069bb75e5790289fbd426a43c2fbbf0c1b8878e420f5dab4709d3f7acedf012"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/inn-hebrew/loader.js",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "98f338216c645b8cb8935804eed46ff96dfd1afb2bd1599d0dc0e9606f4db14c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/reshet-reshet/loader.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5166a621e53759476e0e5cefec80fa11a9cd0ee08658ca7de1b4ecb835478839"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.taboola.com/libtrc/wallail-hamal/loader.js",
+      "initiatorDomains": [
+        "hamal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9757aea0092096a772e36c4a2d51345df6b4fb9bff5b829820beb1fcb324c2b1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/",
+      "initiatorDomains": [
+        "hamal.co.il",
+        "sheee.co.il",
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "08c252644a21fea2c0be721877a01307067d863bf77fd25d3ef2ea1068c4f93a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||dmag.co.il/pub/shvii/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c8299c9690e22f3daa05295aa20761af70640c1854f368bee840f499704bb5e9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtag/js?id=",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "aa1fcd18039179c75aba97ef1d07f84fc92467edaf13cdff642228069be81680"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "clalitsmile.co.il",
+        "eshet.com",
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bbf6e628ba27faf0076b9cf8d6ec8119de6755fab0d0e4cb88c681fd43005512"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "bizportal.co.il",
+        "c14.co.il",
+        "calcalist.co.il",
+        "channel14.web-prd.immergo.tv",
+        "hamal.co.il",
+        "i24news.tv",
+        "maariv.co.il",
+        "mako.co.il",
+        "n12.co.il",
+        "now14.co.il",
+        "one.co.il",
+        "sport5.co.il",
+        "tech12.co.il",
+        "tvbee.co.il",
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9766569a29d4968fa7095145efc6a67f6eb4d082e2ee99c8f42f2ed79a04685b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_dai.js",
+      "initiatorDomains": [
+        "c14.co.il",
+        "channel14.web-prd.immergo.tv",
+        "i24news.tv",
+        "now14.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8e735ece3837cd56fb92438254de4211561349d3a39ac820524f36b7557c3eaf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.a7.org/info/a7delivery_f.php",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "611da13fb083f6d86246a6ef1505eae4287b755958da633c3f78134a64936ba7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||info.jdn.co.il/r/a7delivery_f.php?func=floadone",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1e8ab571a7e97f784526ebd1cac6376d3f36564dffc4c300d581878fe9607a49"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/plugins/jdn_ads/js/info.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6a8cc4416c4e473797c8c4f8803b2ccd9f903e0e8da8435776cdafbe90ff36f6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||libs.outbrain.com/video/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "651d9373245dfd1f9cbc274fe5c6137dd68b91e3469de99879f076b63ce1551b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||mako.co.il/js/dfp/dfp.js",
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3905a7d3fe7c16eb0117fa9f1cfbc0ce38383fc2be8985f6b9ffd231f6947d16"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/omsdk/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f4ea8e0a6e3efb66596ccba324dba0d7f2663222b68d0efff7f347621e2fc65a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.googleadservices.com/gpt/pubads_",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "haaretz.co.il",
+        "one.co.il",
+        "themarker.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4348e92162f84533c694a8e8d1c550a3e5be204018b98e2244296ae96433cc34"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "28509e3b12ef2400236ec6fbc7644efc22b98c6f9366862555aac82a92c76e61"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/publishers/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c44e7bebee9d741de7df94740f1563ee99d6477b892d35514678a8eed645af58"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/source.m.js",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a5cbb2d4caa41e26517427ff91bfc45de6fb7ee1c7ef30878444ef875638fc72"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||s.vi-serve.com/tagloader.js",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "36bc28247f43a32726cae6cec08170998f130bd52daa9935acdeefb503fb3923"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gampad/ads?gdfp_",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9d7eff8ad97645b9bb8ef02dd33622ad5c9ee55acd25d64e6ffe9ffc35dc7736"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/gpt/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il",
+        "nifgashim.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e5da8cc1b66c1aae24470707471d97423a30d82fa3781a23698fa3de5f6d9481"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/tag/js/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8e2e5b977728ca8685721ba7c28aac41ef016ebae151209b9bff0277beb6f647"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.site24x7rum.com/beacon/site24x7rum-min.js",
+      "initiatorDomains": [
+        "one.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cfa3f817575c523c99f1e20d1af62c87c418fc3ad1ee4634d000ec2169fb6011"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||tags.dxmdp.com/tags/",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9301b46916c53447841b4bce89c52769821e6ef360075d469db54f67f8717c98"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||trc.taboola.com/globes-il/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "efe2aeafc384b7751e9d0e93fb450ef8525d57413ff4c82df2ffd7508766e0e4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0c7f216d0d85b577bf412e2fa69e1e8d3c11da36eff4fd091540d3182ede5393"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynet.co.il/dc/dcloadads/",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b8b279afeceed203039112ca848b19e47cd61fb59c0e3015fac711adce0bb35e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||ampproject.org/amp4ads-",
+      "initiatorDomains": [
+        "themarker.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "06568bc3352524bf04b4460d0963997c5ac21c25b8798221b1ebd37e4ec8ce5d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||555.co.il/pearl/rest/analytics/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "1262f3e050d9a6f6d7448cfd13bb8d73cfdb51370acb2ccaca9668c688e77f7b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 250
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "playern.sport5.co.il"
+      ],
+      "urlFilter": "||adtest.advsnx.net^*?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "29047c5aad63ce3f5628d11740e4825aaf32d3e3336d740c4c4bf3738256cec0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 251
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "akamai.advsnx.net"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "8d4c77fa547acca2d05425533b6756f4bc682be9ea727548a22645344f7ddc7e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnwiz.com/ads.js",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "7ba47883355d5cf28a278c403eb0360281a53f23adb26a48bbdecf7e2d1f1264"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||errors.snackly.co/_.gif|",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "26b7ce021a8a173a749d7f6ddceaa42db87be0640a7efc13fb1280e5c951a2d7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||imaot.co.il/recipe/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "35f8f82f905be367f81d5df0bb760d3aded16a10d6a6f8d4e26a0720c6108d82"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.bizportal.co.il/handlers/advertising.ashx?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5ba70f58303e932a504cb9ab3f0149fc048a583169706ca72ea5d31089a70d39"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/ads.js",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "28509e3b12ef2400236ec6fbc7644efc22b98c6f9366862555aac82a92c76e61"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcs.mako.co.il/js/prebid-",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "ca42c8351bff3b17a51d51fdec9f4e49056173ca795d6a03057495cc6dec22ab"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 258
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "maccabi4u.co.il"
+      ],
+      "urlFilter": "||report.maccabi.*/cls_report?",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "022cf0f48a8e054d86c38aabee7fb3033390eab33887ce2f65a24e47d75e26df"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||services.haaretz.co.il/games-backend/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "feca61120eaa0cbfbe84d8dc0fb8c446e575b0dc1efb8c149a62ac6a7697a69b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||vis.vi-serve.com/playlist/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "9138d105fedbfcb30fdc3b7dc3a1d342d385c1d30810ea2e572fad6579e9342a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||nv.vi-serve.com/vis-media/",
+      "initiatorDomains": [
+        "bizportal.co.il"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "8485b1e6aba56e56d8384b355cd83594a66202ae52cb930f6de46cad8ca21d95"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 262
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "old-games.org",
+        "taimeod.co.il"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "e03f8996c24cebcb224fa5649fbe3899646c8ec795dda8d556e36db01a4d77c4",
+      "249138c2869397c1066a462157c8cc6fa89a4deee58c5e10b756a5e742fc0b0a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "old-games.org",
+        "keys": [
+          "e03f8996c24cebcb224fa5649fbe3899646c8ec795dda8d556e36db01a4d77c4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "taimeod.co.il",
+        "keys": [
+          "249138c2869397c1066a462157c8cc6fa89a4deee58c5e10b756a5e742fc0b0a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||bipbip.co.il/images/ads/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "21b76027d9edec91eb97c5c7a11dad416dd0bf1ed4224d60bad6f73a9e70efb7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||hamal.co.il/public/assets/ads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "a4b90f8d2d512db2e9cb8ab66473bbcb3e0a58b1a35552277a09aafa7202b747"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||sheee.co.il/public/assets/videojsads/videojs-contrib-ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "20081339262faef4a3d3b53864ef78424e0177985d30d700691036bc96759a73"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||walla.co.il/public/assets/videojsads/videojs-contrib-ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "bc2146cbd6a15b59c41147e2c1a38fcdf9909e4d1ce9eb58546d5b93dd759936"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynet.co.il/common/api/scripts/video/videojs.ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "1d3e653560c9a63557a80eb69f58700fb4304b6d967da8cb93ce4975d1b6ee4d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||biupress.co.il/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6ec8ab1793fbc851220fc271893fd688d90ea0223f20a17a29b49caa0b231a55"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||callil.co.il/content/ads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b0aa9bcad651273beb63db4b95e40e5edcb404d5e8941e05be3c142addab4d29"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||elite-coffee.co.il/dw/image/*/banners/*_*x*?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e78bfb0dde083428cc1c54219c47dfb3d71369ed603b27b42325c6fd28ebd5b3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||frid.co.il/files/*/baner.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "45cfd70d68bfe69ec11d3df37d1b223c7f878215a53a9483f478de558f9a61a4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||frid.co.il/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0170cec0bf4f9d7dddb952180cf5a52b7b509ab6b9fad142fcb1279c0e080053"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||hayeruka-ks.co.il/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3a03eb2c76e4ba9411d0ad61c7f1f50d50216db5d5a4af02748e772851dbce79"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||isramedia.net/images/header/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "937542b8d9ade1817ec19e70f771ca8140298e2428520d08df197a5c7db6893e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||mizrahi-tefahot.co.il/media/*_baner_katom_",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a102ba957137ce7cdecdc062470f62a4bd73ac8536e2990a1ea5f7ddf81827d9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||mizug-avir.org/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "209e24c0303a5633c4404c11ebd602a3c457a11fad873dd7f069dd62f92573d4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||ramat-hasharon.muni.il^*/baner_",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "28da90e11264b9cc38c1467b0ce0ca6aba9bbcb4b36d5f0c89505048911954f9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||sadanpublishing.co.il/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a2fa35252c3bfb4228b531c161b6627948b1d7c27ef0da08eddebd7c38cf3812"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||tavordairy.com/files/banners/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a9075afcc61b1ebb5052c4a712ff4458dfdf2dce6a7ce34543eb675e6b58e573"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||toysrus.co.il/cdn/shop/files/*_baner_",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3b0c01d6d5244d921fd7bd01ca51bff2a6081a7e671458ba21203c6fc6a844f0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||toysrus.co.il/cdn/shop/files/baner_",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9775a5051e1c831d82a5b64f02e2d65056a4f7ffda62e253d562e7dcde3b6cb4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||yad2.co.il/assets/mobile/ui/adpage/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "551ba14ffd227eaef702c3d68bccc160c5ec1dd555ab435e2d72426621323d68"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "47e550ae491081ea180aed98023356c38c485e4c1d2b3a449460cbf3a688668b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.min.js?",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "18880c2af7527fc668b909c1560a2bc57e1d596f0f291f36b5fb025887b5f8c0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "/adunits.",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "81f1721aaba42139b8ed74e2517183a931f7f5a161e56115012e1e27b8b63748"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||b-share.com/wp-content/*/advertisement.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a855023755f29dccaa1fc3a0d16b7ebc68ee2639155391fa5118db3a5663fd8a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||bhol.co.il/themes/hdb/videojs/videojs.ads.min.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cd98068a02d40e7286fa247a48a7d267e54a97b5fd797c1b4946b324da68bff3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||cashyo.co.il/js/cookiejar.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "828f2c0b2bb2d9b0769c4fbe1fdf63043d881878887efc31807e676ee6dc96bd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||hamal.co.il/advertising/ads/gtm.js|",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "809137cdf4e271b3508f9310f13d6138a311685a2c158ff560c64a8ecd4e5357"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||hidabroot.org/themes/hdb/videojs/videojs.ads.min.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "892abe76d691b0066ddf8cd48d15b8f1e7cd8df1ed27ae2816cc8a86e8cf0c51"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||hwzone.co.il/wp-content/plugins/wpadverts/assets/js/adverts-frontend.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1d4a0e98f66f5a82edce4b0003731fe59dd33368e81838ba0ac82ff20b390967"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||isramedia.net/ads.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1527d6752a14d3b797a9ed0ec8ab8958eb607ffbe1e5981f3f0a7dffba99fe49"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il^*/dfp.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d16ca9b9307d8cd4f96ce7f22c70f1c771c73c145c1c2981980f8d1d96db220f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport5.co.il^*/dfp/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9eb792bc70ed5113a3051cd0e2d39ea39b72bff4f89ff6a61f816ab9bb8b7116"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||weather2day.co.il/ads.js?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b44f3ae0e47778912d7d8ddd38e83f65806fb0538e8a388a27a60eda4bdc04f0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||ynet.co.il/common/api/scripts/video/videojs.ads.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1d3e653560c9a63557a80eb69f58700fb4304b6d967da8cb93ce4975d1b6ee4d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||foodsdictionary.co.il/static/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "17dd099e325bea4bf71de710d725fbcf8b14a13aa0cafc558cfae437b80fb0d1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "excludedResourceTypes": [
+        "script",
+        "main_frame"
+      ],
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "0ea6b66f72c8dc10476676bc3f9657489f80cfa7457d8bc310d01018e2dbf624"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "|blob:",
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "078e077f373c4532cc95d20bd04b813e69264022a90616788dae0f5d8ff6e97d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 300
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "walla.co.il"
+      ],
+      "initiatorDomains": [
+        "6days.walla.co.il",
+        "animals.walla.co.il",
+        "astrology.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "calendar.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "euro.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "forums.walla.co.il",
+        "fun.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "kids.walla.co.il",
+        "mag.walla.co.il",
+        "maps.walla.co.il",
+        "milon.walla.co.il",
+        "movies.walla.co.il",
+        "mundial.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "nick.walla.co.il",
+        "olympics.walla.co.il",
+        "search.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "translate.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "tv.walla.co.il",
+        "usaelections.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "e0fcb3459f98cc18b8d61729583e5214f2e48f18e4bbef3415ffd7fd07d42e89"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 301
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.ynet.co.il"
+      ],
+      "initiatorDomains": [
+        "www.ynet.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "f795924e76edde05930b8a05fa6aa57e8ed00a4b8e9a8ec54b3810e57820b580"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 302
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.mako.co.il"
+      ],
+      "initiatorDomains": [
+        "www.mako.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "cede2a11f85b291af81d46872f6f212613f9a368a05ff97ad84956919bfc7f75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 303
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.globes.co.il"
+      ],
+      "initiatorDomains": [
+        "www.globes.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "65815c860715f62a1d3839cf47529da0b4d438575f4c35729ebe8320085e7757"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 304
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.calcalist.co.il"
+      ],
+      "initiatorDomains": [
+        "www.calcalist.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "9d9e7e84f36e15a9b691979c81f292bd92c4c3bbcbe38c67c216206dfa0b726a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 305
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "13news.co.il"
+      ],
+      "initiatorDomains": [
+        "13news.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "91623c66e40513c6e58a963adde2a9e1d9973314b2df36f3af33cb952b28d6d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 306
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "13tv.co.il"
+      ],
+      "initiatorDomains": [
+        "13tv.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "ea757ae526ec5ea03812bdf7cb4a471afdf99f9cd02f223a0f52b4a12a5793ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 307
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "yad2.co.il"
+      ],
+      "initiatorDomains": [
+        "homeprices.yad2.co.il",
+        "my.yad2.co.il",
+        "pricelist.yad2.co.il",
+        "www.yad2.co.il",
+        "yad1.yad2.co.il"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "6dd1b07ae34e0c9bcef02054f82d29a5e198f0e843fd14515fbfc5f81e6c17eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 308
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "b7edd2ec406435ff7b4ad04ae77152042e01889c2694fe0de4943ad9915ed161"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 309
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "bae6052eaa65fb474d6963f68d64564fddb06f65b2ee82a68bdb999e63a13042"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 310
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "13d33ffca8d8b7f036bc9edebd7707990a2af16ae6f1437effd5db07d84fe4cd"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 311
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "7fe5f157fdfd93acd787cc79ee5918abf7325527ea8bfda7b4ee224cad303840"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 312
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/favicon.ico?ad=",
+      "initiatorDomains": [
+        "yad2.co.il"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "0dba047f2d64cfa8e279d7e557af9810338705f89436c7af56e97aae6cb0d466"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 41,
+    "id": 313
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "d3b21af90cf07d66452ec7c2db9e74648465072a5441a6480d30a52e62854a69"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 314
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||walla.co.il/dist/scripts/ads/global-targeting.js",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "06000b2c67e19c3f7615fc8d80159439579fb3db46cfa3dbff1f525c9409c9d5"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 315
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "ynet.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "e7033ebc268d04f95910c3619fe638cc9745123fa2faf065ce01ea6c91e71ce2"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 316
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "047831e042458475b1aecc15bc211a8570c8cf866eea1e40f8b22b82675a763d"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 317
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "3cc7ae9d758e7828710c386fb42d8b4c1a1c5fe674641ff7a93224b315328b5b"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 318
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "c14.co.il",
+        "channel14.web-prd.immergo.tv",
+        "now14.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "2894c26dbb035cff56a00d334fb485382af62402e8817fe0e877fd8b97916b32"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 319
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "calcalist.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "1ee35c2128797b6c43d91c88533825dbc7274fb589ad9c0bc0a22676b3de28db"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 320
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "requestDomains": [
+        "taboola.com"
+      ],
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "d4196cc67e2ece98e178ba9a7c8f5063bfc587be43c3b806e70699ef810d1fc6"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 321
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "13news.co.il",
+        "13tv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "11f1fcd519e5e05d71db0d069fa9db21dfab9b1bc01f0833489a9342401dc9f3"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 322
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "ef45e26505c18bd3dbb2643f673d74599f15c59cfb7b8cb89ff6da8cd0647312"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 323
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs:10",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "yad2.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "03e9a75e2c02c9dfc49ab7d79a798e3cfec712cc441adf46569a04de2019ef41"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 49,
+    "id": 324
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||yad2.co.il/js-new/showads.js",
+      "initiatorDomains": [
+        "yad2.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "05dc26d3949e941725a970e2ec9fe17232e64dd1b6f0688a19e82ba0b288e564"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 325
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "maariv.co.il"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "9f56c431e5c0bc494d76cdf0b4b57803f7067f6d6dfe2bc9584c2da9c918be6d"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 326
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "mako.co.il",
+        "n12.co.il",
+        "tech12.co.il",
+        "tvbee.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "63bb3b16e7c2d24c968afa7d77f8022dca4e1aa804249bcbbf70e32630193f8e"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 327
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "sport5.co.il"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "6a442889ccda5b629ad68dc76df2f88a9aa383b814aa813afede3538ad78a902"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 328
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "urlFilter": "||api.srugim.co.il/v1/ads/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "28efdaf470aa3f64636cec04cebfdedf789b996bb3d8a2d1e3868abe97dc60e1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 329
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "urlFilter": "||target.hidabroot.org/ad_manager/get_all_banners",
+      "initiatorDomains": [
+        "hidabroot.org"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "53d9486adb65f5a9bac3238540551741aa9906df6a4a589de9e48f3e367641e1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 330
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "jmusic.me"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "aee66e21f89913b8d29d1cef4a30756f26ca50dc36b6801f28d054dce436bab5"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 331
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||kipa.co.il/userfiles/*/prerolls/*/preroll_*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "3595a4d4f484a7000b83e65030a2383cd772c5d1032701e1eadbb7445e5206ec"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 332
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||kipa.co.il/userfiles/moodaot/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "6a1d6928f2d7ea0dc03a49855e6760c991b915c5bde397caff282a5a7b7a0c19"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 333
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||moodaot.kipa.co.il^*/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "842ab350f95d9c95206a96b7c6bb07f8a1bc6cdff425dfa84e8b1614e329e7a4"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 334
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/banners/bankleumi/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "651d13229809271a6040cd1d459c8b6afe0f333fcb16ffb0e716a2ab7b51fe79"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 335
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||jdn.co.il/wp-content/uploads/video/yugort.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "ccb6745ea4496615f2e575ececc77fd33f583c6ee8b06e3a33188651cbfc866b"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 336
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||ch10.co.il/wp-content/uploads/2021/*/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "dd3261d039d91999a87af36ba8d790fd3e0669d7fcae9fc2ac7493c180943701"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 337
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||hidabroot.wizzo.stream/storage/2024/*/*/original.mp4|",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "3febaf129dedf6e4be177346ac808eb259ae6afe4c7ab5ea2ea0f769f8c96784"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 338
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopjs",
+    "condition": {
+      "urlFilter": "||xads.zedo.com/ads2/c?*.one.co.il/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "c74c1ef0e8d770ad7cced7df590245104a32d564944f7eabf5ac4e350b019f10"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 41,
+    "id": 339
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp3-0.1s",
+    "condition": {
+      "urlFilter": "||zerem.biz^*.mp3^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "3489389ed1ef150f67b7e3844ddd9e44f3210e0b5e862adc3fe1b814ad2da7f7"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 340
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp4-1s",
+    "condition": {
+      "urlFilter": "||zerem.biz^*.mp4^",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "17785aaab414b8a664cf64cf6af98d0d19d1e5e55ad96366399ddabacef34e40"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 341
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "script-src 'self' * blob: data: 'unsafe-inline'",
+    "condition": {
+      "requestDomains": [
+        "walla.co.il"
+      ],
+      "initiatorDomains": [
+        "animals.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "mag.walla.co.il",
+        "movies.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "5219f80a480c9014639166bdc17545b1950805bc74f15480fbb9701de8d3f208"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "script-src 'self' * blob: data: 'unsafe-inline'"
+        }
+      ]
+    },
+    "id": 342
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "script-src 'self' * blob: data: 'unsafe-inline'",
+    "condition": {
+      "requestDomains": [
+        "walla.co.il"
+      ],
+      "initiatorDomains": [
+        "animals.walla.co.il",
+        "b.walla.co.il",
+        "buzzit.walla.co.il",
+        "cars.walla.co.il",
+        "celebs.walla.co.il",
+        "e.walla.co.il",
+        "elections.walla.co.il",
+        "fashion.walla.co.il",
+        "finance.walla.co.il",
+        "food.walla.co.il",
+        "healthy.walla.co.il",
+        "home.walla.co.il",
+        "judaism.walla.co.il",
+        "mag.walla.co.il",
+        "movies.walla.co.il",
+        "nadlan.walla.co.il",
+        "news.walla.co.il",
+        "sports.walla.co.il",
+        "tags.walla.co.il",
+        "tech.walla.co.il",
+        "travel.walla.co.il",
+        "tv-guide.walla.co.il",
+        "viva.walla.co.il",
+        "vod.walla.co.il",
+        "weather.walla.co.il",
+        "www.walla.co.il"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "5219f80a480c9014639166bdc17545b1950805bc74f15480fbb9701de8d3f208"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "script-src 'self' * blob: data: 'unsafe-inline'"
+        }
+      ]
+    },
+    "id": 343
+  }
+]

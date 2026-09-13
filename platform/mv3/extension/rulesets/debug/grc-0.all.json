@@ -1,0 +1,6270 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||2mdn.net/2629844/"
+    },
+    "_sourceKeys": [
+      "6f2c9e1c689ec26a61c4997e164ef2f53b79533f1456835730d19784bfef6739"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||2810.gr/images/2810photo/pelates1/"
+    },
+    "_sourceKeys": [
+      "02447480cb572f8751b9efd9636628ce676af1271e63d47b005ea61b8bb05d39"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||65.109.238.16/openx-2.4.6/www/delivery/"
+    },
+    "_sourceKeys": [
+      "4ce67fbaa8b824209280b26c4fd7faaf4f8edeecff843367cceb9478235b2b15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.e-go.gr/gbanner/"
+    },
+    "_sourceKeys": [
+      "a1f76b677eae2ea2fd7459cd7f8b3b4f2bd5bdc8443d1894283300b66a365b85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||agronews.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "0f00d43f6807fe7523fbc98d94892a59e1c542ce52a43639d296bb0b450392f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfavita.gr/sites/default/files/efsyn_4.png"
+    },
+    "_sourceKeys": [
+      "da58f0d124ddbb9891b1c24af61fb9c56cfe9bf29bf98e00df39bee5f2f2768b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfavita.gr/sites/www.alfavita.gr/themes/mixon/images/bannernew.swf"
+    },
+    "_sourceKeys": [
+      "70def95668184c79f7f8f8629a68ad0e506a6ae3b4c9b7e591f3c1f9e8a52ed4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||alogos.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "0dc075eb4dfc029453d554a344a1a6ba63815dcad942faa4473d1e04d62e73d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||anendotos.gr/ads/"
+    },
+    "_sourceKeys": [
+      "949e65764c549cff39e279c3ad2425a663e5c33f7f7179d5b5e0c238886b658b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||apergia.gr/images/adds/"
+    },
+    "_sourceKeys": [
+      "dd934e30609c4bf0828ebf5c0aeec0c171791a75d227e9d0842cc2cf0081293f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||argiro.gr/images/promotions/"
+    },
+    "_sourceKeys": [
+      "12ae351c31401eac2acafac121da82892402775abb0d8b6d570a3b01ec2189c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||astrack.mediacdn.com/ipquery?siteorigin=sportfm"
+    },
+    "_sourceKeys": [
+      "c3186fbfcff9d587b0274ffd7513a2c943ee0988c056eb4e429b9ca0b2a98aca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||asxetos.gr/ban/"
+    },
+    "_sourceKeys": [
+      "d2847a57fa50f3a6a3c4f76c83526b40b84017af05a788cb0ee5704df63e7ca7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||athensvoice.gr/files/honda/"
+    },
+    "_sourceKeys": [
+      "456f86d2f407dbb54d61ed0b036c4b936699a0489719ef2b5f372bf824cfb619"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||athensvoice.gr/files/samsung/"
+    },
+    "_sourceKeys": [
+      "6955b3861463233e5b6c07361e50d9b1f83113fa8f9be115a2d7fc52f4087fa8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||athensvoice.gr/files/tezenis/"
+    },
+    "_sourceKeys": [
+      "687214c893940db220bdfb3043d15ed4d02ddf5e0ee616329308467b9a668b24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/adv/lmnts/"
+    },
+    "_sourceKeys": [
+      "19e282f28fa9f8d375d6844b6220e2947d143fd4ff0ffac6ab4d847625d047d5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/lmnts/skins/"
+    },
+    "_sourceKeys": [
+      "2de4ce326540ee0d2566b0f1238efee4dbc23bee93a93e1f9ea5e58fb0d9209b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||avclub.gr/forum/images/banners/"
+    },
+    "_sourceKeys": [
+      "e9672506fd6bb223c7ca069dcbd92c0738be80a981376decbf342189ad1eceed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||avgi.gr/images/photoarchive/banners/"
+    },
+    "_sourceKeys": [
+      "43b492934e5a1e76ac4af5bf65ddbbe391fc4c33b623235cbc6a72bebc54b041"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||avopolis.gr/banners/*.swf"
+    },
+    "_sourceKeys": [
+      "105cf3a5bc6af592bfd18de521282caf2a9efe941e65ae284dc057486b91848d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||avopolis.gr/images/ote*.gif"
+    },
+    "_sourceKeys": [
+      "08972ebbd2c4aedbf4d981904bbaad0aef8f93c59359d8d5f07cd69bce96bf12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||avopolis.gr/images/backskin5.gif"
+    },
+    "_sourceKeys": [
+      "42af9b7e6da01fc8f9ff28d4e19a83cee4a6978d78ed436c25d69bea1673a558"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||away.gr/wp-content/themes/carrington_away/images/footer_l.jpg"
+    },
+    "_sourceKeys": [
+      "23e3133185547ed6ac705eee170d26aa53d306aa90744cc2c4d04d18d8afb157"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||ax-easy.com/banners/"
+    },
+    "_sourceKeys": [
+      "aeaabe84b11de3a35eef317da641da1f17378e0ed106c0a0a6542f24fed62cf5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||banners.otenet.gr/banner/all_banners/"
+    },
+    "_sourceKeys": [
+      "04cca55a6ca88402c1383e64dd44fe311812271412f3a1e2c3bcdcad8fc49e72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||bestprice.gr/promos/allshops/"
+    },
+    "_sourceKeys": [
+      "62013f33d4626d9c9cffe0cd580e210ace48aff917d6b67772def959657d314e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||boukouvalas.org/*.gif^"
+    },
+    "_sourceKeys": [
+      "8d0164734ec89b6fe3aa2c64da3e39948208c733a4ec31d0fe1e5fbbcaaccfba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||bourdela.com/images/banners/"
+    },
+    "_sourceKeys": [
+      "42ad2801efce12cf371fab60a07bcb31cbb957ea630f01b6c49307e6a8069c19"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||bourdela.com/studiobanners/"
+    },
+    "_sourceKeys": [
+      "f5ad71efce6aeb2e0b9f9765b9d694a5c51b262a1c88b5de465d8d7f30ddb4ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||cacheserve.williamhill.com/"
+    },
+    "_sourceKeys": [
+      "f0475c000f756df7f0f352486094e71f2fdf16adb0f258c4a6e984788fe89199"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||cacheserve.williamhillcasino.com/"
+    },
+    "_sourceKeys": [
+      "d2ef65d7a8ecff8d8fdd9b8ce8e80cabbbcc14756a09dfa3f9866698f9a8fa73"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||call.thebutterfly.eu/snippet/"
+    },
+    "_sourceKeys": [
+      "a91254b0c77115a4d40ba02e1dc64d20d12a8f0f3b00a533adbcf8534d12358e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||capital.gr/banners/staticbanners/"
+    },
+    "_sourceKeys": [
+      "8876e2714f41c80af60f023a11359ae08999c69648afa15ebb6d821915a8281d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.cnngreece.gr/media/com_news/ads/4/skin_new_cosmote_2.jpg"
+    },
+    "_sourceKeys": [
+      "96874e0ed6107f4eecdbfaee15215d7ad90590cd77238673bb1fe3411370e08e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.cnngreece.gr/templates/kgt_cnn/images/sponsors/videobox_1800x900.png"
+    },
+    "_sourceKeys": [
+      "0deae6b6c6d14589f58e14aa41d38047636e3a8b4bb51449379acb3b380a9de0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn1.bbend.net/media/com_news/ads/"
+    },
+    "_sourceKeys": [
+      "0b92a6bd57273083ab03a35dacb79c66645ca34533ab855e5c89243b26ce38fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||cheapis.gr/widget/"
+    },
+    "_sourceKeys": [
+      "ee5915ee71f37cfbdaf8092360a23707c1ca2a68bda893224dddbe6ba10ab55a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||clickgr.gr/picture_library/"
+    },
+    "_sourceKeys": [
+      "38b90bec7d689df8cdd92710a87a4396fe2f390e649e0ea14d4a2728ed2300d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||comedylab.gr/ad/"
+    },
+    "_sourceKeys": [
+      "2d5fce661fa472ae2bb03845f768e7fd380d267d640bbb2e183e29897a12abab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||commission.gr/on/"
+    },
+    "_sourceKeys": [
+      "60088bbefa249efcb3a38f0e16ee9fb04a1ef82292d6c969426214ec4f57d588"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||connextra.com/vistabet/"
+    },
+    "_sourceKeys": [
+      "e3421f76b5f6fc7466d9de7e610b53e83ddb3134ccf397034c0115f11d37d66d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/xml/sponsors/"
+    },
+    "_sourceKeys": [
+      "f84177bf95c170e848d13628e373b50de04a71e46eff8f25d780920d1d3ec576"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/*/binary/original/adidas*.js"
+    },
+    "_sourceKeys": [
+      "56b8fc1a27211cf29f7b6a0474f465859adeb57124ab729751e58002df6f3648"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/basketball/article1799945.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "85a2ed673b2852cfbf43f13e7a627094ab6a187dda8e51e5d6178b027d253d74"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/columns/paparazzi/article1188372.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "78cb4f6ee30efd3c078fefc9fb54188646defd43fa990739aa1388b563f0f1c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/columns/article1348068.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "36f80b9d76f891662700a3824278054cf84d030ea87a4a23ec2f2f6dd9781d22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/soccer/article1188569.ece/binary/"
+    },
+    "_sourceKeys": [
+      "7242c813524af1ebdce51b0992b07fec73112c78d34b037820414af0433fae73"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/soccer/article1188575.ece/binary/"
+    },
+    "_sourceKeys": [
+      "f07948418f47c52ab0d34bdf9de033bd7db3e906a201093664d4ce9f85738182"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/genika/article1698130.ece/binary/original/ts.jpg"
+    },
+    "_sourceKeys": [
+      "22a5e6ad6c55f6894db173bad6772e8a64e6c3cc689c81aa025a0a582b60e86a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/genika/article1805738.ece/binary/original/cbg.png"
+    },
+    "_sourceKeys": [
+      "fca9129d8fa75df8df2a878f3d954c7ddaee13f8abf087cdd7f7d62818988d5b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/genika/article1938232.ece/binary/original/header.png"
+    },
+    "_sourceKeys": [
+      "1e0324ab0eee00295c29bc35ba5316dbca904a7eabb9522185c3775e0a8893bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/genika/article2841960.ece/binary/original/contra-editors-skin.jpg"
+    },
+    "_sourceKeys": [
+      "4fb7d642b87bed318175c202646d796f7f5b4ed5baebb04d360120f414d14e3e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/incoming/article4110736.ece/binary/original/stoiximan_contra.png"
+    },
+    "_sourceKeys": [
+      "c735e1e0290de8679c55eb08f42d58679b0bc55dcf53ea64d957cc30fcece0d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/latest/article1196807.ece/binary/"
+    },
+    "_sourceKeys": [
+      "a0b7dd70b274b8837538c2c5dd0d93abb977588cc8187d6861da2fbf5cc28711"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/livematches/article1559168.ece/binary/original/contra_mc_opel_logo.png"
+    },
+    "_sourceKeys": [
+      "e06b7782b3782ce3316bfe55fcdfe2a3001a1d2e7753ef0b69dba3df27114078"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/multimedia/article3498428.ece/binary/original/contra-articlepng.png"
+    },
+    "_sourceKeys": [
+      "7c6e565f6c6fbefe1ca4ecd0ea4dad7d43b24bc3ec0ee3243c43a3d469d2133c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/multimedia/article3498429.ece/binary/original/sport24hp-left.png"
+    },
+    "_sourceKeys": [
+      "b0d234e4d6ca9ffeaa70c6d6e95e52c13652cfdc86dc21de59d83a1c7bd967b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/multimedia/article3508528.ece/binary/original/stoiximan.png"
+    },
+    "_sourceKeys": [
+      "7a98e1667457e3dfae00a70ef5167868307a0a9f6e80abb3dbaab90d9826c64e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/multimedia/article3679751.ece/binary/original/contra-fasa-hp.png"
+    },
+    "_sourceKeys": [
+      "fd96c4c8ca8090b09ee18dc6663cc76306b3629ab26f40f47f9e47c6e17eb744"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/multimedia/article4122214.ece/binary/original/stoiximan-euro2016.jpg"
+    },
+    "_sourceKeys": [
+      "0a3516142c8b8a428d8c4414955a6ac05954fd5067bbb41c35482d0b2e37d786"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/test/article1194453.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "dd70ba1019868326ace5d279dcff72f4fba28248f320f96ce1387bb705e0a79f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/test/article1315085.ece/binary/"
+    },
+    "_sourceKeys": [
+      "5c148792de1108ec240889d784088393790a16a2076e4a301bb3914a9b1aec9f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/test/article1315517.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "73c92d044f10dc2e12d1c5db4cfd870fcc04169b592bb5e75f29b3172c0176f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/test/article1316979.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "ce2b2c46e1b3a4ee5f1192c34b85a61e35b91f0c85da50b45fd62b526e1dc25d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/vathmologies/article1589967.ece/binary/original/"
+    },
+    "_sourceKeys": [
+      "66f9ae672702a58f5f88fd674f0032621f31cf63196fefbf31990f62143840e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||corfuland.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "941d316e5283ec200c944aa19db1a4141b8cbb1bb8807fa75d90620a5b38df73"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||cosmo.gr/xml/sponsors/"
+    },
+    "_sourceKeys": [
+      "cad4b4500c2c0b6f39ab934b087c360e2ab2e483e1c2c29430411b067936da5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||cosmo.gr/incoming/article1337227.ece/binary/"
+    },
+    "_sourceKeys": [
+      "a02237cf976bbddd5d684d99c8e4122b00869dbedf56793795b8106273d63c57"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||cosmo.gr/latestarticles/article2315555.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "30d6215a4956ee363859c1c241d3ac60165660cf0a8f30909cf7428b935153c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||cretalive.gr/flash/full_banner/"
+    },
+    "_sourceKeys": [
+      "223f16a1e2c993cf8ffae2976961f3352db1d5699facbc00744a1be110cf9fad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||cretalive.gr/img/frontend/banners/"
+    },
+    "_sourceKeys": [
+      "a454a72284981a6bcd186ea9bf217e518acdc76bf0beed4584beac631b1cbf31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||cretalive.gr/img/frontend/businesscatalog/"
+    },
+    "_sourceKeys": [
+      "5d56d7f732b61d74bd998216fbfb4b1171412e67d4407943df0a0ee10511c4c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||dealin.gr/iframes/5/"
+    },
+    "_sourceKeys": [
+      "0521048e590610d354a449e57d37ce2ea1178b429b67699a436f09f32f7ef2ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||defencenet.gr/defence/images/aroma300x250_black.jpg"
+    },
+    "_sourceKeys": [
+      "c4cd0d5407fbd7e583ad4f6e3358df385791ded0e3240e3d89bb638b3a956abd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||defencenet.gr/defence/images/banners/"
+    },
+    "_sourceKeys": [
+      "da75c8799aaf18a66c585420d4e6b03e1149dbee58d6afdc13a7ddb5cd3e4820"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||dev.realize.gr/temp/away.swf?"
+    },
+    "_sourceKeys": [
+      "201e80bc32828957a2a0ed0b6041a1723708a9d59d43035cc1cc14a82b653919"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||dikaiologitika.gr/images/banners/defence1.gif"
+    },
+    "_sourceKeys": [
+      "a9e2757527f4ac1433cce2d4373d9181d668d1826cec35be399c7dc1e7d90081"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-cannibals.gr/blog/wp-content/uploads/kanivaloiad.jpg^"
+    },
+    "_sourceKeys": [
+      "c42b1ef60b039e097834ce8221bb0ccd8138bd6f13ad72087136735d1804ed22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-cannibals.gr/blog/wp-content/uploads/sm_kanivaloiad.jpg^"
+    },
+    "_sourceKeys": [
+      "7d4bff4934056d63edf159abf813b09cd11ea700c5da0152749b0b0464dd01ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-cannibals.gr/blog/wp-content/uploads/somafusion_adsb.jpg^"
+    },
+    "_sourceKeys": [
+      "f2793a84541ee23f802fb98b9482329c659a42efb00b8322d5f3612d064e5076"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-ptolemeos.gr/wp-content/uploads/2017/05/roi-eid-ban.jpg"
+    },
+    "_sourceKeys": [
+      "00bcf2f85c4a2359b6c3240e12f8aecf25b8ab8ff3f6a50f2c574f1948cdf8dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-shop.gr/banners/spamet.swf^"
+    },
+    "_sourceKeys": [
+      "4acaff40ba3368e0542360d90fe4d6f24bf7a9e1688e010869f5a9a9621cd7cf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||ebusiness-interactive.forthnet.gr/portalsites/livescores/"
+    },
+    "_sourceKeys": [
+      "2c28429734e2a55d559459f417de1d929abb9439fc8d153bbbfd45f586a9fed9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||edu4u.gr/portals/0/banners/"
+    },
+    "_sourceKeys": [
+      "485cef71183657998cacaae33e31307207460bd8e790624850fd918a06411a39"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||efsyn.gr/ads/"
+    },
+    "_sourceKeys": [
+      "a9a73de52f100a0ae2f20964638ff72a1a321788560f7a8767c2908965fcafc3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||efsyn.gr/wp-content/uploads/2013/10/banner*"
+    },
+    "_sourceKeys": [
+      "c396dd2be5cae3ec23f449705d8793ddb2306cda74ec4952403d9a468fab5ffe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||efsyn.gr/wp-content/uploads/2014/05/housebanner300x250d.jpg"
+    },
+    "_sourceKeys": [
+      "a45ff1d0172b9084a1d53ee4edcad0048620435a7f9877f5600185827a343c62"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||egnatiapost.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "4d863c628638cac808cf72207ffe3f106471ebd7fa1104d1c3bef261233b9c85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||egob2.feed.gr/filesystem/images/20130927/low/"
+    },
+    "_sourceKeys": [
+      "cb8a81910930d06c74f80977610a1bf7d062929d7c63f978e85a1eea7569c21c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||eleftheria.gr/images/banners^"
+    },
+    "_sourceKeys": [
+      "e682504c16975c593fa9be97200149622f209c82c5c811c9addda18ef6549233"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||emea.gr/banner.php"
+    },
+    "_sourceKeys": [
+      "cb2c5367b209987e9820ecfc88c21ea9c95eda6ad0a3109fb99a73ab9992fe17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||emea.gr/ftp_files/"
+    },
+    "_sourceKeys": [
+      "aa2923763edecaf5eb93c9642f96dc5e514204eeda531f7a607ca888b270173d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||enikos.gr/banners/bg/"
+    },
+    "_sourceKeys": [
+      "3f7f39351ed9b88a205795c8af55f04c34afe3b21aef30186fab83ff92db2a6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||entertv.gr/sites/default/files/entertv_skin*"
+    },
+    "_sourceKeys": [
+      "45c74d53edd5e5187488cfd81cee7ef8705b0dd81126b6df132af412b8a3b575"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||epiruspost.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "1fe476f5467007f94c5b9913993e79d8108d6dbf35f4221c48961e7834a8fe37"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||files.capital.gr/adserver/"
+    },
+    "_sourceKeys": [
+      "3f3c22c3348b9472a62519ffaf6ccc96b3d1a5d6ceb2f9ed5efa0cd19d001496"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||files.capital.gr/banners/"
+    },
+    "_sourceKeys": [
+      "12acefdf1bccb1058893916d847f9529767ae73620ba8dea39319fe2fd851356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||files.capital.gr/images/dowjones/dowjones_home_logo_small.jpg"
+    },
+    "_sourceKeys": [
+      "653e2371a299c989578021e72565f5005d6fbcf3aa8ae30cc7f6bec84d62103d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||flights.gr/tromaktikos/"
+    },
+    "_sourceKeys": [
+      "a379057cd0c6a6ac784470ff5144ad2d189da9951dfc9a7ca541c12ccbc3a2db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||flix.gr/skins/"
+    },
+    "_sourceKeys": [
+      "cfa5efbb19b9c81bc01214def53e24efb2c0540fd8598d0df63c6a1b6eef32fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||flix.gr/static/skins/"
+    },
+    "_sourceKeys": [
+      "1055e077b99be5ee06a1d68abd5fd5194aee507bbbf88f8f7c5c7a725c3ae64a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||forthnet.gr/media/banners/driveme/"
+    },
+    "_sourceKeys": [
+      "62339b9b027798c8800a8b56cba4a4330a62c69e6a6341f5bd86c8fae6aaf0b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||forthnet.gr/media/banners/geodata/"
+    },
+    "_sourceKeys": [
+      "410724c87311ce3d07c9bfd3a4368d3ef65b17d0c73f59c2099ac17030d1b037"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||fvcreatives.s3.amazonaws.com/perrier/20131115/banners/img/"
+    },
+    "_sourceKeys": [
+      "d104649c9b1391c1f39e672846913210902050092aebf531697396980f993462"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||gameover.gr/images/promotion/fifa12/"
+    },
+    "_sourceKeys": [
+      "0fcb4d3d5ea03a9938c8e999f9f455b51a9b8eae01c99e5c7457a27e017a7418"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazzetta.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "8061866a5dc23af9ca4c799dbda7eaa4bc382a41c78519c1e4cf90f2e5624825"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazzetta.gr/sites/all/themes/basic/images/banners/pokerstar*.jpg"
+    },
+    "_sourceKeys": [
+      "11c58c98115e97c86264815819ec4ad0b59abe0823f954c1be84fe22d7bc90ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazzetta.gr/sites/default/files/anytime*.jpg"
+    },
+    "_sourceKeys": [
+      "0c88438727ffdc328cc93e1af37894753137c9a6f13c4adf251f230bd9cdf979"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||geoloc12.geovisite.com:82/private/geocounter.js"
+    },
+    "_sourceKeys": [
+      "05ecc63c5207012aa65492dac47def6df969e0f265940cd5f7fd5e9289ac59a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||gossip-tv.gr/images/banner"
+    },
+    "_sourceKeys": [
+      "c8c58b7cb3bc86247a5b2f0bd85a6ddfa04607a94f0e8a80e5ae10473b58c258"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||gossip-tv.gr/media/com_skins/skins/"
+    },
+    "_sourceKeys": [
+      "fb1e1ad9fb7515dd34905c8f4c113ac37c05fad849739ac10816797b7e1e6c03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||gpoint.com.gr/*.swf^"
+    },
+    "_sourceKeys": [
+      "eb4fb4e012ee49f12ed02cf387d4e3a13dbea4712c00dcfc17768efc247a35e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||greek-movies.com/icon/banner"
+    },
+    "_sourceKeys": [
+      "da61d8d9a349dc0d2207208ddd67340049ea3ad088e3092db66d1c8dae3bb674"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||greeklug.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "f9325cf9a0741addb4d8a69cef04ca84678f5f997419c33e5354d6d31e71e874"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||greektube.org/images/banners/"
+    },
+    "_sourceKeys": [
+      "3c8f1dc65ee3f3456337d13c70d06108955e38fa50dd95109558bfe70c2a1793"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||hiphop.gr/ads/"
+    },
+    "_sourceKeys": [
+      "b9624e8a58b82b1803e7ec07f6524e119f10a19c58f389af32c27cf293898524"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||iefimerida.gr/sites/all/themes/base/images/*chivas*"
+    },
+    "_sourceKeys": [
+      "dc2ba26de3fb077484c00e961ecf9f20b89e7a9afae71fbcc8029b1d90be000f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||imagehosting.gr/images/"
+    },
+    "_sourceKeys": [
+      "841998b6447fa6d4952941e7640d89c3c5ea9d3a5971efbc6ccd2e995b7723d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||imageshack.gr/banners/"
+    },
+    "_sourceKeys": [
+      "7810c935e9d08a3d9708394d1cbb746b302b53815747e87b67a1af18e06aa8e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||imagine897.gr/dat/"
+    },
+    "_sourceKeys": [
+      "0215abf3ce219328a7815f5c6236ee2a78807f756ac185ab75f210f4e6005db4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerisia.gr/slidingpen/"
+    },
+    "_sourceKeys": [
+      "cbc1bc97164d2979db70c2c5b2bb6307fea2f20b76329fd82b5cdcfa016ce265"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerisia.gr/images/top_stories_xorhgia2.gif"
+    },
+    "_sourceKeys": [
+      "e85d3d7ccbbab277f1f06eda557b06a2c7c6a98748860011151409da8570a93a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/banners/"
+    },
+    "_sourceKeys": [
+      "f708550efa432900a7a017b3e48b21f3678adc6cbc89e66be5e5cd00be1bea40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/files/1/2010/ingr-ovinokia.gif"
+    },
+    "_sourceKeys": [
+      "dd84807f16f30cd94311c28aa2ad991db4459741ecb128fefa6c9379016718b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/files/1/sponsors/"
+    },
+    "_sourceKeys": [
+      "4e4f34b14155f780f2b0443d290532d4b3eb07a18103dc6c67e4994d591d07a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/googleadscode/"
+    },
+    "_sourceKeys": [
+      "4d74211f5095d6670a70b6d20048919e5be77ee54e01df681612b3839d889dc5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/adsl_in-gr_logo.jpg"
+    },
+    "_sourceKeys": [
+      "aeb00b4241e8f3ded5877fa32c592aef679016dc12c54bbac420ebc670ac01ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/ub_180x18.gif"
+    },
+    "_sourceKeys": [
+      "befcbe0013641128188ff91d36a507418f8b24c3e163cc7c40167b52df2a560c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/woman/marie-claire-stamp.png"
+    },
+    "_sourceKeys": [
+      "a29f7fc9c526319931c9c62005f0fd689089ff3238c367c8b4bc7819f23bdedf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/chivas.gif"
+    },
+    "_sourceKeys": [
+      "83421683d467cb26e0083e740669052ec36dd390f173eeaa8d14bd7c52243152"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/havana180x18.jpg"
+    },
+    "_sourceKeys": [
+      "a3a3f7b27bc05868cc1686d20da8a47f601a4eeee5caa268e753ab75fdff96ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/imommy.png"
+    },
+    "_sourceKeys": [
+      "d98acb22615d6ce19eb5f1b5853395dd0bae45e1261d3e2c7c16378abe2ab68f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/logo-bp-ingr-95x20.gif"
+    },
+    "_sourceKeys": [
+      "e8b5fa7f9648dc805ba22aae8033f1ea79594c3fba9ebf35cfb72c1e82c0c033"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/logotravelplan_180x18.jpg"
+    },
+    "_sourceKeys": [
+      "9d3b4a023faf456f8725d460074b5c8927c7c101aa703d19fe0c5d98a0ff4b3e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/logo_vb_1.jpg"
+    },
+    "_sourceKeys": [
+      "f0953dd147c5c3d6d256a55a622d6b4c65314a791943ebac8443adb9cdba2747"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/senso_pro*"
+    },
+    "_sourceKeys": [
+      "9187d6421508a3a5dd1090cdfe82a08b1f6adcaf90141de2a48bb512b0c3dc41"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/sensodyne-logo.png"
+    },
+    "_sourceKeys": [
+      "5d225bc08e4695802d19b337c56269d73814306fd5a0a6b2ab442718bb91c605"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/themes/1/default/media/vb-logo-in.gif"
+    },
+    "_sourceKeys": [
+      "b5c585750fa4c1bfc33d088a29ab30ce12181f92a6ec8d5224922f4833bb3dbb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/files/1/2011/banner/ofi365_370x60.jpg"
+    },
+    "_sourceKeys": [
+      "240ff80739725883fb6568e5de78dfaaf083247bddf13cf358ba5b6984dc53e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||in.gr/files/1/2012/01/09/office365_37060.jpg"
+    },
+    "_sourceKeys": [
+      "cfb4480c2d89732de488dc8c2466170cf7ee72c983225835564d30eadbac3913"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||insomnia.gr/templates/insomnia/images/battleleft.jpg^"
+    },
+    "_sourceKeys": [
+      "486c4b77fe9f14ceb01619e5e71faab590156e578fbaf838f507d5fa74438691"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||insomnia.gr/templates/insomnia/images/cartoonbattle.jpg^"
+    },
+    "_sourceKeys": [
+      "ff470c6c081c9570659df27b506469758164c91be7771a46c8aa22a1257bebcf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||insurer.gr/widgets/calc/insucalc.html?"
+    },
+    "_sourceKeys": [
+      "9c8784485ce3a668390b614b7ff61047270f40973fd13d0cfc0911247448cb05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||interactive.forthnet.gr/banner*"
+    },
+    "_sourceKeys": [
+      "820419de59ca80bd73c08ab8f93a0e57aab59033e6b244bbe1781c36a4aa856f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||ioannina24.gr//images/banners/"
+    },
+    "_sourceKeys": [
+      "78baaf942ed564bcfd365e1bf35de2dd20d8a21225e39f4d581cb203f67170d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||ioannina24.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "fba4abcf3ac60d7c27847d4a74c622c124bb5bbe051318057d00846089392d21"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||ishow.gr/images/*skin.jpg"
+    },
+    "_sourceKeys": [
+      "1400850697446bcd3300d6bba2f79ffe1680cecd81175b4640dfd7934ddb98c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||jobfind.gr/clientfiles/banner2025/"
+    },
+    "_sourceKeys": [
+      "8ad704eed85831768dfcad198c8610d53bbbc56f5fd5e7a75cf1c7396ab6eeb7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.com.cy/assets/modules/kat/banners/"
+    },
+    "_sourceKeys": [
+      "f86265ed4ca9ddaced40b45fc00f5585054025b4fbe775b983363e2fc25309e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.gr/webadmin/ellada/bca/"
+    },
+    "_sourceKeys": [
+      "d6cae9909575b479700dfc3badbe7550e66ed7f0cc526f47b43d95de2fc0a5f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.gr/webadmin/glife/chartis/"
+    },
+    "_sourceKeys": [
+      "5535d1c4986df9b5d8783565368dde2dba45ff0c2cacf55fac0f9fc3b3ac97d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.gr/webadmin/techno/connx/"
+    },
+    "_sourceKeys": [
+      "6566b582b0dc1dbc3161834effc538339f4a570ea0882ca0f206cf79fadbe0c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.gr/kath/adv/"
+    },
+    "_sourceKeys": [
+      "17db7fbb8e5bc4331a8fca79cf51aea770e1375281ca6da5e5945a5fac817230"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||kathimerini.gr/webadmin/home/xor/"
+    },
+    "_sourceKeys": [
+      "cc8328500d3a70df6659e2eb759d34ba1123429c4f22eafff5a33394225f2cda"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||koutipandoras.gr/img/adds/"
+    },
+    "_sourceKeys": [
+      "1083c279f29baa525e4808ecef518807ed59924de52f894ce7d7ef95e20c6244"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||koutipandoras.gr/sites/default/files/*banner*.swf"
+    },
+    "_sourceKeys": [
+      "a156cba326e0feb947fc04eb6103bcfc8d3aa33d400b8a2a529f3f68d0417bf9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||koutipandoras.gr/skins/koutipandoras.gr_skin.jpg"
+    },
+    "_sourceKeys": [
+      "bebaab0a65a485bc2f53fd303b1040cec6f93f79cc0e37e104d6f18d24e2b392"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||lifo.gr/adsimg/"
+    },
+    "_sourceKeys": [
+      "4e1faafd01c5ae5b4ec201c2c2f0593d8c7f83aa5bb4e541fb24f1d68d00ff61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||lifo.gr/icache/300/600/1/989673_wind_mila.jpg"
+    },
+    "_sourceKeys": [
+      "eb3fc533ba24d8bc80ea54fa97a0c918be3bd5d05c8df9c33de4fbd4f2898add"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||lifo.gr/icache/940/337/1/983904_got_970.jpg"
+    },
+    "_sourceKeys": [
+      "e67f903a543461b08754d03846c8a2661a366e301b44afd8a7a376cd54341452"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||livikos.gr/adserver/"
+    },
+    "_sourceKeys": [
+      "8f98db291dd9903cda08a775d42637fe29ae65b62f1f425c6c3f02f79b95f885"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||luben.tv/wp-content/uploads/2014/11/output_cvzg2g.gif"
+    },
+    "_sourceKeys": [
+      "d8e6e80f31a35a511368a3d82b131bb6114f17acfd44df43fd9aaed283c8330b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||luben.tv/wp-content/uploads/2015/07/corona-sunsets_a-1.jpg"
+    },
+    "_sourceKeys": [
+      "ca5da48f63b60afb26728aa9c5dc0af26471e18ff67e90a8d771cd23496f288e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||luben.tv/wp-content/uploads/2015/09/unnamed.png"
+    },
+    "_sourceKeys": [
+      "38057d433218072a558a628c399ba3bc53ae42e53cb9f96c40bce3bb07c79e7b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||luben.tv/wp-content/uploads/2016/01/luben-skin-stoli-2-x480x780-new2.png"
+    },
+    "_sourceKeys": [
+      "6ec4cb46e5a21dc78ddefec5bd600c65d5c2688d9103313dfbedd6ca54e14554"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||luben.tv/wp-content/uploads/2017/01/voyager.jpg"
+    },
+    "_sourceKeys": [
+      "04e51df8357035e25c5d791fe74892cc173ca0be0e629a12bd12c6ed4d0f325a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||makeleio.gr/wp-content/uploads/2014/11/klamin-300x250.jpg"
+    },
+    "_sourceKeys": [
+      "b4e4048d6baf4a596bb302aa1e21ccf165aa4aafd1fb6b30eb9846385c6abcfe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||makeleio.gr/wp-content/uploads/2014/11/netra_bannernew.jpg"
+    },
+    "_sourceKeys": [
+      "63afa272ce7eef6a2d6804a9680b2355d3126b8df1b34240e39ca646a748b789"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||makeleio.gr/wp-content/uploads/2015/09/hyaluron-250x250-zampidis-2.jpg"
+    },
+    "_sourceKeys": [
+      "2d248dc00e7b159c582c1b362c860d9a4ce08509586176aa74d53e89889d4dbf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||makthes.gr/filestore/banners/"
+    },
+    "_sourceKeys": [
+      "2d0eac543533d95856a96112b6e9c6a4ba0ba221dce7c82a6347865777d4ff72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketnews.gr/banners/groupama_970x250.gif"
+    },
+    "_sourceKeys": [
+      "8ad1e28da9a3bc3381fd3f561c8986b5d40be60cde0c8cc51bd05980337017c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||marketnews.gr/banners/ipos.jpg"
+    },
+    "_sourceKeys": [
+      "d34a6574e50cc67e507136cd73aaa6910d43010d3a18d4d05f90abb9eaa3d69b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/1a31027deca376bfb2a140554a29a047.jpg^"
+    },
+    "_sourceKeys": [
+      "077b80ecba1f593ef17fdd85052d19c26b9a5ccc45bee76aa6217d691a04f26e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/8d9b102aab0f8990eeeef58b57ed2c49.gif^"
+    },
+    "_sourceKeys": [
+      "d4322e30c1db11c7e2ea80694f9d09edf96bd62c9c50e744e8efdd6dc4980961"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/934adc119cb74c815df8b1697cae4c98.png^"
+    },
+    "_sourceKeys": [
+      "7dff773669db67990e20eccefa1f7e524f13e9e9e889ef017a18f82bdca65ec4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/0a7c90d00978af65bd2089862535b7e6.jpg"
+    },
+    "_sourceKeys": [
+      "3f3f7417a952c1ea12e434a025a2e35538d256b74a206ce3e3d3ffc41a78624a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/727fbd95261492dbd269bccbc7fffbb3.jpg"
+    },
+    "_sourceKeys": [
+      "399baa04cd9e49c48b4ce49f75e6112507f6595a25ad828abf86b42734eac5ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/80ffb536c4617d7afe7c8be553b1c37d.jpg"
+    },
+    "_sourceKeys": [
+      "501a025358912019e4a4284bca96e628ebca672f8a3288180bb3770964fecbbb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/c1259c4e50e39b2fc908400addb29c96.jpg"
+    },
+    "_sourceKeys": [
+      "28eb14d23e39937c1f0a2e464c5d361ede472c155262c0f48a31481049b71f80"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.adslgr.com/www/images/e3026593eee92619a864ff0841906cd0.gif"
+    },
+    "_sourceKeys": [
+      "4a588d5ac264faf2ac94701fa299a149d98941a213c7020e3f4dc119ff84317d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||media2.feed.gr/filesystem/images/20090810/low/"
+    },
+    "_sourceKeys": [
+      "b04f0d78bcd66c331754db1c17650db1fae91c87c22d0cbda3c4ce890b0614aa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||media2.feed.gr/pegasus/multimedia/swf/"
+    },
+    "_sourceKeys": [
+      "fc7b77a2ef33c8d6c90f51b6f304c1fcd65773063572668557edd803f3dec6b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||medlook.net/banners/"
+    },
+    "_sourceKeys": [
+      "e2d73049ac8e33a2816d150b4040add7bf105bd76972b661e2fe03284861c338"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||megatv.com/webtv/newsbeast.asp?"
+    },
+    "_sourceKeys": [
+      "fde472b57efdb2c95134b6cc01fae534d8fa749e104e915d858489567b9f0def"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||meteo.gr/addscust/"
+    },
+    "_sourceKeys": [
+      "ab4732ff9a5e7824bc42c299798e685ecb8175ee2fea98fce9dadba2ff3afc0a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||meteo.gr/absolutebmxe/banners/"
+    },
+    "_sourceKeys": [
+      "3265e1640eaf654f61b27a23b856caa564d9ab1e47161e900f36fdae85d67072"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||michanikos.gr/images/banner/"
+    },
+    "_sourceKeys": [
+      "7cf0d1e5433781be94b49ff96398cbd8c8cbee52b9de9daa28558715d8085736"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||mignatiou.com/wp-content/uploads/2014/09/300x250_piraeus_stametrasou_final.jpg"
+    },
+    "_sourceKeys": [
+      "8ee25fc97737d6d3518a75a02eeb73d61f6d7b2b54b24121b3aa7989c13b2b15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||milaraki.com/banner/"
+    },
+    "_sourceKeys": [
+      "cbbdf4d8b5b1bada4b8a330190fa78e6b9c75f596395ff1c43545f28c4b239d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||missbloom.gr/images/*skin*"
+    },
+    "_sourceKeys": [
+      "b42671002bad44970ea76a64251968b44becf2f3aafcaad72fc32c6e6f49b210"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||missbloom.gr/media/vidspics/*-skin.jpg"
+    },
+    "_sourceKeys": [
+      "480256995a3e6cc97b3fde7537f23c7b5457f721e1ee49238a53e9aee1642f41"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||moneybookers.com/images/banners/gr/"
+    },
+    "_sourceKeys": [
+      "f7ebec68da4cc3aab25845ab026a594c0e1611c4563bdddb8b7cadd14846a004"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||mothersblog.gr/media/com_skins/skins/79/"
+    },
+    "_sourceKeys": [
+      "3f2bddeafd95cca40167c6f8112e0ab96034b175f4e02aa7351b1146ac56d9dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydirect.gr/calculatorbanner.aspx?"
+    },
+    "_sourceKeys": [
+      "33e6569a97b7014f6c5a8faf51be1515ca14f3304317eb7d3040ec55b36a7c4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||myshopper.gr/ads/"
+    },
+    "_sourceKeys": [
+      "c24e3bb6294123a4293c6919b98b354de044618b504f15eb15da31bb320e1e34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||naxospress.gr/wp-content/uploads/313/152/public/assets/js/912/411.js"
+    },
+    "_sourceKeys": [
+      "1fd2ba7841d1aea3eefa88d5588861943b4e5f9ae391f7259d76346ebef1afeb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||neo.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "0bc9851f6ff51e475b07a88890b7b15d1d3b4434eb6252c96c18dfeac9133581"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||neo.gr/website/ebuy-shops/"
+    },
+    "_sourceKeys": [
+      "5640f67c2503fb116fcb274206fefcf13c2a0afe8dc1492a962c665078fe29f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||news.in.gr/themes/1/default/media/image-ads-sponsor.jpg"
+    },
+    "_sourceKeys": [
+      "7eeaf340b9b276f051844f8659d9c691aa5f71c62ffab94c21cfd59c150db34b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbeast.gr/files/1/banners/animal/animal.jpg"
+    },
+    "_sourceKeys": [
+      "7fb47b0663e72be6b74a616712d134e80d67ed31b3d2d752c8b772956f8daeac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbeast.gr/files/1/banners/axatextadimg.png"
+    },
+    "_sourceKeys": [
+      "9149028975e95846ee5aeb6777eed2baaecf1a8f3fb4d7bf80db98179989da00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbeast.gr/files/1/top100europe/airfasttickets.png"
+    },
+    "_sourceKeys": [
+      "c0bb9c5dcda34b135b43a6210ed3cc82d918f97f81d4dfbc47de544f56a55799"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbomb.gr/ads/"
+    },
+    "_sourceKeys": [
+      "0bf1bb5b02fdec44fccc0b739ca865b8ad74e19248ec7361ba7bc42c19466082"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbomb.gr/media/com_skins/"
+    },
+    "_sourceKeys": [
+      "ee2eb58ab0f52206575b933a055469ad6b866ce5038e911ccfc2d95f0bc52980"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsit.gr/flash/banners/2015/06/caremarket_banner300x250_29_6.gif"
+    },
+    "_sourceKeys": [
+      "b505f30d53573b45685872a2570b3f5937d7f40beda0c806f8d45e49d0db5eae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsit.gr/flash/categories/category_xorhgia_blank_pixel.gif"
+    },
+    "_sourceKeys": [
+      "60f587e0986c0f59617b6477bfd3dd60e695a375a6b418c866f28642e6a97f1d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsit.gr/templates/default/images/newsit-11888-search.png"
+    },
+    "_sourceKeys": [
+      "a8ae0ebd208cc33ac20498aa7c12c7ecd2ae828cd2a17f6a90cd9ae0bd2b3b91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||oneman.gr/antikeimena/article1635665.ece/binary/oneman.jpg"
+    },
+    "_sourceKeys": [
+      "edff8ab41d19e1ae6e3e29c32499ed2c55f55bcde1dd9979850ef1cf3ff87f8b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||oneman.gr/antikeimena/article1635795.ece/binary/original/oneman_fasa.png"
+    },
+    "_sourceKeys": [
+      "57a40c4e556e012fbd9f2e0360d15c4e64255d99fe279cd49149140789d47d72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||oneman.gr/incoming/article1517780.ece/binary/original/skin_onemansony.jpg"
+    },
+    "_sourceKeys": [
+      "184514351469e066df2e850222a77d490f6a02fe00de399722e38086305c059f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||oneman.gr/keimena/style/article1659136.ece/binary/oneman.jpg"
+    },
+    "_sourceKeys": [
+      "5159f9b9a16239bc0e0b36d0313d17f213fde45a281dc4d1dd3839c051125469"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/chefs-feb19-300x250.gif"
+    },
+    "_sourceKeys": [
+      "32a0e09d84ea915ebf1a4b5a77cdc1ea0c0ba4cae9c2b98e36da21ac975040f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlinedelivery.gr/banners/"
+    },
+    "_sourceKeys": [
+      "6a87030b0000027ba12c76c22f64d5eceb12f1d93265c6a07cbac99d8cc85831"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||onsports.gr/media/com_skins/"
+    },
+    "_sourceKeys": [
+      "07f77353d2b98320205b7988cea42d27f639fcddcb13edeee97121028571a7e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||ough.gr/uploads/skins/skin_ough_gapyear-01.jpg"
+    },
+    "_sourceKeys": [
+      "060d73e2fe0d435c309645fa74ff4038d7746bbec62932e2b8d2bda9a201f960"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||paokmania.gr/images/banner_"
+    },
+    "_sourceKeys": [
+      "3d435f38a5a8cf72398bb5341bc2df0086f4287c630a6397cf551f37c8dcfcd0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||paokmania.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "b636779d249e4c17b42f45015790c061e3b798b5fcd3fd43709e165593db5363"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||paokmania.gr/images/stories/"
+    },
+    "_sourceKeys": [
+      "6d52723fa7ad9716c47d6f95e2869d02faa33b4ac4907ebc2b81457987b2eb10"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||paparazzigr.tv/diafimistika/"
+    },
+    "_sourceKeys": [
+      "7976fa9d1c194d4e3642b1992c3b9f6d21bf12ce336f0b618e5c07a1cdf0c12b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||parallaximag.gr/wp-content/uploads/bebarkitcen.jpg"
+    },
+    "_sourceKeys": [
+      "269d7e0cac17f2eccd6375f1810f6b30566c466ca055fb0dc032cf93da4c9906"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||parapolitika.gr/portals/0/banners/"
+    },
+    "_sourceKeys": [
+      "35f73dc6bfee99564877cbd4622e105655d3e6e4249b6ff5045cbe4a3609db29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||partypartners.com/images/marketing-materials/partycasino/greek/"
+    },
+    "_sourceKeys": [
+      "7a1b509759eed08b42389bbe84d7c476e492713855367eaa3f113f0cefcba000"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||plaisio.gr/bannerimages/0910/"
+    },
+    "_sourceKeys": [
+      "d71bb1ed8093958e8dc2f8c04a0030db6dd206bd66ccb0b0db69775283c07ec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||politis-news.com/banners/"
+    },
+    "_sourceKeys": [
+      "4a43b1b09874106dd64347003ea7ec58314ccc4e1b0eb7432a013d3224617bbe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||prasini.gr/images/stories/banners/"
+    },
+    "_sourceKeys": [
+      "f37ac4338c75245f0afa59628609adf7085f8296b2d9c6b811f1996faf5072ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||prismanews.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "6b996b5969fb0359fd2717d4c4574c947045d16966a890525ea2075dd61c15ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||protagon.gr/resources/campaigns/"
+    },
+    "_sourceKeys": [
+      "c73d450709b491d84db348e943cca227f87ba9da8afc497fe6da3493d7c974ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||protothema.gr/hyperads/"
+    },
+    "_sourceKeys": [
+      "dcd721251e1dd07fa9119baea8e716e5230fa78e79b33c1a2181a67d63447bf6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||protothema.gr/files/1/*/skin*"
+    },
+    "_sourceKeys": [
+      "88ce2f57a17360c2cd27115f7f8c2f54e6d6b3610a16a43e6f7260100d7005bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||protothema.gr/files/1/2012/11/12/anytime"
+    },
+    "_sourceKeys": [
+      "dea9e05c04d4176ea7253b0532fe87973cd2bf931047d744b37e278dd4968503"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||protothema.gr/files/1/2013/08/09/"
+    },
+    "_sourceKeys": [
+      "c741262b6bacca812947ed082965df1209f6beea2e71286612395d15ccd88f64"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||protothema.gr/files/1/bg-banners/"
+    },
+    "_sourceKeys": [
+      "91dddc9dc8e2ccccbdc56627eecd733b3127260044654e36d9a85da8c3513c9e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||queen.gr/media/com_skins/skins/"
+    },
+    "_sourceKeys": [
+      "db8fd81a3696d8b28b0069ea66946fb8a54593960c1efe8c0cc87f46bca3ca74"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||real.gr/files/advbanners/"
+    },
+    "_sourceKeys": [
+      "8589590596a09f099edd876c1a21f507c1e9d5d23776011782506399c64aacf4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||real.gr/bannersexternal.aspx*"
+    },
+    "_sourceKeys": [
+      "ca0548f83ad93e9d6c0202a1567483fe93ab60d052d7c42cc8bb9d6b81db6317"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||real.gr/files/skins/"
+    },
+    "_sourceKeys": [
+      "2382ac31eda23650a7e0c25db2abefa672df5b417b3f51dd1e5fe43403d0a512"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||real.gr/files/banners/"
+    },
+    "_sourceKeys": [
+      "866a6dcac119a3e2d1e792589057135dd6e23e6c80e7261afcb1f6fdadc001e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||resources.sport-fm.gr/sportfm/banners/"
+    },
+    "_sourceKeys": [
+      "b87e2de229b0097548ae3c979496124ecaea295e5eb186905af6d9b790b9bfc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||resources.sport-fm.gr/supersportfm/images/layout/campaigns/"
+    },
+    "_sourceKeys": [
+      "d7c14cd9fbb1806adb4c1841861b14dd22099122c93717bd2fc659320419f08e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||roumlouki.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "ba4d64082044f27f88ef7298b605c5154951d6e8b7a7bf4f2978bb507f5b2f63"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||roumlouki.gr/images/roumlouki_banners/"
+    },
+    "_sourceKeys": [
+      "ec96136df0eb86e1af4ea138100e5ee2baf542c0f2319fde59fdc049c66dc554"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||runningnews.gr/bimages/"
+    },
+    "_sourceKeys": [
+      "10620e48e9346ebe442fefc9700628070aa69a7f2635c10fda62b11d201bdf90"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.amazonaws.com/bulkimages/2011/skins/newsit-11888-bg.jpg"
+    },
+    "_sourceKeys": [
+      "2ddd7b76644764e326a1e0705a14a04f722eb36c683338114a4aab86ae69147a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||s3.amazonaws.com/bulkimages/2012/newsit/opap_skin_newsit.jpg"
+    },
+    "_sourceKeys": [
+      "2ea0f3dd0c015639d544d861f5283b7c096de040491114e02123b667bf0c9951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||scdn.gr/images/helmet/promo_material/"
+    },
+    "_sourceKeys": [
+      "b4abbb2a50bb2f9636dbd8b3d92d95ecf856d6cc06325d8e080b4d982e3d8e42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||scdn.gr/images/yogurt/dressings/forthnet/"
+    },
+    "_sourceKeys": [
+      "ba5b75e8c1ab91d1cecc663f8257ab84de2168486e82c4718fd474267c44adc0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||secnews.gr/wp-content/uploads/2014/11/digitalbrains.png"
+    },
+    "_sourceKeys": [
+      "fec5d83a9b99b26f8d8f3d4860eacffde15246f37c5e002734b8d9d12fcaec8a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||secnews.gr/wp-content/uploads/2014/11/isoqar.png"
+    },
+    "_sourceKeys": [
+      "49d64a7eceafa4f7e3a1ddb472cef9e11a906cb187b9a5618933e0feb474b19f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||secnews.gr/wp-content/uploads/2015/05/cyberkid1.jpg"
+    },
+    "_sourceKeys": [
+      "c9ee6d78063ca666df94852fe37b14adc717dbba147b444d92fcfe12d91266a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||secnews.gr/wp-content/uploads/2015/05/host1plusbanner2.jpg"
+    },
+    "_sourceKeys": [
+      "c9ad84f543093bea05565e14039fa4bf77e67d9587eeec1e66e7c81bfac5123d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||secnews.gr/wp-content/uploads/2015/05/papei1.png"
+    },
+    "_sourceKeys": [
+      "32c29b54d738d1c35ee72d559917250d751733529c50c775326845b9593f6782"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||seleo.gr/images/stories/diafimisi/"
+    },
+    "_sourceKeys": [
+      "b897e600f5c514d235b8b0895b1ca58fcc022fbde9de23e35feeef3532d740ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||seleo.gr/images/stories/mast/"
+    },
+    "_sourceKeys": [
+      "5df2a71167ab1c993965d5328c3ad8ebebce80be23821b0a381b791e71b9c8f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||seri.gr/sites/default/iframes/"
+    },
+    "_sourceKeys": [
+      "88bb4f336d9c1e71e121b44c04ecbc6a029a808bf3e1521d8b3225a5f34db7af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||skai.gr/themes/1/default/media/layout_renault/"
+    },
+    "_sourceKeys": [
+      "c8805e860c2b0e4a8577b29f436b9fc2ae20894c22d9704a677f39c9a39c2ea5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||skai.gr/themes/1/default/media/skins/ethiniki-trapeza"
+    },
+    "_sourceKeys": [
+      "c6623bc8ec18a8d1aca72f006aafe2851f08828a62fc2223d256330b4e9f8d9e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||skai.gr/themes/1/default/media/skins/kri-kri*"
+    },
+    "_sourceKeys": [
+      "d58dcac5dbb14d04882d5f1e1a66d64b9f8d960528413f8661f8461cdedc042f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||skai.gr/themes/1/default/media/skins/samsung"
+    },
+    "_sourceKeys": [
+      "baeb961e912e44e17a62b8303bc36c1ff6cc33d936f6ece6dc85a9a6190f569d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||skai.gr/wp-content/themes/vantage/images/*skin*"
+    },
+    "_sourceKeys": [
+      "19649d1aa73ffb392272366b2a2497c3bd36401cb3ccf653992d62b6e522f092"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||skroutz.gr/images/helmet/promo/"
+    },
+    "_sourceKeys": [
+      "f973302bf1e2671a8ca501197e0ce2a795f626bdd459075c4d4250c564c46aad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||skroutz.gr/images/yogurt/dressings/wind/"
+    },
+    "_sourceKeys": [
+      "112ccbd293aaac27b4fde6097613f82408117f4762c176ae91c3032e56682bca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||smart-ads.gr/adtextlinks"
+    },
+    "_sourceKeys": [
+      "7706cceca1330a857e9158edc30d70e93e4fa09bb65936f00a3177caa802fab9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||sofokleousin.gr/files/banners/*.jpg"
+    },
+    "_sourceKeys": [
+      "5f2939a1ea5985fcc2a06adf6c8d6f11c89870ad40a5aa1c706f8a8c420c04d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/layout/campaigns/eshop/"
+    },
+    "_sourceKeys": [
+      "9006d1de4a2725cdb7b473b40d2f56e668b703244a83b6d42b161f27cfbdf7f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/layout/campaigns/europa/"
+    },
+    "_sourceKeys": [
+      "2c94f84bb6bcfe7d62274983d9e2c59c196fd228f259b73a74cf0b9ccdda665d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/campaigns/windone/"
+    },
+    "_sourceKeys": [
+      "2e5aa57eb04cfc3868491e7f8a974e347d8283019ec5bf9bf8b12696cbb5defc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/campaigns_v2/"
+    },
+    "_sourceKeys": [
+      "8e75488ac0610cd1df0a81d751504185ce610398709e579c0c59494278b6ae8b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/custombanners/novi_438x75_paysafe.jpg"
+    },
+    "_sourceKeys": [
+      "dba544afb9acd0da067046e0f2742dd98033ed358cbc8088212dc7ed894c5b62"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport103.gr/images/banners/"
+    },
+    "_sourceKeys": [
+      "b996169214d280ba5d95753bd26391a24fc167e64ce0decc498d32f2f3bcd63a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/ast/ads/fil/"
+    },
+    "_sourceKeys": [
+      "9492eceeca15fabfeaa1a0b7cbc3a66b9ae4334668a2298b7c40ea1a07e99eac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/genika/article1951216.ece/binary/original/mc_tab.png"
+    },
+    "_sourceKeys": [
+      "591479eb42b1945bb911ffa011f83362487170b4c8c8792c1129c90c1790484e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/incoming/article778267.ece/binary/"
+    },
+    "_sourceKeys": [
+      "c0d86a2e7bc5200fd09e5ba9bd7cc49b8f08383c2ef611bde3822e16371a019a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/incoming/article854008.ece/binary/original"
+    },
+    "_sourceKeys": [
+      "45dd9f2aa708990fb2de42de84b88f2cbaf321f384e5fc008ceed50ef4f068e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/multimedia/*/stoiximan*.jpg"
+    },
+    "_sourceKeys": [
+      "6ff628a2442ecfb8330e406f8fd8475ef86c536fe9305cca061731a32deacb2a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/multimedia/*/stoiximan*.png"
+    },
+    "_sourceKeys": [
+      "18178db8906de11c51498d66d45108c784c67c353ded4b74c42fc7cb7f827e0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportsioannina.gr/images/stories/ads/"
+    },
+    "_sourceKeys": [
+      "647c730aa1e229e607039c9fadd0eed4e4b7ddd6fa2bcdaecb0b7ed83d949a9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportygossip.com/sites/all/themes/athensbars/images/bg/"
+    },
+    "_sourceKeys": [
+      "9fe3ec30eccfab8e5957b20704a2a551ff1099849f8d2f8986ebb5a0dfca0125"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||star-tv.gr/assets/media/swf/"
+    },
+    "_sourceKeys": [
+      "4d34a8405647eedebbaaab802f2318b858d5a5a2f0e289c68eb6f2a6e5bb87f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.24media.gr/dealin/"
+    },
+    "_sourceKeys": [
+      "e83163b73d9cba1284ac8d23e6f3fabc46f8fa5812067d60f7cb50d2a9591b9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.24media.gr/interstitials/betoto/"
+    },
+    "_sourceKeys": [
+      "f74dacfc43d53639e7dc1b864b307a22545ac9eacb81ed6ac66cb5b1f4a3443e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.24media.gr/push_down/bwin/"
+    },
+    "_sourceKeys": [
+      "9a304175c6755e72ac49dd3476a854ea57d7040239c175b0da03319bca85be7c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.reembed.com/data/logos/"
+    },
+    "_sourceKeys": [
+      "f17f17e97a4d937e2865286ccdb72832e0b13dcfbfb7849cec4a4ec5d5f37aee"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.scar.gr/ads/"
+    },
+    "_sourceKeys": [
+      "f005d0cebcf8273651228ea14cc56c8a93704073e29cb8c0293d3b00c18e1446"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||static01.aek365.gr/ads/"
+    },
+    "_sourceKeys": [
+      "9ce53768b7fdbd29ab71cc38b0e2fefa1ae1934e110c22dc58ece755a7858df1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||stercinemas.gr/stercinemas/sterimageslive/banners/right%20banners/emporiki"
+    },
+    "_sourceKeys": [
+      "140a322563351225f07a6e3e07361e554caeb364e3d9c7ffe58f5a7783070a37"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||stercinemas.gr/stercinemas/sterimageslive/nescafe"
+    },
+    "_sourceKeys": [
+      "4c7359675c190943c7ece51632d1f9044010ad0701d1b15153122d6bf8889e0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||stokokkino.gr/photos/gsk.jpg"
+    },
+    "_sourceKeys": [
+      "8c96a4423b65a15ccfbd3566295f1b59a6606fd917db422a201131b756f40d27"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||subs4free.com/js/wh4_s4f_p2.js"
+    },
+    "_sourceKeys": [
+      "1cf1a46ba58f18c0f1cf2c56f81082bc7092da809be905207d1e82041779eaf2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||tech.in.gr/themes/1/default/media/technology/skin/htc_left.jpg^"
+    },
+    "_sourceKeys": [
+      "1d1677a205fdf96a89c782f848489ed0b8f31037ee1cce7a46feea46a84dd4f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||tech.in.gr/themes/1/default/media/technology/skin/htc_right.jpg^"
+    },
+    "_sourceKeys": [
+      "e2b290456dcc235c8bed558ec3488a35d03c186aebeb778d268aacb65318b61d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||tech.in.gr/themes/1/default/media/technology/htc-1280grey.jpg^"
+    },
+    "_sourceKeys": [
+      "940aa9602a57ee0b9f71e35a3b6c45fab54ce259f10645d9cf60335df0b1ba69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||thepressproject.gr/ad/"
+    },
+    "_sourceKeys": [
+      "277b68152545b9c180d6d01016be684c7b39b76083d4a4ec6c739f953d6152fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||tlife.gr/flash/banners/"
+    },
+    "_sourceKeys": [
+      "6bc19f9296858865b18b00301a13ab8ff2e673009a0776cb92ef33c9debce571"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||tovima.gr/themes/1/default/media/home/pireos.jpg"
+    },
+    "_sourceKeys": [
+      "3f7b05ab2315654ca5c098c406059299196b591bfdc4ba49a7d8b849e3e32dae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||tuned.gr/images/stories/leo/vlas_toolbar.jpg"
+    },
+    "_sourceKeys": [
+      "e328f374698ad07bb4d9dbf58b07bb8609b1be3f8c0e4604a2d65605425df951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvcreta.gr/upload_images/banners/"
+    },
+    "_sourceKeys": [
+      "f21473b69bdb716fd78bb86e3d2b0fc578118b69aed947fc5c19e0f6ed207fb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||unboxholics.com/images/banners/egalaxy/e-galaxynew.jpg"
+    },
+    "_sourceKeys": [
+      "bbd95a486df6011e4228c90f41808f6c741e60a008d460f684a6228cd60efd14"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||unboxholics.com/images/banners/inspot/inspot_banner.jpg"
+    },
+    "_sourceKeys": [
+      "a6d00e6d53f5188a45c1d4bf67c4b2402dfb6089927f2f4c4de3f10792a07942"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "unibet-cdn.com"
+      ],
+      "initiatorDomains": [
+        "contra.gr"
+      ]
+    },
+    "_sourceKeys": [
+      "31795312e13227bcd6ce085e09d189efba5e9835e1221ea574acfaf7564455d5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||usay.gr/hyperads/"
+    },
+    "_sourceKeys": [
+      "aa5a18319736600f554cf014bab63dfea5b4449f17c6910c539c6c23b87aa15f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||vidata.gr/files/plugins/longtailvideo/v5a/r6/vidads.swf"
+    },
+    "_sourceKeys": [
+      "78135038c52abc0873c531e155aa3ca427fb1c9a468cb8beeb5a2ed4bc3ceb0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||videos.stifora.gr/banners/"
+    },
+    "_sourceKeys": [
+      "b2ce7df05e38e0c6e58aceb5e3ed308561c54ebca47d238122dbd3738f940e13"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||villagecinemas.gr/media/banners/"
+    },
+    "_sourceKeys": [
+      "4a623a5609d2b1e4cd6856b0b64d2fbe25b2e38da0164d6e9845f9379a719c25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||vrisko.gr/logos/public/tromaktiko/3-300x250.swf^"
+    },
+    "_sourceKeys": [
+      "6687d6804c05ed6fdf6c56c15199079d1c935c936786ccd82f9d139abc6fc9ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||wagershare.com/affiliate_media/flashbanners/"
+    },
+    "_sourceKeys": [
+      "a0e27cd8f7679111ed682a1ddda5b4385cc85640fd22fa6c0cae97393e300683"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.nova.gr/nownext_compact/el/"
+    },
+    "_sourceKeys": [
+      "f6e99ab2ac259bddea2e49364dd493649a8b8262bbd309e341f6882b511ddc4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||wigetmedia.com/tags/"
+    },
+    "_sourceKeys": [
+      "19fbbcd94d79ce5ceb1779a58323456f943b8353dbd08cb6e7677152a805e317"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||wk.kathimerini.gr/webadmin/woman/gifsxor/"
+    },
+    "_sourceKeys": [
+      "98bb61f9f3dffc1b8ad81b8fad86bff9cd5a761e97fb31b681fbcc4be3773d34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.anew.gr/admin/baners/"
+    },
+    "_sourceKeys": [
+      "65536b8d2441c39dffb75500af0c2aa6c72f74f9a96a3c2e16676849a9dc89f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.candiadoc.gr/banners/"
+    },
+    "_sourceKeys": [
+      "34031f1d38ded2a60557ed55621de5ee5751e2f57f86f01c9dcf2c67470e949f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.creteplus.gr/assets/bnrs/"
+    },
+    "_sourceKeys": [
+      "10462bae384636b959009dac6d99d00c118a786174dd854255f1ca8f2e7d4d72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.diaforetiko.gr/wp-content/uploads/2015/03/droidbanner3.gif"
+    },
+    "_sourceKeys": [
+      "3263bc75ad5301015a431be693546540e3b7f6bddfcc8c9117e147c6830ca4e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.neakriti.gr/bannersexternal.aspx?bid="
+    },
+    "_sourceKeys": [
+      "0b6ba172226caa27c23f833a13f924c4fe17a87e5c85f72c2501391294a78b38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.sportkit.gr/widget.aspx*"
+    },
+    "_sourceKeys": [
+      "f51854f9dc802fe999f2cb99b46ac30507a817807156489bd98596b5dca2e328"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.thelosouvlakia.gr/cms/uploads/ad/"
+    },
+    "_sourceKeys": [
+      "20bebcad808b29a3d1f68829b640ca7164d1c191013f59d4741c8932d020721e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.triakilakodika.gr/images/teamworkpm650.png"
+    },
+    "_sourceKeys": [
+      "7f35f4ea0d70d628445f1c5c40cd4c49261c337b966702b428b0f966c96b49cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||xe.gr/professionalservices/banners/"
+    },
+    "_sourceKeys": [
+      "639c8e521b04d278e7c5e1bc3db0d079de474e3f2538e9b3a7460faddc000903"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||yupiii.gr/banners/bg/"
+    },
+    "_sourceKeys": [
+      "7d955b42bd36fb9ff5650313f02288b51523ac604449bf5f708e13ee00ec3388"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||zougla.gr/hyperads/"
+    },
+    "_sourceKeys": [
+      "4f69cf097bdceffac0d48ce05059c603f31b2c898b59bcc942b88ee000e9e066"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||zougla.gr/uploads/thomas/travel_city_banner*"
+    },
+    "_sourceKeys": [
+      "27e7e9cbcea759b35c6dabccd0a8c8cfe8117bf3abeab2509403667b9e524b79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||zougla.gr/uploads/banners/"
+    },
+    "_sourceKeys": [
+      "d4bb34d4715c2c5ed1a51d5b6dea95d13b7e99e02d83051054c4f8b2aaf31da2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.gr.doubleclick.net",
+        "ad2.linkwise.gr",
+        "adman.kathimerini.gr",
+        "adman.otenet.gr",
+        "ads.24media.gr",
+        "ads.naftemporiki.gr",
+        "adserver.linkwise.gr",
+        "affiliate.linkwise.gr",
+        "banners.dol.gr",
+        "bold.adman.gr",
+        "cdn.orangeclickmedia.com",
+        "clickbanner.gr",
+        "d.agkn.com",
+        "el.williamhillcasino.com",
+        "gazzetta.adman.gr",
+        "gpoint.gpoint.com.gr",
+        "gr.partypoker.com",
+        "media.mybet.com",
+        "obj.adman.gr",
+        "phaistos-ssp.adman.gr",
+        "scripts.bestprice.gr",
+        "serve.ads.gr",
+        "static.adman.gr"
+      ]
+    },
+    "_sourceKeys": [
+      "42d5e35f2e309c1b79eec059a80200a26f1970971f36d825fdecf1723443558b",
+      "b160722b8351a1cedd14d73b2d2b1350f443138765546717e01dc5ea49926673",
+      "647a399547600d3f277e33b41614bffd28b125ff370abe49a87b185edc18bf28",
+      "53e069166ce6c09d8c63b0411f399e7cff2050215cd711e3a8be5f033607ad4a",
+      "95c5b3e2d6899bb62d15aee555d94f9721eebea845e7571c492ee2dfb4c5e444",
+      "5534af542393fbc225393c35b85e8e866554930797571b1f4b676d68b1500d59",
+      "e0268d7d058a3e3e90e31cd0be57d341015f1215f845c100b3d88aad62a096c0",
+      "216c4abecbf1c914678465c806936ad94ef0f9a7ad392ea50ad3865692df4cda",
+      "1ac8580e6cfd646dbae5cd70b353e964f998ab6aa567f9a20c08f1cab9053909",
+      "506556a8b8078d02441f09822dbab907477b8b126b968e1753761edef96d5079",
+      "bf1a01b8495e999e1af2281fa19473d315081524c8a2404028f56439e90d042e",
+      "861aeadbff2013407c95731f523d80bcbf490f1e948ef02d96e1c9b4cbcf11e7",
+      "97e720c82e8a8b9779174861dad5a862878e690365d93b6034a471ce1750435e",
+      "7f9655ec9d602491478d8891ae7dd9b4b8e3b61358ddeafb710f60b9d49f977f",
+      "aa8a0dd101eea70301ee9376b7f812bbc38ae1809753e2bc24b04249f7e1f895",
+      "19a42d032852ef968ad2dd1306f4cbe36a33b936fd45dd46ef9474a70de204c0",
+      "ace3beb7891101b244cf694c1beb8ecaac1d6692af1eb6acb4e9e04acfd0f86a",
+      "7b65acdee13f69c96dc631ffe86e48e2fc0225813b213b2bf6e9aef0bc1ba26e",
+      "788a5a3b56d658d6d2bb4da137f7ad183567803e78baa0f73b15d290e84439f4",
+      "c9338debf016743fd51b4db7c17e9ab5e834449e72b39be051f4459c9570f154",
+      "d3606ecbd70b391ab7a58f564fa5a0d52062e73ae7e36863b0d09937b3ed65e6",
+      "c3460c87353e1ded32088631254a354aa6c016e16da577c30659f053079b99e4",
+      "8af59b53e4366fe5bb05a237da98e0344f906bfe98428f3bf85a619131739897"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad.gr.doubleclick.net",
+        "keys": [
+          "42d5e35f2e309c1b79eec059a80200a26f1970971f36d825fdecf1723443558b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad2.linkwise.gr",
+        "keys": [
+          "b160722b8351a1cedd14d73b2d2b1350f443138765546717e01dc5ea49926673"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adman.kathimerini.gr",
+        "keys": [
+          "647a399547600d3f277e33b41614bffd28b125ff370abe49a87b185edc18bf28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adman.otenet.gr",
+        "keys": [
+          "53e069166ce6c09d8c63b0411f399e7cff2050215cd711e3a8be5f033607ad4a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.24media.gr",
+        "keys": [
+          "95c5b3e2d6899bb62d15aee555d94f9721eebea845e7571c492ee2dfb4c5e444"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.naftemporiki.gr",
+        "keys": [
+          "5534af542393fbc225393c35b85e8e866554930797571b1f4b676d68b1500d59"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.linkwise.gr",
+        "keys": [
+          "e0268d7d058a3e3e90e31cd0be57d341015f1215f845c100b3d88aad62a096c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.linkwise.gr",
+        "keys": [
+          "216c4abecbf1c914678465c806936ad94ef0f9a7ad392ea50ad3865692df4cda"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.dol.gr",
+        "keys": [
+          "1ac8580e6cfd646dbae5cd70b353e964f998ab6aa567f9a20c08f1cab9053909"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bold.adman.gr",
+        "keys": [
+          "506556a8b8078d02441f09822dbab907477b8b126b968e1753761edef96d5079"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.orangeclickmedia.com",
+        "keys": [
+          "bf1a01b8495e999e1af2281fa19473d315081524c8a2404028f56439e90d042e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickbanner.gr",
+        "keys": [
+          "861aeadbff2013407c95731f523d80bcbf490f1e948ef02d96e1c9b4cbcf11e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d.agkn.com",
+        "keys": [
+          "97e720c82e8a8b9779174861dad5a862878e690365d93b6034a471ce1750435e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "el.williamhillcasino.com",
+        "keys": [
+          "7f9655ec9d602491478d8891ae7dd9b4b8e3b61358ddeafb710f60b9d49f977f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gazzetta.adman.gr",
+        "keys": [
+          "aa8a0dd101eea70301ee9376b7f812bbc38ae1809753e2bc24b04249f7e1f895"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gpoint.gpoint.com.gr",
+        "keys": [
+          "19a42d032852ef968ad2dd1306f4cbe36a33b936fd45dd46ef9474a70de204c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gr.partypoker.com",
+        "keys": [
+          "ace3beb7891101b244cf694c1beb8ecaac1d6692af1eb6acb4e9e04acfd0f86a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "media.mybet.com",
+        "keys": [
+          "7b65acdee13f69c96dc631ffe86e48e2fc0225813b213b2bf6e9aef0bc1ba26e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "obj.adman.gr",
+        "keys": [
+          "788a5a3b56d658d6d2bb4da137f7ad183567803e78baa0f73b15d290e84439f4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "phaistos-ssp.adman.gr",
+        "keys": [
+          "c9338debf016743fd51b4db7c17e9ab5e834449e72b39be051f4459c9570f154"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "scripts.bestprice.gr",
+        "keys": [
+          "d3606ecbd70b391ab7a58f564fa5a0d52062e73ae7e36863b0d09937b3ed65e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serve.ads.gr",
+        "keys": [
+          "c3460c87353e1ded32088631254a354aa6c016e16da577c30659f053079b99e4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.adman.gr",
+        "keys": [
+          "8af59b53e4366fe5bb05a237da98e0344f906bfe98428f3bf85a619131739897"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||athensmagazine.gr/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "86c9bb5fd5edac7e2f4a6b0d6d5de94796e182b5d065278159a0a40803cfc665"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankingnews.gr/ad/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ea9ceb6ce184cf788fa38d58c5a6b7702bcad61813b474281b135c065c8d716e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn-gr.sexgr.net/b/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3115877f7dfda84f85fa5a12c1442da5ebbb983142522a003722f40e2b0af36c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.cnngreece.gr/media/com_news/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a4b28bb8e25739e074fb693ceb1ad98327e5d86a8ee447edafdbfa194a913e0c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||deliver.mediacdn.com/live24/itrofi-wide.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b09a35922fd974228ecf32581bc954fc6ab57909b381090777fd2dc41da6f2b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-ptolemeos.gr/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6e1f5cdb502a953645e2d7f4e274136f26290706d49c0099ac1b89c57b61ac0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "||e-ptolemeos.gr/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b06d5b7be2d92e27b8ed9cf93a336c03303fb53dd1ecdfa4a774075ac5631045"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||focuswebtv.gr/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cc51eb00c599336c6869b32e3e3b60abd658f4db6d7d8b3acb89de8d261854ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||fonitisparou.gr/*/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6d0a522f45932387ffa14f04a4f235e777e7182e378351fbe0f95a80262eb23b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||goodnet.gr/files/goodnet/banners/*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "04175cda9a59cf58ba266d4d74e032a58409cf306a24740007b5270389943627"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||goodnet.gr/files/goodnet/banners/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "be589d06210ac750296877f656a2fd0537e58f1926c5208d43fb7b0806288242"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||gossip-tv.gr/media/com_news/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "94b580128bcb6f37598426bdf2bafde3d71f5fb74ad10dfdb861470c43765623"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||i-kyr.gr/wp-content/uploads/2016/03/banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b31b4699d3ec5fe5cd8c433c4dcc72d34ede69a221ff93185726faedf827f08a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||i-kyr.gr/wp-content/uploads/2018/05/alpha*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fe6d83e6725ed889b0c7f01841d43f1fb4bac3c025adfd4cfc44a34c0760314e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||idrones.gr/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "80e2707fc8b097390dbb846f04f98ed7aae46403cc36ba7857a1d6d486bfdcd1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2017/02/podium-2.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e5aa6981a9c8665ae41c8d98d34f9dc0240e4ab9401b44b091c8a010783cfd0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2017/06/collectives1-20.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "05e83a571a52551b4a98707b6317513d71689fb35a2a294dabaa3cba150bd7ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/04/baner_asfalistiko_300x249.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ba6041957f1b446b680b98484c25beedd5ac44f860c5393eb77c8e6f339fb5ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/05/screen-shot-2018-05-07-at-20.41.56.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "dc80f17e8152d5cc4403e29711be960976a2ac714b7235651cf356e8e2941f84"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/05/tiniakosgr.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6e169fb80005d18acf1df4d813376f6d7c84e744b8a019dfd7e23e2454acaba3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/07/boukovibanner-500x417.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d61c17b9b003c282f3727fda4ce793824dcd164df06d511cd940e3a5d7958c70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/11/500x417_columbia.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5a747dd78f3d94af11ea27858f7933266b0353cee03da426872f808d6999a7c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/11/500x417_marcos.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "04f09f76e9e061b05cca64c693181c5971f85c511cdaaf72e2e170205a8c127f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/11/500x417_marx.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "76cf3b1eaae8a143a4d2abfa0e6a33ea852acd207bacc8ae153250e8cc164911"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/12/megalh-istoria-ths-elladas-1.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8a5bbbbf209b243557fd699fa8b33f19e5169f5d56585e28a70fc79c8d78affe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/12/megalh-istoria-ths-elladas-2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0fe9fe6f063b27730a386873b597aea737ea0602a1f6cce1d72757341253506f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||imerodromos.gr/wp-content/uploads/2018/12/na_ntysoume_tous_gymnous_500x417pix-2-1.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fcfaaf91e275d07f9dc763920cf8dbb0cab0b7850d781ea241f785a2e90f8dad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||insider.gr/sites/default/files/2019-02/eurobank%20rgb_1.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "00e8b13d167be78395fc3139c2db18eb6fe74e49b2b94a88e2730ade6b0c77c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/*banner*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b09229ccaa5a9721dace6ca47f540152c8b68c931bdc17281a204a59c25264c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/*banner*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6692d43e3c40b2636b0d67b5b05bb4ab10d5f6aa6d9f5ef8da92679056feb622"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/*banner*.jpeg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "296dd7ee2ef266821fdb3ab880a5e5131977f1933cc9417ce9690b3f8bc11957"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/*baner*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "aeb60d015f9c50aae88244bd17f3f5bb0425699fe89c32ae58ca5f0d953dda6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2024/11/mezedopoleio_neo_leon*.webp",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b4326c7ee9dad9a3871c5ae5c102754c1b55a77b14eceaa55608a963a1369c43"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/xeimona-kalokairi*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "71e33b7739fc9ac9839ccc2501a164a23f7186db5f383e3a97ebf4570cebb443"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/laf-lab-23_tetr.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "64fb47286dc87c05a227e90edc8df9ef96829b3b7e6e1c009fa732e7636aebb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/platanos*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3e7844edbf553b9883fdd6d83e576cb3073045ae04478b01af921dd0de46c6f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/zampas-1.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1bd79df22701b4add11ec67b997cd2375e6c521c7fd0a2cbb39c927c99217b8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2023/04/deli_wine*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "276cf2f51712914a80c2d01248ac9f3b557438d3ed746c645f44ab1c49a7a7ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/*banner*.webp",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7b813fc54c68d061725e5cac5589fdd9af6e3affd384cfcf57ef6f783d1f4cd9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/electrical_gk.jpeg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "184c504494666df56704cfffcf160fe2e6fa957d6eda7d978e1344ceee94cc5f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/kapsanakis.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "47145eea76bda2f4aeed97b2fb6a7ada05b762dd66aad38cadb43a2a6e5f0709"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/yellow_t_shirt.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e8c603aeeeb531c47ed4a83e36ce7a3ac6570f7ae3f416e9307b276ff7c4901f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/iliaxt-23_tetr.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a247bde4362f4b45c5d1ccd2724c9d08af5d38eaffe87f9473d884c0516fe1ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2022/07/limani_rafinas*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "823027b46e5dd86b30e4f4edc7cf506de897914d8f6d3c12a9024d785f1d59ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||irafina.gr/wp-content/uploads/2024/04/solar_star*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "12284124559e0c10ccf544b3a58d1a9fb59c9f99965cfd7eead30d975dbe4026"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "||kavalapoint.gr/wp-content/uploads/2023/11/ezgif.com*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3e322c36422fec40dd6723ca7f43a6c4e61fd203f9e56acc8f3f9cb8687c4169"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "||meteo.gr/graphics/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5e7e277720f6b35fb55d9b0b350ca3c806cc5e1e31426037321823c153605618"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "||money-tourism.gr/wp-content/uploads/2026/03/ksd-newsl_slippers_a4*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9b1c787400fc8aacceac620c95cac09d22d1966085f54944c3ab1c0ea93823b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||money-tourism.gr/wp-content/uploads/2025/03/ksd*adv*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "41d16248555c0e9becc75a81cf1dd28b05f09a33828ab131434424224c4449dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "||money-tourism.gr/wp-content/uploads/2026/03/ferragamo-02-low*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1c572a032c75f01e38fb0c6366419ebf2fbdba3d66121b7871abdca4053194f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||money-tourism.gr/wp-content/uploads/2024/02/e-shop*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1592e7a7de447dda3db9b78fed64e8c847f59d80e3dc2906d05f7bd6aaa97919"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2016/09/icbsnew1200small.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "aa138b09643088f10b94b6c087c341e5609859fe0f343963f0ddaea78caa0870"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/eda-thess.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8edad19e63923534229471cb20652c4f8bc8ed0737bc09deec55707cc217d9bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/europroodos.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d323751b2ca046b803f483d8757384880b20cd2b78a6d15e258818374688b96e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/fashion-city.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "967551871f67e3d006f9b67a761b86ef6f4b6aaed65f77c04059b938848d08b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/kazanas_xeimerines_ekptwseis_2019.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fdb29d3b4fa80b869cc7f7789bdfd6cf254523c12d7b26b0d6e0de6af7d20c4d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/larisa-300x250.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7594f7458a9e00fabc9e25b0578039c7d6e8e75e97c43989c48fcaa264938747"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/nona-rossa.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "16259d3a364afa7f0adbc3cd16886f11f8d26245a740dc472b56b4bdc335d8a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/snoopy-1.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8d6c7a54e1b2d2c39964fe35d770eb82a577f4593b6b8f064424a3c7b6c50936"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/09/snoopy.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "10db1d704eaea2447e1a29a711658ba722c737913dcbc673b870bf7cae467f7e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/11/webp.net-gifmaker-1.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d40fced3643afbe06f51272c37696a2f29626f846f1fd8a25f2f4364962c06f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/11/victoria-10.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0190a1dab3e01b5ed544cfbb09fe4306f518347d3e918dceb6c14f8ea70382b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/12/benneton.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8db24e15aa5e32a5c358e6b3e24db21ed00a5490bf9b2cb3ebb3b73495050d48"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/12/giannakos-christmas.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2777fd32f84c7b95e460a78b20810350373db064e3e284ac74d280b4607d652f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/12/giannakos-miltos.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5185a50ebc03da74d443223e1a7ab2367441acc6bacae0bc7e682ba042baf7ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/12/karla-final.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7e1385d8c5b5f596b86031da1bded85c5a397c4be23f909d41680a9cdb49bc12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2018/12/ktimatografisi.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fd984a0860a2f23f634eb06e03f4686449b058cd8d70bceca35121446ef26544"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlarissa.gr/wp-content/uploads/2019/01/leroy.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7c4a3feeb5b7d051d3402b4946c26c97c28a9d1ebae568d35dcc0196ea11668e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||parianostypos.gr/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c857fa5c472de59e3b15a2296ce28e65d4a28be7be29f7541590363f61f0d26b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "||parianostypos.gr/*/diafimissi/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0fff613ac528a919b4f8c0acef70656b05f3de0f32d33d3a1500c50888d699e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||protagon.gr/wp-content/uploads/2018/11/opap-new_generic_3_174px-protagon-1.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e66e112cdcc2f6d424aa78e0fc82131f1d7df9f7911fe5265f604c3c7de24c6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||queen.gr/media/com_news/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f0413c543b70f4efbd161cabc458638608548100f3b6a07d013fa2065360b7c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/1theloakinita5.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "68da7a83e1a411094c47588b435e1102b809c36ec11934e186820556bb1e9215"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/250px.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "dc61a30df04c3a2e6adbe6be9447388d2338b2f70c6e9f51af543517d72b839b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/baner-pontiki.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d2feb8f7f16427bc5bafb3165e8e159975bcfa3927507c3ca0a15ff067cfcb5b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/img-trap.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "958e8a5a3a08b2eb523a5882ff01d6587f950990c63b97911fb44a676704455e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/logo-sygkatoikos-ren-a.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0e3616ff68290d3a67da5d4cc98f741468d0af1fafba89cac2db1a2c7f13f532"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/nomisma_140x60.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "328293006e0178aecb556835118f05c8258d3adc70015bdd338ada5d68da154a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/para_250x300.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "71ef4801ae3e5f18f51d054ba142876ffb4a0bf264647e44260bce8ac028acf2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/pomidaani.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4ef85b2c044c4523586347f83b4582514a23b3ce5601031c7e0e074d84a5514d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "||skroutz.gr/merchandising/c/sbm/",
+      "initiatorDomains": [
+        "skroutz.gr"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a1806d82192e6399c3dc8844bbdec8573dfbd50b85f1a4238923f90f7285504c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.gr/img/app/9018330/0/o/0/0/matchcenter_stoiximan_desk.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ecf3fa92a07bb0a35cb0cc1d77a3dc61cb143f88e49ed14b4b72a5f520d58010"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.crete2day.com/files/banners/*/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cf26aaab25a48c78deb9b053f935bcf29972ef391b2562e00df728b7a83b1250"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.crete2day.com/files/banners/*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1328ad6ce222760653646c4b9a9ddfdba0bd51d4fa47f130b30b6ee8a9731f69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||travelstyle.gr/portal/files/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1965f0bebda888b1de2115c13c2dbeb1bda25f2d98e2cf1b8c09fbbce0c1c8ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.e-evros.gr/banners/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1c051d2ddf9d52316730a50f88ae98b364b403146a09aaf2b10d53748a21c56e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.e-food.gr/site-assets/img/coca/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8bb18e48b95c49fa8a2b561a847447788134e365e5b116fd5f01946d26fad6f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.taxheaven.gr/public/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c3041c996989f7cc1030681d0a4b36cdb7785b826d65b47d174f7b8bfac6de47"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.trinews.gr/runimg/2016_04_saucony.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5b896913a7b0c68f28abd69300db29ad9096bc156e63c796d7625197563dcba2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.trinews.gr/runimg/2016_05_ethicsports_150x300.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1c12ae45097aa812ae2b8ba29be1cbff9202dc476f57ffabd7f15fde956ddd20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.trinews.gr/runimg/2016_07_intersport-summersales_150x300.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2a55fe5e47bfb3d4bc1859f785a737ad8fa5d3c4a01391e2e575fba9d1a4d959"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||realestatenews.gr/images/stories/banner-red.swf",
+      "resourceTypes": [
+        "object"
+      ]
+    },
+    "_sourceKeys": [
+      "8e1f37bbc05898c75f4550ea9379686af573bd79003a40e4e98339788b03fd4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.taxheaven.gr/public/banners/",
+      "resourceTypes": [
+        "object"
+      ]
+    },
+    "_sourceKeys": [
+      "2fdf44c43d91c57cac2919e20816b2c3edb2ac8af594921b0ea78ebfcf624079"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnprojectagora.s3.amazonaws.com/gr/gazzetta.js",
+      "initiatorDomains": [
+        "gazzetta.gr"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "13e948be0ca4d04047edc5c99bd46893486ed7f9cda537fb51dd00a199acc5bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankingnews.gr/ad/*/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "0355f26cb73f8252f641d0e05dcdcb9ac189f53f6e347714b11444b7ebcd4c75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "madinad-data.s3.amazonaws.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "270c2801762cae06807001fc5b8d9fdbabcade179be02891ff51e3d80a54ce0d"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "madinad-data.s3.amazonaws.com",
+        "keys": [
+          "270c2801762cae06807001fc5b8d9fdbabcade179be02891ff51e3d80a54ce0d"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "goldenconcept.ir^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "2ca46a891d86a2b37e17b548f0ee59a92ed91416ee4db8bbab0d6262e36a8bc8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "indusviva.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "bb91dea242251672e0362b3884a5ef76d0f2e84dc06094924133db9b5ee695f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||kavalanews.gr/sites/all/modules/copyprevention/copyprevention.js^",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2f298c8fe0ffc288c83d8af567c339abee2b7ea5676195e075c26bcef1b8eb08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adstorebluebird.cy",
+        "adwebone.com",
+        "madinad.com",
+        "vidads.gr"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c44db10dda63a46d1449fec3f114e6ec6be38beb2af3c8c60e807a7bf4ef3dca",
+      "744d77e60ffc44fa41579074a9ff093b6dc712017e008fefe6baa10777b69818",
+      "b0662228c3855e59fdd55e1fddb4d8182f5d1b52c63fec2824ed0a041a9fbb49",
+      "7186a0db7a0ea770d9f41e5ec95f244705bd0f54aaf42506ee40557487efd6d7"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adstorebluebird.cy",
+        "keys": [
+          "c44db10dda63a46d1449fec3f114e6ec6be38beb2af3c8c60e807a7bf4ef3dca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adwebone.com",
+        "keys": [
+          "744d77e60ffc44fa41579074a9ff093b6dc712017e008fefe6baa10777b69818"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "madinad.com",
+        "keys": [
+          "b0662228c3855e59fdd55e1fddb4d8182f5d1b52c63fec2824ed0a041a9fbb49"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vidads.gr",
+        "keys": [
+          "7186a0db7a0ea770d9f41e5ec95f244705bd0f54aaf42506ee40557487efd6d7"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||politis-news.com/banners/entheta/"
+    },
+    "_sourceKeys": [
+      "20d1f4a28931e5d9ca02f61e6f2073a382929cce282247733b8c37943a50ec8c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||resources.sport-fm.gr/sportfm/newspapers/"
+    },
+    "_sourceKeys": [
+      "ee0a3953247545f40c53788fefcdb38249ba4ef46162c824d9fed7862cf655cd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/layout/campaigns/mb2010/bg-bck-block.jpg"
+    },
+    "_sourceKeys": [
+      "5c3ca8fc81d129729d3d33a198ade701a0ae07121c8c2dffab55d82ebfed9a49"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/layout/campaigns/mb2010/bg-fp-block-mb2010.jpg"
+    },
+    "_sourceKeys": [
+      "154478b3c54a5ba5b0b57f886634b390ceebc8add1551ad9a5ba6778b8e925e8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport-fm.gr/resrc/images/layout/campaigns/mb2010/bg-fp-block__v3.jpg"
+    },
+    "_sourceKeys": [
+      "2545e791f2f9a03eb9347e8cad51108f27c2593a11f4e9ab735156ec9964d055"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.patris.gr/_banners/1421748421.gif"
+    },
+    "_sourceKeys": [
+      "c046a53a4ab3791b30d25ba05120094d61234f89323aaf42081de1e7b92479cf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/adv/lmnts/blank.gif"
+    },
+    "_sourceKeys": [
+      "9ba8f59753695f92996d0e7d7af8e83619283655c1c0e6696ae3c4d120954723"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/adv/lmnts/disimata/"
+    },
+    "_sourceKeys": [
+      "fea9663461792e97913d0902bb504ec8bed23121c1d4f9c04622a9f237883be5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/adv/lmnts/earth/*.swf"
+    },
+    "_sourceKeys": [
+      "1d7864cfd85af3d7984c1f38c0957a207974a440079ebcfdd1f432c4ecf7866b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||athinorama.gr/adv/lmnts/stegi/*.swf"
+    },
+    "_sourceKeys": [
+      "0647b1a836f31fb1b434a1ee35573369fa9f83b2f450182ca80fadd2e7f6082b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "||contra.gr/xml/sponsors/pokergr/ilika/"
+    },
+    "_sourceKeys": [
+      "58034a331504efe710d910c5146489a2e60c2d73db15fe9d57b2795046397b4e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||megatv.com/*/xml/jw/adverts.asp?"
+    },
+    "_sourceKeys": [
+      "b7d65300893b49cba3e6fb505ca1774264f7b00d0a38282172366f0da964bc44"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||skaihd-f.akamaihd.net/z/advert/"
+    },
+    "_sourceKeys": [
+      "3d8bc9ae09692bfcbd7dd62ac5b8203108f9c2d6e02d15c4fa154a1770e13882"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||xe.gr/property/recent_ads?"
+    },
+    "_sourceKeys": [
+      "b094b0087a8e7c3a975e3da9da14364e6deeb80d7d29906bcfebc37fdffe5ee9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 437
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.antenna.gr"
+      ],
+      "urlFilter": "||www.antenna.gr/js/adman-video*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9239989606e307f162c5cc28e86dd2d9358bba07af35333cf1693def46705697"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 438
+  }
+]

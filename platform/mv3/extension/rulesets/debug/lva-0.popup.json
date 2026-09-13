@@ -1,0 +1,57 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||runabildes.lv/?acx_onclick"
+    },
+    "_sourceKeys": [
+      "19a369ecc42c7fbe1d0df55e481cc0c02fc9ca148802df5498af0e814a18f4a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "olybet.lv",
+        "openx.diena.lv",
+        "optibet.lv"
+      ]
+    },
+    "_sourceKeys": [
+      "6ced403f174017054124061eb738c06f6a405d59561010c42b16cc5514ccf90a",
+      "5805f698bcd52b0e0caa6b27a0db9836a30e72a0bb86cf911a9842a0554fe0ec",
+      "d9c966078b3a917146aae12e07db922c381983a1954b0cb7442b9fcdd1356b86"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "olybet.lv",
+        "keys": [
+          "6ced403f174017054124061eb738c06f6a405d59561010c42b16cc5514ccf90a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "openx.diena.lv",
+        "keys": [
+          "5805f698bcd52b0e0caa6b27a0db9836a30e72a0bb86cf911a9842a0554fe0ec"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "optibet.lv",
+        "keys": [
+          "d9c966078b3a917146aae12e07db922c381983a1954b0cb7442b9fcdd1356b86"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  }
+]

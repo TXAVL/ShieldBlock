@@ -1,0 +1,350 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "crnsgngrpj.nl",
+        "dntblckmpls.nl",
+        "mt67.net",
+        "nojazz.eu",
+        "publize.net",
+        "trickyrock.com",
+        "viadata.store",
+        "ads.nextday.media",
+        "advertising-cdn.dpgmedia.cloud",
+        "advertising-module.api.dpgmedia.cloud",
+        "go2.go2cloud.org",
+        "kjdsfjisdfjr23.azurewebsites.net",
+        "nextdaymedia-ads.s3.amazonaws.com",
+        "traffic.12flirt.com",
+        "aa.tweakers.nl",
+        "content1.pcmweb.nl",
+        "content1.pu.nl",
+        "content1.wasmachines.nl",
+        "content1.zoom.nl",
+        "content2.besteproduct.nl",
+        "content2.kieskeurig.nl",
+        "content2.pu.nl",
+        "content2.wasmachines.nl",
+        "content2.zoom.nl",
+        "preroll.omroepvenlo.nl",
+        "proxy.optoutadserving.com",
+        "cryptosplash.care",
+        "cryptobeneluxbanner.care",
+        "cdn.optoutadvertising.com",
+        "zsp1.ah.be",
+        "zsp1.ah.nl",
+        "x9t7g4m2qk2.azurewebsites.net",
+        "content2.nrc.nl",
+        "aa.hwigroup.com",
+        "ab.hwigroup.com",
+        "ab.tweakers.nl",
+        "a.medialaancdn.be"
+      ]
+    },
+    "_sourceKeys": [
+      "16e32b0afe0d0932e895af2abd8722f12d016f7dbacc5f02b0d306cb023b3d46",
+      "0e28614308d4928da642fd2a69a222833dcb1e9601af28b74fbb0976d0927523",
+      "725c412150817655073af0a1550cb0704cd7b35e78f1a61b43be438c28dc9596",
+      "68517b0f3c6097e3d8d7e3140aa90121a9387cb5e7041688a0d55fd5eeb38094",
+      "1c7b41e697bad5c740f42e5f1a8c5b883299fbc714e2f8b9e443fa1b4394fe02",
+      "b1f9a0721f417914bffc79af96089b9bacb2fd4c8fb00796e5ea1bf5beb4b928",
+      "ab922a9efd9315510f008776d74db916e5e8aea516ad60844b3113b23f05a009",
+      "e51c38293d8db102c0e9b1b8591b69d3cf3eef76b5998e77206f52ef4cdde72f",
+      "8b0cab9c480180b01230c0e8d6baa7c0f8dbaba641bb027220d52a1ea7a0220b",
+      "487f24111ec6dcbef876cce1047d16c3f23d12a1d63ea0c0987fc89176768eea",
+      "30abafcc103ede3c24aa6d834f70d5a5802be5af919257194bd1449d3d7a79a0",
+      "0eb6d786c78c7d5201af59d3eb5245b97e172607d5b55026d83f9ca0500dbab8",
+      "2b332888dcd403d305d7386fbdef80a8dd923c4f58151ab93768f0d2a86ccba9",
+      "5b98f7d7c32f02ca6e351707e369a7a4a6b539f0f7e131d325392bb54e10cf02",
+      "153f736560fc84d121f816950fe254edeb80484631bcbfcf35af382fdabf7e22",
+      "9c8f08fc0938143a026a014ddb493ee71a98ba2b13a523d87e3c32df6d3e88ed",
+      "80f7ff91d7c482d4aaaaf12649de186bee3827c2a2fcb68f7603a3e2a92b6018",
+      "3d6be56f0b481b7e1b4f45edd5ece1fe3aa7f9cefe72808ebc07a63e0999cb4d",
+      "7b39796eaf70cec4a6c3cde98de63d2353dce215c143aa2744b3410297acabc1",
+      "cdaa492e9b32091e25d65c67696b09d70f8d56f8aa7169fbcff8844c1d8a51f7",
+      "cffa26a6204b9c00e839c3cb34def6ebdf87cd36ec5c1e662ceb834469d5d922",
+      "467f53e67a905c900dd224f884ce187d96c7d7b283319a778144b57b1763901a",
+      "675247979a306a01ac12c009ffc77b9180bba0e12d87bc705942cd4b2e8d6285",
+      "78634f7abf7cd76dbdcb63a64413be60ee3ca1ba2580ca5caf67a1e1dff66aa6",
+      "65fc64f3d8a89f0f9b405575272dfe88e2a6e631da7dc6a158db678e5a24b537",
+      "bcd46c6e7a56023717201dedfbfda9f7e8a8426f1481bd0a06fffe996e0259d9",
+      "e91fca09a5020635a0d8b0b27d3431cfe3bcc6eeafe2045757afaa76022c5ef6",
+      "34016a5f061e3a84df64d40e9a9e4f1faff76b67c734030c6c0ebf2810a6829e",
+      "97ff6d362b78e91a2f7a9cf3fbc74c1b53f735856871787fd0524b2cc754505f",
+      "7df770bb71b1ffedf99980968fb655201cd851b93fb5474f4a95a7a76728b5f8",
+      "133c4fc0afd4d999fad4e97a1eb7514e510d5e4594e5f7567c88bdfd00509615",
+      "f1f185e04ee9ff5ffe29c0c781418cf0a92cbed2d119cebc0ba2af77b0249533",
+      "cde36eeb45ef965fcf4e091580d3f0dbb3bdaaebf7e41314c6ec07296d57b015",
+      "76497443b8618d6a2bd22526fbac0409ad224b6d1581e552514fed1ba0486bfa",
+      "995a5b8f192905807a08b71bbf5b3fdbf7b227598f545d51df14bd4680c75ce0",
+      "979a1460196c39b4a44bdfdb61b7efc19f5512d177e9d734c33a4ccf0f908e36",
+      "5c229ee46ba29a8ad4f46ce0f52d5760be1f20ad3bd11377940d984a754da3a5"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "crnsgngrpj.nl",
+        "keys": [
+          "16e32b0afe0d0932e895af2abd8722f12d016f7dbacc5f02b0d306cb023b3d46"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dntblckmpls.nl",
+        "keys": [
+          "0e28614308d4928da642fd2a69a222833dcb1e9601af28b74fbb0976d0927523"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mt67.net",
+        "keys": [
+          "725c412150817655073af0a1550cb0704cd7b35e78f1a61b43be438c28dc9596"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nojazz.eu",
+        "keys": [
+          "68517b0f3c6097e3d8d7e3140aa90121a9387cb5e7041688a0d55fd5eeb38094"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "publize.net",
+        "keys": [
+          "1c7b41e697bad5c740f42e5f1a8c5b883299fbc714e2f8b9e443fa1b4394fe02"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trickyrock.com",
+        "keys": [
+          "b1f9a0721f417914bffc79af96089b9bacb2fd4c8fb00796e5ea1bf5beb4b928"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "viadata.store",
+        "keys": [
+          "ab922a9efd9315510f008776d74db916e5e8aea516ad60844b3113b23f05a009"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.nextday.media",
+        "keys": [
+          "e51c38293d8db102c0e9b1b8591b69d3cf3eef76b5998e77206f52ef4cdde72f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertising-cdn.dpgmedia.cloud",
+        "keys": [
+          "8b0cab9c480180b01230c0e8d6baa7c0f8dbaba641bb027220d52a1ea7a0220b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertising-module.api.dpgmedia.cloud",
+        "keys": [
+          "487f24111ec6dcbef876cce1047d16c3f23d12a1d63ea0c0987fc89176768eea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "go2.go2cloud.org",
+        "keys": [
+          "30abafcc103ede3c24aa6d834f70d5a5802be5af919257194bd1449d3d7a79a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kjdsfjisdfjr23.azurewebsites.net",
+        "keys": [
+          "0eb6d786c78c7d5201af59d3eb5245b97e172607d5b55026d83f9ca0500dbab8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nextdaymedia-ads.s3.amazonaws.com",
+        "keys": [
+          "2b332888dcd403d305d7386fbdef80a8dd923c4f58151ab93768f0d2a86ccba9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "traffic.12flirt.com",
+        "keys": [
+          "5b98f7d7c32f02ca6e351707e369a7a4a6b539f0f7e131d325392bb54e10cf02"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aa.tweakers.nl",
+        "keys": [
+          "153f736560fc84d121f816950fe254edeb80484631bcbfcf35af382fdabf7e22"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content1.pcmweb.nl",
+        "keys": [
+          "9c8f08fc0938143a026a014ddb493ee71a98ba2b13a523d87e3c32df6d3e88ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content1.pu.nl",
+        "keys": [
+          "80f7ff91d7c482d4aaaaf12649de186bee3827c2a2fcb68f7603a3e2a92b6018"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content1.wasmachines.nl",
+        "keys": [
+          "3d6be56f0b481b7e1b4f45edd5ece1fe3aa7f9cefe72808ebc07a63e0999cb4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content1.zoom.nl",
+        "keys": [
+          "7b39796eaf70cec4a6c3cde98de63d2353dce215c143aa2744b3410297acabc1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.besteproduct.nl",
+        "keys": [
+          "cdaa492e9b32091e25d65c67696b09d70f8d56f8aa7169fbcff8844c1d8a51f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.kieskeurig.nl",
+        "keys": [
+          "cffa26a6204b9c00e839c3cb34def6ebdf87cd36ec5c1e662ceb834469d5d922"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.pu.nl",
+        "keys": [
+          "467f53e67a905c900dd224f884ce187d96c7d7b283319a778144b57b1763901a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.wasmachines.nl",
+        "keys": [
+          "675247979a306a01ac12c009ffc77b9180bba0e12d87bc705942cd4b2e8d6285"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.zoom.nl",
+        "keys": [
+          "78634f7abf7cd76dbdcb63a64413be60ee3ca1ba2580ca5caf67a1e1dff66aa6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "preroll.omroepvenlo.nl",
+        "keys": [
+          "65fc64f3d8a89f0f9b405575272dfe88e2a6e631da7dc6a158db678e5a24b537"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "proxy.optoutadserving.com",
+        "keys": [
+          "bcd46c6e7a56023717201dedfbfda9f7e8a8426f1481bd0a06fffe996e0259d9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cryptosplash.care",
+        "keys": [
+          "e91fca09a5020635a0d8b0b27d3431cfe3bcc6eeafe2045757afaa76022c5ef6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cryptobeneluxbanner.care",
+        "keys": [
+          "34016a5f061e3a84df64d40e9a9e4f1faff76b67c734030c6c0ebf2810a6829e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.optoutadvertising.com",
+        "keys": [
+          "97ff6d362b78e91a2f7a9cf3fbc74c1b53f735856871787fd0524b2cc754505f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zsp1.ah.be",
+        "keys": [
+          "7df770bb71b1ffedf99980968fb655201cd851b93fb5474f4a95a7a76728b5f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zsp1.ah.nl",
+        "keys": [
+          "133c4fc0afd4d999fad4e97a1eb7514e510d5e4594e5f7567c88bdfd00509615"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "x9t7g4m2qk2.azurewebsites.net",
+        "keys": [
+          "f1f185e04ee9ff5ffe29c0c781418cf0a92cbed2d119cebc0ba2af77b0249533"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "content2.nrc.nl",
+        "keys": [
+          "cde36eeb45ef965fcf4e091580d3f0dbb3bdaaebf7e41314c6ec07296d57b015"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aa.hwigroup.com",
+        "keys": [
+          "76497443b8618d6a2bd22526fbac0409ad224b6d1581e552514fed1ba0486bfa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ab.hwigroup.com",
+        "keys": [
+          "995a5b8f192905807a08b71bbf5b3fdbf7b227598f545d51df14bd4680c75ce0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ab.tweakers.nl",
+        "keys": [
+          "979a1460196c39b4a44bdfdb61b7efc19f5512d177e9d734c33a4ccf0f908e36"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.medialaancdn.be",
+        "keys": [
+          "5c229ee46ba29a8ad4f46ce0f52d5760be1f20ad3bd11377940d984a754da3a5"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  }
+]

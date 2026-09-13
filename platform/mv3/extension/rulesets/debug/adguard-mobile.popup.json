@@ -1,0 +1,40 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||hoiplay.com/tm_popup.html"
+    },
+    "_sourceKeys": [
+      "a7351f761b646aa0af39dd9359c19f487e9f569d38cc481946a5372cf99bc95b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "track.cpatool.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8a9abdded1d1ef656a8f3c7a2c75d207afb05d00961146eb65d6a037f31272ad"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "track.cpatool.net",
+        "keys": [
+          "8a9abdded1d1ef656a8f3c7a2c75d207afb05d00961146eb65d6a037f31272ad"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  }
+]

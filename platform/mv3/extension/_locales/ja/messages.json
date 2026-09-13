@@ -1,0 +1,1065 @@
+{
+  "extName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro",
+    "description": "extension name."
+  },
+  "extShortDesc": {
+    "message": "実験的で要求権限の少ないコンテンツブロッカー - 広告・トラッカー・マイニングスクリプトなどをブロック",
+    "description": "this will be in the Chrome web store: must be 132 characters or less"
+  },
+  "perRulesetStats": {
+    "message": "{{ruleCount}} 件のルール ({{filterCount}} 件のネットワークフィルターから変換)",
+    "description": "Appears aside each filter list in the _3rd-party filters_ pane"
+  },
+  "dashboardName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro — ダッシュボード",
+    "description": "English: ShieldBlock - Ad & Tracker Blocker Pro — Dashboard"
+  },
+  "settingsPageName": {
+    "message": "設定",
+    "description": "appears as tab name in dashboard"
+  },
+  "customFiltersPageName": {
+    "message": "カスタムフィルター",
+    "description": "appears as tab name in dashboard"
+  },
+  "developPageName": {
+    "message": "開発",
+    "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu"
+  },
+  "aboutPageName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro について",
+    "description": "appears as tab name in dashboard"
+  },
+  "aboutPrivacyPolicy": {
+    "message": "プライバシーポリシー",
+    "description": "Link to privacy policy on GitHub (English)"
+  },
+  "aboutDocumentation": {
+    "message": "ドキュメント",
+    "description": "Link to documentation in About pane"
+  },
+  "popupFilteringModeLabel": {
+    "message": "このサイトのフィルタリング",
+    "description": "Label in the popup panel for the current filtering mode"
+  },
+  "popupLocalToolsLabel": {
+    "message": "このサイト上で",
+    "description": "Label in the popup panel for the local tools section"
+  },
+  "popupTipReport": {
+    "message": "このサイト上での問題を報告",
+    "description": "Tooltip used for the 'chat' icon in the panel"
+  },
+  "popupTipDashboard": {
+    "message": "ダッシュボードを開く",
+    "description": "English: Click to open the dashboard"
+  },
+  "popupMoreButton": {
+    "message": "さらに表示",
+    "description": "Label to be used to show popup panel sections"
+  },
+  "popupLessButton": {
+    "message": "折りたたむ",
+    "description": "Label to be used to hide popup panel sections"
+  },
+  "3pGroupDefault": {
+    "message": "既定",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAds": {
+    "message": "広告",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupPrivacy": {
+    "message": "プライバシー",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMalware": {
+    "message": "マルウェアからの保護、セキュリティ",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAnnoyances": {
+    "message": "迷惑系",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMisc": {
+    "message": "その他",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupRegions": {
+    "message": "地域・言語",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupImported": {
+    "message": "インポートしたリスト",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "customListImportLabel": {
+    "message": "フィルターリストを追加…",
+    "description": "Text label heading the import area of custom filter lists"
+  },
+  "customListImportPlaceholder": {
+    "message": "追加したいフィルターリストの URL を貼り付けてください",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "customListImportUserScriptsInfo": {
+    "message": "インポートしたリストの整形・スクリプトレットフィルターを適用するには、ShieldBlock - Ad & Tracker Blocker Pro にユーザースクリプトの実行を許可する必要があります。",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "memoryProfileSectionLabel": {
+    "message": "メモリープロファイル"
+  },
+  "memoryProfileSelectLabel": {
+    "message": "メモリープロファイル"
+  },
+  "memoryProfileDescription": {
+    "message": "コンパイルの並列数とキャッシュ容量を制御します。低メモリーモードは、有効なフィルターを無効にせず、ピークメモリー使用量を削減します。"
+  },
+  "memoryProfileAuto": {
+    "message": "自動"
+  },
+  "memoryProfileBalanced": {
+    "message": "バランス"
+  },
+  "memoryProfileLow": {
+    "message": "低メモリー"
+  },
+  "memoryProfileEffective": {
+    "message": "適用中のプロファイル: $1"
+  },
+  "memoryProfileStorageMetrics": {
+    "message": "ローカルキャッシュ/ストレージ使用量（現在の RAM 使用量ではありません）: ローカル $1、セッション $2。"
+  },
+  "memoryProfileUnavailable": {
+    "message": "利用不可"
+  },
+  "memoryProfileRefresh": {
+    "message": "使用量を更新"
+  },
+  "memoryProfileCleanup": {
+    "message": "不要なキャッシュを削除"
+  },
+  "memoryProfileCleanupDone": {
+    "message": "クリーンアップ完了: 不要なキャッシュ項目を $1 件削除しました。"
+  },
+  "memoryProfileCleanupUnavailable": {
+    "message": "この Chrome バージョンではストレージの合計量を取得できますが、不要なキャッシュキーを列挙できません（クリーンアップには Chrome 130 以降が必要です）。"
+  },
+  "memoryProfileError": {
+    "message": "メモリープロファイルを更新できませんでした。"
+  },
+  "filterStoreTitle": {
+    "message": "フィルターストア（Power エディション）"
+  },
+  "filterStoreCategoryLabel": {
+    "message": "フィルターストアのカテゴリー"
+  },
+  "filterStoreLanguageLabel": {
+    "message": "フィルターストアの言語"
+  },
+  "filterStoreProfileLabel": {
+    "message": "フィルターストアのリソースプロファイル"
+  },
+  "filterStoreDescription": {
+    "message": "検証済みおよびコミュニティ提供のフィルターデータを参照できます。カタログが実行可能な拡張機能コードを提供することはありません。インポートしたリストは ShieldBlock - Ad & Tracker Blocker Pro が解析し、MV3 ルールにコンパイルします。"
+  },
+  "filterStoreSearchPlaceholder": {
+    "message": "フィルターリストを検索"
+  },
+  "filterStoreAllCategories": {
+    "message": "すべてのカテゴリー"
+  },
+  "filterStoreAllLanguages": {
+    "message": "すべての言語"
+  },
+  "filterStoreAllProfiles": {
+    "message": "すべてのプロファイル"
+  },
+  "filterStoreGlobal": {
+    "message": "全言語"
+  },
+  "filterStoreStaticSlots": {
+    "message": "静的スロット"
+  },
+  "filterStoreDynamicRules": {
+    "message": "動的ルール"
+  },
+  "filterStoreRegexRules": {
+    "message": "正規表現ルール"
+  },
+  "filterStoreUnknownCosts": {
+    "message": "$1 件のインポート済みリストはコスト不明"
+  },
+  "filterStoreStaticCost": {
+    "message": "静的スロット $1、同梱ルール $2"
+  },
+  "filterStoreDynamicCost": {
+    "message": "動的ルール最大 $1 / 正規表現ルール $2"
+  },
+  "filterStoreVerified": {
+    "message": "検証済み"
+  },
+  "filterStoreCommunity": {
+    "message": "コミュニティ"
+  },
+  "filterStoreHomepage": {
+    "message": "ホームページ"
+  },
+  "filterStoreEnable": {
+    "message": "有効化"
+  },
+  "filterStoreDisable": {
+    "message": "無効化"
+  },
+  "filterStoreNoResults": {
+    "message": "一致するフィルターリストはありません。"
+  },
+  "filterStoreResultsLimited": {
+    "message": "$2 件中、最初の $1 件を表示しています。残りを表示するには検索条件を絞り込んでください。"
+  },
+  "filterStoreBundles": {
+    "message": "バンドル"
+  },
+  "filterStoreBundleEnabled": {
+    "message": "バンドルは有効です"
+  },
+  "filterStoreEnableBundle": {
+    "message": "バンドルを有効化"
+  },
+  "filterStoreRepositories": {
+    "message": "カスタムリポジトリ"
+  },
+  "filterStoreRepositoryWarning": {
+    "message": "自身が管理または信頼している HTTPS JSON カタログのみ追加してください。カスタムリポジトリは、より高い信頼レベルを主張していても常に「コミュニティ」と表示されます。"
+  },
+  "filterStoreRepositoryPlaceholder": {
+    "message": "catalog.json の HTTPS URL"
+  },
+  "filterStoreAddRepository": {
+    "message": "リポジトリを追加"
+  },
+  "filterStoreRemoveRepository": {
+    "message": "削除"
+  },
+  "filterStoreRepositoryFailed": {
+    "message": "リポジトリを読み込めませんでした: $1"
+  },
+  "filterStoreQuotaExceeded": {
+    "message": "この選択は MV3 ルールセットの上限を超えます。"
+  },
+  "filterStoreCommunityConfirm": {
+    "message": "このコミュニティリポジトリは ShieldBlock - Ad & Tracker Blocker Pro によって検証されていません。フィルターデータをインポートしますか？"
+  },
+  "filterStoreVerifying": {
+    "message": "$1 を検証中…"
+  },
+  "filterStoreDisabledStatus": {
+    "message": "$1 を無効化しました。"
+  },
+  "filterStoreEnabledStatus": {
+    "message": "$1 を有効化しました。"
+  },
+  "filterStoreActivationWarnings": {
+    "message": "Chrome 非対応の正規表現フィルター $1 件をスキップして有効化しました。"
+  },
+  "filterStoreBundleStatus": {
+    "message": "バンドルを有効化しました: $1。"
+  },
+  "filterStoreInvalidRepository": {
+    "message": "有効な HTTPS カタログ URL を入力してください。"
+  },
+  "filterStoreRepositoryAdded": {
+    "message": "リポジトリを追加しました。"
+  },
+  "filterStoreRepositoryRemoved": {
+    "message": "リポジトリを削除しました。有効化済みのリストは「インポート済みリスト」で引き続き利用できます。"
+  },
+  "customFiltersImportExportLabel": {
+    "message": "インポート又はエクスポート",
+    "description": "Text label heading the import/export area of custom filters"
+  },
+  "customFiltersImportTextareaPlaceholder": {
+    "message": "ここに追加したい整形・スクリプトレットフィルターを貼り付け",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "userScriptsInfo": {
+    "message": "ブラウザの拡張機能ページ（Chrome の場合は <code>chrome://extensions</code>、Firefox の場合は <code>about:addons</code>）を開き、<b>ShieldBlock - Ad & Tracker Blocker Pro</b> の詳細を開いて、<b>ユーザー スクリプトを許可する</b>（「未検証のサードパーティ スクリプト」とも呼ばれます）をオンに切り替えてください。",
+    "description": "A notice to inform user on how to enable 'user scripts' permission"
+  },
+  "aboutChangelog": {
+    "message": "更新履歴",
+    "description": ""
+  },
+  "aboutCode": {
+    "message": "ソースコード (GPLv3)",
+    "description": "English: Source code (GPLv3)"
+  },
+  "aboutContributors": {
+    "message": "貢献者",
+    "description": "English: Contributors"
+  },
+  "aboutSourceCode": {
+    "message": "ソースコード",
+    "description": "Link text to source code repo"
+  },
+  "aboutTranslations": {
+    "message": "翻訳",
+    "description": "Link text to translations repo"
+  },
+  "aboutFilterLists": {
+    "message": "フィルターリスト",
+    "description": "Link text to uBO's own filter lists repo"
+  },
+  "aboutDependencies": {
+    "message": "外部依存関係 (GPLv3 互換):",
+    "description": "Shown in the About pane"
+  },
+  "supportS6H": {
+    "message": "フィルターの問題を報告する",
+    "description": "Header of 'Report a filter issue' section in Support pane"
+  },
+  "supportS3P1": {
+    "message": "<span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> issue tracker</span> で特定のウェブサイトでのフィルターの問題を報告します。<u>GitHub アカウントが必要です</u>",
+    "description": "First paragraph of 'Filter issues' section in Support pane"
+  },
+  "supportS5H": {
+    "message": "トラブルシューティング情報",
+    "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page"
+  },
+  "supportS6P1S1": {
+    "message": "重複した報告によってボランティアに負担をかけないように、問題がすでに報告されていないか確認してください。 <b>注意:</b> ボタンをクリックすると、ページのオリジンが GitHub に送信されます。",
+    "description": "A paragraph in the filter issue reporter section"
+  },
+  "supportFindSpecificButton": {
+    "message": "似た報告を探す",
+    "description": "A clickable link in the filter issue reporter section"
+  },
+  "supportS6URL": {
+    "message": "ウェブページのアドレス:",
+    "description": "Label for the URL of the page"
+  },
+  "supportS6Select1": {
+    "message": "ウェブページ…",
+    "description": "Label for widget to select type of issue"
+  },
+  "supportS6Select1Option0": {
+    "message": "-- エントリーを選択 --",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option1": {
+    "message": "広告または消し残りが表示される",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option2": {
+    "message": "オーバーレイなど邪魔なものがある",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option3": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro が検出される",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option4": {
+    "message": "プライバシーに関連する問題がある",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option5": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro 有効時に機能しなくなる",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option6": {
+    "message": "勝手にタブやウィンドウが開く",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option7": {
+    "message": "悪質ソフトやフィッシングへの誘導",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Checkbox1": {
+    "message": "ウェブページを “NSFW” (<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“Not Safe For Work”</a>) としてラベル付け",
+    "description": "A checkbox to use for NSFW sites"
+  },
+  "supportReportSpecificButton": {
+    "message": "新しい報告を作成",
+    "description": "Text for button which opens an external web page in Support pane"
+  },
+  "defaultFilteringModeSectionLabel": {
+    "message": "デフォルトのフィルタリングモード",
+    "description": "The header text for the default filtering mode section"
+  },
+  "defaultFilteringModeDescription": {
+    "message": "デフォルトのフィルタリングモードは、サイト毎のフィルタリングモードで上書きされます。サイトにぴったりなモードにいつでも好きなように調整できます。どのモードも一長一短です。",
+    "description": "This describes the default filtering mode setting"
+  },
+  "filteringMode0Name": {
+    "message": "フィルタリングなし",
+    "description": "Name of blocking mode 0"
+  },
+  "filteringMode1Name": {
+    "message": "基本",
+    "description": "Name of blocking mode 1"
+  },
+  "filteringMode2Name": {
+    "message": "最適",
+    "description": "Name of blocking mode 2"
+  },
+  "filteringMode3Name": {
+    "message": "完全",
+    "description": "Name of blocking mode 3"
+  },
+  "basicFilteringModeDescription": {
+    "message": "特定のフィルターリストを使った基本ネットワークフィルタリングです。",
+    "description": "This describes the 'basic' filtering mode"
+  },
+  "optimalFilteringModeDescription": {
+    "message": "特定のフィルターリストを使ったネットワークフィルタリングとサイト別の拡張フィルタリングです。\n\nすべてのウェブサイトのデータの読み書き権限を必要とします。",
+    "description": "This describes the 'optimal' filtering mode"
+  },
+  "completeFilteringModeDescription": {
+    "message": "特定のフィルターリストを使ったネットワークフィルタリングと一般的・サイト別の拡張フィルタリングです。\n\nすべてのウェブサイトのデータの読み書き権限を必要とします。\n\n一般的な拡張フィルタリングを使うとリソース消費量が増えるかもしれません。",
+    "description": "This describes the 'complete' filtering mode"
+  },
+  "noFilteringModeDescription": {
+    "message": "フィルタリングを行わないホスト名のリスト",
+    "description": "A short description for the editable field which lists trusted sites"
+  },
+  "noFilteringModePlaceholder": {
+    "message": "[ホスト名のみ]\nexample.com\ngames.example\n...",
+    "description": "Default text for in edit field"
+  },
+  "behaviorSectionLabel": {
+    "message": "動作",
+    "description": "The header text for the 'Behavior' section"
+  },
+  "privacyHardeningSectionLabel": {
+    "message": "ブラウザーのプライバシー保護（任意）"
+  },
+  "privacyHardeningDescription": {
+    "message": "これらのコントロールは、任意の権限を付与した後にのみ Chrome のプライバシー設定を変更します。コントロールをオフにすると、その設定の制御を Chrome に戻します。"
+  },
+  "privacyPermissionButton": {
+    "message": "プライバシーコントロールを有効化…"
+  },
+  "privacyPermissionDenied": {
+    "message": "任意のプライバシー権限が付与されませんでした。"
+  },
+  "privacySettingUpdateFailed": {
+    "message": "Chrome は一部のプライバシー設定を更新できませんでした。"
+  },
+  "privacyDisableHyperlinkAuditing": {
+    "message": "ハイパーリンク監査 ping を無効化"
+  },
+  "privacyDisableNetworkPrediction": {
+    "message": "Chrome のネットワーク予測を無効化"
+  },
+  "privacyProtectWebRTC": {
+    "message": "WebRTC がプロキシを介さない UDP を使用しないようにする"
+  },
+  "privacyDisableAdApis": {
+    "message": "Chrome Privacy Sandbox の広告 API を無効化"
+  },
+  "privacySettingNotControllable": {
+    "message": "この設定は Chrome ポリシーまたは別の拡張機能によって制御されています。"
+  },
+  "autoReloadLabel": {
+    "message": "フィルタリングモード変更時にページを自動再読み込みする",
+    "description": "Label for a checkbox in the options page"
+  },
+  "showBlockedCountLabel": {
+    "message": "ブロックしたリクエストの数をツールバーのアイコンに表示",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLabel": {
+    "message": "厳格なブロックを有効化",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLegend": {
+    "message": "望ましくない可能性のあるサイトへのナビゲーションはブロックされ、次に進むためのオプションが表示されます。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "enablePopupBlockLabel": {
+    "message": "ポップアップブロックを有効化",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enablePopupBlockLegend": {
+    "message": "有効にすると、一致するフィルターはウェブサイトによって作成された不要なブラウザータブを自動的に閉じます。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "popupPolicyLabel": {
+    "message": "このホスト名のポップアップポリシー"
+  },
+  "popupPolicyDefault": {
+    "message": "既定（スマート）"
+  },
+  "popupPolicyAllow": {
+    "message": "許可"
+  },
+  "popupPolicySmart": {
+    "message": "スマート"
+  },
+  "popupPolicyStrict": {
+    "message": "厳格"
+  },
+  "popupPolicyDescription": {
+    "message": "このホストにのみ適用します。フィルターリストのルールと信頼済みサイトの設定は引き続き適用されます。厳格モードでは、信頼できる操作と直接関連するホスト名が必要です。"
+  },
+  "sandboxEditorLabel": {
+    "message": "フィルター作成サンドボックス",
+    "description": "Header for filter-creation section in the dashboard"
+  },
+  "sandboxEditorUserScriptsInfo": {
+    "message": "サンドボックスから整形・スクリプトレットフィルターを適用するには、ShieldBlock - Ad & Tracker Blocker Pro にユーザースクリプトの実行を許可する必要があります。",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "developerModeLabel": {
+    "message": "開発者モード",
+    "description": "Label for a checkbox in the options page"
+  },
+  "developerModeLegend": {
+    "message": "技術ユーザーに適した機能へのアクセスを有効にします。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "settingsBackupRestoreLabel": {
+    "message": "バックアップ",
+    "description": "The header text for the back up/restore section"
+  },
+  "settingsBackupRestoreSummary": {
+    "message": "カスタムした設定をファイルとしてバックアップしたり、ファイルからリストアしたりできます。",
+    "description": "A summary description of the back up/restore section."
+  },
+  "settingsBackupRestoreLegend": {
+    "message": "リストアすると現在のカスタムした設定がすべて上書きされます。",
+    "description": "Important information about the back up/restore section."
+  },
+  "findListsPlaceholder": {
+    "message": "リストを検索",
+    "description": "Placeholder for the input field used to find lists"
+  },
+  "strictblockTitle": {
+    "message": "ブロックしたページ",
+    "description": "Web page title for the strict-blocked page"
+  },
+  "strictblockSentence1": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro はこのページの読み込みをブロックしています：",
+    "description": "Sentence used in the strict-blocked page"
+  },
+  "strictblockReasonSentence1": {
+    "message": "このページは、{{listname}} のフィルターに一致したためブロックされました。",
+    "description": "Text informing about what is causing the page to be blocked"
+  },
+  "strictblockRedirectSentence1": {
+    "message": "ブロックしたページは別のサイトへリダイレクトしようとしています。続行すると次の URL へ移動します: {{url}}",
+    "description": "Text warning about an incoming redirect"
+  },
+  "strictblockNoParamsPrompt": {
+    "message": "パラメータを除いた URL",
+    "description": "Label to be used for the parameter-less URL"
+  },
+  "strictblockBack": {
+    "message": "戻る",
+    "description": "A button to go back to the previous web page"
+  },
+  "strictblockClose": {
+    "message": "このウィンドウを閉じる",
+    "description": "A button to close the current tab"
+  },
+  "strictblockDontWarn": {
+    "message": "今後このサイトに関する警告を表示しない",
+    "description": "Label for checkbox in document-blocked page"
+  },
+  "strictblockProceed": {
+    "message": "続行する",
+    "description": "A button to navigate to the blocked page"
+  },
+  "zapperTipEnter": {
+    "message": "要素を削除する",
+    "description": "Tooltip for the button used to enter zapper mode"
+  },
+  "zapperTipQuit": {
+    "message": "要素抹消モードを終了",
+    "description": "Tooltip for the button used to exit zapper mode"
+  },
+  "pickerTipEnter": {
+    "message": "カスタムフィルターの作成",
+    "description": "Label for the menu entry to create cosmetic filters"
+  },
+  "unpickerTipEnter": {
+    "message": "カスタムフィルターの削除",
+    "description": "Label for the menu entry to delete cosmetic filters"
+  },
+  "developDropdownLabel": {
+    "message": "表示:",
+    "description": "A label of a dropdown list"
+  },
+  "developOptionFilteringModeDetails": {
+    "message": "フィルタリングの詳細",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionCustomDnrRules": {
+    "message": "独自DNRルール",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionDnrRulesOf": {
+    "message": "DNRのルール...",
+    "description": "A section header in a dropdown list"
+  },
+  "developOptionDynamicRuleset": {
+    "message": "動的ルールセット",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionSessionRuleset": {
+    "message": "セッションルールセット",
+    "description": "An option in a dropdown list"
+  },
+  "saveButton": {
+    "message": "保存",
+    "description": "Text for buttons used to save changes"
+  },
+  "revertButton": {
+    "message": "元に戻す",
+    "description": "Text for buttons used to revert changes"
+  },
+  "addButton": {
+    "message": "追加",
+    "description": "Text for buttons used to add content"
+  },
+  "importAndAppendButton": {
+    "message": "インポートと追加",
+    "description": "Text for buttons used to import and append content"
+  },
+  "exportButton": {
+    "message": "エクスポート…",
+    "description": "Text for buttons used to export content"
+  },
+  "backupButton": {
+    "message": "バックアップ…",
+    "description": "Text for buttons used to back up content"
+  },
+  "restoreButton": {
+    "message": "リストア…",
+    "description": "Text for buttons used to restore content"
+  },
+  "resetToDefaultButton": {
+    "message": "Reset to default settings…",
+    "description": "Text for buttons used to reset configurations to default"
+  },
+  "resetToDefaultConfirm": {
+    "message": "All your custom settings will be removed. Do you really want to reset to default settings?",
+    "description": "Message asking user to confirm reset to default settings"
+  },
+  "dnrRulesWarning": {
+    "message": "信頼できないソースから追加しないでください。",
+    "description": "Short description of the DNR rules editor pane"
+  },
+  "dnrRulesCountInfo": {
+    "message": "登録されたルールの数: {count}",
+    "description": "Short sentence to report the number of currently registered DNR rules"
+  },
+  "pickerSliderLabel": {
+    "message": "スライダーを動かして最適なものを選ぶ",
+    "description": "Label to describe the purpose of the slider"
+  },
+  "pickerPick": {
+    "message": "取得",
+    "description": "Text for the button to re-enter element-picking mode"
+  },
+  "pickerPreview": {
+    "message": "プレビュー",
+    "description": "Text for the button to activate preview mode"
+  },
+  "pickerCreate": {
+    "message": "作成",
+    "description": "Text for the button to create the filter"
+  },
+  "unpickerUsage": {
+    "message": "下のフィルターを選択すると、ウェブページ内の一致する要素がハイライトされます。フィルタを削除するには、ゴミ箱をクリックしてください。",
+    "description": "Summary description on how to use the tool to remove custom filters"
+  },
+  "myFiltersPageName": {
+    "message": "マイフィルター"
+  },
+  "siteRulesPageName": {
+    "message": "サイト別ルール"
+  },
+  "diagnosticsPageName": {
+    "message": "診断"
+  },
+  "advancedPageName": {
+    "message": "詳細設定"
+  },
+  "powerConsoleTitle": {
+    "message": "Power コンソール"
+  },
+  "powerConsoleDescription": {
+    "message": "従来版スタイルの操作画面で、Plus+ プロファイル、外観、サイト別ルール、インテリジェントなポップアップ判定、パフォーマンス、実行時診断を管理します。"
+  },
+  "powerSettingsLoadFailed": {
+    "message": "Power 設定を読み込めませんでした。"
+  },
+  "protectionProfilesTitle": {
+    "message": "保護プロファイル"
+  },
+  "protectionProfilesDescription": {
+    "message": "完全で元に戻せる基本設定を適用するか、以下の各項目を個別に調整できます。"
+  },
+  "protectionProfileBaseline": {
+    "message": "基本"
+  },
+  "protectionProfileBaselineDescription": {
+    "message": "基本的なネットワークフィルタリングを行います。ポップアップ保護は有効のままです。"
+  },
+  "protectionProfileBalanced": {
+    "message": "バランス"
+  },
+  "protectionProfileBalancedDescription": {
+    "message": "高度なフィルタリング、厳格なナビゲーションブロック、メモリ設定の自動選択を使用します。"
+  },
+  "protectionProfileMaximum": {
+    "message": "最大"
+  },
+  "protectionProfileMaximumDescription": {
+    "message": "完全な拡張フィルタリング、厳格なナビゲーション、バランス型のパフォーマンス予算を使用します。"
+  },
+  "protectionProfileLowMemory": {
+    "message": "省メモリ"
+  },
+  "protectionProfileLowMemoryDescription": {
+    "message": "低性能デバイス向けに、逐次コンパイルと小さなキャッシュで高度な保護を提供します。"
+  },
+  "protectionProfileApply": {
+    "message": "プロファイルを適用"
+  },
+  "protectionProfileApplying": {
+    "message": "保護プロファイルを適用しています…"
+  },
+  "protectionProfileApplied": {
+    "message": "保護プロファイルを適用しました。"
+  },
+  "protectionProfileApplyFailed": {
+    "message": "保護プロファイルを適用できませんでした。"
+  },
+  "protectionProfilePermissionDenied": {
+    "message": "このプロファイルには広範なサイトアクセスが必要ですが、許可されませんでした。"
+  },
+  "protectionProfileActive": {
+    "message": "有効：$1"
+  },
+  "protectionProfileCustomActive": {
+    "message": "有効：カスタム設定"
+  },
+  "appearanceSettingsTitle": {
+    "message": "外観とインターフェース"
+  },
+  "appearanceSettingsDescription": {
+    "message": "テーマ、アクセントカラー、情報密度、ポップアップのレイアウトを選択します。"
+  },
+  "appearanceThemeLabel": {
+    "message": "テーマ"
+  },
+  "appearanceThemeAuto": {
+    "message": "システム設定に従う"
+  },
+  "appearanceThemeLight": {
+    "message": "ライト"
+  },
+  "appearanceThemeDark": {
+    "message": "ダーク"
+  },
+  "appearanceAccentLabel": {
+    "message": "アクセントカラー"
+  },
+  "appearanceAccentCrimson": {
+    "message": "深紅"
+  },
+  "appearanceAccentBlue": {
+    "message": "青"
+  },
+  "appearanceAccentEmerald": {
+    "message": "エメラルド"
+  },
+  "appearanceAccentViolet": {
+    "message": "紫"
+  },
+  "appearanceDensityLabel": {
+    "message": "密度"
+  },
+  "appearanceDensityComfortable": {
+    "message": "ゆったり"
+  },
+  "appearanceDensityCompact": {
+    "message": "コンパクト"
+  },
+  "appearancePopupLayoutLabel": {
+    "message": "ポップアップのレイアウト"
+  },
+  "appearancePopupPower": {
+    "message": "Power（すべての操作）"
+  },
+  "appearancePopupCompact": {
+    "message": "コンパクト"
+  },
+  "appearanceSettingsSaved": {
+    "message": "インターフェース設定を保存しました。"
+  },
+  "appearanceSettingsSaveFailed": {
+    "message": "インターフェース設定を保存できませんでした。"
+  },
+  "siteRulesTitle": {
+    "message": "サイト別コントロール"
+  },
+  "siteRulesDescription": {
+    "message": "内部ストレージを編集せずに、信頼済みサイト、フィルタリングレベル、インテリジェントなポップアップポリシーを管理します。"
+  },
+  "popupPolicyManagerTitle": {
+    "message": "ポップアップポリシー規則"
+  },
+  "popupPolicyManagerDescription": {
+    "message": "スマートポップアップエンジンに完全一致ホストの例外を設定します。コンパイル済みフィルターリスト規則が優先されます。"
+  },
+  "popupPolicyHostnameLabel": {
+    "message": "ホスト名"
+  },
+  "popupPolicyHostnamePlaceholder": {
+    "message": "example.com"
+  },
+  "popupPolicyModeLabel": {
+    "message": "ポリシー"
+  },
+  "popupPolicyActionsLabel": {
+    "message": "操作"
+  },
+  "popupPolicyAdd": {
+    "message": "規則を追加"
+  },
+  "popupPolicyRemove": {
+    "message": "削除"
+  },
+  "popupPolicyEmpty": {
+    "message": "サイト別ポップアップ規則はありません。"
+  },
+  "popupPolicySaved": {
+    "message": "ポップアップポリシーを保存しました。"
+  },
+  "popupPolicyRemoved": {
+    "message": "ポップアップポリシーを削除しました。"
+  },
+  "popupPolicySaveFailed": {
+    "message": "ポップアップポリシーを保存できませんでした。"
+  },
+  "popupPolicyInvalidHostname": {
+    "message": "example.com のような有効なホスト名を入力してください。"
+  },
+  "filteringSiteRulesTitle": {
+    "message": "サイト別のフィルタリングレベル"
+  },
+  "filteringSiteRulesDescription": {
+    "message": "1 行に 1 つのホスト名を入力します。「フィルタリングなし」は信頼済みサイトの一覧です。1 つのホスト名を複数のレベルに指定することはできません。"
+  },
+  "saveSiteRules": {
+    "message": "サイト別ルールを保存"
+  },
+  "siteRulesSaved": {
+    "message": "サイト別ルールを保存しました。"
+  },
+  "siteRulesInvalid": {
+    "message": "サイト別ルールに無効または重複したホスト名があります。"
+  },
+  "siteRulesLoadFailed": {
+    "message": "サイト別ルールを読み込めませんでした。"
+  },
+  "diagnosticsTitle": {
+    "message": "実行時診断"
+  },
+  "diagnosticsDescription": {
+    "message": "実際の MV3 エンジン、ブラウザー機能、クォータ上限、メモリ予算、最近のポップアップ判定を確認します。"
+  },
+  "diagnosticsRefresh": {
+    "message": "診断を更新"
+  },
+  "diagnosticsLoadFailed": {
+    "message": "実行時診断を読み込めませんでした。"
+  },
+  "runtimeCapabilitiesTitle": {
+    "message": "実行時機能"
+  },
+  "diagnosticsNetworkEngine": {
+    "message": "ネットワークエンジン"
+  },
+  "diagnosticsInstallType": {
+    "message": "インストールの種類"
+  },
+  "diagnosticsPopupObservation": {
+    "message": "インテリジェントなポップアップ監視"
+  },
+  "diagnosticsUserScripts": {
+    "message": "ユーザースクリプトフィルター"
+  },
+  "diagnosticsOffscreenCompiler": {
+    "message": "オフスクリーンコンパイラー"
+  },
+  "diagnosticsStaticRules": {
+    "message": "利用可能な静的ルール"
+  },
+  "diagnosticsDynamicRules": {
+    "message": "動的ルールの上限"
+  },
+  "diagnosticsSessionRules": {
+    "message": "セッションルールの上限"
+  },
+  "diagnosticsRegexRules": {
+    "message": "正規表現ルールの上限"
+  },
+  "diagnosticsAvailable": {
+    "message": "利用可能"
+  },
+  "diagnosticsUnavailable": {
+    "message": "利用不可"
+  },
+  "performanceDetailsTitle": {
+    "message": "有効なパフォーマンス予算"
+  },
+  "performanceSelectedProfile": {
+    "message": "選択したプロファイル"
+  },
+  "performanceEffectiveProfile": {
+    "message": "有効なプロファイル"
+  },
+  "performanceDeviceMemory": {
+    "message": "検出されたデバイスメモリ"
+  },
+  "performanceCompileConcurrency": {
+    "message": "インポート時の同時コンパイル数"
+  },
+  "performanceCacheEntries": {
+    "message": "CSS キャッシュのエントリ数"
+  },
+  "performanceCacheHighWatermark": {
+    "message": "CSS キャッシュの上限値"
+  },
+  "performancePruneInterval": {
+    "message": "キャッシュ整理の間隔"
+  },
+  "performanceMinutes": {
+    "message": "$1 分"
+  },
+  "performanceRetainMetadata": {
+    "message": "スクリプトメタデータを保持"
+  },
+  "popupDiagnosticsTitle": {
+    "message": "最近のポップアップ判定"
+  },
+  "popupDiagnosticsDescription": {
+    "message": "上限付きのローカル専用判定ログです。URL、パス、クエリ、認証情報は保持しません。"
+  },
+  "popupDiagnosticsClear": {
+    "message": "履歴を消去"
+  },
+  "popupDiagnosticsCleared": {
+    "message": "判定履歴を消去しました。"
+  },
+  "popupDiagnosticsClearFailed": {
+    "message": "判定履歴を消去できませんでした。"
+  },
+  "popupDiagnosticsEmpty": {
+    "message": "このブラウザーセッションには判定履歴がありません。"
+  },
+  "diagnosticTime": {
+    "message": "時刻"
+  },
+  "diagnosticAction": {
+    "message": "操作"
+  },
+  "diagnosticSource": {
+    "message": "発生元"
+  },
+  "diagnosticTarget": {
+    "message": "対象"
+  },
+  "diagnosticReason": {
+    "message": "理由"
+  },
+  "popupUnavailable": {
+    "message": "このページでは保護を利用できません"
+  },
+  "popupCapabilityUnavailable": {
+    "message": "利用できません"
+  },
+  "popupLoadFailed": {
+    "message": "保護設定を読み込めませんでした。もう一度お試しください。"
+  },
+  "popupParentScope": {
+    "message": "このサイトには親サイトのルールが適用されています。先に「サイト別ルール」で親サイトのルールを変更してください。"
+  },
+  "popupActionFailed": {
+    "message": "この変更を保存できませんでした。もう一度お試しください。"
+  },
+  "popupToolFailed": {
+    "message": "現在のページでこのツールを開けませんでした。"
+  },
+  "popupPermissionDenied": {
+    "message": "サイトへのアクセスが許可されませんでした。保護設定は維持されました。"
+  },
+  "popupPermissionFailed": {
+    "message": "このサイトへのアクセス権限を要求できませんでした。"
+  },
+  "popupReloadFailed": {
+    "message": "このページを再読み込みできませんでした。"
+  },
+  "popupRetry": {
+    "message": "再試行"
+  },
+  "popupMore": {
+    "message": "もっと見る"
+  },
+  "popupLess": {
+    "message": "表示を減らす"
+  },
+  "popupPowerEdition": {
+    "message": "Power エディション"
+  },
+  "popupPowerToggle": {
+    "message": "このサイトの保護を切り替え"
+  },
+  "popupReloadPage": {
+    "message": "このページを再読み込み"
+  },
+  "popupProtectionOn": {
+    "message": "保護はオンです"
+  },
+  "popupProtectionOff": {
+    "message": "保護はオフです"
+  },
+  "popupCapabilitySummary": {
+    "message": "保護機能の概要"
+  },
+  "popupCapabilityNetwork": {
+    "message": "ネットワークフィルタリング"
+  },
+  "popupCapabilityExtended": {
+    "message": "拡張フィルタリング"
+  },
+  "popupCapabilityPopups": {
+    "message": "スマートポップアップ"
+  },
+  "popupCapabilityLists": {
+    "message": "有効なリスト"
+  },
+  "popupCapabilityActive": {
+    "message": "有効"
+  },
+  "popupCapabilityInactive": {
+    "message": "無効"
+  },
+  "popupSiteControls": {
+    "message": "サイト制御"
+  },
+  "popupQuickTools": {
+    "message": "クイックツール"
+  },
+  "popupMatchedRules": {
+    "message": "最近一致した規則"
+  },
+  "popupRecentBlocks": {
+    "message": "このサイトで最近ブロックしたポップアップ: $1 件"
+  }
+}

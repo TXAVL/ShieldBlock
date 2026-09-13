@@ -1,0 +1,53 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "2k19.nl",
+        "go2.go2cloud.org"
+      ]
+    },
+    "_sourceKeys": [
+      "4dcc816e4ed8cfe57ca81596aeff4b12eaf470a5f63f60e3e6656e49b32e7115",
+      "56aa299c8ba2701cb7a567d7851ac38f495f8ec6ab546e9541199a36a0c79f0a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "2k19.nl",
+        "keys": [
+          "4dcc816e4ed8cfe57ca81596aeff4b12eaf470a5f63f60e3e6656e49b32e7115"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "go2.go2cloud.org",
+        "keys": [
+          "56aa299c8ba2701cb7a567d7851ac38f495f8ec6ab546e9541199a36a0c79f0a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adserver.hollandcasino.nl"
+      ],
+      "initiatorDomains": [
+        "onlinecasinoground.nl"
+      ]
+    },
+    "_sourceKeys": [
+      "1b5436b7c69c2f5aab3c8a3deda6297b221b164d756ed43a2066250eecdc08f9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 492
+  }
+]

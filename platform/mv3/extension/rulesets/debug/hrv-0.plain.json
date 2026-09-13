@@ -1,0 +1,1406 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||glasistre.hr/sliderbanner^"
+    },
+    "_sourceKeys": [
+      "10f69e888ec089a08c7f41c5234394e24ffb6d1e6f6623e19acaaa8aae6788de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcpress.rs/video/vesimpex/vesimpex.mp4^"
+    },
+    "_sourceKeys": [
+      "70c04afebe63db64cb72473fa9e6c9cc95ce6ab77fdfe612af1b0527b0b30303"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||saznajnovo.com/*-baner.jpg^"
+    },
+    "_sourceKeys": [
+      "45b71452d31327425501434620c36cd9f58bbaf2830739e1849f5110f399c7f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||html-load.com/loader.min.js^",
+      "initiatorDomains": [
+        "gloria.hr"
+      ]
+    },
+    "_sourceKeys": [
+      "b32afa9ceed21e2629268cacf2c8a3b609c8795e81c4e002546775e3c287294b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||opcinakupres.ba/images/stories/gsshbz.png^"
+    },
+    "_sourceKeys": [
+      "f805a71578edd13db03e6b3fc4bcbe774bf658c8e1e427fb22e514dcf04459ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||paragraf.rs/img/*-float-baner.png^"
+    },
+    "_sourceKeys": [
+      "690aa02eb813a799f4e807d095e8a8b948fc91f80012efa41f6d1b4d211ca457"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||barinfo.me/wp-content/uploads/*/*banner-*.gif^"
+    },
+    "_sourceKeys": [
+      "0e22f6db4fc445ff87e25f41c6f529adf35a11868c25ca49dbaa126306402bf0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||bokanews.me/wp-content/uploads/*.336x280-*.gif^"
+    },
+    "_sourceKeys": [
+      "8f97acb22090bec2a039d18ab707865859c581f87f44d789451f81e4b42f9d17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||onogost.me/wp-content/uploads/*-baner*.png.webp^"
+    },
+    "_sourceKeys": [
+      "05f0969b4aa542d4756130334ef160dfe280c8271525f573564a64c015b45ae0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||onogost.me/wp-content/uploads/*.gif^"
+    },
+    "_sourceKeys": [
+      "9f327b3584a681ab943b2ec22e7cc8536dab1260f7cfe4c7e9113ce073754648"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||rtnk.me/files/documents/*cedis*.gif^"
+    },
+    "_sourceKeys": [
+      "c59f20eaf0c40d40963c07b81929ed70a69bd988d8c6b90c862289b1e02922af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||sk.rs/slike/baneri^"
+    },
+    "_sourceKeys": [
+      "5fa3751a8e4bc4f14e3ad13153fdea099e4af3a0bfecd916546e34060bb5cf38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||info-ks.net/assets/img/banners^"
+    },
+    "_sourceKeys": [
+      "99b4aa0d93537f07c675d9f9405ede48fc4d8487ea903c8809911c7df3acef9a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||5portal.hr/portal/source/0*.gif^"
+    },
+    "_sourceKeys": [
+      "d7900b31104508f5659a362a9f9fe9cf2706692a2d52af6f57e4c4787febab83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||gminfo.rs/wp-content/uploads/202*.gif^"
+    },
+    "_sourceKeys": [
+      "ce74408be1577c433cad80bae836d8b7aa563d187f6f7dc8ae4a883c22cd1d81"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*.gif^"
+    },
+    "_sourceKeys": [
+      "4516984549d6663634672e61b3bd3f9637d189dd788751e94b8346340f51a7b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*/cerovka.jpg^"
+    },
+    "_sourceKeys": [
+      "1d4852c2907b75fc2226df8b7d7d51ad0db55e07e43d076c8f2cd3167d4afba8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||dalmatinskiportal.hr/*/baneri/"
+    },
+    "_sourceKeys": [
+      "92b9d7e9314c7ad00e892425d0f8b3e408068f06a5db0fd818045cf347389e15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.tportal.hr/dt/native^"
+    },
+    "_sourceKeys": [
+      "33b95dc7db5555b4dc49bf5c58923686ed86ba95f7994e9b992484fd63f55eb2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "/avala-press/"
+    },
+    "_sourceKeys": [
+      "bd4db2d22af9c9f56aacad6f7167edddf26e6581bb27cb7816bc17df7d67c713"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "/ad-space-right.html^"
+    },
+    "_sourceKeys": [
+      "59036015c1654318a71242eb2bfda659dbd57e9169297429f46402cdf39d4709"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "/bannerright/"
+    },
+    "_sourceKeys": [
+      "17bfc8b3ab1c8ad1381c55641d5420942b98497441b7828cd55a7cb80d085db0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "/microbanner^"
+    },
+    "_sourceKeys": [
+      "9620fc8848fe07ca3edbc98a2a48daf9569b60f58a61ab84eb495163e7481b2f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||ba/images/banners^",
+      "excludedInitiatorDomains": [
+        "edu.ba"
+      ]
+    },
+    "_sourceKeys": [
+      "df243cd28a1d1bc7f07b35e06122d6dcffaa28613797d45871fae860599d9465"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||rs/images/banners^",
+      "excludedInitiatorDomains": [
+        "edu.rs"
+      ]
+    },
+    "_sourceKeys": [
+      "e3a2949ea58b5c2cb4219227d008a7e757d7a35f12b5dbaf576c86b35a6df8b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||hr/content/banner^"
+    },
+    "_sourceKeys": [
+      "2b89deaa4fd8654c0745f03fe2ad280185ffe51c5a4663eed1fb1aae78f3066e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||hr/portal/banner?"
+    },
+    "_sourceKeys": [
+      "a51ada100776519323b188dbeb6f0c5141699490860561ac3044e52d4ba4a392"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||hr/wp-content/uploads/202*/banner-*.gif^"
+    },
+    "_sourceKeys": [
+      "cca070919bf8460aa892e6e81f6e49017e7483feb15285d4083bcd36312a4bcc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||global.divhunt.com/bd0d40310d194e9625e9ee6bf8ae2a7c_49534.jpeg^"
+    },
+    "_sourceKeys": [
+      "81d3d199bdc2681e937de0cfd512d6e3eda630d711608c25ec6cf73789b5c253"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/wp-content/uploads/20*-banner-300x2-1.jpg^"
+    },
+    "_sourceKeys": [
+      "6c67bbcec8e80f51f3d45ca545554668428564254d5f1ff96783330724b5674c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||net.hr/wp-content/uploads/izolirka-travanj-katalg-*.webp^"
+    },
+    "_sourceKeys": [
+      "3639f09d54ea352c43ffe2dc2c712c0b58eafdf5ddf299fbce4b29fb5409de7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": ".hr/scripts/carousel-ad.js^"
+    },
+    "_sourceKeys": [
+      "c82652d5f8964949fc7ea9c2063a2168668bfac740422a2bf8daaa21a2994571"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": ".hr/api/ad-config^"
+    },
+    "_sourceKeys": [
+      "d184f0a37028f48c78925e8fac98421b01cf28b684ddcc564d0df2158c08bb6f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "/_app/immutable/assets/topbanner."
+    },
+    "_sourceKeys": [
+      "4664df0ab073c5e785a0886bf29fd08670e695f55d27110377464c57149c50af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||adriamediacontent.com/js/pubjelly/main/pubjelly.js"
+    },
+    "_sourceKeys": [
+      "58c3cd4417fd69cffaed43fd02bf9a4705316393503d8f67728fcebd50d5113e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||bug.hr/ads/"
+    },
+    "_sourceKeys": [
+      "3fafbe200d18850e7badcf65dd4748a283effeef901168723a5b2e697e84c2da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "contentexchange.me"
+      ],
+      "initiatorDomains": [
+        "nova.rs"
+      ]
+    },
+    "_sourceKeys": [
+      "0bf70b57d3d40f2115a10fd4ea7e17bd2051eb18690508b574cad0e11bce3f70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||ocdn.eu/mis/wrapper/nin.rs/*/ads.js"
+    },
+    "_sourceKeys": [
+      "88d64cc3022bb633055dc97c42a0ad13098511772179ca0583fc4d19e70d60d3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "linker.hr",
+        "widgets.jutarnji.hr",
+        "widget.admiral.hr",
+        "traffic.styria.hr",
+        "redakcija.alo.rs",
+        "klik-slider.morgancode.com",
+        "eph-adsjutarnji.cdn.sysbee.net",
+        "swcs.24sata.rocks",
+        "lupon.media",
+        "a.mabipa.com",
+        "widget.halooglasi.com",
+        "unselfishugh.com",
+        "btloader.com",
+        "widget.marktjagd.de"
+      ]
+    },
+    "_sourceKeys": [
+      "9183d5195a7d702a64b35a64d5f179815d0635377aec2b26a60e39bebb5bfce2",
+      "42cfc42da4ebd9b4b77376dd24769547e1185f01e2b4f1f936990ef7f5f70bf2",
+      "b07313149cbfd79a3b10737a288908e5b7f2c0e7c8818850a28ed9208fc08001",
+      "f99ba8e05259fb23628b061d54063fce9bea5c740dc1b88246f96f5142f00f43",
+      "45dc9a1fcc085fc92d256a1653115af3a622f805823660b0a7464db9e6c2ba86",
+      "d3194afb390e2237db06c1318291c8114182f394f39f513a2514ae675f487078",
+      "96aa5006053f6d4a9581ce191fbc3b857ce37248b804e9d69cf9239c123e7408",
+      "73e619440c588f81c88d16e00358f61487892f128a591d151403c41827c4c89b",
+      "f9cf0a5752fd7e44f6f3bbed1d7d51f50d9d6b0dc1c3be1d0c25c6e43503ad95",
+      "f084d65ffbdd45176516b840a00fb1a66ccaa8ee2f1f69b112e25f121104e06d",
+      "11f9ab05c496b387b43234ba8fe696bfff08941e09ac721325265b72381f206e",
+      "c2252818092557c6dc5fe658ed53355bd33d1a0287f3d4b39fd5561eb3c3b8b3",
+      "ec03d5b62c9a831843483c190b3b59e13f36db5a214f3dff289b10ddf389bf61",
+      "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "linker.hr",
+        "keys": [
+          "9183d5195a7d702a64b35a64d5f179815d0635377aec2b26a60e39bebb5bfce2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.jutarnji.hr",
+        "keys": [
+          "42cfc42da4ebd9b4b77376dd24769547e1185f01e2b4f1f936990ef7f5f70bf2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.admiral.hr",
+        "keys": [
+          "b07313149cbfd79a3b10737a288908e5b7f2c0e7c8818850a28ed9208fc08001"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "traffic.styria.hr",
+        "keys": [
+          "f99ba8e05259fb23628b061d54063fce9bea5c740dc1b88246f96f5142f00f43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "redakcija.alo.rs",
+        "keys": [
+          "45dc9a1fcc085fc92d256a1653115af3a622f805823660b0a7464db9e6c2ba86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klik-slider.morgancode.com",
+        "keys": [
+          "d3194afb390e2237db06c1318291c8114182f394f39f513a2514ae675f487078"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eph-adsjutarnji.cdn.sysbee.net",
+        "keys": [
+          "96aa5006053f6d4a9581ce191fbc3b857ce37248b804e9d69cf9239c123e7408"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "swcs.24sata.rocks",
+        "keys": [
+          "73e619440c588f81c88d16e00358f61487892f128a591d151403c41827c4c89b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lupon.media",
+        "keys": [
+          "f9cf0a5752fd7e44f6f3bbed1d7d51f50d9d6b0dc1c3be1d0c25c6e43503ad95"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.mabipa.com",
+        "keys": [
+          "f084d65ffbdd45176516b840a00fb1a66ccaa8ee2f1f69b112e25f121104e06d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.halooglasi.com",
+        "keys": [
+          "11f9ab05c496b387b43234ba8fe696bfff08941e09ac721325265b72381f206e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unselfishugh.com",
+        "keys": [
+          "c2252818092557c6dc5fe658ed53355bd33d1a0287f3d4b39fd5561eb3c3b8b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "btloader.com",
+        "keys": [
+          "ec03d5b62c9a831843483c190b3b59e13f36db5a214f3dff289b10ddf389bf61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.marktjagd.de",
+        "keys": [
+          "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||farmer.ba/files/banners^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "81e93b3c8fde1abe188d76aabe4ef70e9ee0f6c687f36483fbc2157c5d9194dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||nap.ba/storage/userfiles/images/slike",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c49f6724c08a470185f2a756334e7b674550dbb3523260feb54156e93abfbcc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||navidiku.rs/banerslike^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6870c9646c9f3dad12ecaf4e31cdb90011ef487a342e5d0da8610a3c86f030a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||oglasi.rs/serve^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e7e9fd1c092af516d4c1c5adfb3d9acfb4be2a346e9a411e9706f184a989633d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcpress.rs/pcincludes^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "dc1e3a22b184ae0aeb216e0103717c9c7a34e68316b1def68ef3b5e005c56957"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcpress.rs/wp-content/baner^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9e63283fbea85f60a248a126fe101054ae82d1ba4801d2fa2e4d6b472a05b6ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||krajina.ba/wp-content/uploads/*/baner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3d310426fcceb7d7d536d48f11d6fd5d7e12557574c722c84930a7bbde1f32b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||opcinakupres.ba/images/stories/logo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "17149f991234ef6720804d276c4134f5465a955fc1a12b3064a321919d2d4b07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||dalmacijadanas.hr/wp-content/banners^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "74c6479ac6d07771b12bc6416667ec34508b48cacc05c5997159655414ce17dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||naxi.rs/media/*-naxi-2010x1000-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "55066ec95bec5b0644ce4238013a03b19d92c74a7283f2744ec3eb11167b41de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.tangosix.rs/*/banner.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5fd40f63772f37f2140e0885cef0d9bc50e98527d5c099c5ff98dc0ad83259e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||infovranjske.rs/ads^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "71ce9aa1945757ba17e99345c6c52787746b574b34b261eb87166b2c7e47e6bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||arhivanalitika.hr/*/uploads/*/icam_*x",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2800188d374f4b8e94a3e56ff4ccf2198ca4a8edc6f502fa07b2946035f99a14"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||arhivanalitika.hr/*/uploads/*/bon.hr-*x",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a9d972f3ece875f893fb03240e38569d02563e39b832707e2cc0f661b271a15c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||5portal.hr/portal/source/0*_banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3f5ae6c41c1928c35c44f8b65ae6fc93ad9a70d42734494aeac88e92764c7974"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||5portal.hr/portal/source/svibanj",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9757ea44ed9bdf225deea371860cbcffbbd19e948bf1e9c87f57303bf731bfb8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||bug.ba/banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f41e304aaa81071016427674180a30a8bcd420455ea8b65e1a1c84acdcadfc49"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||gminfo.rs/wp-content/uploads/20*-baner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b1ba8388bc8407b9e687a0a3bb332f28e055bf1b1dc56b5f04dae2c4f9c449e1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||gminfo.rs/wp-content/uploads/20*-oglas-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "833d847e5c15d6f9d21b643b5a0f8c3c1aba9ab23e672fba828f784b1d14de1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoliga.rs/wp-content/uploads/20*-banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "13222779d7d4e5b606a80731e29c93a473210a4a94f8f2ad2a2ee25f635e91db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoliga.rs/wp-content/uploads/20*baner3",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a11960ebe3d0637a06131de0a3676a4a081d80b9f48194e01370515f78d6af0d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoliga.rs/wp-content/uploads/202*-cropped-cropped-cropped-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "931d8cdb03f30f2eef6fc82ee1628de35086bcafef087ec3403ed95dea66f5e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||pozeski.hr/wp-content/uploads/202*-1200x300-*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1ff7f6a67fda409887250071c88f8f81e6723340c0c800fa20809a064df5c970"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||pozeski.hr/wp-content/uploads/202*_1200x300-*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "31ef1e936fdc0cdd91878bed07e4e2b2a5f70097212d2c5c826dd26ef2c6aaeb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*-banner-*web",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d96fed5db7e349bf9748805d6658980092c2799d7605bc4ebabee8866e896116"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*/banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ea3bdad587fbb665c0b93868c35e6777bb006783953c5278ed4ed4736ca9510d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*/spin-prig",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "66b442cd5353672cefd21200c09d002fe4b22fc549b136284663614f5d638d9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||prigorski.hr/wp-content/uploads/202*1010x140",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4e49afb518c4b8688ec12e3f4e92bbe5f9947b1b55ad6f3659c9b20dd7b00dff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "&code=banner468x60|",
+      "initiatorDomains": [
+        "uns.org.rs"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7e6fdb9bdc65dd92afa6d2af73769242114dac401ab47c102ee4d50ca9d26b13"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "&code=banner360x1080|",
+      "initiatorDomains": [
+        "uns.org.rs"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e33bd544fd4cd4f7be21544a94dd708ea8e956a55fbd8f30eebac5522a935767"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||015.xn--90a3ac/*/oglas-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "450b1798664056315ca3c260a9cb2c6ebf6eb84035937fdd59ff5635bf5f3aa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "/image/baneri^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1d6fbe5a5e762e405b3ba1b1d5b1d7715ca9249414ef1db0251f938255301ff8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hr"
+      ],
+      "urlFilter": "||cloudfront.net/wp-content/uploads/20*/300-x-600-px-1.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cfacea7352505370139c86446dca181531f0583b85e473ece18187e61632684f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": ".hr/images/banners^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f0984c4a2ba47e66be17e5b6462d097a7149bee545124c60c1a6f76c65e68809"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||sultanovic.info/?*%",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bef4adae67963261916006c81e8680163deeb8cd46050b3d933205a70fafaf52"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betwidget.admiralbet.rs"
+      ],
+      "initiatorDomains": [
+        "sportske.net"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a1b478f9abd7fa7eec98b3864fbd32a1f32d122d0b4cfc603be102fdfe13c90a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||rooar.eu/oglas.php^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "2cda0aae5a1a63315c47ec55b097f91773da606e78297ed64f932e9fa654b5f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "/scripts/admiral_widget.min.js^",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "0786c6cb242db6eaf6b9193fd70c6ba27a14099f223548aa656cbd78ccaa3178"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "avalaads.com",
+        "native.tportal.hr",
+        "cxpublic.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "831de067d2dea3190774c0be1cddb4482aa83788a78e5fc5dfe9c387a8283c75",
+      "deb0573c06ba2717c436a209ed472f139f245a00017a2ad260404a042987b949",
+      "c2063fb197cb82c5121a0f137efcbafe3acae4e4d801b407db665723385327a9"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "avalaads.com",
+        "keys": [
+          "831de067d2dea3190774c0be1cddb4482aa83788a78e5fc5dfe9c387a8283c75"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "native.tportal.hr",
+        "keys": [
+          "deb0573c06ba2717c436a209ed472f139f245a00017a2ad260404a042987b949"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cxpublic.com",
+        "keys": [
+          "c2063fb197cb82c5121a0f137efcbafe3acae4e4d801b407db665723385327a9"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "|https://html-load.com^",
+      "initiatorDomains": [
+        "slobodnadalmacija.hr",
+        "tportal.hr"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d7fdcf0d53c9f5e39f96519baf4fc3d420056f62d7374aa45ad3a79dca64f665"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "index.hr"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z]{3,}\\.[a-z]{7,}\\.com\\/[a-z]{6,}\\/[a-f0-9]{8}\\.js$",
+      "isUrlFilterCaseSensitive": true,
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1c0c49ccc25f3444d4485f3f6543019388c68ae9a3dfa34b2aa307891b0e73f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ba",
+        "rs"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z0-9]{4,10}\\.tech\\/c\\/(?:[-a-z0-9]+\\.){1,3}js$",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f6eae5a8dc64ade629bf63a23b1f8c9048bbec2f4fd98b9e9db26e6d90c6a975"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||vidverto.io/*/invocation."
+    },
+    "_sourceKeys": [
+      "6a830edbf5afe27e0a194c2bbd47dbb277735657f185b74123e9e20adc25bf3c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.api.24ur.si/adserver/adblock.",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "6e99ad4f890bc3d99dea1408e86bc2445111feae059eefe2b31754b4d058a6e7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 83
+  }
+]

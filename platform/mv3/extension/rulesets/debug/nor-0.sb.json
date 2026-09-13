@@ -1,0 +1,4795 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "umbrodk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e80803c6cf8cf851da2077b7ae3fa29cf0542b46e691fa6dcdc38196fd5fd356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oofosnorgeoutlet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e66589b60a57aee97d2f188f4c300c482b3c891a45d4e4c186609071a3662d25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "clarks-dk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e9e386ab0fec4ca51d269fbf65339aeeea1d765c8513953feca30d678670a122"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hokaonenorge.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7a6582fe932aabf5438995eb87fb10080f6f3305b18b11a071289e0bce6a9c26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hunter-danmark.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7b0a14adba2c05108823a4f29d3ab67f35d0a67d210244792bebf034b43d1641"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "idportal.vercel.app"
+      ]
+    },
+    "_sourceKeys": [
+      "9dee7dedb015984f4a937de378bcbb1285b8b44739558067e8c40f40193d8318"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlssneykonto.com"
+      ]
+    },
+    "_sourceKeys": [
+      "74a4c6c024ba4eec0ebd302a882f840c6847b30240c0ee8e9646588ff1da895c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "infos-sundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "3a7c01a8ea04ee6bbefb0172ab27152c6ce98f0217f406c85017d7c6f9ceed15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sporpakke-dk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "5085122f10353cd0a1bd511d44d386944a8785e6b067a90e5a557f5a17fd63a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infos.com"
+      ]
+    },
+    "_sourceKeys": [
+      "4498e0c77246f12ddd60f2e9f49a860338b8aad24983153682b30c0a6c2560de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-skort.com"
+      ]
+    },
+    "_sourceKeys": [
+      "6b54aad97038d775ed52ae4a03c8e9473ab3099ada84e1ad1add2046d11b75f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dk-fornysundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7ac992f922841ee0239c3d6e71a204d441e41ad74b182912b6c2bccf09c33069"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dksundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "99f99bdad80ad497616496a4bb958c052f48511a0f1457f1b2f44d624943f59a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infodk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "5d19032ebe02eaf28b9482ee4f88dfaa2953e7ca4684def4ec5c273d9d0b1043"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.86"
+      ]
+    },
+    "_sourceKeys": [
+      "07cc82c8a91971c0dc9d8ab3a0578494e851f06c479a5b827e16f54412118141"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.87"
+      ]
+    },
+    "_sourceKeys": [
+      "abb4e3e691f70e40d608790b24f9e2d1bae3155de598014a3608ceed85fd4f9c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.88"
+      ]
+    },
+    "_sourceKeys": [
+      "20c23803e8ada48867c5f4fe613fd62345e47da955dbe7308e2da05e6557b9a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.90"
+      ]
+    },
+    "_sourceKeys": [
+      "9b21d3ff4b124538f652f5638d62051058cfe7e1f144e0013999ff041f0ba782"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "223.29.226.200"
+      ]
+    },
+    "_sourceKeys": [
+      "2fc7c219d1ad29258f0deae62c8b7bca7ed82308c901b2c6f9dad41622782751"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adext.inkclub.com",
+        "banner.3loops.com",
+        "bilborsen.webannonse.no",
+        "svindel.info",
+        "lib.idg.no",
+        "drbrand.herokuapp.com",
+        "fr135.net",
+        "static-dscn.net",
+        "gtm.findroommate.dk",
+        "www-presse-fotos-dk.filesusr.com",
+        "65.21.200.49",
+        "elderlyscissors.com",
+        "marked.no",
+        "y6.no",
+        "havfruen4220.dk",
+        "gogle.net",
+        "eccolabgroup.com",
+        "galerijajava.ba",
+        "p-stn.net",
+        "s.free.fr",
+        "trmff.wpengine.com",
+        "ozarkvillage.net",
+        "a2ics.eu",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "be-sms.com",
+        "connection-info.com",
+        "disneyplus-tv.com",
+        "earnifi-claiming.com",
+        "flix-area.com",
+        "flix-request.com",
+        "lnfoskonto.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "ntfx-acc.com",
+        "payement-renew.me",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "85.159.213.158",
+        "nestnose.com",
+        "inquisitivebed.info",
+        "wirexapp.africa.com",
+        "tachyoniums.eu.com",
+        "healtheweb.co.uk",
+        "195.242.152.122",
+        "statautos.com",
+        "212.224.107.120",
+        "158.94.209.89",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.vip",
+        "dao-asi.vip",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "daoteams.com",
+        "daoxo.bond",
+        "pakke.click",
+        "postuin.bond",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "196.251.85.197",
+        "nono.qpon",
+        "tnord.qpon",
+        "desidert.no",
+        "storustovu.dk",
+        "hagebakken.no",
+        "mdb.nu",
+        "idj.no",
+        "trafikkskoleapp.no"
+      ]
+    },
+    "_sourceKeys": [
+      "53b85ed049864e9e7b62e89c519199aeea4630a4558ebd5625774a38b3ccd31e",
+      "17e24e445e365a71e832b8efcc8d975c61fb83dedf317e8fd7d8d6a8f7560774",
+      "32a5d1d0afc6e7b651f06092a9149f74a27130e5ab9cc325d284fae69e82f915",
+      "461e964ee2a2ebd12b016e6dbbfcf0b1bfdd9251aff4fc8630512dcdeeae1356",
+      "d3b0538007328428bbb1e602067fc2a3d59c2b0e95355ed4685677b478a8d90f",
+      "2fd1d095160be2df39cc51293cf113d1e021969130b74fa66508b158383dd582",
+      "01e959f63057617652de5e41da1db4bd7ce9a630cc201827c94e1c7c0db28a13",
+      "688160eeb51eae0cc0be7cdfd23ecfe63ee8c09f2004c87d601a1f585a0537d0",
+      "118b328687ba966d398d622ae005ea7dd62508c5b1443da69c1d2819b5208731",
+      "efaf27f9b6fb0817eea8b3421c7b40035c1439acec03c2fd4a17e2af809a34e9",
+      "ba22a4bf2eeac01b116d99038098f20332ef749c83808e2f9468bd895f33587b",
+      "c6fc49413c6598669b5bfe77a675476efc0aa04b377d839df67198a445144201",
+      "b03e9ab0ed535b2444031c552eefe23027c6a6a05de5abe72c1159eb12ba7771",
+      "6b87c3dd83db479beef10405f735191da3eaaab323ed9765fa8ffbbbc103649c",
+      "98780158b19eb033198a906b2f8b9858b069c877c8ec6ab2d062829752ac65f7",
+      "e5dc5f4d6c436b2e230f6bba74908462cb9a1c5c6230ea011cdacad6bd2edc07",
+      "9ae316192321587bfcc3d9dc76777b739c705c633a8ec1487fdeb5a8cca22d10",
+      "eba3e6c91f927d7158dbded11af11668d9be62886ee8085d78b33b81882a190b",
+      "810685184217386d621396c05c5957a8569621e449e6d4f6764b3f449c09ff2b",
+      "098e671dd4f29ab9bb031086c51200e1f46ad74c1bf0733e20f98ea736642ea2",
+      "3996467aded670412688a3faecd364e25004738a2589f4dd1f9ba6200a9e78dc",
+      "f298dcc2f4b8b78625534303c11c6528a154f3576920bad437f370d73f078488",
+      "d653886cb10cfd6205180f4cae5732e341a26db1457002f468574a273d13a7ea",
+      "e89be083c36cfa46208984dcfc8f356c1826c26d3189c5fc101b49df629192ce",
+      "fd165de0db82032743ea58b8df1c682ef9e0c8bcb24f280abba77e58d162090f",
+      "2e753151388add5d57b5eb13861ca10f239d803da64cc14e715b9cd3e520482c",
+      "bc07f5dcdda82a2df5e19b0cff6a00a021f57575841a7b14d798d8a7162051d8",
+      "d83e958c20e4692ea37938452e9cd4a8165a876c3f0c412a6f253c3104986f97",
+      "9124011c0cc815bf60090d538830a5a9df0dfe6e5fce4c5ea96d635bed8e78e2",
+      "01e2dee0447fde0a8ad8ddf6b9a813e4863bc5d5bfe38c61dff6ef503470ccbb",
+      "77279bf346bd7f7b5d7ba685ea4165d852770c56bb037a3e80b459b90ec35559",
+      "d0503d9b24af28d6c8476615b112db7f2a803252122c05aee6d62f1188bbf6eb",
+      "65cee09f1e0fc53c5086ca0c4f537db2d8fe15f8fe67dbd8611eba17cabae6f9",
+      "b9222aa5407f5343c1185bf18ca03656f53a835e1a9cca0600dcd7d4a35f9f63",
+      "81b26b2e291270ac1d33c2a0eb1dfa504f3601047fd124781bc4405028d66d86",
+      "c0dd8c052460efa7eabf81d300051eed8a1823f3021bad49b306d3c6faa3dc08",
+      "34901a916a319d38c10b516d2e7ebfe4d54cf4d07d12abedcb1750bb9505bb4a",
+      "129f479055f21b0de410439562a58ce50407995b06762ee79d555b318be1dad0",
+      "a4769aa376ad32c32c7759a2161de1897eae0bcd001d211f05e6fda2088950be",
+      "7f13a426d14b75758a5460b007fe3418bd8e187b1d7dff801b898e3369b91bc2",
+      "c8a8d385333de736217cb88e2e4034cc437857512f402060b8d4c3d7d98e8132",
+      "067afacce89045ce946c76a6db4498c1e7d3f83c04604be241d2349e70a445d6",
+      "7e8f4af0555d17ea5ef147e55cfaba8fc349c2c2b05833e713c202d4f48c03ae",
+      "206e2a43aa8ba593f134ba6302ea1f556461f227c0c4d5afe68a44fa5c35707a",
+      "d72b40f7945e7d5d0be156f63895e2902af55030e653c844a4c09b651fff3cde",
+      "11e87c9c6eaedba5a9a2d0606431750cab29cdaae5268a31666bbf5c02c55974",
+      "bddb53d16f89433c29521e6b07bb1045434bb850a9cd896168a6a812b458f61c",
+      "a498eeefd30839ce2973dd954367079e12354667bb16e193445ab7b25498d5aa",
+      "083d04ae2276cff06ca280eaffb971f419793db565b6c48267cb7bf65b903f92",
+      "5d7be489f35f3a6a438ce729e597ba20c4f0b6f03fc0f234354b5c050e3d3b37",
+      "d8d9e1775d05c7e76c2488933a0cdb945cc4e5d614d2c5265f9fc9cc4eec3ca3",
+      "d79d9fa17d5b195991d96066f52ce2732ae91d5092acfbdcd9da899754c1345a",
+      "f19b5f80e8eefe94020eb2bcbaa2d2ac3958b198a521ba2a7d1898ad005f88cf",
+      "5f2e224597ea789d0173da2be9411166a17e15fe55544ceaf057790c6f073e63",
+      "beb4714bfb8011e8876ab3f2245a4ba1102f0d347633997dc7ce3e89373c8546",
+      "e87cb8bf2ff79a912157cdf73d4cf7b74c880ee170d8c856a4f9777a3ad7e90a",
+      "e02b7bcd39c97fc48b32675a1519e644ef953258c411688b2648ddf86f3c50bf",
+      "1df573d84fb386ab072bc3f8978d87600bda718125d66f2732019a7aec6ef947",
+      "207487bc4eae2ec57acad1ca449f8a767a8042b041ee8d8ef6fa50c724784d83",
+      "b719bd26db506f5dc87e7420334b1441b1081fa2a3c3b78789199ecd69c23bbf",
+      "2ccf96d44eced2ee7c061e66360516bfb75acd9edad90d89a7b2dc2bea46c06b",
+      "1f49eca53aa6c6829ea15c5343060e31952f9d436383c4115ab7cc33f7f7f056",
+      "3ee3f32358beaa90aa422949c834df451e845653ae175dfb73d29409e49e002a",
+      "057845d86951aec703c95c1fbf54b610eb9d51f300bce0feba9276f734c866ed",
+      "074ebb962cd126af1de0693bf2216e6303f6b019562974e47db3f3f78929ae1b",
+      "1dae142d200454024113f50599b4b1fbb4d16f32c22a117b546b1ec9bc5d71d5",
+      "20fcca372f346e33f185418bee3cdaba4b9a7d7b7d5ca5ce8e8f99bebc4012f0",
+      "8a4d9dd85e94310e9f429f2d133eff9fe50f78023e5d0eae2f0bf61cb8d1673f",
+      "dcaadd5829388cb97fc45a97a3b7ae05aecc0a7d119078115c8042b6b41ba5da",
+      "5498da826d1eda1dd48a6659f0abcbc067cf9e790b0e7ab764a219e02b629009",
+      "74e7e69e98f4929fde0b2f5ca528109a3bd95feb0911cf33a2353a36b65aa94b",
+      "7ef456cbb96e9204b5f3e9f2b355d1f2395ed20dd39d4c8a59ddaebbc85b9486",
+      "51175602f4976c0199f01e52c57004dd888b2959154d81b0e475733bfa794791",
+      "28e3e13d44ffb6dfdd3de3ad89a8280082a1febb17ee240f8f4f6ba7ee616583",
+      "593912c22dd329e163b99e4e71d28b059656a09791e9a27e853dde3dad29c673",
+      "e7b2fcda7a5f7155b00f081ef1cd259113e544b39523439ac13a68f5ce8c2ef5",
+      "ad29b1057fc6639e4cecdac52419b12e8addec3ae22b24bcb03b8093f6857ec3",
+      "8e7b03075c29a7b9443d3bf922fb64a0aad94cba0cca53246c107ce68e2dfeb7",
+      "e38d0fee8888ed99443ac1b077821fc2c6dc526a69eaf985438924bc7fa88e3f",
+      "7bb1ce11bc1d09fec31dec2891e748b358f8400c9b715ea6cad06dd3a0ef9f03",
+      "18f7fd67fafadf9f863d6d76b57875f15a0020c29b0dc6c7fe75f6dc45b74723",
+      "b8f8596604375027249c303d1caf85b6d871fa72da5da48cc2d411f500bad370",
+      "b3921106f6be6bfb1e0a374faf0e297f209ae887fb89f97669e8ac2430e0a149",
+      "9de66159b3f710d97cc528cccfcf80f8c35ce58a67d96dfcc231ede650a2be0e",
+      "147581885f29b1a9be103f7892bc065d5ed5c660b08286715414ccf6727292c1",
+      "0377fee460f1a97f797cad7279952bb7813961db9d3f065e89987638c52fef84",
+      "3567afe3ad2a2a8d65a3a575a7847a2c061cc04892a800a436d01956bec272fd",
+      "60e0dae3c097c65b7579b7c7457a1df9197d2f723b437f11a7850ef1e8f1c14a",
+      "4b4775f055679d696943235e70ae8063f445cfc69fb3b58e1778dda89a39526a",
+      "d1ce82f9904b057db6e27db206410c31bb8cf1d6d22642513cfdc3d0219c48f5",
+      "0175b14bc4be87ce885e1aaa20c6fdf61ae851e65c91c6cbd9c7ff39100f29cb",
+      "7e2d9a9ab42ea7191948d1724855e208aa6ed80f2295fb30a367683e58180000"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adext.inkclub.com",
+        "keys": [
+          "53b85ed049864e9e7b62e89c519199aeea4630a4558ebd5625774a38b3ccd31e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.3loops.com",
+        "keys": [
+          "17e24e445e365a71e832b8efcc8d975c61fb83dedf317e8fd7d8d6a8f7560774"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bilborsen.webannonse.no",
+        "keys": [
+          "32a5d1d0afc6e7b651f06092a9149f74a27130e5ab9cc325d284fae69e82f915"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "svindel.info",
+        "keys": [
+          "461e964ee2a2ebd12b016e6dbbfcf0b1bfdd9251aff4fc8630512dcdeeae1356"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lib.idg.no",
+        "keys": [
+          "d3b0538007328428bbb1e602067fc2a3d59c2b0e95355ed4685677b478a8d90f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "drbrand.herokuapp.com",
+        "keys": [
+          "2fd1d095160be2df39cc51293cf113d1e021969130b74fa66508b158383dd582"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fr135.net",
+        "keys": [
+          "01e959f63057617652de5e41da1db4bd7ce9a630cc201827c94e1c7c0db28a13"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static-dscn.net",
+        "keys": [
+          "688160eeb51eae0cc0be7cdfd23ecfe63ee8c09f2004c87d601a1f585a0537d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gtm.findroommate.dk",
+        "keys": [
+          "118b328687ba966d398d622ae005ea7dd62508c5b1443da69c1d2819b5208731"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "www-presse-fotos-dk.filesusr.com",
+        "keys": [
+          "efaf27f9b6fb0817eea8b3421c7b40035c1439acec03c2fd4a17e2af809a34e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "65.21.200.49",
+        "keys": [
+          "ba22a4bf2eeac01b116d99038098f20332ef749c83808e2f9468bd895f33587b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "elderlyscissors.com",
+        "keys": [
+          "c6fc49413c6598669b5bfe77a675476efc0aa04b377d839df67198a445144201"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "marked.no",
+        "keys": [
+          "b03e9ab0ed535b2444031c552eefe23027c6a6a05de5abe72c1159eb12ba7771"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "y6.no",
+        "keys": [
+          "6b87c3dd83db479beef10405f735191da3eaaab323ed9765fa8ffbbbc103649c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "havfruen4220.dk",
+        "keys": [
+          "98780158b19eb033198a906b2f8b9858b069c877c8ec6ab2d062829752ac65f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gogle.net",
+        "keys": [
+          "e5dc5f4d6c436b2e230f6bba74908462cb9a1c5c6230ea011cdacad6bd2edc07"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eccolabgroup.com",
+        "keys": [
+          "9ae316192321587bfcc3d9dc76777b739c705c633a8ec1487fdeb5a8cca22d10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "galerijajava.ba",
+        "keys": [
+          "eba3e6c91f927d7158dbded11af11668d9be62886ee8085d78b33b81882a190b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "p-stn.net",
+        "keys": [
+          "810685184217386d621396c05c5957a8569621e449e6d4f6764b3f449c09ff2b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s.free.fr",
+        "keys": [
+          "098e671dd4f29ab9bb031086c51200e1f46ad74c1bf0733e20f98ea736642ea2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trmff.wpengine.com",
+        "keys": [
+          "3996467aded670412688a3faecd364e25004738a2589f4dd1f9ba6200a9e78dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ozarkvillage.net",
+        "keys": [
+          "f298dcc2f4b8b78625534303c11c6528a154f3576920bad437f370d73f078488"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a2ics.eu",
+        "keys": [
+          "d653886cb10cfd6205180f4cae5732e341a26db1457002f468574a273d13a7ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acc-inf.com",
+        "keys": [
+          "e89be083c36cfa46208984dcfc8f356c1826c26d3189c5fc101b49df629192ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acc-ntfix.com",
+        "keys": [
+          "fd165de0db82032743ea58b8df1c682ef9e0c8bcb24f280abba77e58d162090f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "be-sms.com",
+        "keys": [
+          "2e753151388add5d57b5eb13861ca10f239d803da64cc14e715b9cd3e520482c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "connection-info.com",
+        "keys": [
+          "bc07f5dcdda82a2df5e19b0cff6a00a021f57575841a7b14d798d8a7162051d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "disneyplus-tv.com",
+        "keys": [
+          "d83e958c20e4692ea37938452e9cd4a8165a876c3f0c412a6f253c3104986f97"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "earnifi-claiming.com",
+        "keys": [
+          "9124011c0cc815bf60090d538830a5a9df0dfe6e5fce4c5ea96d635bed8e78e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flix-area.com",
+        "keys": [
+          "01e2dee0447fde0a8ad8ddf6b9a813e4863bc5d5bfe38c61dff6ef503470ccbb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flix-request.com",
+        "keys": [
+          "77279bf346bd7f7b5d7ba685ea4165d852770c56bb037a3e80b459b90ec35559"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lnfoskonto.com",
+        "keys": [
+          "d0503d9b24af28d6c8476615b112db7f2a803252122c05aee6d62f1188bbf6eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "my-subscriptions.net",
+        "keys": [
+          "65cee09f1e0fc53c5086ca0c4f537db2d8fe15f8fe67dbd8611eba17cabae6f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "myups-pakket.com",
+        "keys": [
+          "b9222aa5407f5343c1185bf18ca03656f53a835e1a9cca0600dcd7d4a35f9f63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "myups.express",
+        "keys": [
+          "81b26b2e291270ac1d33c2a0eb1dfa504f3601047fd124781bc4405028d66d86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netfx-acc.com",
+        "keys": [
+          "c0dd8c052460efa7eabf81d300051eed8a1823f3021bad49b306d3c6faa3dc08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ney-acc.com",
+        "keys": [
+          "34901a916a319d38c10b516d2e7ebfe4d54cf4d07d12abedcb1750bb9505bb4a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ntfx-acc.com",
+        "keys": [
+          "129f479055f21b0de410439562a58ce50407995b06762ee79d555b318be1dad0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "payement-renew.me",
+        "keys": [
+          "a4769aa376ad32c32c7759a2161de1897eae0bcd001d211f05e6fda2088950be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackingfindups.com",
+        "keys": [
+          "7f13a426d14b75758a5460b007fe3418bd8e187b1d7dff801b898e3369b91bc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackingpackage.express",
+        "keys": [
+          "c8a8d385333de736217cb88e2e4034cc437857512f402060b8d4c3d7d98e8132"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ups-packaging.delivery",
+        "keys": [
+          "067afacce89045ce946c76a6db4498c1e7d3f83c04604be241d2349e70a445d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "upsbezahlung.com",
+        "keys": [
+          "7e8f4af0555d17ea5ef147e55cfaba8fc349c2c2b05833e713c202d4f48c03ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "85.159.213.158",
+        "keys": [
+          "206e2a43aa8ba593f134ba6302ea1f556461f227c0c4d5afe68a44fa5c35707a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nestnose.com",
+        "keys": [
+          "d72b40f7945e7d5d0be156f63895e2902af55030e653c844a4c09b651fff3cde"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inquisitivebed.info",
+        "keys": [
+          "11e87c9c6eaedba5a9a2d0606431750cab29cdaae5268a31666bbf5c02c55974"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wirexapp.africa.com",
+        "keys": [
+          "bddb53d16f89433c29521e6b07bb1045434bb850a9cd896168a6a812b458f61c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tachyoniums.eu.com",
+        "keys": [
+          "a498eeefd30839ce2973dd954367079e12354667bb16e193445ab7b25498d5aa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "healtheweb.co.uk",
+        "keys": [
+          "083d04ae2276cff06ca280eaffb971f419793db565b6c48267cb7bf65b903f92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "195.242.152.122",
+        "keys": [
+          "5d7be489f35f3a6a438ce729e597ba20c4f0b6f03fc0f234354b5c050e3d3b37"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statautos.com",
+        "keys": [
+          "d8d9e1775d05c7e76c2488933a0cdb945cc4e5d614d2c5265f9fc9cc4eec3ca3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "212.224.107.120",
+        "keys": [
+          "d79d9fa17d5b195991d96066f52ce2732ae91d5092acfbdcd9da899754c1345a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "158.94.209.89",
+        "keys": [
+          "f19b5f80e8eefe94020eb2bcbaa2d2ac3958b198a521ba2a7d1898ad005f88cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.cc",
+        "keys": [
+          "5f2e224597ea789d0173da2be9411166a17e15fe55544ceaf057790c6f073e63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.com",
+        "keys": [
+          "beb4714bfb8011e8876ab3f2245a4ba1102f0d347633997dc7ce3e89373c8546"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.top",
+        "keys": [
+          "e87cb8bf2ff79a912157cdf73d4cf7b74c880ee170d8c856a4f9777a3ad7e90a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.vip",
+        "keys": [
+          "e02b7bcd39c97fc48b32675a1519e644ef953258c411688b2648ddf86f3c50bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.xyz",
+        "keys": [
+          "1df573d84fb386ab072bc3f8978d87600bda718125d66f2732019a7aec6ef947"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ascu.top",
+        "keys": [
+          "207487bc4eae2ec57acad1ca449f8a767a8042b041ee8d8ef6fa50c724784d83"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asdk.cc",
+        "keys": [
+          "b719bd26db506f5dc87e7420334b1441b1081fa2a3c3b78789199ecd69c23bbf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asdk.vip",
+        "keys": [
+          "2ccf96d44eced2ee7c061e66360516bfb75acd9edad90d89a7b2dc2bea46c06b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ase.vip",
+        "keys": [
+          "1f49eca53aa6c6829ea15c5343060e31952f9d436383c4115ab7cc33f7f7f056"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asi.vip",
+        "keys": [
+          "3ee3f32358beaa90aa422949c834df451e845653ae175dfb73d29409e49e002a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asl.vip",
+        "keys": [
+          "057845d86951aec703c95c1fbf54b610eb9d51f300bce0feba9276f734c866ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-aso.cc",
+        "keys": [
+          "074ebb962cd126af1de0693bf2216e6303f6b019562974e47db3f3f78929ae1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asr.cc",
+        "keys": [
+          "1dae142d200454024113f50599b4b1fbb4d16f32c22a117b546b1ec9bc5d71d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asr.vip",
+        "keys": [
+          "20fcca372f346e33f185418bee3cdaba4b9a7d7b7d5ca5ce8e8f99bebc4012f0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ass.cc",
+        "keys": [
+          "8a4d9dd85e94310e9f429f2d133eff9fe50f78023e5d0eae2f0bf61cb8d1673f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ass.vip",
+        "keys": [
+          "dcaadd5829388cb97fc45a97a3b7ae05aecc0a7d119078115c8042b6b41ba5da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoteams.com",
+        "keys": [
+          "5498da826d1eda1dd48a6659f0abcbc067cf9e790b0e7ab764a219e02b629009"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoxo.bond",
+        "keys": [
+          "74e7e69e98f4929fde0b2f5ca528109a3bd95feb0911cf33a2353a36b65aa94b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pakke.click",
+        "keys": [
+          "7ef456cbb96e9204b5f3e9f2b355d1f2395ed20dd39d4c8a59ddaebbc85b9486"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "postuin.bond",
+        "keys": [
+          "51175602f4976c0199f01e52c57004dd888b2959154d81b0e475733bfa794791"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daobo.bond",
+        "keys": [
+          "28e3e13d44ffb6dfdd3de3ad89a8280082a1febb17ee240f8f4f6ba7ee616583"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daodo.bond",
+        "keys": [
+          "593912c22dd329e163b99e4e71d28b059656a09791e9a27e853dde3dad29c673"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoicom.bond",
+        "keys": [
+          "e7b2fcda7a5f7155b00f081ef1cd259113e544b39523439ac13a68f5ce8c2ef5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.100.125.58",
+        "keys": [
+          "ad29b1057fc6639e4cecdac52419b12e8addec3ae22b24bcb03b8093f6857ec3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.159.140.215",
+        "keys": [
+          "8e7b03075c29a7b9443d3bf922fb64a0aad94cba0cca53246c107ce68e2dfeb7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.162.119.45",
+        "keys": [
+          "e38d0fee8888ed99443ac1b077821fc2c6dc526a69eaf985438924bc7fa88e3f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "47.76.132.29",
+        "keys": [
+          "7bb1ce11bc1d09fec31dec2891e748b358f8400c9b715ea6cad06dd3a0ef9f03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "109.230.237.116",
+        "keys": [
+          "18f7fd67fafadf9f863d6d76b57875f15a0020c29b0dc6c7fe75f6dc45b74723"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "147.93.63.211",
+        "keys": [
+          "b8f8596604375027249c303d1caf85b6d871fa72da5da48cc2d411f500bad370"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "154.223.16.232",
+        "keys": [
+          "b3921106f6be6bfb1e0a374faf0e297f209ae887fb89f97669e8ac2430e0a149"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "196.251.85.197",
+        "keys": [
+          "9de66159b3f710d97cc528cccfcf80f8c35ce58a67d96dfcc231ede650a2be0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nono.qpon",
+        "keys": [
+          "147581885f29b1a9be103f7892bc065d5ed5c660b08286715414ccf6727292c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tnord.qpon",
+        "keys": [
+          "0377fee460f1a97f797cad7279952bb7813961db9d3f065e89987638c52fef84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "desidert.no",
+        "keys": [
+          "3567afe3ad2a2a8d65a3a575a7847a2c061cc04892a800a436d01956bec272fd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storustovu.dk",
+        "keys": [
+          "60e0dae3c097c65b7579b7c7457a1df9197d2f723b437f11a7850ef1e8f1c14a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hagebakken.no",
+        "keys": [
+          "4b4775f055679d696943235e70ae8063f445cfc69fb3b58e1778dda89a39526a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mdb.nu",
+        "keys": [
+          "d1ce82f9904b057db6e27db206410c31bb8cf1d6d22642513cfdc3d0219c48f5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "idj.no",
+        "keys": [
+          "0175b14bc4be87ce885e1aaa20c6fdf61ae851e65c91c6cbd9c7ff39100f29cb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafikkskoleapp.no",
+        "keys": [
+          "7e2d9a9ab42ea7191948d1724855e208aa6ed80f2295fb30a367683e58180000"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fr135.net",
+        "static-dscn.net",
+        "65.21.200.49",
+        "102.112.2o7.net",
+        "look-like-star.myshopify.com",
+        "pensjonistferie.no",
+        "replicapatekphilippe.com",
+        "replicarolexyachtmaster.com",
+        "tromselementbygg.no",
+        "ultimate-tech-products.myshopify.com",
+        "oslo-tannlegene.no",
+        "y6.no",
+        "havfruen4220.dk",
+        "srilanka.no",
+        "fredfiber.no",
+        "gogle.net",
+        "eccolabgroup.com",
+        "galerijajava.ba",
+        "p-stn.net",
+        "s.free.fr",
+        "trmff.wpengine.com",
+        "liveshopdealz.com",
+        "geometra-bologna.it",
+        "sky.gs",
+        "is-a-personaltrainer.com",
+        "vidcopa.me",
+        "smallrise.com",
+        "cionialessio.it",
+        "cinefique.com",
+        "niupaiba.com",
+        "nordeninterior.weebly.com",
+        "ozarkvillage.net",
+        "a2ics.eu",
+        "smsb.co",
+        "sitey.me",
+        "betzykrisesenter.no",
+        "citra2010oslo.no",
+        "digiter.no",
+        "kjaerra.no",
+        "kontrast1.no",
+        "norskmatkultur.no",
+        "nyematoghelse.no",
+        "securmarksykkel.no",
+        "topshineauto.no",
+        "yttersiden.no",
+        "acc-inf.com",
+        "acc-ntfix.com",
+        "be-sms.com",
+        "connection-info.com",
+        "disneyplus-tv.com",
+        "earnifi-claiming.com",
+        "flix-area.com",
+        "flix-request.com",
+        "lnfoskonto.com",
+        "my-subscriptions.net",
+        "myups-pakket.com",
+        "myups.express",
+        "netfx-acc.com",
+        "ney-acc.com",
+        "ntfx-acc.com",
+        "payement-renew.me",
+        "trackingfindups.com",
+        "trackingpackage.express",
+        "ups-packaging.delivery",
+        "upsbezahlung.com",
+        "85.159.213.158",
+        "nestnose.com",
+        "inquisitivebed.info",
+        "wirexapp.africa.com",
+        "tachyoniums.eu.com",
+        "healtheweb.co.uk",
+        "195-242-152-122.static.hvvc.us",
+        "195.242.152.122",
+        "statautos.com",
+        "212.224.107.120",
+        "nofotballshop.com",
+        "dkfodboldstore.com",
+        "158.94.209.89",
+        "altinn-brukerservice",
+        "dao-as.cc",
+        "dao-as.com",
+        "dao-as.top",
+        "dao-as.vip",
+        "dao-as.xyz",
+        "dao-ascu.top",
+        "dao-asdk.cc",
+        "dao-asdk.vip",
+        "dao-ase.vip",
+        "dao-asi.vip",
+        "dao-asl.vip",
+        "dao-aso.cc",
+        "dao-asr.cc",
+        "dao-asr.vip",
+        "dao-ass.cc",
+        "dao-ass.vip",
+        "daoteams.com",
+        "daoxo.bond",
+        "pakke.click",
+        "postuin.bond",
+        "daobo.bond",
+        "daodo.bond",
+        "daoicom.bond",
+        "43.100.125.58",
+        "43.159.140.215",
+        "43.162.119.45",
+        "47.76.132.29",
+        "109.230.237.116",
+        "147.93.63.211",
+        "154.223.16.232",
+        "196.251.85.197",
+        "nono.qpon",
+        "tnord.qpon"
+      ]
+    },
+    "_sourceKeys": [
+      "01e959f63057617652de5e41da1db4bd7ce9a630cc201827c94e1c7c0db28a13",
+      "688160eeb51eae0cc0be7cdfd23ecfe63ee8c09f2004c87d601a1f585a0537d0",
+      "ba22a4bf2eeac01b116d99038098f20332ef749c83808e2f9468bd895f33587b",
+      "98ec8a7049a026f4cc2b09695187585b8dec0fa890b4627ebb812ed9cedceabe",
+      "e9619924ad93e1bdaf5247f2018dbf23a9be1b5df120efb20b41ab76fa1e81fd",
+      "72a672e8ee54941db367f12262457a02a0805440ea1f1e8dcffd10efb854ca78",
+      "494302ac4edc7b25dc6d5deaf9faaed8c96ca0c821f615b6b880a2322d01f78f",
+      "1743046631bc98d92451755be79bbad6f13763f103bfa703eba609969a7b649f",
+      "64fc2c7bcac909e79541d7941a99f072b35b4a1850d8057eae908c51b1d5ef18",
+      "1d4b41264456daf0691e477db68f3fe4d5b6b6851bfe88300b2b7bbcf5bcafa6",
+      "e745b8a428388c2f24261c3754a4fc1fa52e4c954fd891aa67874e23ccc73daa",
+      "6b87c3dd83db479beef10405f735191da3eaaab323ed9765fa8ffbbbc103649c",
+      "98780158b19eb033198a906b2f8b9858b069c877c8ec6ab2d062829752ac65f7",
+      "20759fbaf2b092b67bf54aeafcf6e9b28a8f05cfe0c29fc07e50c2bebffef244",
+      "bf8a95f8ef165eecaf1832a9260c1688210d6a6572b26e7682e1eb8ad9d23958",
+      "e5dc5f4d6c436b2e230f6bba74908462cb9a1c5c6230ea011cdacad6bd2edc07",
+      "9ae316192321587bfcc3d9dc76777b739c705c633a8ec1487fdeb5a8cca22d10",
+      "eba3e6c91f927d7158dbded11af11668d9be62886ee8085d78b33b81882a190b",
+      "810685184217386d621396c05c5957a8569621e449e6d4f6764b3f449c09ff2b",
+      "098e671dd4f29ab9bb031086c51200e1f46ad74c1bf0733e20f98ea736642ea2",
+      "3996467aded670412688a3faecd364e25004738a2589f4dd1f9ba6200a9e78dc",
+      "53661258baee41cf4327fcb6e003ef26ae8799b1b994362ce13159a7d640d90e",
+      "3642a3ca4c33a2343b94cf9cd923faeb4ead4712b8cfd1063f9b6ec6c8c4013c",
+      "fe92bdc002621dbe631f0e844a65259d3a323a243d16d21b1113aca6398e5542",
+      "6480bdeaeae6602a8d1f74ef7c72090db438a5b1c8e403455a46907757296242",
+      "9dc531712f0531e3abd2ea03fd69e30a29d02d6b7c4d8a79d82211feec2dabe6",
+      "68387d158ddbacf250d5fba589af9295bdc8026316821705bd4925cf82ae3122",
+      "da6c8aec5fb8517507e7bdd70d0746b10647effcb7d2d818a569325d5b63f2e5",
+      "35675a2e2271d292d1dce323e6cd25a7a50969c01d6d6f74f91c0d258aadce48",
+      "a12544e5acf3c4edfcdc4c0fad0e3bdd882909e81a71782d63bf63a141e4caed",
+      "f6793b9283e40972d6de25f9c40552a67cd8afe8bf6986cc5c338637e93dfbad",
+      "f298dcc2f4b8b78625534303c11c6528a154f3576920bad437f370d73f078488",
+      "d653886cb10cfd6205180f4cae5732e341a26db1457002f468574a273d13a7ea",
+      "4ff911a185eeb61f544be264bcbba8b06c3993b28d8b73ccc17631bdff6a32b4",
+      "16807f9f1a7ae3967e6189044a3604675d42c9a94f5c271f36433d253fdb177d",
+      "75904b9ec3df649ce5f6dd581f7e5699674efb30f7281ddf717efb33c896d770",
+      "69654bfc2af50920c25eda190e710e4429c7c3925c8a99c6a75a924516e26e0f",
+      "fecef81ca94ae55da950fdaee85888ec52d0dd986758801e5dc4dd68d6802663",
+      "9b9dcc5ac29ea152bbce9cb6c38d6724c5b60990493d90e3cce80951218ac609",
+      "803d91928eb7b75222444251c45ed57b61415b217a45ec81e897b5b784133109",
+      "b8bd8e2fd75d9fbc05bd75708fbb66d14f72008269097051aa061b24642dbe2f",
+      "e8ef2433852d6b4340c91557cb85ce81e4b3dbb312e2ba0e165d6d5e9d05c474",
+      "006c2ff619cd68bb29dda00fdc18881df30a97dd68501c43e606c591387214bb",
+      "27a7d94cf0038dfd81e65a641bb65d1517078dfd1cebd3d629957a0621da563f",
+      "7f6854e9a6aaf9e042bd95511916f306ce3f7e2ff8c613f3fdce3a7fc56e51d8",
+      "e89be083c36cfa46208984dcfc8f356c1826c26d3189c5fc101b49df629192ce",
+      "fd165de0db82032743ea58b8df1c682ef9e0c8bcb24f280abba77e58d162090f",
+      "2e753151388add5d57b5eb13861ca10f239d803da64cc14e715b9cd3e520482c",
+      "bc07f5dcdda82a2df5e19b0cff6a00a021f57575841a7b14d798d8a7162051d8",
+      "d83e958c20e4692ea37938452e9cd4a8165a876c3f0c412a6f253c3104986f97",
+      "9124011c0cc815bf60090d538830a5a9df0dfe6e5fce4c5ea96d635bed8e78e2",
+      "01e2dee0447fde0a8ad8ddf6b9a813e4863bc5d5bfe38c61dff6ef503470ccbb",
+      "77279bf346bd7f7b5d7ba685ea4165d852770c56bb037a3e80b459b90ec35559",
+      "d0503d9b24af28d6c8476615b112db7f2a803252122c05aee6d62f1188bbf6eb",
+      "65cee09f1e0fc53c5086ca0c4f537db2d8fe15f8fe67dbd8611eba17cabae6f9",
+      "b9222aa5407f5343c1185bf18ca03656f53a835e1a9cca0600dcd7d4a35f9f63",
+      "81b26b2e291270ac1d33c2a0eb1dfa504f3601047fd124781bc4405028d66d86",
+      "c0dd8c052460efa7eabf81d300051eed8a1823f3021bad49b306d3c6faa3dc08",
+      "34901a916a319d38c10b516d2e7ebfe4d54cf4d07d12abedcb1750bb9505bb4a",
+      "129f479055f21b0de410439562a58ce50407995b06762ee79d555b318be1dad0",
+      "a4769aa376ad32c32c7759a2161de1897eae0bcd001d211f05e6fda2088950be",
+      "7f13a426d14b75758a5460b007fe3418bd8e187b1d7dff801b898e3369b91bc2",
+      "c8a8d385333de736217cb88e2e4034cc437857512f402060b8d4c3d7d98e8132",
+      "067afacce89045ce946c76a6db4498c1e7d3f83c04604be241d2349e70a445d6",
+      "7e8f4af0555d17ea5ef147e55cfaba8fc349c2c2b05833e713c202d4f48c03ae",
+      "206e2a43aa8ba593f134ba6302ea1f556461f227c0c4d5afe68a44fa5c35707a",
+      "d72b40f7945e7d5d0be156f63895e2902af55030e653c844a4c09b651fff3cde",
+      "11e87c9c6eaedba5a9a2d0606431750cab29cdaae5268a31666bbf5c02c55974",
+      "bddb53d16f89433c29521e6b07bb1045434bb850a9cd896168a6a812b458f61c",
+      "a498eeefd30839ce2973dd954367079e12354667bb16e193445ab7b25498d5aa",
+      "083d04ae2276cff06ca280eaffb971f419793db565b6c48267cb7bf65b903f92",
+      "b5b85a2e732076829963d754dc2f75c862487a5030b1bdde41da5bd654029ebb",
+      "5d7be489f35f3a6a438ce729e597ba20c4f0b6f03fc0f234354b5c050e3d3b37",
+      "d8d9e1775d05c7e76c2488933a0cdb945cc4e5d614d2c5265f9fc9cc4eec3ca3",
+      "d79d9fa17d5b195991d96066f52ce2732ae91d5092acfbdcd9da899754c1345a",
+      "6800663732955a5b15011dcf729842dd70df1c59ed14374f884dc8a2859bfcfd",
+      "4ced734c2c7256ab548402ca91e19e1d27684fb11992e5509a0e48387caa7a0f",
+      "f19b5f80e8eefe94020eb2bcbaa2d2ac3958b198a521ba2a7d1898ad005f88cf",
+      "47184ff7ebcee8d33489ec927e1e2b27f59cfb914b7582e33bc17702b5df18cb",
+      "5f2e224597ea789d0173da2be9411166a17e15fe55544ceaf057790c6f073e63",
+      "beb4714bfb8011e8876ab3f2245a4ba1102f0d347633997dc7ce3e89373c8546",
+      "e87cb8bf2ff79a912157cdf73d4cf7b74c880ee170d8c856a4f9777a3ad7e90a",
+      "e02b7bcd39c97fc48b32675a1519e644ef953258c411688b2648ddf86f3c50bf",
+      "1df573d84fb386ab072bc3f8978d87600bda718125d66f2732019a7aec6ef947",
+      "207487bc4eae2ec57acad1ca449f8a767a8042b041ee8d8ef6fa50c724784d83",
+      "b719bd26db506f5dc87e7420334b1441b1081fa2a3c3b78789199ecd69c23bbf",
+      "2ccf96d44eced2ee7c061e66360516bfb75acd9edad90d89a7b2dc2bea46c06b",
+      "1f49eca53aa6c6829ea15c5343060e31952f9d436383c4115ab7cc33f7f7f056",
+      "3ee3f32358beaa90aa422949c834df451e845653ae175dfb73d29409e49e002a",
+      "057845d86951aec703c95c1fbf54b610eb9d51f300bce0feba9276f734c866ed",
+      "074ebb962cd126af1de0693bf2216e6303f6b019562974e47db3f3f78929ae1b",
+      "1dae142d200454024113f50599b4b1fbb4d16f32c22a117b546b1ec9bc5d71d5",
+      "20fcca372f346e33f185418bee3cdaba4b9a7d7b7d5ca5ce8e8f99bebc4012f0",
+      "8a4d9dd85e94310e9f429f2d133eff9fe50f78023e5d0eae2f0bf61cb8d1673f",
+      "dcaadd5829388cb97fc45a97a3b7ae05aecc0a7d119078115c8042b6b41ba5da",
+      "5498da826d1eda1dd48a6659f0abcbc067cf9e790b0e7ab764a219e02b629009",
+      "74e7e69e98f4929fde0b2f5ca528109a3bd95feb0911cf33a2353a36b65aa94b",
+      "7ef456cbb96e9204b5f3e9f2b355d1f2395ed20dd39d4c8a59ddaebbc85b9486",
+      "51175602f4976c0199f01e52c57004dd888b2959154d81b0e475733bfa794791",
+      "28e3e13d44ffb6dfdd3de3ad89a8280082a1febb17ee240f8f4f6ba7ee616583",
+      "593912c22dd329e163b99e4e71d28b059656a09791e9a27e853dde3dad29c673",
+      "e7b2fcda7a5f7155b00f081ef1cd259113e544b39523439ac13a68f5ce8c2ef5",
+      "ad29b1057fc6639e4cecdac52419b12e8addec3ae22b24bcb03b8093f6857ec3",
+      "8e7b03075c29a7b9443d3bf922fb64a0aad94cba0cca53246c107ce68e2dfeb7",
+      "e38d0fee8888ed99443ac1b077821fc2c6dc526a69eaf985438924bc7fa88e3f",
+      "7bb1ce11bc1d09fec31dec2891e748b358f8400c9b715ea6cad06dd3a0ef9f03",
+      "18f7fd67fafadf9f863d6d76b57875f15a0020c29b0dc6c7fe75f6dc45b74723",
+      "b8f8596604375027249c303d1caf85b6d871fa72da5da48cc2d411f500bad370",
+      "b3921106f6be6bfb1e0a374faf0e297f209ae887fb89f97669e8ac2430e0a149",
+      "9de66159b3f710d97cc528cccfcf80f8c35ce58a67d96dfcc231ede650a2be0e",
+      "147581885f29b1a9be103f7892bc065d5ed5c660b08286715414ccf6727292c1",
+      "0377fee460f1a97f797cad7279952bb7813961db9d3f065e89987638c52fef84"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "fr135.net",
+        "keys": [
+          "01e959f63057617652de5e41da1db4bd7ce9a630cc201827c94e1c7c0db28a13"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static-dscn.net",
+        "keys": [
+          "688160eeb51eae0cc0be7cdfd23ecfe63ee8c09f2004c87d601a1f585a0537d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "65.21.200.49",
+        "keys": [
+          "ba22a4bf2eeac01b116d99038098f20332ef749c83808e2f9468bd895f33587b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "102.112.2o7.net",
+        "keys": [
+          "98ec8a7049a026f4cc2b09695187585b8dec0fa890b4627ebb812ed9cedceabe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "look-like-star.myshopify.com",
+        "keys": [
+          "e9619924ad93e1bdaf5247f2018dbf23a9be1b5df120efb20b41ab76fa1e81fd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pensjonistferie.no",
+        "keys": [
+          "72a672e8ee54941db367f12262457a02a0805440ea1f1e8dcffd10efb854ca78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "replicapatekphilippe.com",
+        "keys": [
+          "494302ac4edc7b25dc6d5deaf9faaed8c96ca0c821f615b6b880a2322d01f78f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "replicarolexyachtmaster.com",
+        "keys": [
+          "1743046631bc98d92451755be79bbad6f13763f103bfa703eba609969a7b649f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tromselementbygg.no",
+        "keys": [
+          "64fc2c7bcac909e79541d7941a99f072b35b4a1850d8057eae908c51b1d5ef18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ultimate-tech-products.myshopify.com",
+        "keys": [
+          "1d4b41264456daf0691e477db68f3fe4d5b6b6851bfe88300b2b7bbcf5bcafa6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "oslo-tannlegene.no",
+        "keys": [
+          "e745b8a428388c2f24261c3754a4fc1fa52e4c954fd891aa67874e23ccc73daa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "y6.no",
+        "keys": [
+          "6b87c3dd83db479beef10405f735191da3eaaab323ed9765fa8ffbbbc103649c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "havfruen4220.dk",
+        "keys": [
+          "98780158b19eb033198a906b2f8b9858b069c877c8ec6ab2d062829752ac65f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "srilanka.no",
+        "keys": [
+          "20759fbaf2b092b67bf54aeafcf6e9b28a8f05cfe0c29fc07e50c2bebffef244"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fredfiber.no",
+        "keys": [
+          "bf8a95f8ef165eecaf1832a9260c1688210d6a6572b26e7682e1eb8ad9d23958"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gogle.net",
+        "keys": [
+          "e5dc5f4d6c436b2e230f6bba74908462cb9a1c5c6230ea011cdacad6bd2edc07"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eccolabgroup.com",
+        "keys": [
+          "9ae316192321587bfcc3d9dc76777b739c705c633a8ec1487fdeb5a8cca22d10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "galerijajava.ba",
+        "keys": [
+          "eba3e6c91f927d7158dbded11af11668d9be62886ee8085d78b33b81882a190b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "p-stn.net",
+        "keys": [
+          "810685184217386d621396c05c5957a8569621e449e6d4f6764b3f449c09ff2b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s.free.fr",
+        "keys": [
+          "098e671dd4f29ab9bb031086c51200e1f46ad74c1bf0733e20f98ea736642ea2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trmff.wpengine.com",
+        "keys": [
+          "3996467aded670412688a3faecd364e25004738a2589f4dd1f9ba6200a9e78dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "liveshopdealz.com",
+        "keys": [
+          "53661258baee41cf4327fcb6e003ef26ae8799b1b994362ce13159a7d640d90e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "geometra-bologna.it",
+        "keys": [
+          "3642a3ca4c33a2343b94cf9cd923faeb4ead4712b8cfd1063f9b6ec6c8c4013c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sky.gs",
+        "keys": [
+          "fe92bdc002621dbe631f0e844a65259d3a323a243d16d21b1113aca6398e5542"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "is-a-personaltrainer.com",
+        "keys": [
+          "6480bdeaeae6602a8d1f74ef7c72090db438a5b1c8e403455a46907757296242"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vidcopa.me",
+        "keys": [
+          "9dc531712f0531e3abd2ea03fd69e30a29d02d6b7c4d8a79d82211feec2dabe6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smallrise.com",
+        "keys": [
+          "68387d158ddbacf250d5fba589af9295bdc8026316821705bd4925cf82ae3122"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cionialessio.it",
+        "keys": [
+          "da6c8aec5fb8517507e7bdd70d0746b10647effcb7d2d818a569325d5b63f2e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cinefique.com",
+        "keys": [
+          "35675a2e2271d292d1dce323e6cd25a7a50969c01d6d6f74f91c0d258aadce48"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "niupaiba.com",
+        "keys": [
+          "a12544e5acf3c4edfcdc4c0fad0e3bdd882909e81a71782d63bf63a141e4caed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nordeninterior.weebly.com",
+        "keys": [
+          "f6793b9283e40972d6de25f9c40552a67cd8afe8bf6986cc5c338637e93dfbad"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ozarkvillage.net",
+        "keys": [
+          "f298dcc2f4b8b78625534303c11c6528a154f3576920bad437f370d73f078488"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a2ics.eu",
+        "keys": [
+          "d653886cb10cfd6205180f4cae5732e341a26db1457002f468574a273d13a7ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smsb.co",
+        "keys": [
+          "4ff911a185eeb61f544be264bcbba8b06c3993b28d8b73ccc17631bdff6a32b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sitey.me",
+        "keys": [
+          "16807f9f1a7ae3967e6189044a3604675d42c9a94f5c271f36433d253fdb177d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "betzykrisesenter.no",
+        "keys": [
+          "75904b9ec3df649ce5f6dd581f7e5699674efb30f7281ddf717efb33c896d770"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "citra2010oslo.no",
+        "keys": [
+          "69654bfc2af50920c25eda190e710e4429c7c3925c8a99c6a75a924516e26e0f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "digiter.no",
+        "keys": [
+          "fecef81ca94ae55da950fdaee85888ec52d0dd986758801e5dc4dd68d6802663"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kjaerra.no",
+        "keys": [
+          "9b9dcc5ac29ea152bbce9cb6c38d6724c5b60990493d90e3cce80951218ac609"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kontrast1.no",
+        "keys": [
+          "803d91928eb7b75222444251c45ed57b61415b217a45ec81e897b5b784133109"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "norskmatkultur.no",
+        "keys": [
+          "b8bd8e2fd75d9fbc05bd75708fbb66d14f72008269097051aa061b24642dbe2f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nyematoghelse.no",
+        "keys": [
+          "e8ef2433852d6b4340c91557cb85ce81e4b3dbb312e2ba0e165d6d5e9d05c474"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "securmarksykkel.no",
+        "keys": [
+          "006c2ff619cd68bb29dda00fdc18881df30a97dd68501c43e606c591387214bb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "topshineauto.no",
+        "keys": [
+          "27a7d94cf0038dfd81e65a641bb65d1517078dfd1cebd3d629957a0621da563f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yttersiden.no",
+        "keys": [
+          "7f6854e9a6aaf9e042bd95511916f306ce3f7e2ff8c613f3fdce3a7fc56e51d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acc-inf.com",
+        "keys": [
+          "e89be083c36cfa46208984dcfc8f356c1826c26d3189c5fc101b49df629192ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acc-ntfix.com",
+        "keys": [
+          "fd165de0db82032743ea58b8df1c682ef9e0c8bcb24f280abba77e58d162090f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "be-sms.com",
+        "keys": [
+          "2e753151388add5d57b5eb13861ca10f239d803da64cc14e715b9cd3e520482c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "connection-info.com",
+        "keys": [
+          "bc07f5dcdda82a2df5e19b0cff6a00a021f57575841a7b14d798d8a7162051d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "disneyplus-tv.com",
+        "keys": [
+          "d83e958c20e4692ea37938452e9cd4a8165a876c3f0c412a6f253c3104986f97"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "earnifi-claiming.com",
+        "keys": [
+          "9124011c0cc815bf60090d538830a5a9df0dfe6e5fce4c5ea96d635bed8e78e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flix-area.com",
+        "keys": [
+          "01e2dee0447fde0a8ad8ddf6b9a813e4863bc5d5bfe38c61dff6ef503470ccbb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flix-request.com",
+        "keys": [
+          "77279bf346bd7f7b5d7ba685ea4165d852770c56bb037a3e80b459b90ec35559"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lnfoskonto.com",
+        "keys": [
+          "d0503d9b24af28d6c8476615b112db7f2a803252122c05aee6d62f1188bbf6eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "my-subscriptions.net",
+        "keys": [
+          "65cee09f1e0fc53c5086ca0c4f537db2d8fe15f8fe67dbd8611eba17cabae6f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "myups-pakket.com",
+        "keys": [
+          "b9222aa5407f5343c1185bf18ca03656f53a835e1a9cca0600dcd7d4a35f9f63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "myups.express",
+        "keys": [
+          "81b26b2e291270ac1d33c2a0eb1dfa504f3601047fd124781bc4405028d66d86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netfx-acc.com",
+        "keys": [
+          "c0dd8c052460efa7eabf81d300051eed8a1823f3021bad49b306d3c6faa3dc08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ney-acc.com",
+        "keys": [
+          "34901a916a319d38c10b516d2e7ebfe4d54cf4d07d12abedcb1750bb9505bb4a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ntfx-acc.com",
+        "keys": [
+          "129f479055f21b0de410439562a58ce50407995b06762ee79d555b318be1dad0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "payement-renew.me",
+        "keys": [
+          "a4769aa376ad32c32c7759a2161de1897eae0bcd001d211f05e6fda2088950be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackingfindups.com",
+        "keys": [
+          "7f13a426d14b75758a5460b007fe3418bd8e187b1d7dff801b898e3369b91bc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackingpackage.express",
+        "keys": [
+          "c8a8d385333de736217cb88e2e4034cc437857512f402060b8d4c3d7d98e8132"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ups-packaging.delivery",
+        "keys": [
+          "067afacce89045ce946c76a6db4498c1e7d3f83c04604be241d2349e70a445d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "upsbezahlung.com",
+        "keys": [
+          "7e8f4af0555d17ea5ef147e55cfaba8fc349c2c2b05833e713c202d4f48c03ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "85.159.213.158",
+        "keys": [
+          "206e2a43aa8ba593f134ba6302ea1f556461f227c0c4d5afe68a44fa5c35707a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nestnose.com",
+        "keys": [
+          "d72b40f7945e7d5d0be156f63895e2902af55030e653c844a4c09b651fff3cde"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inquisitivebed.info",
+        "keys": [
+          "11e87c9c6eaedba5a9a2d0606431750cab29cdaae5268a31666bbf5c02c55974"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wirexapp.africa.com",
+        "keys": [
+          "bddb53d16f89433c29521e6b07bb1045434bb850a9cd896168a6a812b458f61c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tachyoniums.eu.com",
+        "keys": [
+          "a498eeefd30839ce2973dd954367079e12354667bb16e193445ab7b25498d5aa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "healtheweb.co.uk",
+        "keys": [
+          "083d04ae2276cff06ca280eaffb971f419793db565b6c48267cb7bf65b903f92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "195-242-152-122.static.hvvc.us",
+        "keys": [
+          "b5b85a2e732076829963d754dc2f75c862487a5030b1bdde41da5bd654029ebb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "195.242.152.122",
+        "keys": [
+          "5d7be489f35f3a6a438ce729e597ba20c4f0b6f03fc0f234354b5c050e3d3b37"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statautos.com",
+        "keys": [
+          "d8d9e1775d05c7e76c2488933a0cdb945cc4e5d614d2c5265f9fc9cc4eec3ca3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "212.224.107.120",
+        "keys": [
+          "d79d9fa17d5b195991d96066f52ce2732ae91d5092acfbdcd9da899754c1345a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nofotballshop.com",
+        "keys": [
+          "6800663732955a5b15011dcf729842dd70df1c59ed14374f884dc8a2859bfcfd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dkfodboldstore.com",
+        "keys": [
+          "4ced734c2c7256ab548402ca91e19e1d27684fb11992e5509a0e48387caa7a0f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "158.94.209.89",
+        "keys": [
+          "f19b5f80e8eefe94020eb2bcbaa2d2ac3958b198a521ba2a7d1898ad005f88cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "altinn-brukerservice",
+        "keys": [
+          "47184ff7ebcee8d33489ec927e1e2b27f59cfb914b7582e33bc17702b5df18cb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.cc",
+        "keys": [
+          "5f2e224597ea789d0173da2be9411166a17e15fe55544ceaf057790c6f073e63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.com",
+        "keys": [
+          "beb4714bfb8011e8876ab3f2245a4ba1102f0d347633997dc7ce3e89373c8546"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.top",
+        "keys": [
+          "e87cb8bf2ff79a912157cdf73d4cf7b74c880ee170d8c856a4f9777a3ad7e90a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.vip",
+        "keys": [
+          "e02b7bcd39c97fc48b32675a1519e644ef953258c411688b2648ddf86f3c50bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-as.xyz",
+        "keys": [
+          "1df573d84fb386ab072bc3f8978d87600bda718125d66f2732019a7aec6ef947"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ascu.top",
+        "keys": [
+          "207487bc4eae2ec57acad1ca449f8a767a8042b041ee8d8ef6fa50c724784d83"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asdk.cc",
+        "keys": [
+          "b719bd26db506f5dc87e7420334b1441b1081fa2a3c3b78789199ecd69c23bbf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asdk.vip",
+        "keys": [
+          "2ccf96d44eced2ee7c061e66360516bfb75acd9edad90d89a7b2dc2bea46c06b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ase.vip",
+        "keys": [
+          "1f49eca53aa6c6829ea15c5343060e31952f9d436383c4115ab7cc33f7f7f056"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asi.vip",
+        "keys": [
+          "3ee3f32358beaa90aa422949c834df451e845653ae175dfb73d29409e49e002a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asl.vip",
+        "keys": [
+          "057845d86951aec703c95c1fbf54b610eb9d51f300bce0feba9276f734c866ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-aso.cc",
+        "keys": [
+          "074ebb962cd126af1de0693bf2216e6303f6b019562974e47db3f3f78929ae1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asr.cc",
+        "keys": [
+          "1dae142d200454024113f50599b4b1fbb4d16f32c22a117b546b1ec9bc5d71d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-asr.vip",
+        "keys": [
+          "20fcca372f346e33f185418bee3cdaba4b9a7d7b7d5ca5ce8e8f99bebc4012f0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ass.cc",
+        "keys": [
+          "8a4d9dd85e94310e9f429f2d133eff9fe50f78023e5d0eae2f0bf61cb8d1673f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dao-ass.vip",
+        "keys": [
+          "dcaadd5829388cb97fc45a97a3b7ae05aecc0a7d119078115c8042b6b41ba5da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoteams.com",
+        "keys": [
+          "5498da826d1eda1dd48a6659f0abcbc067cf9e790b0e7ab764a219e02b629009"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoxo.bond",
+        "keys": [
+          "74e7e69e98f4929fde0b2f5ca528109a3bd95feb0911cf33a2353a36b65aa94b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pakke.click",
+        "keys": [
+          "7ef456cbb96e9204b5f3e9f2b355d1f2395ed20dd39d4c8a59ddaebbc85b9486"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "postuin.bond",
+        "keys": [
+          "51175602f4976c0199f01e52c57004dd888b2959154d81b0e475733bfa794791"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daobo.bond",
+        "keys": [
+          "28e3e13d44ffb6dfdd3de3ad89a8280082a1febb17ee240f8f4f6ba7ee616583"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daodo.bond",
+        "keys": [
+          "593912c22dd329e163b99e4e71d28b059656a09791e9a27e853dde3dad29c673"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daoicom.bond",
+        "keys": [
+          "e7b2fcda7a5f7155b00f081ef1cd259113e544b39523439ac13a68f5ce8c2ef5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.100.125.58",
+        "keys": [
+          "ad29b1057fc6639e4cecdac52419b12e8addec3ae22b24bcb03b8093f6857ec3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.159.140.215",
+        "keys": [
+          "8e7b03075c29a7b9443d3bf922fb64a0aad94cba0cca53246c107ce68e2dfeb7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "43.162.119.45",
+        "keys": [
+          "e38d0fee8888ed99443ac1b077821fc2c6dc526a69eaf985438924bc7fa88e3f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "47.76.132.29",
+        "keys": [
+          "7bb1ce11bc1d09fec31dec2891e748b358f8400c9b715ea6cad06dd3a0ef9f03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "109.230.237.116",
+        "keys": [
+          "18f7fd67fafadf9f863d6d76b57875f15a0020c29b0dc6c7fe75f6dc45b74723"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "147.93.63.211",
+        "keys": [
+          "b8f8596604375027249c303d1caf85b6d871fa72da5da48cc2d411f500bad370"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "154.223.16.232",
+        "keys": [
+          "b3921106f6be6bfb1e0a374faf0e297f209ae887fb89f97669e8ac2430e0a149"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "196.251.85.197",
+        "keys": [
+          "9de66159b3f710d97cc528cccfcf80f8c35ce58a67d96dfcc231ede650a2be0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nono.qpon",
+        "keys": [
+          "147581885f29b1a9be103f7892bc065d5ed5c660b08286715414ccf6727292c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tnord.qpon",
+        "keys": [
+          "0377fee460f1a97f797cad7279952bb7813961db9d3f065e89987638c52fef84"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 742
+  },
+  {
+    "condition": {
+      "urlFilter": "/begrensede-tilbudet/"
+    },
+    "_sourceKeys": [
+      "4a67a17d1a0ccb617974d82ab5c2eb67f2abde24d5f81cda4a1de46e04b7ade6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 743
+  },
+  {
+    "condition": {
+      "urlFilter": "/bli-avbrutt-bor-du-oppdater/"
+    },
+    "_sourceKeys": [
+      "01ebcfed3ab85934395f69b239a1080d7aea95b39567fb6b53740bcb473233ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 744
+  },
+  {
+    "condition": {
+      "urlFilter": "/dnb11111^"
+    },
+    "_sourceKeys": [
+      "ae0d55528ba38e7e143c592a27b33061e8226d71e4f415d78ac79b91765390ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 745
+  },
+  {
+    "condition": {
+      "urlFilter": "/kiwierbjudanden1/"
+    },
+    "_sourceKeys": [
+      "3f0416e39b0017afe5cef60aea60e6dbeeff278c66f20f742b41f486f278bd08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 746
+  },
+  {
+    "condition": {
+      "urlFilter": "/norgesecure/"
+    },
+    "_sourceKeys": [
+      "416f69ac9f7db3670cb5d7a1da62ad9128333f2f4b56b11bd44452b2c7168406"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 747
+  },
+  {
+    "condition": {
+      "urlFilter": "/pakkerlevering/"
+    },
+    "_sourceKeys": [
+      "253234ee00d800935426afcdb6952eea3e15ee05b77d5362b9482338c5df17c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 748
+  },
+  {
+    "condition": {
+      "urlFilter": ".gratis-reisebilletter."
+    },
+    "_sourceKeys": [
+      "a784de4d793ef800bb257af9f0166b840142f2946ff9894f37d4e0f699a6bc34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 750
+  },
+  {
+    "condition": {
+      "urlFilter": "||coop.no."
+    },
+    "_sourceKeys": [
+      "1bf7ba1ebb9e6ac7257909bad65547477129ed7304e053e0e7a5d9b7d8263aa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 751
+  },
+  {
+    "condition": {
+      "urlFilter": "||danskebank.no."
+    },
+    "_sourceKeys": [
+      "059f5ee7f3d1c46354d84c46bcc7276dc7ff1dc989f51e22156e7f426f2229eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 752
+  },
+  {
+    "condition": {
+      "urlFilter": "||djurs.com-*."
+    },
+    "_sourceKeys": [
+      "d36b46a6d1e736d0ab9a82508d630d17ba73e015dbc07d172155e91936ae6195"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 753
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb.no."
+    },
+    "_sourceKeys": [
+      "91572e083f6e959788c136b60ec311e7d429d60fd540f57a3131c3f6e0614034"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 754
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop.no."
+    },
+    "_sourceKeys": [
+      "37d50a87beb8a289847c2c4c11aa2c37e2e85f69be498e838860af43d2d7e167"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 755
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn.no."
+    },
+    "_sourceKeys": [
+      "196c0d3138d448a05e5dc58f03f730d59444445cc5064307e56df65ef2c4e9f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 756
+  },
+  {
+    "condition": {
+      "urlFilter": "||flysas-no."
+    },
+    "_sourceKeys": [
+      "df349f06252feabc4b4405e24f6a27d616a0a86620f60e3c4457a77daa6c7923"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 757
+  },
+  {
+    "condition": {
+      "urlFilter": "||komplett.no."
+    },
+    "_sourceKeys": [
+      "cf5a89ccd7b10b50ae0f15e8fae1b04d50e116a22d115f6c456dffe53fc47170"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 758
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordea.no."
+    },
+    "_sourceKeys": [
+      "ca5313bb347ec8b4268ab2ec3bd02bcdaa4b2bb8714a4cce843bdbe2f244d8ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 759
+  },
+  {
+    "condition": {
+      "urlFilter": "||nordnet.no."
+    },
+    "_sourceKeys": [
+      "d110a6610fe47bf9452a4f22c6a984f7e7f5f317baf126b2fc25f2458a155f90"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 760
+  },
+  {
+    "condition": {
+      "urlFilter": "||norwegian.com."
+    },
+    "_sourceKeys": [
+      "696451b4ca33cd675f646cfebe188f76dd0ab4fd8b2a3c6c3a939133870290ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 761
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten.no."
+    },
+    "_sourceKeys": [
+      "b9b75bc049c3d59b4cd9fca5efe6aee327377477259c91805aabdaa9fe22d2f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 762
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord.no."
+    },
+    "_sourceKeys": [
+      "41d61c4e5dd1168b688c79e45c5edd53a8de738b0a31b21a280345cc3d933b93"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 763
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbanken.no."
+    },
+    "_sourceKeys": [
+      "c1b92cbd7bf5598bf15f141700a20c62d5c3cefe52a51f45c409c96689577359"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 764
+  },
+  {
+    "condition": {
+      "urlFilter": "||shell.no."
+    },
+    "_sourceKeys": [
+      "38a9f600a736c84dafd3d49ab0316648d40fa1e36313ea16bce9786579c0072e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 765
+  },
+  {
+    "condition": {
+      "urlFilter": "||skatteetaten.no."
+    },
+    "_sourceKeys": [
+      "9d56a6b95fb8e15b301b49150aa94111b8994563f8b6fd9bb0cb8bee01664033"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 766
+  },
+  {
+    "condition": {
+      "urlFilter": "||sparebank1.no."
+    },
+    "_sourceKeys": [
+      "afb2ccc0561b78e40602fc2be8de799102741a0fca26bc6089e897961f7d5b83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 767
+  },
+  {
+    "condition": {
+      "urlFilter": "||tusenfryd-com."
+    },
+    "_sourceKeys": [
+      "f0e1e9fc00c0949d975873af64a683353a14e6a437f1e5db7a11dfea020897e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 768
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.no."
+    },
+    "_sourceKeys": [
+      "ac2c2f44e7fce1b7c5a1674bf53e2bdd6e93150348e26e9e29ddcf6dc78d6709"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 769
+  },
+  {
+    "condition": {
+      "urlFilter": "||vipps-sikkerhet."
+    },
+    "_sourceKeys": [
+      "580f175ab071815a042cd40c20cdb8b02aa7cc0293689cdd95b6f88f999788be"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 770
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankid-sperret."
+    },
+    "_sourceKeys": [
+      "6a2d448e1bee749ddffa4a05f160c134d5e215b63cccc40cbe073bc2730afe4d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 771
+  },
+  {
+    "condition": {
+      "urlFilter": "/?finn.no/login"
+    },
+    "_sourceKeys": [
+      "9892f6fffef2408f61277a8b704a6658b044f1b30a5b45263fe14b340de4861c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 811
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "umbrodk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e80803c6cf8cf851da2077b7ae3fa29cf0542b46e691fa6dcdc38196fd5fd356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 812
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarks.com^"
+    },
+    "_sourceKeys": [
+      "68ee558485717f14864daf833223f27daa08f31b7331485e38d383b054b72527"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 813
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgno.com^"
+    },
+    "_sourceKeys": [
+      "46100900d38c2bdd0f64943955ca4ac798f5f58e725453bbc6d5e16e819bd868"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 814
+  },
+  {
+    "condition": {
+      "urlFilter": "*norges.com^"
+    },
+    "_sourceKeys": [
+      "ef21cfe1b9942ff6e6bff74ada96d98a7f1474a76b536f73505d1da711044a61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 815
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgebutikk.com^"
+    },
+    "_sourceKeys": [
+      "91100a0147c5657ec4afba92365fb77555ee7eb70666b2e0be64bd2d458eca83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 816
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestore.com^"
+    },
+    "_sourceKeys": [
+      "1c15778cc1c9aef4b1424d3a495b2ca59b557471a0821bcd4d08a59bd30f0b04"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 817
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-no.com^"
+    },
+    "_sourceKeys": [
+      "366461824d46a812e8d71b70e60a5d17c3eb95c430cf0303012531a78959ae2c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 818
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgestores.com^"
+    },
+    "_sourceKeys": [
+      "617fda17be01ec8405ef8e0505c6dc59ffe580aa68e8c2df0f48691548806e88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 819
+  },
+  {
+    "condition": {
+      "urlFilter": "*skobutikks.com^"
+    },
+    "_sourceKeys": [
+      "614fea9deb9b0762ee3f7c22d3274391d6d91ca42c6f1ebcf6430eaebd65b170"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 820
+  },
+  {
+    "condition": {
+      "urlFilter": "*butikksoslo.com^"
+    },
+    "_sourceKeys": [
+      "c57515647f31467555fddd4edca7b13be9867550965c27b6c9522d5311ed91f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 821
+  },
+  {
+    "condition": {
+      "urlFilter": "://212.27.60.108^"
+    },
+    "_sourceKeys": [
+      "f38605da45cbc85b81e50b3c8f54e253b74b5c2245f7b3cd7758806e47533834"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 822
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnnbcorporat*.mine.nu^"
+    },
+    "_sourceKeys": [
+      "eb0e9c878df596f42f266947d3f85d6f5550d9d97643d2c5363b67b85d7686b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 823
+  },
+  {
+    "condition": {
+      "urlFilter": "://94.156.65.204^"
+    },
+    "_sourceKeys": [
+      "4869d18dbd0e1921c370e19c67fc94ae7cd4c43a93ffaccc49db5fcf40cf9c60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 824
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no|"
+    },
+    "_sourceKeys": [
+      "83d8de9a44c530a4113a7ee722651674937216ce397c69674baf773b9e317d8a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 825
+  },
+  {
+    "condition": {
+      "urlFilter": "||paypal.*.no/"
+    },
+    "_sourceKeys": [
+      "61cd247854d52cab7354b868dfbd0e56c56476d0f754c547e36216da3f750d1b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 826
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "brightertrade.com"
+      ]
+    },
+    "_sourceKeys": [
+      "337446a2d5d717f7e9807b815156a5d6a665591596a786e41bd4f52b5be30ed8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 827
+  },
+  {
+    "condition": {
+      "urlFilter": "||kongeparken.com-"
+    },
+    "_sourceKeys": [
+      "eecabd4eb6ac84508e067aff333c9ac441a8dc11e1423fa6095dcd9a2b615472"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 828
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiwi.com-"
+    },
+    "_sourceKeys": [
+      "80d6c7849974cc9b4bd9b71050882aba54f598d1b961e64458a0c012ac6b268e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 829
+  },
+  {
+    "condition": {
+      "urlFilter": "||getmail-no."
+    },
+    "_sourceKeys": [
+      "2f7b6064cefffeb77f89ee8863d0f3eb4d7b69fba40313601af8527cf3e08732"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 830
+  },
+  {
+    "condition": {
+      "urlFilter": "||elkjop*.club^"
+    },
+    "_sourceKeys": [
+      "c5ca33708ee46bff58f6ee099566ae161703e97a7b31d226ddfa7ac9e0f04b4d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 831
+  },
+  {
+    "condition": {
+      "urlFilter": "/css/*sparebank1.no^"
+    },
+    "_sourceKeys": [
+      "5705e50c8cde6885737fe5666765d37f3e51b64f85cfdfdb683049b581bea916"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 832
+  },
+  {
+    "condition": {
+      "urlFilter": "||faarup.com-*."
+    },
+    "_sourceKeys": [
+      "00b7afa672fe7123965946dd8623d2ed172a074fff14e55876010d5021d15141"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 833
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "com-dk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "a4ea0db1a401aaf5dbd1b68f35d6691723ca45b88e1479b52637ef753d194daf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 834
+  },
+  {
+    "condition": {
+      "urlFilter": "||legoland.com-*."
+    },
+    "_sourceKeys": [
+      "e0510fd6bb018eb55897f3e6f6153f16702da8ee95dae615e4b3503f4c92fc03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 835
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "rigspolitiet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "02f1b4f3f5726b43e8305fc193a21431261f0c6aafcd411ccb31bd1eba880ad8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 836
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ocgadgets.com"
+      ]
+    },
+    "_sourceKeys": [
+      "82000dbe73a3a6de43ea337e961041c5877e6b5548159c3fa35521fe3fedc1c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 837
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ocgadgetss.myshopify.com"
+      ]
+    },
+    "_sourceKeys": [
+      "deb02d5e826c3492e182b1e3396abed3dbd623e68692863336302a5b26c31e1c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 838
+  },
+  {
+    "condition": {
+      "urlFilter": "||ekstrabiadet."
+    },
+    "_sourceKeys": [
+      "07d6614eccff2270cc3b81ee0cb0d9d43d51c99870768fae0b40a5ebc1510314"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 839
+  },
+  {
+    "condition": {
+      "urlFilter": "||fintechnow*.buzz^"
+    },
+    "_sourceKeys": [
+      "70b121e74d1345644e71aa23779fcbf7640b1992b2c6fac13b84b26df9ea9549"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 840
+  },
+  {
+    "condition": {
+      "urlFilter": "||wealthnews*.xyz^"
+    },
+    "_sourceKeys": [
+      "6880d840f4531999fb14406bc9f12ba8c8f9a037f5166b51418303a403b6dc08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 841
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "newzeninfotech.com"
+      ]
+    },
+    "_sourceKeys": [
+      "a7383247ef4ba7e6f5d00e2dc6a26175b7df1bffd52516aff4a90b88d8970b92"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 842
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "probenefit.net"
+      ]
+    },
+    "_sourceKeys": [
+      "28a447b6dc1489cf1a4af9b5586c1dc675757e9f01fba4de5010c3fb910ee398"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 843
+  },
+  {
+    "condition": {
+      "urlFilter": "||norge.*.icu^"
+    },
+    "_sourceKeys": [
+      "d867e430610caba86cda67de84c4cd7b7b487f416d38a03e2b3f96f0f783b3e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 844
+  },
+  {
+    "condition": {
+      "urlFilter": "||euronews*.buzz^"
+    },
+    "_sourceKeys": [
+      "27a788a888e4039f819c96f25f1e6b2a8f3675bb9aa94f6b962e7f6966aef8e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 845
+  },
+  {
+    "condition": {
+      "urlFilter": "||softwaredaily*.monster^"
+    },
+    "_sourceKeys": [
+      "aaeb9099213dcddd464243aa00ea282893a1b73484bb12e065be18476d26ebef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 846
+  },
+  {
+    "condition": {
+      "urlFilter": "||stalknews*.buzz^"
+    },
+    "_sourceKeys": [
+      "8553143ae74eaec2d05b728279eb61cee75d63ce9376ddae235000085f42dfb2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 847
+  },
+  {
+    "condition": {
+      "urlFilter": "||goldupdates*.xyz^"
+    },
+    "_sourceKeys": [
+      "9a1a638a3ae25db215482d2d4d65634f383df66b08c720e650505244abe7a527"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 848
+  },
+  {
+    "condition": {
+      "urlFilter": "||sikre-vipps-konto."
+    },
+    "_sourceKeys": [
+      "b2202a7059dcacf8522a798fcb9ce239823851857bf87e4e5596f0411c3fef5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 849
+  },
+  {
+    "condition": {
+      "urlFilter": "/cop-no/index.htm"
+    },
+    "_sourceKeys": [
+      "39d6898ca4ef4154a6b3ee629698fda021813660899dcc4565e2a965fcda29a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 850
+  },
+  {
+    "condition": {
+      "urlFilter": "/survey/heldige^"
+    },
+    "_sourceKeys": [
+      "c9bc50c8012ef21e27bfba9a20a5f590065322e217479bed1dc75c10b937ac45"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 851
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.*/halaman-muka^"
+    },
+    "_sourceKeys": [
+      "6e0c73f01587cb6c7b5c8be09ea2b66210dc863e32dd2e939e8361b719f61c77"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 852
+  },
+  {
+    "condition": {
+      "urlFilter": "||sites.google.com/view/truls-svendsen^"
+    },
+    "_sourceKeys": [
+      "56c775eba59ede58c05584cd25c40098cef2872c47f49bbe70ae27cc806fe35f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 853
+  },
+  {
+    "condition": {
+      "urlFilter": "||signup-*vpns.com^"
+    },
+    "_sourceKeys": [
+      "70c418e21e3c65116e0d4707d1dd40e84b3c246d2056d108388c25e80ba7fc46"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 854
+  },
+  {
+    "condition": {
+      "urlFilter": "||telenors.*.cx^"
+    },
+    "_sourceKeys": [
+      "eee23a2ee908b9deceac3e6e709e9e94710b794876e4a8e4ec139eeabcd7b3a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 855
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "valspe.com.br"
+      ]
+    },
+    "_sourceKeys": [
+      "a5932c520068909a5042b438dacf9794945de21080b30187ca07ee77cb01a894"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 856
+  },
+  {
+    "condition": {
+      "urlFilter": "-sparebank1.*.net^"
+    },
+    "_sourceKeys": [
+      "f19d3c7564435c6b297e7039ac4208cff7fe2d89824b90bf58abfb8dd471e867"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 857
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?[a-z]{10,12}\\.easy\\.co(\\/.*)?$"
+    },
+    "_sourceKeys": [
+      "d1b1127c3a7567054d2f4835600e9999cdd6119449bff791ba601f72a0122cad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 858
+  },
+  {
+    "condition": {
+      "urlFilter": "||com/vg.no|"
+    },
+    "_sourceKeys": [
+      "bae78dddd795627234d671dc15fa4e7127ab192a21aa3ed1f0a614b3b2a620af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 859
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "irb.dk"
+      ]
+    },
+    "_sourceKeys": [
+      "338af37891a2c7c30d5efb8a5f3df4b2042f374f2faf82e00198783b31386864"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 860
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "economywatch.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d31b6bc81241224c4e883b7229fb9f3eb467aafb296b7e171fc675ac11016382"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 861
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "superbinvest.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7681bafc44c3028b0d4eef76067b885d6902de6ee7d0029b87c4ee000fc9e613"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 862
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aktienboard.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e4adaf1f2a1cabda5d07bed4ecb35408eda7a6fef440599f1c859accaef81106"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 863
+  },
+  {
+    "condition": {
+      "urlFilter": "||minklubshop.dk/dk^"
+    },
+    "_sourceKeys": [
+      "66f3c96f2f9a9b8657523583e1976099f4512d8fe46d39f3baf5f939f494eb78"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 864
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/nordea|"
+    },
+    "_sourceKeys": [
+      "6d60c50908b0c588a62f7e784b7d9f51fd8fd3003db2c89957302139fb615e7c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 865
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sparebank"
+    },
+    "_sourceKeys": [
+      "1b87625797c0cf704dd5f948c33a998fed221821ffcbb311712d65ef557fb87b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 866
+  },
+  {
+    "condition": {
+      "urlFilter": "||cx/sbanken|"
+    },
+    "_sourceKeys": [
+      "689495d9e698cba1daeff3dd5c08c6b17469b4ac1f504d6160592741f6a4102c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 867
+  },
+  {
+    "condition": {
+      "urlFilter": "-norge.co.no^"
+    },
+    "_sourceKeys": [
+      "f2fa50d5c2765fe00befa912b1b34832ffc93750ec15efbf148e3ef88830853f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 869
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmark.com^"
+    },
+    "_sourceKeys": [
+      "8916bb65d10993ff2c5f52427567e73d69cd0743006f6563555a02cab15a8275"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 870
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oofosnorgeoutlet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e66589b60a57aee97d2f188f4c300c482b3c891a45d4e4c186609071a3662d25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 871
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "clarks-dk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e9e386ab0fec4ca51d269fbf65339aeeea1d765c8513953feca30d678670a122"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 872
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hokaonenorge.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7a6582fe932aabf5438995eb87fb10080f6f3305b18b11a071289e0bce6a9c26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 873
+  },
+  {
+    "condition": {
+      "urlFilter": "||hokalopesko."
+    },
+    "_sourceKeys": [
+      "b2c455cc2a3809cf5e77be99562dcfa48e965138409cd3a72e374f07af3df8f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 874
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hunter-danmark.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7b0a14adba2c05108823a4f29d3ab67f35d0a67d210244792bebf034b43d1641"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 875
+  },
+  {
+    "condition": {
+      "regexFilter": "^(https?:\\/\\/)?hokaoneone[a-z0-9].*$"
+    },
+    "_sourceKeys": [
+      "d73ccc97a2ed2f092b6ed2d18a395b104a7ff2acd94cc9ea8e21ba1b4fba4c94"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 876
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgeskosalg."
+    },
+    "_sourceKeys": [
+      "31a45450dc9b31ae0a182aba209ea40576c7a6ac67fdeac9ca9db07285fa743c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 877
+  },
+  {
+    "condition": {
+      "urlFilter": "*norge-salg.com^"
+    },
+    "_sourceKeys": [
+      "cacff0cb4e43c7d6fd5d7d9cb5b37ddc66b6526aa64b84a8f07449ebb3c15624"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 878
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalg.com^"
+    },
+    "_sourceKeys": [
+      "0d9d86d78388649f1e2851c49975dfc5045dbd4e2224514c315e325173257d94"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 879
+  },
+  {
+    "condition": {
+      "urlFilter": "*norgesalgs.com^"
+    },
+    "_sourceKeys": [
+      "e62f975a384fe83dad0aa68258475eaafe45b44d38b988c30b3ef6b8f87f5f22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 880
+  },
+  {
+    "condition": {
+      "urlFilter": "*salgnorge.com^"
+    },
+    "_sourceKeys": [
+      "84a4cf7895f9d023fa2e4b285200a6c74cddfb94718d5e4ddfbd0e60df499fa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 881
+  },
+  {
+    "condition": {
+      "urlFilter": "*danmarkdk.com^"
+    },
+    "_sourceKeys": [
+      "f9fb44dae1edb068a540593705f54edc85fb5607d1e2243488ff7c20c24d99cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 882
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodktilbud."
+    },
+    "_sourceKeys": [
+      "9b5592450f1b790f3824f03cdc13e9d807fe4d1a0bc14b152633a6401a655746"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 883
+  },
+  {
+    "condition": {
+      "urlFilter": "*skonorgeeu.com^"
+    },
+    "_sourceKeys": [
+      "9c6567e4af6cb20b4eaea59c29888e5efcf199219f1357d9a4d34f58aacf9dcc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 884
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersnorgeshop."
+    },
+    "_sourceKeys": [
+      "c4740c97145fa49df45196dd266639b85bc02563c718c3f0273c6ed7d51637b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 885
+  },
+  {
+    "condition": {
+      "urlFilter": "*sneakersdkshop.com^"
+    },
+    "_sourceKeys": [
+      "6ff8755e1af3f3b27ef7054ed6ec1e657407282e03d0e49ab821109e58a0dcd5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 886
+  },
+  {
+    "condition": {
+      "urlFilter": "*skodanmarks."
+    },
+    "_sourceKeys": [
+      "8097fc0a2cdcfdf4add0e536ba0eda804404fdbd60173e7d875a37f321173128"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 887
+  },
+  {
+    "condition": {
+      "urlFilter": "||dnb-oppdater."
+    },
+    "_sourceKeys": [
+      "558f51b9dfaa9c4171a13262591f5ad81265f27ac7107f03cd26cdf03a07b4af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 888
+  },
+  {
+    "condition": {
+      "urlFilter": "||no-oppdatere."
+    },
+    "_sourceKeys": [
+      "dfc8752dce9abf68fd1a80a5eac66ffeb2b7aa83d0a7921a1da73033df439592"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 891
+  },
+  {
+    "condition": {
+      "urlFilter": "://179.43.189.62^"
+    },
+    "_sourceKeys": [
+      "d7051c2166151a86ee741375bc44d22a13176aa361d96ec77038d84b56f2a675"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 893
+  },
+  {
+    "condition": {
+      "urlFilter": "||easypark-"
+    },
+    "_sourceKeys": [
+      "de1a8e0ed5f28101d3b90854f4445e777c27344bc13397afd516b86c45c95e85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 894
+  },
+  {
+    "condition": {
+      "urlFilter": "||monetrizer*."
+    },
+    "_sourceKeys": [
+      "c62aad06f955bd641de58d64571e8f290a3fe03f8bae73a172de7120de61c28a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 895
+  },
+  {
+    "condition": {
+      "urlFilter": "://38.180.96.244^"
+    },
+    "_sourceKeys": [
+      "1c61f4c0a03c84b3e06ab979ceddf3e31874e70c78b1e05f5c285a1ce0902e32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 896
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.45^"
+    },
+    "_sourceKeys": [
+      "1b2fd43bf6c3f4aaa6b5fcfd4af26b78b7c1b6591b36013cc702d510184b0544"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 897
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.214^"
+    },
+    "_sourceKeys": [
+      "919df06bf693db1fb39e93e1348023ceaaf4f0cc9b1b1a494be1a26460d2c28a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 898
+  },
+  {
+    "condition": {
+      "urlFilter": "://193.143.1.217^"
+    },
+    "_sourceKeys": [
+      "651a1b78278d2884ec217a2fa4a9bfb12aa66b2335314c0f4309938e2b667f8d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 899
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adidasko.com"
+      ]
+    },
+    "_sourceKeys": [
+      "1650e420662aca980091bf639debf26a1f4092306181cd0934157c920318df9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 900
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gsport.com"
+      ]
+    },
+    "_sourceKeys": [
+      "4c1eb1a318700574b6516ac26967927b4eeba9183edb8d1adfa298a9bc1abd91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 901
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hernoclothing.com"
+      ]
+    },
+    "_sourceKeys": [
+      "0c75dff8486e47023c4cb38b8895162fabafe8ac5db989fa297a13acc0208838"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 902
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "linkshe.com"
+      ]
+    },
+    "_sourceKeys": [
+      "53da0452f855e8c0e5b93bc5a1ae2b0d5fd7833a5d6ed832cd64011aba8ffc77"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 903
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norfotball.com"
+      ]
+    },
+    "_sourceKeys": [
+      "b41ef5705a153b9e23c751c425d77488310f2ca93a84c575f3e6946d40ef51f2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 904
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norgefotball.com"
+      ]
+    },
+    "_sourceKeys": [
+      "9d9f305490ae13db2e5dcafbadc5d695cbc1e0a5e0b9c2982d9af6db5758fe7a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 905
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "norgeshoes.com"
+      ]
+    },
+    "_sourceKeys": [
+      "4a622e2274bf493410ff5faa35b4b56c59ce73ba1796ad27997a35517c434eb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 906
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "oflike.com"
+      ]
+    },
+    "_sourceKeys": [
+      "6d37b3fea79710f91501fb1d4a572265d25b849af0ea7b3c23d1942d9b4103e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 907
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pjs.outlet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "537a8c2f6579dbe5e0c867342fb86aad365b1dcac540e8d316b7940318fe3f09"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 908
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "popeurope.com"
+      ]
+    },
+    "_sourceKeys": [
+      "8ae62b1afa2180a5fd9c523d669ec0ee2e1de7b2f25fada5187692375c893165"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 909
+  },
+  {
+    "condition": {
+      "urlFilter": "://old.sermitsiaq.ag^"
+    },
+    "_sourceKeys": [
+      "de9a32f55eb67964059b198730d7bb712641762c8bbfae0923440cbbe04cd5c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 910
+  },
+  {
+    "condition": {
+      "urlFilter": "://robot.ekstrabladet.dk^"
+    },
+    "_sourceKeys": [
+      "8d891d84e16ae19e2ddd870af8b9b392097bdfc33a76390401b387b63940b7dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 911
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/absales^"
+    },
+    "_sourceKeys": [
+      "9203771908901920c43677049204a9dd3b5b7e0747871c686243edaaa89bafde"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 912
+  },
+  {
+    "condition": {
+      "urlFilter": "/noo/taxx/"
+    },
+    "_sourceKeys": [
+      "163c0faca66331b5e3771294177074318e6517d1a0f33e8f54e3ec4f1486d50b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 913
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "idportal.vercel.app"
+      ]
+    },
+    "_sourceKeys": [
+      "9dee7dedb015984f4a937de378bcbb1285b8b44739558067e8c40f40193d8318"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 915
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/refusjon"
+    },
+    "_sourceKeys": [
+      "6062ee96fadda9b6333460d0e326c27eb9e657bae311111f62f982e49ce8a23e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 925
+  },
+  {
+    "condition": {
+      "urlFilter": "||wpenginepowered.com/skatteetaten^"
+    },
+    "_sourceKeys": [
+      "dd641788e9180c0ce656f3dda893514fc1b7f3b26dd5cab73c231ccd6ed385a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 926
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/sikkerskatt/refusjon^"
+    },
+    "_sourceKeys": [
+      "2e6470e4a1df279729dd93089c9af00105ea921ec3edd5eee4dfa826f766bc9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 927
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/skatt/refusjon/"
+    },
+    "_sourceKeys": [
+      "3d683cb8cc4d4069585b4331b3268b2ab2ebe927ab99c26284fd3698143de1ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 928
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "flytteregister.no"
+      ]
+    },
+    "_sourceKeys": [
+      "3d90079b4bd380f8ec16be4dc86aa76e132715fe0b2bdbe8ba1a401b9d5b06a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 930
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlssneykonto.com"
+      ]
+    },
+    "_sourceKeys": [
+      "74a4c6c024ba4eec0ebd302a882f840c6847b30240c0ee8e9646588ff1da895c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 931
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "infos-sundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "3a7c01a8ea04ee6bbefb0172ab27152c6ce98f0217f406c85017d7c6f9ceed15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 932
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sporpakke-dk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "5085122f10353cd0a1bd511d44d386944a8785e6b067a90e5a557f5a17fd63a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 933
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infos.com"
+      ]
+    },
+    "_sourceKeys": [
+      "4498e0c77246f12ddd60f2e9f49a860338b8aad24983153682b30c0a6c2560de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 934
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-skort.com"
+      ]
+    },
+    "_sourceKeys": [
+      "6b54aad97038d775ed52ae4a03c8e9473ab3099ada84e1ad1add2046d11b75f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 935
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dk-fornysundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "7ac992f922841ee0239c3d6e71a204d441e41ad74b182912b6c2bccf09c33069"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 936
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dksundhed.com"
+      ]
+    },
+    "_sourceKeys": [
+      "99f99bdad80ad497616496a4bb958c052f48511a0f1457f1b2f44d624943f59a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 937
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sundhed-infodk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "5d19032ebe02eaf28b9482ee4f88dfaa2953e7ca4684def4ec5c273d9d0b1043"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 938
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.86"
+      ]
+    },
+    "_sourceKeys": [
+      "07cc82c8a91971c0dc9d8ab3a0578494e851f06c479a5b827e16f54412118141"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 939
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.87"
+      ]
+    },
+    "_sourceKeys": [
+      "abb4e3e691f70e40d608790b24f9e2d1bae3155de598014a3608ceed85fd4f9c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 940
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.88"
+      ]
+    },
+    "_sourceKeys": [
+      "20c23803e8ada48867c5f4fe613fd62345e47da955dbe7308e2da05e6557b9a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 941
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "158.94.209.90"
+      ]
+    },
+    "_sourceKeys": [
+      "9b21d3ff4b124538f652f5638d62051058cfe7e1f144e0013999ff041f0ba782"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 942
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "223.29.226.200"
+      ]
+    },
+    "_sourceKeys": [
+      "2fc7c219d1ad29258f0deae62c8b7bca7ed82308c901b2c6f9dad41622782751"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 943
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.firebaseapp.com^"
+    },
+    "_sourceKeys": [
+      "bf5723c1ecffe88eb5f89ae26afab2e64686d70d45e8808e43ec71502079bea8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 944
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-*.web.app^"
+    },
+    "_sourceKeys": [
+      "336daf10f3e7ca714be4f0fb2c98507921eb2201d257f320bd840585d004fb02"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 945
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-beskytte."
+    },
+    "_sourceKeys": [
+      "6c152176485da8432b6f85897da40ab6c5348512a041fd1023ed5a5f1f7bfa65"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 946
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-ids."
+    },
+    "_sourceKeys": [
+      "0886b5ef0736a2c9eb4ac97883a986037a2e4cb731268fc1e8649486211f45cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 947
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-melding-"
+    },
+    "_sourceKeys": [
+      "d35ab6762721966b6133e786a94a3eb9172143dd7c55bcf10b7a90fed679bb34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 948
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinn-minside."
+    },
+    "_sourceKeys": [
+      "c0d369fad385f564a50b753308be437f86a08992c7c21200199e4ba5af9dce47"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 949
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnnorge."
+    },
+    "_sourceKeys": [
+      "72e3037653032b88305381c464b0572813196729f5e2ba6202cd01ab7ed51262"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 950
+  },
+  {
+    "condition": {
+      "urlFilter": "||altinnskatteetaten."
+    },
+    "_sourceKeys": [
+      "8f77f111868aa083eaf95c615d53ccc0a09856513dd334ec427ff500babddbc1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 951
+  },
+  {
+    "condition": {
+      "urlFilter": "||finn-no-n."
+    },
+    "_sourceKeys": [
+      "223f76fb2f2d0d81f0aeea9843645dacf0eefd5aca59e774e408bf98f77f58e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 952
+  },
+  {
+    "condition": {
+      "urlFilter": "||finnobrukerlogg."
+    },
+    "_sourceKeys": [
+      "c2da399d959e91335ede19c9a38a4cc67c4572038865fba411e23761cfc176ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 953
+  },
+  {
+    "condition": {
+      "urlFilter": "||minside-altinn."
+    },
+    "_sourceKeys": [
+      "4cc10f06e59474e70014201dfd6b92f0e96ed3b5f26a353012f396c9a35a68e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 954
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/autopass\\.\\d{6}\\.com(\\/.*)?$"
+    },
+    "_sourceKeys": [
+      "bf78f5bf1a9e5aa8d75a79f4bae64c2efd2db582c0f9fd68a3218253815d4a29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 955
+  },
+  {
+    "condition": {
+      "urlFilter": "://147.45.198.199^"
+    },
+    "_sourceKeys": [
+      "8367da1c4e18a0e711c98f537f949b900a77f0bcec0950f1853ffc12af61cb0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 956
+  },
+  {
+    "condition": {
+      "urlFilter": "://16.170.34.33^"
+    },
+    "_sourceKeys": [
+      "cacfd6886a32d128e1e7040896eb9a141d5354b140081634d5cec2a5b8966bac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 957
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.160.248.24^"
+    },
+    "_sourceKeys": [
+      "c531572b368406c3d4bdf1c4b0c3c93fc892ad30d2fa0e451b807049acaec16a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 958
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.122.86^"
+    },
+    "_sourceKeys": [
+      "4312f613bffcc2dc95ef92f32de095a55fdddb371a5ab97da518a9bdb7c999f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 959
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.157.46.83^"
+    },
+    "_sourceKeys": [
+      "5a5ae5afed66b649093d3fe501e18f6c760ed04443e1b7f8f9ae7094472cd34c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 960
+  },
+  {
+    "condition": {
+      "urlFilter": "://43.164.196.209^"
+    },
+    "_sourceKeys": [
+      "4b242a40e0401361499af6804e9b31692aa63fb4897e64251060215dec820d90"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 961
+  },
+  {
+    "condition": {
+      "urlFilter": "://88.255.216.16^"
+    },
+    "_sourceKeys": [
+      "cebdeb5f4945d35b305df1d7041a44313cbdfba5c6abef853c880beea3473923"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 962
+  },
+  {
+    "condition": {
+      "regexFilter": "^((https?|tcp|udp|i?quic|s?ftp):\\/\\/)?204\\.194\\.54\\.\\d{1,3}([:/].*)?$"
+    },
+    "_sourceKeys": [
+      "70bf035ed87a89ac58da44eac29a39675e00e724652b60fc4fb18068caf0b5dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 963
+  },
+  {
+    "condition": {
+      "urlFilter": "-med.footeo.com^"
+    },
+    "_sourceKeys": [
+      "b4f475a6e3630c00c2d60719b68566322f2ffaa0798cff1c082d67c1a355d1e1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 964
+  },
+  {
+    "condition": {
+      "urlFilter": "*medisin*.over-blog.com^"
+    },
+    "_sourceKeys": [
+      "0abb9b3943afa3070c8adb66f8bc629017b8eb892be2bab68348a7cd14fb3eed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 965
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "helsehjelp.over-blog.com"
+      ]
+    },
+    "_sourceKeys": [
+      "72abb94f335c625e769161a4162cae8acb4e5e332612fbc4dba48d12ca5334b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 966
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "marson.footeo.com"
+      ]
+    },
+    "_sourceKeys": [
+      "3aa552691bec679778e03baef7a7ad17856f17d0d52572909bb158f124b553f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 967
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sobrilleverandoridanmark.wordpress.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e00a6c2663810e184308d2cb4995d700e113f512e4c30984f77a68e37319f586"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 968
+  },
+  {
+    "condition": {
+      "urlFilter": "||xanax*.over-blog.com^"
+    },
+    "_sourceKeys": [
+      "9abcb7969fcdf5530a90e8e05d6b36b590f7938ab5d835aafe39379dd6b853e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 969
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "informationer.nu"
+      ]
+    },
+    "_sourceKeys": [
+      "e714630c8b3293abce3155b5bccb767c2bd177604a6024fbde43479bd968e77b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 970
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "webavisen.gl"
+      ]
+    },
+    "_sourceKeys": [
+      "7ce25e515ab14651511b428fed18e4ca9e3d0c210b5b64865d0081ca6a1c82a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 971
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-levering."
+    },
+    "_sourceKeys": [
+      "281f06040338d2d0e92845f6c78c33111929ff599e47d26f6dd638b043f3cfb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 972
+  },
+  {
+    "condition": {
+      "urlFilter": "||post-nord-receiving."
+    },
+    "_sourceKeys": [
+      "8b1a483d73b8a211009cea2b898e82afb052989fd22b20e4559411f99dbab52c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 973
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-nno."
+    },
+    "_sourceKeys": [
+      "36edc47fbc8ac80776c473aa2ec305c5fc7ec74a051efbb8e477c58b10c971d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 974
+  },
+  {
+    "condition": {
+      "urlFilter": "||posten-tracks."
+    },
+    "_sourceKeys": [
+      "a676809eb055ed19a048fcbe75b4b19c41d4861147ade33725c58f429b254143"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 975
+  },
+  {
+    "condition": {
+      "urlFilter": "||postenn-no."
+    },
+    "_sourceKeys": [
+      "bd23f741ee94fc1f963051baf9400708246e6bc37472c3027f14e9519443f94c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 976
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-all."
+    },
+    "_sourceKeys": [
+      "9fbe3f2d4be38b8d75cd5e7498fb5ce5a8ff22dc0d3c3e4dfa8eea6428847758"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 977
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-confirmation."
+    },
+    "_sourceKeys": [
+      "22f4bc67b7eeef7fceb76c87efd90dc737772d64ef4919610d3032d1599036b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 978
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-delay."
+    },
+    "_sourceKeys": [
+      "1d4b397087a8b343609c9f80b8dd3cb53060614b47fb0328c620689f7097ff94"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 979
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-order-"
+    },
+    "_sourceKeys": [
+      "e837269380a5c3da68334e7138641a64c59bf2fc94c4651358eff086cb7b6963"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 980
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-paket."
+    },
+    "_sourceKeys": [
+      "1540f2680c067bda7619d8ba9368624a324aa30a07aa582a7434a3256bc5652d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 981
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-pay."
+    },
+    "_sourceKeys": [
+      "f5e41ff3bd5e1728da42ae9d45fa5d16a16aded14bad0eb784620949881ae304"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 982
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-post."
+    },
+    "_sourceKeys": [
+      "e9df8a039856f796bcaf0d83a8884464f8e7a260bb5d4ee1a5de92f9d7a4adb6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 983
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-se-delivery."
+    },
+    "_sourceKeys": [
+      "374c3618869143f01675772f9dcc9e1355335348ef9725801f0192002a6363b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 984
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step."
+    },
+    "_sourceKeys": [
+      "b3e82f4054dd70cf8b629a9f882e92e406300ca5622da4d302ad54b259eb8026"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 985
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-step1."
+    },
+    "_sourceKeys": [
+      "b5a282e57f70b12ae79ffa0ec2bbb1d09ecbf408f49d4c57da043fe535e74a8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 986
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tk."
+    },
+    "_sourceKeys": [
+      "1b627a58f11f312b39fe24aee605cedf737423944b2b28173cb5130b12badc18"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 987
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnord-tracks."
+    },
+    "_sourceKeys": [
+      "86993807639e203b3e182df6bd4ee887c96085e5651b7e8dbdfae8924dcc2e99"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 988
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorde-swe."
+    },
+    "_sourceKeys": [
+      "a40082714a95d5181a5cc1d8486197489662e0715a3412c1a7aa7282f5176ebd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 989
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpress."
+    },
+    "_sourceKeys": [
+      "4a6175de9e270ffbe1891cab97ee59bda532da3b1b4037b023a1e8af39f590e5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 990
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordexpressdelivery-"
+    },
+    "_sourceKeys": [
+      "056e2090867a64b86a2e239cfdf8b6398f40741981d84bb75a97433169278e24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 991
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnordspara."
+    },
+    "_sourceKeys": [
+      "a096136f3b240b8d2fdefb42f187db5bce32b3331412eed58569a8be375a6048"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 992
+  },
+  {
+    "condition": {
+      "urlFilter": "||postnorg-dk*"
+    },
+    "_sourceKeys": [
+      "58085cb21c0ede38a0a8c1b832659ad42f5b8014db612629be05d1c29a628d53"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 993
+  }
+]

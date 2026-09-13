@@ -1,0 +1,343 @@
+/*******************************************************************************
+
+    uBlock Plus+ - an original-first MV3 fork
+    Based on uBlock Origin upstream sources
+    Copyright (C) 2022-present Raymond Hill
+    Modifications Copyright (C) 2026-present uBlock Plus+ contributors
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see {http://www.gnu.org/licenses/}.
+
+    Home: https://github.com/gorhill/uBlock
+*/
+
+import {
+    browser,
+    localRead, localRemove, localWrite,
+    runtime,
+    sendMessage,
+} from './ext.js';
+
+import { POWER_UI_STORAGE_KEY } from './power-ui-core.js';
+import { getImportedLists } from './imported-lists.js';
+import { normalizeBackupObject } from './backup-schema.js';
+
+/******************************************************************************/
+
+export async function backupToObject(currentConfig) {
+    const out = {};
+    const manifest = runtime.getManifest();
+    out.version = manifest.versionName ?? manifest.version;
+    const [
+        defaultConfig,
+        sandboxFilters,
+        memoryProfile,
+        filterStoreRepositories,
+        popupPolicies,
+        powerUISettings,
+    ] = await Promise.all([
+        sendMessage({ what: 'getDefaultConfig' }),
+        sendMessage({ what: 'getSandboxFilters' }).then(a => a?.trim() ?? ''),
+        sendMessage({ what: 'getMemoryProfile' }),
+        localRead('filterStore.repositories'),
+        sendMessage({ what: 'getPopupPolicies' }),
+        localRead(POWER_UI_STORAGE_KEY),
+    ]);
+    if ( currentConfig.autoReload !== defaultConfig.autoReload ) {
+        out.autoReload = currentConfig.autoReload;
+    }
+    if ( currentConfig.developerMode !== defaultConfig.developerMode ) {
+        out.developerMode = currentConfig.developerMode;
+    }
+    if ( currentConfig.popupBlockMode !== defaultConfig.popupBlockMode ) {
+        out.popupBlockMode = currentConfig.popupBlockMode;
+    }
+    if ( currentConfig.showBlockedCount !== defaultConfig.showBlockedCount ) {
+        out.showBlockedCount = currentConfig.showBlockedCount;
+    }
+    if ( currentConfig.strictBlockMode !== defaultConfig.strictBlockMode ) {
+        out.strictBlockMode = currentConfig.strictBlockMode;
+    }
+    if ( memoryProfile?.selected && memoryProfile.selected !== 'auto' ) {
+        out.memoryProfile = memoryProfile.selected;
+    }
+    if ( Array.isArray(filterStoreRepositories) && filterStoreRepositories.length ) {
+        out.filterStoreRepositories = filterStoreRepositories.slice();
+    }
+    if ( Object.keys(popupPolicies?.policies || {}).length !== 0 ) {
+        out.popupPolicies = { ...popupPolicies.policies };
+    }
+    if ( powerUISettings instanceof Object ) {
+        out.powerUISettings = { ...powerUISettings };
+    }
+    const { enabledRulesets } = currentConfig;
+    const customRulesets = [];
+    for ( const id of enabledRulesets ) {
+        if ( defaultConfig.rulesets.includes(id) ) { continue; }
+        customRulesets.push(`+${id}`);
+    }
+    for ( const id of defaultConfig.rulesets ) {
+        if ( enabledRulesets.includes(id) ) { continue; }
+        customRulesets.push(`-${id}`);
+    }
+    if ( customRulesets.length !== 0 ) {
+        out.rulesets = customRulesets;
+    }
+    out.filteringModes = await sendMessage({ what: 'getFilteringModeDetails' });
+    const restoreLevels = await sendMessage({ what: 'getFilteringModeRestoreLevels' });
+    if ( Object.keys(restoreLevels).length !== 0 ) {
+        out.filteringModeRestoreLevels = restoreLevels;
+    }
+    const customFilters = await sendMessage({ what: 'getAllCustomFilters' });
+    if ( customFilters.length !== 0 ) {
+        out.customFilters = customFilters;
+    }
+    if ( sandboxFilters !== '' ) {
+        out.sandboxFilters = sandboxFilters.split('\n');
+    }
+    const dnrRules = await localRead('userDnrRules');
+    const firewallRules = await localRead('firewall.permanent');
+    if ( typeof firewallRules === 'string' && firewallRules !== '' ) {
+        out.firewallRules = firewallRules.split('\n');
+    }
+    if ( typeof dnrRules === 'string' && dnrRules.length !== 0 ) {
+        out.dnrRules = dnrRules.split(/\n+/);
+    }
+    const importedLists = await getImportedLists();
+    if ( importedLists.length ) {
+        out.importedLists = importedLists.map(list => ({
+            url: list.id,
+            enabled: list.enabled === true,
+            name: list.name,
+            homeURL: list.homeURL,
+            sourceIntegrity: list.sourceIntegrity,
+            maxSourceBytes: list.maxSourceBytes,
+            maxSourceFetches: list.maxSourceFetches,
+            requireHTTPSSource: list.requireHTTPSSource,
+        }));
+    }
+    return out;
+}
+
+/******************************************************************************/
+
+export async function restoreFromObject(targetConfig) {
+    // Validate and clone every field before the first mutation. A malformed
+    // backup must fail closed instead of partially resetting live settings.
+    targetConfig = normalizeBackupObject(targetConfig);
+    if ( targetConfig.firewallRules?.length ) {
+        await sendMessage({ what: 'previewFirewallRules', text: targetConfig.firewallRules.join('\n') });
+    }
+    const defaultConfig = await sendMessage({ what: 'getDefaultConfig' });
+
+    await sendMessage({
+        what: 'setAutoReload',
+        state: targetConfig.autoReload ?? defaultConfig.autoReload
+    });
+
+    await sendMessage({
+        what: 'setShowBlockedCount',
+        state: targetConfig.showBlockedCount ?? defaultConfig.showBlockedCount
+    });
+
+    await sendMessage({
+        what: 'setDeveloperMode',
+        state: targetConfig.developerMode ?? defaultConfig.developerMode
+    });
+
+    await sendMessage({
+        what: 'setStrictBlockMode',
+        state: targetConfig.strictBlockMode ?? defaultConfig.strictBlockMode
+    });
+
+    await sendMessage({
+        what: 'setPopupBlockMode',
+        state: targetConfig.popupBlockMode ?? defaultConfig.popupBlockMode
+    });
+
+    await sendMessage({
+        what: 'replacePopupPolicies',
+        policies: targetConfig.popupPolicies ?? {},
+    });
+
+    if ( targetConfig.powerUISettings ) {
+        await localWrite(
+            POWER_UI_STORAGE_KEY,
+            targetConfig.powerUISettings
+        );
+    } else {
+        await localRemove(POWER_UI_STORAGE_KEY);
+    }
+
+    const memoryProfile = [ 'auto', 'balanced', 'low-memory' ]
+        .includes(targetConfig.memoryProfile)
+        ? targetConfig.memoryProfile
+        : 'auto';
+    await sendMessage({
+        what: 'setMemoryProfile',
+        profile: memoryProfile,
+    });
+
+    const repositories = [];
+    for ( const value of targetConfig.filterStoreRepositories || [] ) {
+        if ( repositories.length === 8 ) { break; }
+        if ( typeof value !== 'string' ) { continue; }
+        let url;
+        try {
+            url = new URL(value);
+        } catch {
+            continue;
+        }
+        if ( url.protocol !== 'https:' || url.username || url.password ) {
+            continue;
+        }
+        if ( repositories.includes(url.href) === false ) {
+            repositories.push(url.href);
+        }
+    }
+    if ( repositories.length ) {
+        await localWrite('filterStore.repositories', repositories);
+    } else {
+        await localRemove('filterStore.repositories');
+    }
+
+    const enabledRulesets = defaultConfig.rulesets;
+    for ( const entry of targetConfig.rulesets || [] ) {
+        const id = entry.slice(1);
+        if ( entry.startsWith('+') ) {
+            if ( enabledRulesets.includes(id) ) { continue; }
+            enabledRulesets.push(id);
+        } else if ( entry.startsWith('-') ) {
+            const i = enabledRulesets.indexOf(id);
+            if ( i === -1 ) { continue; }
+            enabledRulesets.splice(i, 1);
+        }
+    }
+    const reImport = /^[a-z-]+:\/\//;
+    const restoredLists = [];
+    for ( const details of targetConfig.importedLists || [] ) {
+        if ( restoredLists.length === 32 ) { break; }
+        if ( typeof details?.url !== 'string' ) { continue; }
+        let url;
+        try {
+            url = new URL(details.url);
+        } catch {
+            continue;
+        }
+        if ( url.protocol !== 'https:' || url.username || url.password ) {
+            continue;
+        }
+        const restored = {
+            ...details,
+            url: url.href,
+            maxSourceBytes: Number.isSafeInteger(details.maxSourceBytes)
+                ? details.maxSourceBytes
+                : 5 * 1024 * 1024,
+            maxSourceFetches: Number.isSafeInteger(details.maxSourceFetches)
+                ? details.maxSourceFetches
+                : 32,
+            requireHTTPSSource: true,
+        };
+        restoredLists.push(restored);
+        const wasExplicitlyEnabled = details.enabled === true ||
+            details.enabled === undefined && enabledRulesets.includes(url.href);
+        const index = enabledRulesets.indexOf(url.href);
+        if ( wasExplicitlyEnabled && index === -1 ) {
+            enabledRulesets.push(url.href);
+        } else if ( wasExplicitlyEnabled === false && index !== -1 ) {
+            enabledRulesets.splice(index, 1);
+        }
+    }
+    // Do not retain imported URLs which have no restored subscription record.
+    const restoredIds = new Set(restoredLists.map(list => list.url));
+    for ( let i = enabledRulesets.length - 1; i >= 0; i-- ) {
+        const id = enabledRulesets[i];
+        if ( reImport.test(id) && restoredIds.has(id) === false ) {
+            enabledRulesets.splice(i, 1);
+        }
+    }
+    await sendMessage({
+        what: 'restoreImportedLists',
+        lists: restoredLists,
+        enabledRulesets: Array.from(enabledRulesets),
+    });
+
+    await sendMessage({
+        what: 'setFilteringModeDetails',
+        modes: targetConfig.filteringModes ?? defaultConfig.filteringModes,
+        restoreLevels: targetConfig.filteringModeRestoreLevels ?? {},
+    });
+
+    await sendMessage({ what: 'removeAllCustomFilters', hostname: '*' });
+    const cosmeticFilters = targetConfig.cosmeticFilters;
+    if ( Array.isArray(cosmeticFilters) ) {
+        const hostnameMap = new Map();
+        for ( const line of cosmeticFilters ) {
+            const i = line.indexOf('##');
+            if ( i === -1 ) { continue; }
+            const hostname = line.slice(0, i);
+            if ( hostname === '' ) { continue; }
+            const selector = line.slice(i+2);
+            if ( selector === '' ) { continue; }
+            const selectors = hostnameMap.get(hostname) || [];
+            if ( selectors.length === 0 ) {
+                hostnameMap.set(hostname, selectors)
+            }
+            selectors.push(selector);
+        }
+        if ( hostnameMap.size !== 0 ) {
+            await sendMessage({ what: 'addManyCustomFilters',
+                entries: Array.from(hostnameMap),
+            });
+        }
+    }
+    const customFilters = targetConfig.customFilters;
+    if ( Array.isArray(customFilters) ) {
+        await sendMessage({ what: 'addManyCustomFilters',
+            entries: customFilters,
+        });
+    }
+
+    await sendMessage({
+        what: 'setSandboxFilters',
+        text: targetConfig.sandboxFilters?.join('\n') ?? '',
+    });
+
+    const dnrRules = targetConfig.dnrRules ?? [];
+    const previousDNRRules = (await browser.storage.local.get('userDnrRules')).userDnrRules;
+    if ( dnrRules.length !== 0 ) {
+        await localWrite('userDnrRules', dnrRules.join('\n'));
+    } else {
+        await localRemove('userDnrRules');
+    }
+    const result = await sendMessage({ what: 'updateUserDnrRules' });
+    if ( result?.fatalError ) {
+        // DNR rejects an invalid replacement atomically. Keep the previous
+        // rule text paired with that still-active rule set and report failure.
+        // A transport rejection is ambiguous (the update may have committed),
+        // so it must not roll back only the saved text of a possibly active set.
+        const reason = new Error(`Unable to restore DNR rules: ${result.fatalError}`);
+        if ( previousDNRRules === undefined ) {
+            await localRemove('userDnrRules');
+        } else {
+            await localWrite('userDnrRules', previousDNRRules);
+        }
+        throw reason;
+    }
+
+    await sendMessage({
+        what: 'applyFirewallRules',
+        text: targetConfig.firewallRules?.join('\n') ?? '',
+        permanent: true,
+    });
+}

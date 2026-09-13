@@ -1,0 +1,89 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.utop.ir",
+        "campaign-uploads.s3.amazonaws.com",
+        "projectagora.s3.amazonaws.com",
+        "xatech.com",
+        "ads.stardima.com",
+        "ban.alukah.net",
+        "mlbanners.misrlinks.com",
+        "popup.egyup.com"
+      ]
+    },
+    "_sourceKeys": [
+      "1aa8e6d0047b38510f8d59ae493b7591f9aa35c07f756e418dfbd2d6658def1e",
+      "cf9cb68f365d818ba57e4477db08a5131043b83ec2a6bc69fe6e26873c7dc3c0",
+      "a3195818899d56e2bdccddf7557848328eb7b1a9f1ca53c1d898c603867e6ac1",
+      "43f21a97c2a3fe29b80df51445afe9bf83d6e7980ef2c0cd2a498b0ed3159f8d",
+      "6813163f4de63c9ae93f374e1dd323b493283e738e7d55b092fb89134f649312",
+      "29a2981f33115af48ab167ad1571ecc22acf577bc23844129ae2a9574abd91ae",
+      "f2f9f2d2acfdb94ce2dc8e49c1472e61f9b7fb34956bf94d99da820cafd239ee",
+      "7d82f1e14a3c009ce32113b34667a5d80c1aac5a352bda9cf4c0174e56842959"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad.utop.ir",
+        "keys": [
+          "1aa8e6d0047b38510f8d59ae493b7591f9aa35c07f756e418dfbd2d6658def1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "campaign-uploads.s3.amazonaws.com",
+        "keys": [
+          "cf9cb68f365d818ba57e4477db08a5131043b83ec2a6bc69fe6e26873c7dc3c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "projectagora.s3.amazonaws.com",
+        "keys": [
+          "a3195818899d56e2bdccddf7557848328eb7b1a9f1ca53c1d898c603867e6ac1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xatech.com",
+        "keys": [
+          "43f21a97c2a3fe29b80df51445afe9bf83d6e7980ef2c0cd2a498b0ed3159f8d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.stardima.com",
+        "keys": [
+          "6813163f4de63c9ae93f374e1dd323b493283e738e7d55b092fb89134f649312"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ban.alukah.net",
+        "keys": [
+          "29a2981f33115af48ab167ad1571ecc22acf577bc23844129ae2a9574abd91ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mlbanners.misrlinks.com",
+        "keys": [
+          "f2f9f2d2acfdb94ce2dc8e49c1472e61f9b7fb34956bf94d99da820cafd239ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popup.egyup.com",
+        "keys": [
+          "7d82f1e14a3c009ce32113b34667a5d80c1aac5a352bda9cf4c0174e56842959"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 815
+  }
+]

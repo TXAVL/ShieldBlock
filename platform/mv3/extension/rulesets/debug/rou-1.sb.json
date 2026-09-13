@@ -1,0 +1,746 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "jsecoin.com",
+        "reasedoper.pw",
+        "listat.biz",
+        "minecrunch.co",
+        "7w.ro",
+        "ado.icorp.ro",
+        "brand.ad",
+        "omniconvert.com",
+        "storage.icorp.ro",
+        "zm232.com",
+        "adtlgc.com",
+        "tynt.com",
+        "crwdcntrl.net",
+        "ads1-adnow.com",
+        "ads2-adnow.com",
+        "ads3-adnow.com",
+        "tesseradigital.com",
+        "profitshare.emag.ro",
+        "profitshare.ro",
+        "l.profitshare.ro",
+        "adexc.net",
+        "admonitoring.bsgroup.ro",
+        "adocean.pl",
+        "ads.gadget.ro",
+        "ads.tradeads.eu",
+        "adservingfactory.com",
+        "brat-online.ro",
+        "chargeplatform.com",
+        "flx1.com",
+        "gravityrd-services.com",
+        "megapopads.com",
+        "new.cetrk.com",
+        "profiling.avandor.com",
+        "profiling1.avandor.com",
+        "s.atemda.com",
+        "secure.trafic.ro",
+        "st.ad.adnow.com",
+        "storage.trafic.ro",
+        "track.atom-data.io",
+        "www4.smartadserver.com",
+        "pwa.grgs.ro",
+        "retargeting.biz",
+        "hotjar.com",
+        "awstaticdn.net",
+        "contestapp.a1.ro",
+        "creativcdn.net",
+        "kreativcdn.net",
+        "ads2.evz.ro",
+        "adsnative.com",
+        "s2blosh.com",
+        "3myad.com",
+        "serve.efortuna.ro",
+        "banners.livepartners.com",
+        "openstat.eu",
+        "sgbm.info",
+        "aplizz.net",
+        "pornlash.com",
+        "pgnasm.click",
+        "colorfulculture.click",
+        "massug.space",
+        "adc-teasers.com",
+        "xamubee.ru",
+        "gwngdfxtm.ru",
+        "nnowa.com",
+        "klodrum.com",
+        "get-in-shape.beauty",
+        "gonowx.com",
+        "adv.noi.md",
+        "deltarockme.com",
+        "beesratyou.com",
+        "whitemaincode.com",
+        "kdsk32lfa.xyz",
+        "shufflefell.com",
+        "rvlqplr.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bc61594518b5ab778c5fa645ce864da7cbb5dc910611562a652f396b1087e0f6",
+      "d88a6657e07efe41f2c617822040ea5fdd9f4e0f815a466c22c8fdd90c1e4817",
+      "f0855f25354207a8fc5f1d21b56e8f06f51abaec4805741cf54abc61e04e4496",
+      "a57d64d84f9a5245dd422f52db7c5560853a13b3322db7e8e6c4f1af30f4cc4d",
+      "64bc3d7d5c1d6618736eaa03bf3fb494d5474b107f317039aed2462ee0d7cf85",
+      "08bbbc078d31e57ce2e432475a8f1db9eb39d090af01b2ac49a34ced10cb8fc2",
+      "222ab9d44ad198d272c6239adcd913712e7573653abf22d24f57850f48e2f86b",
+      "b68602080caad619dcd4686e530efac107d17363f9d3973d2254fbf1689eba54",
+      "ae6246b22a29e6777d72510dfc086e4d18a89a8b20d3cc403321b73bc062d8d6",
+      "3ac8d7ffcf6c866a0593efd7f5fa2ff6f6241e16de6f3d1269c40890d9a8822d",
+      "084268dc87bd8996bf8f7baef4a49b23cea4849efa87e2f11fe875f70d41651b",
+      "df268fb651c5e8503c3a47d7b40f2c2ce80e642e57ecb5333edbbe79805f8950",
+      "36440a21ff9b4df2fa036f874cda97fac3a588b0ddb4b0637307b050b07768c3",
+      "28f9b5ce1e4c568cd26d43596df2689872643d3b69ded0971a7cc1f1e8d83f4b",
+      "8974bcc321d3f824ebfe24d43692447a0f770dda79eb2512b1991f4d76b6a5b5",
+      "1be3b777a90b36c761095963e22d36fd85b8f43a51158f0d2102a9b9085f6549",
+      "f2d539788bb03588f498d9e515cdb65cd9ff66c8e0f0881cb5bffd1b4c52b495",
+      "b312dc54eacabd13bde2cf28479c2d95eb637254af05865e7af7806a13d3c633",
+      "4a7dab09e3e495f4ed9f6157342cdd1ed1043126f9f15c9eaf2c494ef2d1e51b",
+      "c9e641493d4fd87b0ae9d397b16dd6d442a351fc026324176764479e4f64bdd1",
+      "7a76017d3b5a4d3f3be89895c88ba590ac5aadb6ff94f9d5ad211c41e05519f8",
+      "9cbf8baaf6ff73da93c304b4e296f7d7fcd442a3d1b205c9a9dbc0de3161b70f",
+      "e0cf27dd65cd33163a167f7d46caff4eafd975fa18c9ead7bbc74a6ac35f6254",
+      "7f5a1f0b984265549f2f25f7be7c6497918e639f52dd0e3fb8414d85cc02c41d",
+      "91e2f41ebb18e8d5f4129c0156793f5f054a1894fed43b53fda8f6d25dc55a19",
+      "5baded9f0c5d2933707481526fbea237f7bc34bfa8bea89130d74104b8958bd8",
+      "38c4f5550706ebb5ec10b1c0f44e0fe0a57c0b436dda7d7d9669b62e90e2a81e",
+      "5d670aa9639a95303fc98ad6d3dfe5913a4748c5532e38fd1cde3dd7263e75af",
+      "90aa1aebd7f0144a387caa0389c3d5d7d5a8d088c41a100e6ba1097ac4b996d2",
+      "20ab1bbb609343dd85f53dbcbea9f953f126dd7f1a9baec39be674e5efee1aee",
+      "23ac577119aebd5a100448e5528149163339a4b851465aa3ba4c884a09aa0671",
+      "a1451353d28bcf464a08acbf166dd9d637b1c3fc877dc02905057b2f6e5ae206",
+      "2fe6e2e198b299c8a9f01cd1c14c70e35fed48871992dd8c8f3a478dc32ee7fe",
+      "a86bf5114b87c84b5ff713e1a528615b4f9bfa4c3a068940b5edcc67197cd8f1",
+      "cb514e6a5c429c84849d8205975c229e070532c466cb8f0a714680251fe144a1",
+      "8e95e35be5f8b80bd10d2e7b9a52a8ae986b45d4749c54df8f1cbd6a8896b42c",
+      "0e0abe4bf86cfa7fd8ed6863241a707aa3f60a5471ba21f21ba1b0fb28df44fa",
+      "328517e3579d886e29c9883e0c543b392f798760b6f3a04bda209c148c7e101a",
+      "3ea1f175b28d2cd9cba5c13367260112e90ea9c72ed38abcc26e012d7a871b82",
+      "313b47d6f6ae3bd983b7c326ad4688602a65cd67346325eb8cd9a389441f8390",
+      "d2a5e53c32d6b7bd31a7159ad576c6a55d3499f3a7d7350de21ad3cea72c3b1e",
+      "6ff5ef1086ad4a9cd9f0b476daa00f6552272b6826734c1ffd0d9e4d4e0df4bc",
+      "3674c6c22a95f70bb0729d844f3c355a1a5df491f6bc6b6b1a12baad0bf0f7ba",
+      "0b54a15ca1523f598ebb25275943ee383e0239c827413d32fe5dfc4acce1054b",
+      "479cfae66edaacf26a74daa979d8c57fb62a590f3ec59cd389e95c26bb59a764",
+      "90fd1bd914a20418cbd28232fdaa02fc8e2a90554dc410efc8b6193950e27e98",
+      "ee3efcbd4441827e4a9f9873c061111b2a4891f2f8261b76f3595eccdad99d78",
+      "1a54e4057d228923d18e482574a5fa44098ebe9880530ed815973e838cf5e98f",
+      "788d6d420970773c3edf8751b27ca5e803fb2111c5d524f66cf5f3f308427be7",
+      "611cbe1a7c4ad7de1e3958d2d47a22cd475ff53ab7ee4fca981066edb9b67c31",
+      "ca07da525df402cdd653658b4c54f6407397b93f67ab8236d58c718d10b97c14",
+      "5da81585e8231af8664512f9ccce42785357ab5f27a6572381da046c5c8aa25f",
+      "432948e6f85972543fc4c64982bac5963ae079ecf205b2e584e3546a3226c3af",
+      "596f7d64335f08be97ebe2ef01590103180915399c2683618cbb7a30c96b763c",
+      "928661872632a6e693754311b3df43c9dfa30b2a3d0d962986cd70b5238752a5",
+      "da754cc751b41157a603390831a70fa4c2b68e479f7966af8d89e0ba340de207",
+      "ab1c49472b79752916d7b6fc30644272a0de6dd159b4cde05eaafbc4880b81ef",
+      "23095073e8f8b68da9403acd7da31aa3d360ad75c5eb1ebc73ba9ca416a06209",
+      "5648515329d454312a208bea2fc3eaea74a5c5924b144f3c7b49257fb6dbc618",
+      "4dcf9d7089ce76b81004ce02467275598d6e6f8eacd09e90f80231e38b37a20c",
+      "000eb815255f8b36c75a2d4535467a5f8e154ccc7da0725905e5d34c4225306e",
+      "f7d2e578d0bfea3c830fd716bea5f974c0c702aed278102c3e6bf397702a693f",
+      "d804d820d1c33905a1bd3f0368cdc8f3ac5e48fd97875723c9bb92d51f2628e2",
+      "777c3db2fd6476d2e0d92b00e5eea46f68b86707047ab18e8e7185fbfba9ea8f",
+      "d86fc6dfd7794f2a88846b6d64bbce91a3775bd9eb5f146937ef7f89bf0dee0e",
+      "193178ffd705a965768dc1d88dbd0ee51731d4d771034e4be7409a0b0405e392",
+      "87d4400cba658062cbcbb09110b81b91657979a303ace0417d2c972c97ed5d19",
+      "6859995b9229df85dd8d8c7f9a91f10e94570a7dfacac26125cc4fb13166ccde",
+      "e7cf3c8306bae24b4197f24822cddf92c36cefa43346d4a1c095f2172ef4c4f6",
+      "8c85fc2e05ed62e7a4082e0bc020bad330540893debb3bb620ad086415d1eb29",
+      "d95ca1750a38c367e618ac23a01a9bf5f9bf8d0b74c2c5ef493eba85c57bc79c",
+      "23bfeb10cf00e5407e78dceb4f3e57a2b6a33a6e7999bfca7cbfdba3f9e14adf",
+      "c5c0c624693518140b5612cba330d7e6d22d152f2c74515a148525e2a2531424",
+      "0059fc65c12033abd947437d9faa59c37af61e394ccd3c1ac640a7e3f0eae099"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "jsecoin.com",
+        "keys": [
+          "bc61594518b5ab778c5fa645ce864da7cbb5dc910611562a652f396b1087e0f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reasedoper.pw",
+        "keys": [
+          "d88a6657e07efe41f2c617822040ea5fdd9f4e0f815a466c22c8fdd90c1e4817"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "listat.biz",
+        "keys": [
+          "f0855f25354207a8fc5f1d21b56e8f06f51abaec4805741cf54abc61e04e4496"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "minecrunch.co",
+        "keys": [
+          "a57d64d84f9a5245dd422f52db7c5560853a13b3322db7e8e6c4f1af30f4cc4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "7w.ro",
+        "keys": [
+          "64bc3d7d5c1d6618736eaa03bf3fb494d5474b107f317039aed2462ee0d7cf85"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ado.icorp.ro",
+        "keys": [
+          "08bbbc078d31e57ce2e432475a8f1db9eb39d090af01b2ac49a34ced10cb8fc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "brand.ad",
+        "keys": [
+          "222ab9d44ad198d272c6239adcd913712e7573653abf22d24f57850f48e2f86b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "omniconvert.com",
+        "keys": [
+          "b68602080caad619dcd4686e530efac107d17363f9d3973d2254fbf1689eba54"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storage.icorp.ro",
+        "keys": [
+          "ae6246b22a29e6777d72510dfc086e4d18a89a8b20d3cc403321b73bc062d8d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zm232.com",
+        "keys": [
+          "3ac8d7ffcf6c866a0593efd7f5fa2ff6f6241e16de6f3d1269c40890d9a8822d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtlgc.com",
+        "keys": [
+          "084268dc87bd8996bf8f7baef4a49b23cea4849efa87e2f11fe875f70d41651b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tynt.com",
+        "keys": [
+          "df268fb651c5e8503c3a47d7b40f2c2ce80e642e57ecb5333edbbe79805f8950"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crwdcntrl.net",
+        "keys": [
+          "36440a21ff9b4df2fa036f874cda97fac3a588b0ddb4b0637307b050b07768c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads1-adnow.com",
+        "keys": [
+          "28f9b5ce1e4c568cd26d43596df2689872643d3b69ded0971a7cc1f1e8d83f4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads2-adnow.com",
+        "keys": [
+          "8974bcc321d3f824ebfe24d43692447a0f770dda79eb2512b1991f4d76b6a5b5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads3-adnow.com",
+        "keys": [
+          "1be3b777a90b36c761095963e22d36fd85b8f43a51158f0d2102a9b9085f6549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tesseradigital.com",
+        "keys": [
+          "f2d539788bb03588f498d9e515cdb65cd9ff66c8e0f0881cb5bffd1b4c52b495"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profitshare.emag.ro",
+        "keys": [
+          "b312dc54eacabd13bde2cf28479c2d95eb637254af05865e7af7806a13d3c633"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profitshare.ro",
+        "keys": [
+          "4a7dab09e3e495f4ed9f6157342cdd1ed1043126f9f15c9eaf2c494ef2d1e51b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "l.profitshare.ro",
+        "keys": [
+          "c9e641493d4fd87b0ae9d397b16dd6d442a351fc026324176764479e4f64bdd1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adexc.net",
+        "keys": [
+          "7a76017d3b5a4d3f3be89895c88ba590ac5aadb6ff94f9d5ad211c41e05519f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admonitoring.bsgroup.ro",
+        "keys": [
+          "9cbf8baaf6ff73da93c304b4e296f7d7fcd442a3d1b205c9a9dbc0de3161b70f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adocean.pl",
+        "keys": [
+          "e0cf27dd65cd33163a167f7d46caff4eafd975fa18c9ead7bbc74a6ac35f6254"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.gadget.ro",
+        "keys": [
+          "7f5a1f0b984265549f2f25f7be7c6497918e639f52dd0e3fb8414d85cc02c41d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.tradeads.eu",
+        "keys": [
+          "91e2f41ebb18e8d5f4129c0156793f5f054a1894fed43b53fda8f6d25dc55a19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adservingfactory.com",
+        "keys": [
+          "5baded9f0c5d2933707481526fbea237f7bc34bfa8bea89130d74104b8958bd8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "brat-online.ro",
+        "keys": [
+          "38c4f5550706ebb5ec10b1c0f44e0fe0a57c0b436dda7d7d9669b62e90e2a81e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chargeplatform.com",
+        "keys": [
+          "5d670aa9639a95303fc98ad6d3dfe5913a4748c5532e38fd1cde3dd7263e75af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flx1.com",
+        "keys": [
+          "90aa1aebd7f0144a387caa0389c3d5d7d5a8d088c41a100e6ba1097ac4b996d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gravityrd-services.com",
+        "keys": [
+          "20ab1bbb609343dd85f53dbcbea9f953f126dd7f1a9baec39be674e5efee1aee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "megapopads.com",
+        "keys": [
+          "23ac577119aebd5a100448e5528149163339a4b851465aa3ba4c884a09aa0671"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "new.cetrk.com",
+        "keys": [
+          "a1451353d28bcf464a08acbf166dd9d637b1c3fc877dc02905057b2f6e5ae206"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profiling.avandor.com",
+        "keys": [
+          "2fe6e2e198b299c8a9f01cd1c14c70e35fed48871992dd8c8f3a478dc32ee7fe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profiling1.avandor.com",
+        "keys": [
+          "a86bf5114b87c84b5ff713e1a528615b4f9bfa4c3a068940b5edcc67197cd8f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s.atemda.com",
+        "keys": [
+          "cb514e6a5c429c84849d8205975c229e070532c466cb8f0a714680251fe144a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "secure.trafic.ro",
+        "keys": [
+          "8e95e35be5f8b80bd10d2e7b9a52a8ae986b45d4749c54df8f1cbd6a8896b42c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "st.ad.adnow.com",
+        "keys": [
+          "0e0abe4bf86cfa7fd8ed6863241a707aa3f60a5471ba21f21ba1b0fb28df44fa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storage.trafic.ro",
+        "keys": [
+          "328517e3579d886e29c9883e0c543b392f798760b6f3a04bda209c148c7e101a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "track.atom-data.io",
+        "keys": [
+          "3ea1f175b28d2cd9cba5c13367260112e90ea9c72ed38abcc26e012d7a871b82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "www4.smartadserver.com",
+        "keys": [
+          "313b47d6f6ae3bd983b7c326ad4688602a65cd67346325eb8cd9a389441f8390"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pwa.grgs.ro",
+        "keys": [
+          "d2a5e53c32d6b7bd31a7159ad576c6a55d3499f3a7d7350de21ad3cea72c3b1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "retargeting.biz",
+        "keys": [
+          "6ff5ef1086ad4a9cd9f0b476daa00f6552272b6826734c1ffd0d9e4d4e0df4bc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hotjar.com",
+        "keys": [
+          "3674c6c22a95f70bb0729d844f3c355a1a5df491f6bc6b6b1a12baad0bf0f7ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "awstaticdn.net",
+        "keys": [
+          "0b54a15ca1523f598ebb25275943ee383e0239c827413d32fe5dfc4acce1054b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "contestapp.a1.ro",
+        "keys": [
+          "479cfae66edaacf26a74daa979d8c57fb62a590f3ec59cd389e95c26bb59a764"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "creativcdn.net",
+        "keys": [
+          "90fd1bd914a20418cbd28232fdaa02fc8e2a90554dc410efc8b6193950e27e98"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kreativcdn.net",
+        "keys": [
+          "ee3efcbd4441827e4a9f9873c061111b2a4891f2f8261b76f3595eccdad99d78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads2.evz.ro",
+        "keys": [
+          "1a54e4057d228923d18e482574a5fa44098ebe9880530ed815973e838cf5e98f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsnative.com",
+        "keys": [
+          "788d6d420970773c3edf8751b27ca5e803fb2111c5d524f66cf5f3f308427be7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s2blosh.com",
+        "keys": [
+          "611cbe1a7c4ad7de1e3958d2d47a22cd475ff53ab7ee4fca981066edb9b67c31"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "3myad.com",
+        "keys": [
+          "ca07da525df402cdd653658b4c54f6407397b93f67ab8236d58c718d10b97c14"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serve.efortuna.ro",
+        "keys": [
+          "5da81585e8231af8664512f9ccce42785357ab5f27a6572381da046c5c8aa25f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.livepartners.com",
+        "keys": [
+          "432948e6f85972543fc4c64982bac5963ae079ecf205b2e584e3546a3226c3af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "openstat.eu",
+        "keys": [
+          "596f7d64335f08be97ebe2ef01590103180915399c2683618cbb7a30c96b763c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sgbm.info",
+        "keys": [
+          "928661872632a6e693754311b3df43c9dfa30b2a3d0d962986cd70b5238752a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aplizz.net",
+        "keys": [
+          "da754cc751b41157a603390831a70fa4c2b68e479f7966af8d89e0ba340de207"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pornlash.com",
+        "keys": [
+          "ab1c49472b79752916d7b6fc30644272a0de6dd159b4cde05eaafbc4880b81ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pgnasm.click",
+        "keys": [
+          "23095073e8f8b68da9403acd7da31aa3d360ad75c5eb1ebc73ba9ca416a06209"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "colorfulculture.click",
+        "keys": [
+          "5648515329d454312a208bea2fc3eaea74a5c5924b144f3c7b49257fb6dbc618"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "massug.space",
+        "keys": [
+          "4dcf9d7089ce76b81004ce02467275598d6e6f8eacd09e90f80231e38b37a20c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adc-teasers.com",
+        "keys": [
+          "000eb815255f8b36c75a2d4535467a5f8e154ccc7da0725905e5d34c4225306e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xamubee.ru",
+        "keys": [
+          "f7d2e578d0bfea3c830fd716bea5f974c0c702aed278102c3e6bf397702a693f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gwngdfxtm.ru",
+        "keys": [
+          "d804d820d1c33905a1bd3f0368cdc8f3ac5e48fd97875723c9bb92d51f2628e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nnowa.com",
+        "keys": [
+          "777c3db2fd6476d2e0d92b00e5eea46f68b86707047ab18e8e7185fbfba9ea8f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klodrum.com",
+        "keys": [
+          "d86fc6dfd7794f2a88846b6d64bbce91a3775bd9eb5f146937ef7f89bf0dee0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "get-in-shape.beauty",
+        "keys": [
+          "193178ffd705a965768dc1d88dbd0ee51731d4d771034e4be7409a0b0405e392"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gonowx.com",
+        "keys": [
+          "87d4400cba658062cbcbb09110b81b91657979a303ace0417d2c972c97ed5d19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.noi.md",
+        "keys": [
+          "6859995b9229df85dd8d8c7f9a91f10e94570a7dfacac26125cc4fb13166ccde"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "deltarockme.com",
+        "keys": [
+          "e7cf3c8306bae24b4197f24822cddf92c36cefa43346d4a1c095f2172ef4c4f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beesratyou.com",
+        "keys": [
+          "8c85fc2e05ed62e7a4082e0bc020bad330540893debb3bb620ad086415d1eb29"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "whitemaincode.com",
+        "keys": [
+          "d95ca1750a38c367e618ac23a01a9bf5f9bf8d0b74c2c5ef493eba85c57bc79c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kdsk32lfa.xyz",
+        "keys": [
+          "23bfeb10cf00e5407e78dceb4f3e57a2b6a33a6e7999bfca7cbfdba3f9e14adf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shufflefell.com",
+        "keys": [
+          "c5c0c624693518140b5612cba330d7e6d22d152f2c74515a148525e2a2531424"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rvlqplr.com",
+        "keys": [
+          "0059fc65c12033abd947437d9faa59c37af61e394ccd3c1ac640a7e3f0eae099"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "femeisingure.net"
+      ]
+    },
+    "_sourceKeys": [
+      "369f893437ddbbe81b99b5fbedb2a99b5959ff67415000f6a601ec8e38d6b8c6"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "femeisingure.net",
+        "keys": [
+          "369f893437ddbbe81b99b5fbedb2a99b5959ff67415000f6a601ec8e38d6b8c6"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||easyaff.net/?ref"
+    },
+    "_sourceKeys": [
+      "f6eb9ff845a9c9e9f541ed4b48bc2854ea359ac2a94a78974758f4fa463079d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "/click?impid="
+    },
+    "_sourceKeys": [
+      "f3fe21f2039efa1e04b5448b1ec733f12a64db16cd24c920812c869b5862086d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "&ad_campaign_id"
+    },
+    "_sourceKeys": [
+      "2b5424a1e8487b545a1832c4cfaa472e4965e280b68dd3f3008a9f65980b65b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  }
+]

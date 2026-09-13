@@ -1,0 +1,57 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||thegoodplan.ovh/promo.php"
+    },
+    "_sourceKeys": [
+      "d153a615068fed1eccf4ebb2b6ed6cfc82e3cdcb667588cc5a6f3eb38d733d7e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5178
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betterstudio.com"
+      ],
+      "initiatorDomains": [
+        "janjantak.com"
+      ]
+    },
+    "_sourceKeys": [
+      "03e8485c734e5e86fa6981d123b7bc62a3adf5eb23a1b3bb907b4ec669e597da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5179
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "trendymumma.com"
+      ]
+    },
+    "_sourceKeys": [
+      "c16577fa4c1376a225989fc4254ed90b12973710ebf1d3be3f1b2893d35cea93"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "trendymumma.com",
+        "keys": [
+          "c16577fa4c1376a225989fc4254ed90b12973710ebf1d3be3f1b2893d35cea93"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5180
+  }
+]

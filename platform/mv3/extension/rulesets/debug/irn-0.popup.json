@@ -1,0 +1,601 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||10.10.34."
+    },
+    "_sourceKeys": [
+      "4616d6f067b5b670dd811906eedad64e000b097c0e8099ed976d4c1b8845e96c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.me/bitbod_trading_club^"
+    },
+    "_sourceKeys": [
+      "581493fe66eb0fe084ff571503b0edbfcabfb7ab91fe96fe02897a4e657c3f85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gourls.ir",
+        "oneshare.ir",
+        "excoino.com",
+        "irancloudmining.com",
+        "axotrade.com",
+        "yoozbit.com",
+        "nokontoken.com",
+        "aryana.io",
+        "aryacoin.io",
+        "aryastake.io",
+        "cryptoland.com",
+        "bridge.link",
+        "mtabdil.com",
+        "mttcoin.com",
+        "unique.finance",
+        "treenvest.com",
+        "artanlife.club",
+        "tastenfts.com",
+        "bemchain.io",
+        "emway.ir",
+        "defigroups.com",
+        "leumia.io",
+        "aitrades.com",
+        "propertiq.io",
+        "bixbcoin.com",
+        "bixb.exchange",
+        "synchrobit.io",
+        "arongroups.co",
+        "persia.exchange",
+        "guhtoken.org",
+        "orbitnetwork.net",
+        "kingmoney.io",
+        "utbyte.io",
+        "quahl.com",
+        "gpm.ltd",
+        "dagcoin.org",
+        "coinwallet.biz",
+        "soodland.com",
+        "minepi.com",
+        "irancoinmine.com",
+        "laqira.io",
+        "waykingroup.com",
+        "bnbmatrix.io",
+        "smartgalaxy.finance",
+        "bahatoken.site",
+        "shamining.com",
+        "ccnnetwork.co",
+        "wintap.io",
+        "frzss.com",
+        "hoho.mobi",
+        "unitedsolarinfinity.com",
+        "mogo-crypto.net",
+        "tinancefa.org",
+        "chancx.io",
+        "falixa.com",
+        "izonekala.com",
+        "laxsson.com",
+        "tradergpt.ai",
+        "mat-pnu.ir",
+        "androidupdate.download",
+        "159.100.22.89",
+        "ewpb.site"
+      ]
+    },
+    "_sourceKeys": [
+      "dfbb5f6910783828edffb6dd1f84ef98e8c2bff5eb862c2fa49903068b5703e2",
+      "53876b3de05842b16b0f2e05c06133420743a85328928abd836b18389668c45b",
+      "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102",
+      "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f",
+      "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f",
+      "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463",
+      "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84",
+      "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683",
+      "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56",
+      "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9",
+      "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777",
+      "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04",
+      "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9",
+      "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a",
+      "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7",
+      "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047",
+      "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26",
+      "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963",
+      "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42",
+      "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78",
+      "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5",
+      "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858",
+      "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e",
+      "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d",
+      "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549",
+      "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8",
+      "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7",
+      "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8",
+      "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9",
+      "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd",
+      "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7",
+      "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b",
+      "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785",
+      "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7",
+      "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7",
+      "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18",
+      "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de",
+      "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d",
+      "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852",
+      "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9",
+      "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce",
+      "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026",
+      "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd",
+      "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d",
+      "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad",
+      "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47",
+      "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341",
+      "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6",
+      "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62",
+      "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86",
+      "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2",
+      "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd",
+      "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2",
+      "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3",
+      "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4",
+      "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02",
+      "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886",
+      "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c",
+      "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041",
+      "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8",
+      "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399",
+      "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "gourls.ir",
+        "keys": [
+          "dfbb5f6910783828edffb6dd1f84ef98e8c2bff5eb862c2fa49903068b5703e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "oneshare.ir",
+        "keys": [
+          "53876b3de05842b16b0f2e05c06133420743a85328928abd836b18389668c45b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "excoino.com",
+        "keys": [
+          "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancloudmining.com",
+        "keys": [
+          "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "axotrade.com",
+        "keys": [
+          "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yoozbit.com",
+        "keys": [
+          "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nokontoken.com",
+        "keys": [
+          "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryana.io",
+        "keys": [
+          "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryacoin.io",
+        "keys": [
+          "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryastake.io",
+        "keys": [
+          "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cryptoland.com",
+        "keys": [
+          "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bridge.link",
+        "keys": [
+          "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mtabdil.com",
+        "keys": [
+          "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mttcoin.com",
+        "keys": [
+          "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unique.finance",
+        "keys": [
+          "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "treenvest.com",
+        "keys": [
+          "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "artanlife.club",
+        "keys": [
+          "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tastenfts.com",
+        "keys": [
+          "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bemchain.io",
+        "keys": [
+          "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "emway.ir",
+        "keys": [
+          "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "defigroups.com",
+        "keys": [
+          "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leumia.io",
+        "keys": [
+          "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aitrades.com",
+        "keys": [
+          "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "propertiq.io",
+        "keys": [
+          "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixbcoin.com",
+        "keys": [
+          "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixb.exchange",
+        "keys": [
+          "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "synchrobit.io",
+        "keys": [
+          "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arongroups.co",
+        "keys": [
+          "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "persia.exchange",
+        "keys": [
+          "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "guhtoken.org",
+        "keys": [
+          "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "orbitnetwork.net",
+        "keys": [
+          "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kingmoney.io",
+        "keys": [
+          "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "utbyte.io",
+        "keys": [
+          "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quahl.com",
+        "keys": [
+          "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gpm.ltd",
+        "keys": [
+          "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dagcoin.org",
+        "keys": [
+          "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "coinwallet.biz",
+        "keys": [
+          "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "soodland.com",
+        "keys": [
+          "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "minepi.com",
+        "keys": [
+          "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancoinmine.com",
+        "keys": [
+          "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laqira.io",
+        "keys": [
+          "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "waykingroup.com",
+        "keys": [
+          "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bnbmatrix.io",
+        "keys": [
+          "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartgalaxy.finance",
+        "keys": [
+          "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bahatoken.site",
+        "keys": [
+          "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shamining.com",
+        "keys": [
+          "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccnnetwork.co",
+        "keys": [
+          "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wintap.io",
+        "keys": [
+          "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "frzss.com",
+        "keys": [
+          "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hoho.mobi",
+        "keys": [
+          "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unitedsolarinfinity.com",
+        "keys": [
+          "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mogo-crypto.net",
+        "keys": [
+          "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tinancefa.org",
+        "keys": [
+          "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chancx.io",
+        "keys": [
+          "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "falixa.com",
+        "keys": [
+          "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "izonekala.com",
+        "keys": [
+          "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laxsson.com",
+        "keys": [
+          "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tradergpt.ai",
+        "keys": [
+          "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mat-pnu.ir",
+        "keys": [
+          "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "androidupdate.download",
+        "keys": [
+          "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "159.100.22.89",
+        "keys": [
+          "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ewpb.site",
+        "keys": [
+          "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  }
+]

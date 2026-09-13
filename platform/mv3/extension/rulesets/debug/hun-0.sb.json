@@ -1,0 +1,878 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "adserver.raceonline.hu",
+        "a.adnium.com",
+        "ad.depo.hu",
+        "ad.gyermekevek.hu",
+        "ad.kapos.hu",
+        "ad.love.hu",
+        "ad.napilapcsoport.hu",
+        "ad.onadozo.hu",
+        "ad.parom.hu",
+        "ad.pphungary.hu",
+        "ad.szexneked.hu",
+        "adfair.hu",
+        "adfree-stat.p3g.hu",
+        "admanager.magyarhirlap.hu",
+        "ads.geeks.hu",
+        "adv.forpsi.hu",
+        "adv.hu",
+        "adverbs.napilapcsoport.hu",
+        "app.livechatoo.com",
+        "audit.median.hu",
+        "avatraffic.com",
+        "banner.webtar.hu",
+        "bannerzone.agroinform.hu",
+        "campaign-remp.444.hu",
+        "cdn-dynamic.optimonk.com",
+        "daserver.ultraweb.hu",
+        "et.twyn.com",
+        "fruitflan.com",
+        "iofferphoto.com",
+        "loader.nyitvatartas24.hu",
+        "loading-delivery2.com",
+        "media.netpositive.hu",
+        "netadclick.com",
+        "netexs.com",
+        "pixel.blog.hu",
+        "pixel.sojern.com",
+        "rc.rc.hu",
+        "rc.rootclick.com",
+        "redwolfmoon.com",
+        "related.hu",
+        "smartcj.com",
+        "stat.adultium.com",
+        "static.hvgrt.hu",
+        "stats.badoostats.com",
+        "syndication.trafficreps.com",
+        "up-banner.wavecdn.de",
+        "vid4u.org",
+        "widget.block4d.com",
+        "wstat.ozon.ru",
+        "chatrobot.mia.gov.hu",
+        "chimpstatic.com",
+        "adat.agrokep.vg.hu",
+        "adat.borsonline.hu",
+        "adat.freemail.hu",
+        "adat.ingatlanbazar.hu",
+        "adat.kisalfold.hu",
+        "adat.koponyeg.hu",
+        "adat.life.hu",
+        "adat.magyarnemzet.hu",
+        "adat.mandiner.hu",
+        "adat.metropol.hu",
+        "adat.mindmegette.hu",
+        "adat.nemzetisport.hu",
+        "adat.origo.hu",
+        "adat.ripost.hu",
+        "adat.she.life.hu",
+        "adat.vg.hu",
+        "adat.videa.hu",
+        "adform.net",
+        "adtrackeraa.com",
+        "beam-tracker.telex.hu",
+        "beam.telex.hu",
+        "counter.megagroup.ru",
+        "doubleclick.net",
+        "gemius.hu",
+        "gemius.pl",
+        "indexstat.index.hu",
+        "mediaownerscloud.com",
+        "px.blog.hu",
+        "tracker-remp.magyarnarancs.hu",
+        "tracker.24xtra.hu",
+        "tracker.azet.sk",
+        "trackerapi.ebxcdn.com",
+        "tracking.binarypromos.com",
+        "tracking.tchibo.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "960f8a44801c5e984781dd00017de6d66176647a33ffc750592133f11a4610ae",
+      "9299b062da0d7e42ec64a444cbe87e8cb71538fe04f7ec0cc8be3560f2236464",
+      "a102538cbed1c8dc3f829f44567db73829af3cbc653dfd4e68dfccd92435838f",
+      "cc4944d1da3002fad22337893ef8e7c21ef69ea70f66aa22a9bff8f5b3bc1a05",
+      "069f261610343621f676b430c872ef0f146c76b75f1c8311f9a3d94e4cacb1cc",
+      "6fae77d4b4542e1988108ec370bab6a4d9627ae779ad8748d215ca3ca7c947d6",
+      "c924b029384e9880453e852434bb1bf34127147ebf9bc0de9f2fa09fd905de40",
+      "2252fdb5816693313910a11c58c4b7be3518d17fd63a852509472a6c1ba6dba6",
+      "7ac5c54b348c7fd18bf07583912254909fc1b985e6c8d46c6418663ac090204c",
+      "943286e37a1e45875cc63bdddc26c6e7671c029129f6d29dd97f66a71b959d08",
+      "160b204d3148277b6261ce91ec9da6342bfd8418ba2cd378c1be3b4ac146e4af",
+      "1aef8258686294ce1824b0e088bdf9eec6f740931df93a905bf32cbce5fa2a12",
+      "14b22637b8ee39dd7c26d485c915bd2ced2ae5d88d02b10a4ef4a0cec8d41d82",
+      "0e73cc32aa0340b9718f6fa1415d079b3e6ebf253fb2ca64de84424690a4f82a",
+      "d6263f5b1902c6816d505a7a1e325ee7ce2e7204a156ad74e825d177270c92c2",
+      "a569e7e5c374bdae139d6d9a08fc3b5d20797702171bdca0ae2bc239a542e021",
+      "70ac8d2b4ee9fdd48d803c5617111f5bf2d8b7c728450df7d700dfcc35aa7a9f",
+      "a09bfd62108d3748cddbee14951a9afb6eacb042ac5bcae8fec643eaa6a9c89a",
+      "db57ef4cbfaefefdbe344728189dde4beed814b1ee30b152f980589220531fea",
+      "1dc0cd2697746af58b5bf3d707c689dc5b732b96f6f689cdb986e6605c5683e3",
+      "e8fc4ad46669ff975569cec27f0d504e4739b2b3ec4c65d969c1eb0dbbc24ea9",
+      "6371f4f2dcc3ff1249dd75548ee20d6d2d27bb4a55c1e9b601b7076d5c3e0959",
+      "d88964427ce07f2a07aa866e7a735d5fb4db535529a50bb7af5916074f92586c",
+      "44d2996bfef135f6786b2161784ccdee47d399390d3e87ef553f8c431272ad99",
+      "0aa8b6aae5d95039c2756a35bab1eb5ea76e88bae0831ddd217ff965f53ccb3b",
+      "02f6f64110015bb71ae71b8ff390192188c84eb4a7bed3ae4e5514ca1ad08217",
+      "705f98e8acc6219fcdfeaab9d4792f0890bda82529fc61dcdc180f8ef4b8bbd4",
+      "b32e87680f768431c90ff8b503da747209d0ea97f03deeff6e085fcc74637524",
+      "91806c0f895f6169b0b5919cbe5f1ffc0f0996bc4949d5b3726f81b22b3cc44a",
+      "509b3460ca33ee21d6a009643d7deac9a937446500595e40b55f230ac6c52aef",
+      "591b001e8f92c537714893efc69e1f76bd71f657a30ef45a479918572673b0ba",
+      "187678131b10b70eb7d1888d139b50d743a0524749a652ca75b6897f69a91100",
+      "16b29ae9479e075093f8ceaaa40291d40c09c5573f737f62001cc329ed96da6d",
+      "28140d68086cb998041a75aa0c607bb665540c87ff2e5e51db4aafb20083772f",
+      "27dd12744b5124d991bde99906aa1c6736a4b3dd7c6e11ffd50839e9d35e750f",
+      "919aec77fdc25ee87b283a039cc0c365c4b8af582b2a7d73f269de33de78fc12",
+      "5e9f5a0758e7af1c63204928a837e7ab8a02fe9beea210eb7868cad16f173eda",
+      "225beeaaacde66498ecb4abadeabf6ebc8824c22bdab796053dac59d10dfeff8",
+      "38e7118c5233012503295e210fcacf3eb6050543625878f2592f1495dde684e6",
+      "e2dd68d7bcc6797da219200d07e573bd74863e705229f4ca62e2fdd6202bfbb1",
+      "76d116b4a0a7930fcae44ab11cb218d446fd1b0edb4f2c607ed4dec655ba5476",
+      "a766c2f3dc649f0ce79f258fdf6c4a095c35a7ebcf41daaf21be9240d84a38ca",
+      "ca6bcaa2eb507f45341e973abda9f5f08dd2d03f9d59bc6f5c6e370a0a1ceaf4",
+      "7a98ed669e1ee3934b6877e512e0279ab82280da5f421245f4fd4d940e45a707",
+      "53c2b0f27223942d00cd0a2e801c6099b052e60b44c6d38c283ed5a527690c2d",
+      "a09e3d23a7cd9fc16f3d61f8adca50aaea6b11761b0fb1b4e08b2c6863aa7c7b",
+      "e9adb70227d8a538193dfa42112e71da3e59cefb1ed9ecad39143bbfba14b1a0",
+      "6d235487a3d2395b58b3a6a16eb64591eacf9bb77be55f205c6425d4890efd2d",
+      "d1e51a22d538236aecc23afa1f5a629b5b47205693feed5b33aef34b5697a24c",
+      "26a4a413f6f6e9604faa5114cecba284c142f417b44b78ca317f5898c2f4b816",
+      "42c1495cb8694b78d90db5b85a7884a45c4c1c1108bbee59f5c4f14b2b3f54a0",
+      "24fef17ba9d5e6d9d5cb54d245520346a59aaec3cee5ec62651f56148ad4f448",
+      "ee709d3bd7013c2b29fc480dac878a48879221014dda6f12f07f799ff0eb95fb",
+      "dd26ed9fbc85b863d51be2e00a45b727a087796077cd7a63f3321031f01afb0d",
+      "a5a3c35cf27ef71a3cbcf6497e3456463480c67cfaf14b855005188f5e691479",
+      "9254ceeb281efdc61ae4807f66423e0492af83477b8dab22de7cbeee43946b91",
+      "3cdb15de21cc7c70307c61f072b5901479931c29c7e07864a397f1087546fd71",
+      "9f18d44ce50c107d1efe486e3ec02c3c720d751d5dcbc07230b4f886fcdabb1d",
+      "49c7779243e7cb797a85e786805e8e7dc67c466bf0f3d33214700613e22ed0e1",
+      "f73d74be29e27b24d4e69a83e917ea6db4e1f6245ab5d2f706cb44dd5b05201d",
+      "1882bd99d6f7302709812b4ddc4b72d2feebbab7dd41ecace0f8699def27c01a",
+      "26ceddf751d92d1483823ddbd7ad467c82f4caa37d5cf3e092a55c6824b0c102",
+      "2e3d8560784b9c134b3648a99a73ed7bbf33034debd3d71b1b11da6771fe5d9e",
+      "de0c85a2801afac7f6d9e7ad1a53905e29ecccb3da3071624cbfe02f0553206e",
+      "f47c29f80debf9ee5eb0676f54f22d3de3c78395463697be48c2841a580113f7",
+      "6ba770dd340d7f2a0d2734273a801c23845fc6241f021c93c050b6e4d28481e7",
+      "fe11787a4e1730d6bdf5d912292d7e728aa70a261dc553e38b54461e0c965605",
+      "8190888caf7d2ef526bf158d8bf2ba5f727dcaf62b4eeb31d5d4cc46373a94a6",
+      "585820099a174ecde3fce304025677cce567dd37f001eaa4b95b10a4fbd2defc",
+      "b7ca425e4b96ebc560194510930d144ed213528fb9c03b7519f335e42a45354c",
+      "c17a931f2c344d862ef9a0ae62936e58f5848fd4f60c8b7cd0d705d32266a8f3",
+      "8e1523a6d51ff31c753314cb6e39aebb8b1753b640e1cc30474edbb6b2b1d2bd",
+      "a303780a123f54b836d73fdc126b0903e4235f815986c378ff266eaf75d2ef10",
+      "43d74a36f0483eca8be7c1a1b956cb673e852daccdd281060c0bbd28a639996c",
+      "7b5b822862a557258381b9da3e40cb8f023943c2ab21a9789eb596a108275b0a",
+      "8a369e2d41005cca12cfe86346e2c78b26ecebb15e42eb233558ab72ce7bc127",
+      "b6a2b110603897946a9f37bdd87968a6e99280d73808ad60bab79841b2abe1ea",
+      "ffb9166b627b95cf52b9bd2dc74933691f9300f751c20aa50de3258d33804435",
+      "526f3d9f60abd43e69146ba5fc68e1286ec0e79c986fabcb4ae48a3b0c95bc70",
+      "78e4eb503a8ea598c423ce281ba658cd14365921152f365c9288c5cf16954f65",
+      "d87e02e5b6f75a61e4c2983b9e88643fcd457e141e5dddc314020774be84f4c2",
+      "9550300e2d2279171f7ee62fdbc58c1becd5860ea978089b11e609f18db9f392",
+      "4b5651ace363bcf746b5798aecafa99a2948e37e5e151487e9e11129f9070bf7",
+      "7f03858bd5ac6ceac925029f22af8d9483827530e5859400d1d7861df8ad1a33",
+      "54688ae905ee94cb792d21274dd048ef7275506cb48e78fffeb0d3babc51fa49"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.raceonline.hu",
+        "keys": [
+          "960f8a44801c5e984781dd00017de6d66176647a33ffc750592133f11a4610ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.adnium.com",
+        "keys": [
+          "9299b062da0d7e42ec64a444cbe87e8cb71538fe04f7ec0cc8be3560f2236464"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.depo.hu",
+        "keys": [
+          "a102538cbed1c8dc3f829f44567db73829af3cbc653dfd4e68dfccd92435838f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.gyermekevek.hu",
+        "keys": [
+          "cc4944d1da3002fad22337893ef8e7c21ef69ea70f66aa22a9bff8f5b3bc1a05"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.kapos.hu",
+        "keys": [
+          "069f261610343621f676b430c872ef0f146c76b75f1c8311f9a3d94e4cacb1cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.love.hu",
+        "keys": [
+          "6fae77d4b4542e1988108ec370bab6a4d9627ae779ad8748d215ca3ca7c947d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.napilapcsoport.hu",
+        "keys": [
+          "c924b029384e9880453e852434bb1bf34127147ebf9bc0de9f2fa09fd905de40"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.onadozo.hu",
+        "keys": [
+          "2252fdb5816693313910a11c58c4b7be3518d17fd63a852509472a6c1ba6dba6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.parom.hu",
+        "keys": [
+          "7ac5c54b348c7fd18bf07583912254909fc1b985e6c8d46c6418663ac090204c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.pphungary.hu",
+        "keys": [
+          "943286e37a1e45875cc63bdddc26c6e7671c029129f6d29dd97f66a71b959d08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.szexneked.hu",
+        "keys": [
+          "160b204d3148277b6261ce91ec9da6342bfd8418ba2cd378c1be3b4ac146e4af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adfair.hu",
+        "keys": [
+          "1aef8258686294ce1824b0e088bdf9eec6f740931df93a905bf32cbce5fa2a12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adfree-stat.p3g.hu",
+        "keys": [
+          "14b22637b8ee39dd7c26d485c915bd2ced2ae5d88d02b10a4ef4a0cec8d41d82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admanager.magyarhirlap.hu",
+        "keys": [
+          "0e73cc32aa0340b9718f6fa1415d079b3e6ebf253fb2ca64de84424690a4f82a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.geeks.hu",
+        "keys": [
+          "d6263f5b1902c6816d505a7a1e325ee7ce2e7204a156ad74e825d177270c92c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.forpsi.hu",
+        "keys": [
+          "a569e7e5c374bdae139d6d9a08fc3b5d20797702171bdca0ae2bc239a542e021"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.hu",
+        "keys": [
+          "70ac8d2b4ee9fdd48d803c5617111f5bf2d8b7c728450df7d700dfcc35aa7a9f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adverbs.napilapcsoport.hu",
+        "keys": [
+          "a09bfd62108d3748cddbee14951a9afb6eacb042ac5bcae8fec643eaa6a9c89a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "app.livechatoo.com",
+        "keys": [
+          "db57ef4cbfaefefdbe344728189dde4beed814b1ee30b152f980589220531fea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "audit.median.hu",
+        "keys": [
+          "1dc0cd2697746af58b5bf3d707c689dc5b732b96f6f689cdb986e6605c5683e3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "avatraffic.com",
+        "keys": [
+          "e8fc4ad46669ff975569cec27f0d504e4739b2b3ec4c65d969c1eb0dbbc24ea9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.webtar.hu",
+        "keys": [
+          "6371f4f2dcc3ff1249dd75548ee20d6d2d27bb4a55c1e9b601b7076d5c3e0959"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerzone.agroinform.hu",
+        "keys": [
+          "d88964427ce07f2a07aa866e7a735d5fb4db535529a50bb7af5916074f92586c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "campaign-remp.444.hu",
+        "keys": [
+          "44d2996bfef135f6786b2161784ccdee47d399390d3e87ef553f8c431272ad99"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn-dynamic.optimonk.com",
+        "keys": [
+          "0aa8b6aae5d95039c2756a35bab1eb5ea76e88bae0831ddd217ff965f53ccb3b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daserver.ultraweb.hu",
+        "keys": [
+          "02f6f64110015bb71ae71b8ff390192188c84eb4a7bed3ae4e5514ca1ad08217"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "et.twyn.com",
+        "keys": [
+          "705f98e8acc6219fcdfeaab9d4792f0890bda82529fc61dcdc180f8ef4b8bbd4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fruitflan.com",
+        "keys": [
+          "b32e87680f768431c90ff8b503da747209d0ea97f03deeff6e085fcc74637524"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "iofferphoto.com",
+        "keys": [
+          "91806c0f895f6169b0b5919cbe5f1ffc0f0996bc4949d5b3726f81b22b3cc44a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.nyitvatartas24.hu",
+        "keys": [
+          "509b3460ca33ee21d6a009643d7deac9a937446500595e40b55f230ac6c52aef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loading-delivery2.com",
+        "keys": [
+          "591b001e8f92c537714893efc69e1f76bd71f657a30ef45a479918572673b0ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "media.netpositive.hu",
+        "keys": [
+          "187678131b10b70eb7d1888d139b50d743a0524749a652ca75b6897f69a91100"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netadclick.com",
+        "keys": [
+          "16b29ae9479e075093f8ceaaa40291d40c09c5573f737f62001cc329ed96da6d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netexs.com",
+        "keys": [
+          "28140d68086cb998041a75aa0c607bb665540c87ff2e5e51db4aafb20083772f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pixel.blog.hu",
+        "keys": [
+          "27dd12744b5124d991bde99906aa1c6736a4b3dd7c6e11ffd50839e9d35e750f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pixel.sojern.com",
+        "keys": [
+          "919aec77fdc25ee87b283a039cc0c365c4b8af582b2a7d73f269de33de78fc12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rc.rc.hu",
+        "keys": [
+          "5e9f5a0758e7af1c63204928a837e7ab8a02fe9beea210eb7868cad16f173eda"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rc.rootclick.com",
+        "keys": [
+          "225beeaaacde66498ecb4abadeabf6ebc8824c22bdab796053dac59d10dfeff8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "redwolfmoon.com",
+        "keys": [
+          "38e7118c5233012503295e210fcacf3eb6050543625878f2592f1495dde684e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "related.hu",
+        "keys": [
+          "e2dd68d7bcc6797da219200d07e573bd74863e705229f4ca62e2fdd6202bfbb1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartcj.com",
+        "keys": [
+          "76d116b4a0a7930fcae44ab11cb218d446fd1b0edb4f2c607ed4dec655ba5476"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.adultium.com",
+        "keys": [
+          "a766c2f3dc649f0ce79f258fdf6c4a095c35a7ebcf41daaf21be9240d84a38ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.hvgrt.hu",
+        "keys": [
+          "ca6bcaa2eb507f45341e973abda9f5f08dd2d03f9d59bc6f5c6e370a0a1ceaf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stats.badoostats.com",
+        "keys": [
+          "7a98ed669e1ee3934b6877e512e0279ab82280da5f421245f4fd4d940e45a707"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "syndication.trafficreps.com",
+        "keys": [
+          "53c2b0f27223942d00cd0a2e801c6099b052e60b44c6d38c283ed5a527690c2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "up-banner.wavecdn.de",
+        "keys": [
+          "a09e3d23a7cd9fc16f3d61f8adca50aaea6b11761b0fb1b4e08b2c6863aa7c7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vid4u.org",
+        "keys": [
+          "e9adb70227d8a538193dfa42112e71da3e59cefb1ed9ecad39143bbfba14b1a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.block4d.com",
+        "keys": [
+          "6d235487a3d2395b58b3a6a16eb64591eacf9bb77be55f205c6425d4890efd2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wstat.ozon.ru",
+        "keys": [
+          "d1e51a22d538236aecc23afa1f5a629b5b47205693feed5b33aef34b5697a24c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatrobot.mia.gov.hu",
+        "keys": [
+          "26a4a413f6f6e9604faa5114cecba284c142f417b44b78ca317f5898c2f4b816"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chimpstatic.com",
+        "keys": [
+          "42c1495cb8694b78d90db5b85a7884a45c4c1c1108bbee59f5c4f14b2b3f54a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.agrokep.vg.hu",
+        "keys": [
+          "24fef17ba9d5e6d9d5cb54d245520346a59aaec3cee5ec62651f56148ad4f448"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.borsonline.hu",
+        "keys": [
+          "ee709d3bd7013c2b29fc480dac878a48879221014dda6f12f07f799ff0eb95fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.freemail.hu",
+        "keys": [
+          "dd26ed9fbc85b863d51be2e00a45b727a087796077cd7a63f3321031f01afb0d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.ingatlanbazar.hu",
+        "keys": [
+          "a5a3c35cf27ef71a3cbcf6497e3456463480c67cfaf14b855005188f5e691479"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.kisalfold.hu",
+        "keys": [
+          "9254ceeb281efdc61ae4807f66423e0492af83477b8dab22de7cbeee43946b91"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.koponyeg.hu",
+        "keys": [
+          "3cdb15de21cc7c70307c61f072b5901479931c29c7e07864a397f1087546fd71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.life.hu",
+        "keys": [
+          "9f18d44ce50c107d1efe486e3ec02c3c720d751d5dcbc07230b4f886fcdabb1d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.magyarnemzet.hu",
+        "keys": [
+          "49c7779243e7cb797a85e786805e8e7dc67c466bf0f3d33214700613e22ed0e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.mandiner.hu",
+        "keys": [
+          "f73d74be29e27b24d4e69a83e917ea6db4e1f6245ab5d2f706cb44dd5b05201d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.metropol.hu",
+        "keys": [
+          "1882bd99d6f7302709812b4ddc4b72d2feebbab7dd41ecace0f8699def27c01a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.mindmegette.hu",
+        "keys": [
+          "26ceddf751d92d1483823ddbd7ad467c82f4caa37d5cf3e092a55c6824b0c102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.nemzetisport.hu",
+        "keys": [
+          "2e3d8560784b9c134b3648a99a73ed7bbf33034debd3d71b1b11da6771fe5d9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.origo.hu",
+        "keys": [
+          "de0c85a2801afac7f6d9e7ad1a53905e29ecccb3da3071624cbfe02f0553206e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.ripost.hu",
+        "keys": [
+          "f47c29f80debf9ee5eb0676f54f22d3de3c78395463697be48c2841a580113f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.she.life.hu",
+        "keys": [
+          "6ba770dd340d7f2a0d2734273a801c23845fc6241f021c93c050b6e4d28481e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.vg.hu",
+        "keys": [
+          "fe11787a4e1730d6bdf5d912292d7e728aa70a261dc553e38b54461e0c965605"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.videa.hu",
+        "keys": [
+          "8190888caf7d2ef526bf158d8bf2ba5f727dcaf62b4eeb31d5d4cc46373a94a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adform.net",
+        "keys": [
+          "585820099a174ecde3fce304025677cce567dd37f001eaa4b95b10a4fbd2defc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtrackeraa.com",
+        "keys": [
+          "b7ca425e4b96ebc560194510930d144ed213528fb9c03b7519f335e42a45354c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beam-tracker.telex.hu",
+        "keys": [
+          "c17a931f2c344d862ef9a0ae62936e58f5848fd4f60c8b7cd0d705d32266a8f3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beam.telex.hu",
+        "keys": [
+          "8e1523a6d51ff31c753314cb6e39aebb8b1753b640e1cc30474edbb6b2b1d2bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "counter.megagroup.ru",
+        "keys": [
+          "a303780a123f54b836d73fdc126b0903e4235f815986c378ff266eaf75d2ef10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.net",
+        "keys": [
+          "43d74a36f0483eca8be7c1a1b956cb673e852daccdd281060c0bbd28a639996c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gemius.hu",
+        "keys": [
+          "7b5b822862a557258381b9da3e40cb8f023943c2ab21a9789eb596a108275b0a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gemius.pl",
+        "keys": [
+          "8a369e2d41005cca12cfe86346e2c78b26ecebb15e42eb233558ab72ce7bc127"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "indexstat.index.hu",
+        "keys": [
+          "b6a2b110603897946a9f37bdd87968a6e99280d73808ad60bab79841b2abe1ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediaownerscloud.com",
+        "keys": [
+          "ffb9166b627b95cf52b9bd2dc74933691f9300f751c20aa50de3258d33804435"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "px.blog.hu",
+        "keys": [
+          "526f3d9f60abd43e69146ba5fc68e1286ec0e79c986fabcb4ae48a3b0c95bc70"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker-remp.magyarnarancs.hu",
+        "keys": [
+          "78e4eb503a8ea598c423ce281ba658cd14365921152f365c9288c5cf16954f65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.24xtra.hu",
+        "keys": [
+          "d87e02e5b6f75a61e4c2983b9e88643fcd457e141e5dddc314020774be84f4c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.azet.sk",
+        "keys": [
+          "9550300e2d2279171f7ee62fdbc58c1becd5860ea978089b11e609f18db9f392"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackerapi.ebxcdn.com",
+        "keys": [
+          "4b5651ace363bcf746b5798aecafa99a2948e37e5e151487e9e11129f9070bf7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.binarypromos.com",
+        "keys": [
+          "7f03858bd5ac6ceac925029f22af8d9483827530e5859400d1d7861df8ad1a33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.tchibo.hu",
+        "keys": [
+          "54688ae905ee94cb792d21274dd048ef7275506cb48e78fffeb0d3babc51fa49"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aliexpress.hu",
+        "aliexpressz.hu",
+        "azsiacentrum.hu",
+        "kinaiwebaruhaz.hu",
+        "maplin.hu",
+        "mikroelektronik.hu",
+        "petpoolalarm.com",
+        "sexmeup.hu",
+        "magyarszo.com"
+      ]
+    },
+    "_sourceKeys": [
+      "9977501c722897083098f8ddd9ef4795efba8c331480fd5901d24466eb8e3e7c",
+      "7e7b1e1950661b5aacd61e0fae2590ddcdefce362ca41b5eb939cd7c615e7e77",
+      "d07193a0f743a525f909bd39619a8947b91b88617ea9bdee076d87a07ca9811a",
+      "3cdeab5dc608278322fd0de45f1a9b350635e1913d192a8a4a54664666be5cbd",
+      "9fcb8cce667f930d690b3c49ce129868cb773001b1dfe1631653fec7a9ab02e5",
+      "3c28d7f8256ee6310a03fe28439ae806ef205f4b43ddc6464875d2b9b5b2cee9",
+      "07f1b2438c8d50740a24b9ba3ac656d0a60067db4453389364b4bef20c579336",
+      "6690551b7f9c3200d7e373d569609ab0b7f09cddd3a5c6ceadfb784618b615d4",
+      "9ed470e17fff399473942b0dc5ac5d130041328706d36aa70b3c268448d8b791"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "aliexpress.hu",
+        "keys": [
+          "9977501c722897083098f8ddd9ef4795efba8c331480fd5901d24466eb8e3e7c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aliexpressz.hu",
+        "keys": [
+          "7e7b1e1950661b5aacd61e0fae2590ddcdefce362ca41b5eb939cd7c615e7e77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "azsiacentrum.hu",
+        "keys": [
+          "d07193a0f743a525f909bd39619a8947b91b88617ea9bdee076d87a07ca9811a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kinaiwebaruhaz.hu",
+        "keys": [
+          "3cdeab5dc608278322fd0de45f1a9b350635e1913d192a8a4a54664666be5cbd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "maplin.hu",
+        "keys": [
+          "9fcb8cce667f930d690b3c49ce129868cb773001b1dfe1631653fec7a9ab02e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mikroelektronik.hu",
+        "keys": [
+          "3c28d7f8256ee6310a03fe28439ae806ef205f4b43ddc6464875d2b9b5b2cee9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "petpoolalarm.com",
+        "keys": [
+          "07f1b2438c8d50740a24b9ba3ac656d0a60067db4453389364b4bef20c579336"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sexmeup.hu",
+        "keys": [
+          "6690551b7f9c3200d7e373d569609ab0b7f09cddd3a5c6ceadfb784618b615d4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magyarszo.com",
+        "keys": [
+          "9ed470e17fff399473942b0dc5ac5d130041328706d36aa70b3c268448d8b791"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  }
+]

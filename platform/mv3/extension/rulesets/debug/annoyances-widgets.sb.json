@@ -1,0 +1,224 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "allegro-cdn.concerto.ai",
+        "assistant.almaintelligence.com",
+        "call.chatra.io",
+        "chat-widget.hiverhq.com",
+        "chat.24liveblog.com",
+        "chat.cdn-plain.com",
+        "chat.connectnowai.com",
+        "chatbot.pef.czu.cz",
+        "chatwidget-prod.web.app",
+        "chatwidget.kodif.ai",
+        "cloud.aikosmo.com",
+        "lptag-cdn.liveperson.net",
+        "lptag.liveperson.net",
+        "pageview.activengage.com",
+        "selfservice.robinhq.com",
+        "webchat.bebot.io",
+        "webchat.omni.cafe",
+        "widget.chatbot.laiye.com",
+        "widget.helpcrunch.com",
+        "widget.intercom.io",
+        "widget.kommunicate.io",
+        "widget.trengo.eu",
+        "widgets.leadconnectorhq.com"
+      ]
+    },
+    "_sourceKeys": [
+      "6e4307f9830b297b15ccc45818f6e702c2bfe382538eed827fe553cbbe85c57a",
+      "530aa53b53656bc7d554f793c462659178263d4abb77976de5a9a4e3252a2e28",
+      "c69c4c638e929336c6cc0eb2a4b756b54ff4335ec17b71368f2ed36ee660f8d1",
+      "ac344df4bc790eaa227173903b5a2f1e016514c7e551cfb93b1fd8efd064f998",
+      "539660f14ec52470876250ced276295c50cd75b39a8863d246a276c8270d1e79",
+      "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7",
+      "579fdf2d6bd82a1e7f81d031eb91122ec70d4d684fafd3bc2427f6f3d977ebe1",
+      "b39d5f853f47d8234fd0f35f95268abf2109e02b762635c06ffe2121eff25269",
+      "68522f9b54ff848eaad7a30587d52d8096174a939a0c716d812825dcc6848a30",
+      "6ae5bbebe26b62f2e02519d1560ebf2c3921597a1c678fb8e6c5e2985936f8a6",
+      "fefe5d818426adf1788385320d27763f16899768e19b1a9f5313c6362cfaee9e",
+      "f6d92d936cc5deec797adaba1af476615e7368cf08afbc8f030e40aabcec76bf",
+      "c1028f52d5181fe5268005c2242fffb9e8f4ce8a25835005ffc8f5c8576c5a13",
+      "30d197577fc49479455f114f772592f82abcafed65b6ba8d0a19b48cec852a69",
+      "df0689adbab14ac6dd8f5888d8b0b4d66ac9d180faf97f7fd9d05dcee90036fb",
+      "b68767f5de79dd33b55c558137edf58791850b0fe464d40c7a837c452e30a9ff",
+      "3bb77786e3d8db0c277a5bf0ed72ca64d4c40a3d75e4caee1c1fd4f1ed176fd6",
+      "4785e62cfc4156a4fe86c7c67df6bebf47b8f452ec0e51f405614427f4f94620",
+      "a67c5c4aad24d36f8509b5b7be707dcb5790780f97c0b218d60b15a300534161",
+      "6fb0b000da224596d68cd2b13f17ecc8ed0561bf6e219d03d4a34129d649e5c2",
+      "38f0febd99a8a03f3082e1a7a08df92aa7f7f7f39ff48fda3892af9d6eb512a5",
+      "662dffc7697cdedff8c02dd04394fc94b196fd265709f8b7cdaf38aa5e7ddcf3",
+      "169cb2feded69fcb3d6823e23441cf9b9babf6893ea81f5f967b5efce27ff991"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "allegro-cdn.concerto.ai",
+        "keys": [
+          "6e4307f9830b297b15ccc45818f6e702c2bfe382538eed827fe553cbbe85c57a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "assistant.almaintelligence.com",
+        "keys": [
+          "530aa53b53656bc7d554f793c462659178263d4abb77976de5a9a4e3252a2e28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "call.chatra.io",
+        "keys": [
+          "c69c4c638e929336c6cc0eb2a4b756b54ff4335ec17b71368f2ed36ee660f8d1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat-widget.hiverhq.com",
+        "keys": [
+          "ac344df4bc790eaa227173903b5a2f1e016514c7e551cfb93b1fd8efd064f998"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.24liveblog.com",
+        "keys": [
+          "539660f14ec52470876250ced276295c50cd75b39a8863d246a276c8270d1e79"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.cdn-plain.com",
+        "keys": [
+          "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.connectnowai.com",
+        "keys": [
+          "579fdf2d6bd82a1e7f81d031eb91122ec70d4d684fafd3bc2427f6f3d977ebe1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbot.pef.czu.cz",
+        "keys": [
+          "b39d5f853f47d8234fd0f35f95268abf2109e02b762635c06ffe2121eff25269"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwidget-prod.web.app",
+        "keys": [
+          "68522f9b54ff848eaad7a30587d52d8096174a939a0c716d812825dcc6848a30"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwidget.kodif.ai",
+        "keys": [
+          "6ae5bbebe26b62f2e02519d1560ebf2c3921597a1c678fb8e6c5e2985936f8a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cloud.aikosmo.com",
+        "keys": [
+          "fefe5d818426adf1788385320d27763f16899768e19b1a9f5313c6362cfaee9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lptag-cdn.liveperson.net",
+        "keys": [
+          "f6d92d936cc5deec797adaba1af476615e7368cf08afbc8f030e40aabcec76bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lptag.liveperson.net",
+        "keys": [
+          "c1028f52d5181fe5268005c2242fffb9e8f4ce8a25835005ffc8f5c8576c5a13"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pageview.activengage.com",
+        "keys": [
+          "30d197577fc49479455f114f772592f82abcafed65b6ba8d0a19b48cec852a69"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "selfservice.robinhq.com",
+        "keys": [
+          "df0689adbab14ac6dd8f5888d8b0b4d66ac9d180faf97f7fd9d05dcee90036fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchat.bebot.io",
+        "keys": [
+          "b68767f5de79dd33b55c558137edf58791850b0fe464d40c7a837c452e30a9ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchat.omni.cafe",
+        "keys": [
+          "3bb77786e3d8db0c277a5bf0ed72ca64d4c40a3d75e4caee1c1fd4f1ed176fd6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.chatbot.laiye.com",
+        "keys": [
+          "4785e62cfc4156a4fe86c7c67df6bebf47b8f452ec0e51f405614427f4f94620"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.helpcrunch.com",
+        "keys": [
+          "a67c5c4aad24d36f8509b5b7be707dcb5790780f97c0b218d60b15a300534161"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.intercom.io",
+        "keys": [
+          "6fb0b000da224596d68cd2b13f17ecc8ed0561bf6e219d03d4a34129d649e5c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.kommunicate.io",
+        "keys": [
+          "38f0febd99a8a03f3082e1a7a08df92aa7f7f7f39ff48fda3892af9d6eb512a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.trengo.eu",
+        "keys": [
+          "662dffc7697cdedff8c02dd04394fc94b196fd265709f8b7cdaf38aa5e7ddcf3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.leadconnectorhq.com",
+        "keys": [
+          "169cb2feded69fcb3d6823e23441cf9b9babf6893ea81f5f967b5efce27ff991"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  }
+]

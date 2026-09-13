@@ -1,0 +1,1065 @@
+{
+  "extName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro",
+    "description": "extension name."
+  },
+  "extShortDesc": {
+    "message": "Un bloqueador de contenido eficiente. Bloquea anuncios, rastreadores, criptomineros y aún más.",
+    "description": "this will be in the Chrome web store: must be 132 characters or less"
+  },
+  "perRulesetStats": {
+    "message": "{{ruleCount}} reglas, convertidas desde {{filterCount}} filtros de red",
+    "description": "Appears aside each filter list in the _3rd-party filters_ pane"
+  },
+  "dashboardName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro — Panel de control",
+    "description": "English: ShieldBlock - Ad & Tracker Blocker Pro — Dashboard"
+  },
+  "settingsPageName": {
+    "message": "Configuración",
+    "description": "appears as tab name in dashboard"
+  },
+  "customFiltersPageName": {
+    "message": "Filtros personalizados",
+    "description": "appears as tab name in dashboard"
+  },
+  "developPageName": {
+    "message": "Desarrollo",
+    "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu"
+  },
+  "aboutPageName": {
+    "message": "Acerca de",
+    "description": "appears as tab name in dashboard"
+  },
+  "aboutPrivacyPolicy": {
+    "message": "Política de privacidad",
+    "description": "Link to privacy policy on GitHub (English)"
+  },
+  "aboutDocumentation": {
+    "message": "Documentación",
+    "description": "Link to documentation in About pane"
+  },
+  "popupFilteringModeLabel": {
+    "message": "Filtrado para este sitio",
+    "description": "Label in the popup panel for the current filtering mode"
+  },
+  "popupLocalToolsLabel": {
+    "message": "En este sitio web",
+    "description": "Label in the popup panel for the local tools section"
+  },
+  "popupTipReport": {
+    "message": "Reportar un problema",
+    "description": "Tooltip used for the 'chat' icon in the panel"
+  },
+  "popupTipDashboard": {
+    "message": "Abrir panel de control",
+    "description": "English: Click to open the dashboard"
+  },
+  "popupMoreButton": {
+    "message": "Más",
+    "description": "Label to be used to show popup panel sections"
+  },
+  "popupLessButton": {
+    "message": "Menos",
+    "description": "Label to be used to hide popup panel sections"
+  },
+  "3pGroupDefault": {
+    "message": "Predeterminado",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAds": {
+    "message": "Anuncios",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupPrivacy": {
+    "message": "Privacidad",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMalware": {
+    "message": "Protección de malware, seguridad",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAnnoyances": {
+    "message": "Elementos molestos",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMisc": {
+    "message": "Varios",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupRegions": {
+    "message": "Regiones, idiomas",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupImported": {
+    "message": "Listas importadas",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "customListImportLabel": {
+    "message": "Agregar filtro de lista…",
+    "description": "Text label heading the import area of custom filter lists"
+  },
+  "customListImportPlaceholder": {
+    "message": "Pega aquí la URL del filtro de lista a agregar",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "customListImportUserScriptsInfo": {
+    "message": "Para hacer respetar los filtros cosméticos o de scripts a partir de listas importadas, debes otorgar a ShieldBlock - Ad & Tracker Blocker Pro permiso para ejecutar scripts de usuario.",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "memoryProfileSectionLabel": {
+    "message": "Perfil de memoria"
+  },
+  "memoryProfileSelectLabel": {
+    "message": "Perfil de memoria"
+  },
+  "memoryProfileDescription": {
+    "message": "Controla la concurrencia de compilación y los límites de caché. El modo de poca memoria reduce el uso máximo de memoria sin desactivar los filtros habilitados."
+  },
+  "memoryProfileAuto": {
+    "message": "Automático"
+  },
+  "memoryProfileBalanced": {
+    "message": "Equilibrado"
+  },
+  "memoryProfileLow": {
+    "message": "Poca memoria"
+  },
+  "memoryProfileEffective": {
+    "message": "Perfil efectivo: $1"
+  },
+  "memoryProfileStorageMetrics": {
+    "message": "Huella de caché/almacenamiento local (no es RAM en uso): $1 local, $2 de sesión."
+  },
+  "memoryProfileUnavailable": {
+    "message": "no disponible"
+  },
+  "memoryProfileRefresh": {
+    "message": "Actualizar métricas"
+  },
+  "memoryProfileCleanup": {
+    "message": "Limpiar cachés huérfanas"
+  },
+  "memoryProfileCleanupDone": {
+    "message": "Limpieza completada; se eliminaron $1 elementos de caché huérfanos."
+  },
+  "memoryProfileCleanupUnavailable": {
+    "message": "Esta versión de Chrome puede informar del almacenamiento total, pero no puede enumerar las claves de caché huérfanas (se requiere Chrome 130 o posterior para limpiarlas)."
+  },
+  "memoryProfileError": {
+    "message": "No se pudo actualizar el perfil de memoria."
+  },
+  "filterStoreTitle": {
+    "message": "Tienda de filtros (Edición Power)"
+  },
+  "filterStoreCategoryLabel": {
+    "message": "Categoría de la Tienda de filtros"
+  },
+  "filterStoreLanguageLabel": {
+    "message": "Idioma de la Tienda de filtros"
+  },
+  "filterStoreProfileLabel": {
+    "message": "Perfil de recursos de la Tienda de filtros"
+  },
+  "filterStoreDescription": {
+    "message": "Explora datos de filtros verificados y aportados por la comunidad. Los catálogos nunca proporcionan código ejecutable de la extensión; ShieldBlock - Ad & Tracker Blocker Pro analiza las listas importadas y las compila como reglas MV3."
+  },
+  "filterStoreSearchPlaceholder": {
+    "message": "Buscar listas de filtros"
+  },
+  "filterStoreAllCategories": {
+    "message": "Todas las categorías"
+  },
+  "filterStoreAllLanguages": {
+    "message": "Todos los idiomas"
+  },
+  "filterStoreAllProfiles": {
+    "message": "Todos los perfiles"
+  },
+  "filterStoreGlobal": {
+    "message": "Global"
+  },
+  "filterStoreStaticSlots": {
+    "message": "ranuras estáticas"
+  },
+  "filterStoreDynamicRules": {
+    "message": "reglas dinámicas"
+  },
+  "filterStoreRegexRules": {
+    "message": "reglas de expresiones regulares"
+  },
+  "filterStoreUnknownCosts": {
+    "message": "$1 listas importadas tienen un coste desconocido"
+  },
+  "filterStoreStaticCost": {
+    "message": "$1 ranuras estáticas, $2 reglas empaquetadas"
+  },
+  "filterStoreDynamicCost": {
+    "message": "Hasta $1 reglas dinámicas / $2 de expresiones regulares"
+  },
+  "filterStoreVerified": {
+    "message": "Verificado"
+  },
+  "filterStoreCommunity": {
+    "message": "Comunidad"
+  },
+  "filterStoreHomepage": {
+    "message": "Página principal"
+  },
+  "filterStoreEnable": {
+    "message": "Activar"
+  },
+  "filterStoreDisable": {
+    "message": "Desactivar"
+  },
+  "filterStoreNoResults": {
+    "message": "No hay listas de filtros coincidentes."
+  },
+  "filterStoreResultsLimited": {
+    "message": "Se muestran los primeros $1 de $2 resultados. Refina la búsqueda para ver los demás."
+  },
+  "filterStoreBundles": {
+    "message": "Paquetes"
+  },
+  "filterStoreBundleEnabled": {
+    "message": "Paquete activado"
+  },
+  "filterStoreEnableBundle": {
+    "message": "Activar paquete"
+  },
+  "filterStoreRepositories": {
+    "message": "Repositorios personalizados"
+  },
+  "filterStoreRepositoryWarning": {
+    "message": "Añade solo catálogos JSON mediante HTTPS que controles o en los que confíes. Los repositorios personalizados siempre se muestran como comunitarios, aunque afirmen tener un nivel de confianza superior."
+  },
+  "filterStoreRepositoryPlaceholder": {
+    "message": "URL HTTPS de catalog.json"
+  },
+  "filterStoreAddRepository": {
+    "message": "Añadir repositorio"
+  },
+  "filterStoreRemoveRepository": {
+    "message": "Eliminar"
+  },
+  "filterStoreRepositoryFailed": {
+    "message": "No se pudo cargar el repositorio: $1"
+  },
+  "filterStoreQuotaExceeded": {
+    "message": "Esta selección superaría una cuota de conjuntos de reglas MV3."
+  },
+  "filterStoreCommunityConfirm": {
+    "message": "Este repositorio comunitario no está verificado por ShieldBlock - Ad & Tracker Blocker Pro. ¿Quieres importar sus datos de filtros?"
+  },
+  "filterStoreVerifying": {
+    "message": "Verificando $1…"
+  },
+  "filterStoreDisabledStatus": {
+    "message": "Se desactivó $1."
+  },
+  "filterStoreEnabledStatus": {
+    "message": "Se activó $1."
+  },
+  "filterStoreActivationWarnings": {
+    "message": "Activado; se omitieron $1 filtros de expresiones regulares incompatibles con Chrome."
+  },
+  "filterStoreBundleStatus": {
+    "message": "Paquete activado: $1."
+  },
+  "filterStoreInvalidRepository": {
+    "message": "Introduce una URL de catálogo HTTPS válida."
+  },
+  "filterStoreRepositoryAdded": {
+    "message": "Repositorio añadido."
+  },
+  "filterStoreRepositoryRemoved": {
+    "message": "Repositorio eliminado. Sus listas activadas siguen disponibles en Listas importadas."
+  },
+  "customFiltersImportExportLabel": {
+    "message": "Importar / Exportar",
+    "description": "Text label heading the import/export area of custom filters"
+  },
+  "customFiltersImportTextareaPlaceholder": {
+    "message": "Pega aquí los filtros cosméticos específicos a añadir",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "userScriptsInfo": {
+    "message": "Abre la página de extensiones de tu navegador. (<code>chrome://extensions</code> en Chrome o <code>about:addons</code> en Firefox), abre los <b>ShieldBlock - Ad & Tracker Blocker Pro</b> detalles, y enciende <b>Permitir scripts de usuario</b> (tambien referido como \"scripts de terceros no verificados\").",
+    "description": "A notice to inform user on how to enable 'user scripts' permission"
+  },
+  "aboutChangelog": {
+    "message": "Registro de cambios",
+    "description": ""
+  },
+  "aboutCode": {
+    "message": "Código fuente (GPLv3)",
+    "description": "English: Source code (GPLv3)"
+  },
+  "aboutContributors": {
+    "message": "Colaboradores",
+    "description": "English: Contributors"
+  },
+  "aboutSourceCode": {
+    "message": "Código fuente",
+    "description": "Link text to source code repo"
+  },
+  "aboutTranslations": {
+    "message": "Traducciones",
+    "description": "Link text to translations repo"
+  },
+  "aboutFilterLists": {
+    "message": "Listas de filtros",
+    "description": "Link text to uBO's own filter lists repo"
+  },
+  "aboutDependencies": {
+    "message": "Dependencias externas (compatibles con GPLv3):",
+    "description": "Shown in the About pane"
+  },
+  "supportS6H": {
+    "message": "Reportar un problema de filtro",
+    "description": "Header of 'Report a filter issue' section in Support pane"
+  },
+  "supportS3P1": {
+    "message": "Reportar problemas de filtros con sitios web específicos en el registro de problemas <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code></span>. <u>Requiere una cuenta en GitHub</u>.",
+    "description": "First paragraph of 'Filter issues' section in Support pane"
+  },
+  "supportS5H": {
+    "message": "Información para solucionar problemas",
+    "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page"
+  },
+  "supportS6P1S1": {
+    "message": "Para evitar sobrecargar a voluntarios con reportes duplicados, verifica que el problema no haya sido reportado. <b>Nota:</b> al hacer clic en el botón, hará que el origen de la página se envíe a GitHub.",
+    "description": "A paragraph in the filter issue reporter section"
+  },
+  "supportFindSpecificButton": {
+    "message": "Encontrar reportes similares en GitHub",
+    "description": "A clickable link in the filter issue reporter section"
+  },
+  "supportS6URL": {
+    "message": "Dirección de la página web:",
+    "description": "Label for the URL of the page"
+  },
+  "supportS6Select1": {
+    "message": "La página web...",
+    "description": "Label for widget to select type of issue"
+  },
+  "supportS6Select1Option0": {
+    "message": "-- Elige una entrada --",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option1": {
+    "message": "Muestra anuncios o restos de anuncios",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option2": {
+    "message": "Tiene superposiciones u otras molestias",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option3": {
+    "message": "Detecta ShieldBlock - Ad & Tracker Blocker Pro",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option4": {
+    "message": "Tiene problemas relacionados con la privacidad",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option5": {
+    "message": "Funciona mal cuando ShieldBlock - Ad & Tracker Blocker Pro está habilitado",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option6": {
+    "message": "Abre pestañas o ventanas no deseadas",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option7": {
+    "message": "Conduce a malware y phishing",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Checkbox1": {
+    "message": "Etiquetar la página web como “NSFW” (<a href=\"https://es.wikipedia.org/wiki/NSFW\">“no es seguro/apropiado para el trabajo”</a>)",
+    "description": "A checkbox to use for NSFW sites"
+  },
+  "supportReportSpecificButton": {
+    "message": "Crear nuevo reporte en GitHub",
+    "description": "Text for button which opens an external web page in Support pane"
+  },
+  "defaultFilteringModeSectionLabel": {
+    "message": "Modo de filtrado predeterminado",
+    "description": "The header text for the default filtering mode section"
+  },
+  "defaultFilteringModeDescription": {
+    "message": "El modo de filtrado predeterminado será anulado por los modos de filtrado por sitio web. Puedes ajustar el modo de filtrado en cualquier sitio web según el modo que funcione mejor en ese sitio web. Cada modo tiene sus ventajas y desventajas.",
+    "description": "This describes the default filtering mode setting"
+  },
+  "filteringMode0Name": {
+    "message": "sin filtrado",
+    "description": "Name of blocking mode 0"
+  },
+  "filteringMode1Name": {
+    "message": "básico",
+    "description": "Name of blocking mode 1"
+  },
+  "filteringMode2Name": {
+    "message": "óptimo",
+    "description": "Name of blocking mode 2"
+  },
+  "filteringMode3Name": {
+    "message": "completo",
+    "description": "Name of blocking mode 3"
+  },
+  "basicFilteringModeDescription": {
+    "message": "Filtrado de red básico a partir de listas de filtros seleccionadas.",
+    "description": "This describes the 'basic' filtering mode"
+  },
+  "optimalFilteringModeDescription": {
+    "message": "Filtrado de red avanzado más filtrado extendido específico a partir de listas de filtros seleccionadas.\n\nRequiere un amplio permiso para leer y modificar datos en todos los sitios web.",
+    "description": "This describes the 'optimal' filtering mode"
+  },
+  "completeFilteringModeDescription": {
+    "message": "Filtrado de red avanzado más filtrado extendido específico y genérico a partir de listas de filtros seleccionadas.\n\nRequiere un amplio permiso para leer y modificar datos en todos los sitios web.\n\nEl filtrado genérico extendido puede causar un mayor uso de recursos de la página web.",
+    "description": "This describes the 'complete' filtering mode"
+  },
+  "noFilteringModeDescription": {
+    "message": "Lista de sitios web para los cuales no se realizará ningún filtrado.",
+    "description": "A short description for the editable field which lists trusted sites"
+  },
+  "noFilteringModePlaceholder": {
+    "message": "[solo nombres de dominio]\nejemplo.com\njuegos.ejemplo\n...",
+    "description": "Default text for in edit field"
+  },
+  "behaviorSectionLabel": {
+    "message": "Comportamiento",
+    "description": "The header text for the 'Behavior' section"
+  },
+  "privacyHardeningSectionLabel": {
+    "message": "Protección opcional de la privacidad del navegador"
+  },
+  "privacyHardeningDescription": {
+    "message": "Estos controles cambian la configuración de privacidad de Chrome solo después de conceder el permiso opcional. Al desactivar un control, Chrome vuelve a gestionar esa configuración."
+  },
+  "privacyPermissionButton": {
+    "message": "Activar controles de privacidad…"
+  },
+  "privacyPermissionDenied": {
+    "message": "No se concedió el permiso de privacidad opcional."
+  },
+  "privacySettingUpdateFailed": {
+    "message": "Chrome no pudo actualizar una o más opciones de privacidad."
+  },
+  "privacyDisableHyperlinkAuditing": {
+    "message": "Desactivar los pings de auditoría de hipervínculos"
+  },
+  "privacyDisableNetworkPrediction": {
+    "message": "Desactivar la predicción de red de Chrome"
+  },
+  "privacyProtectWebRTC": {
+    "message": "Impedir que WebRTC utilice UDP sin proxy"
+  },
+  "privacyDisableAdApis": {
+    "message": "Desactivar las API publicitarias de Privacy Sandbox de Chrome"
+  },
+  "privacySettingNotControllable": {
+    "message": "Esta opción está controlada por una política de Chrome u otra extensión."
+  },
+  "autoReloadLabel": {
+    "message": "Recargar automáticamente la página al cambiar el modo de filtrado",
+    "description": "Label for a checkbox in the options page"
+  },
+  "showBlockedCountLabel": {
+    "message": "Mostrar el número de peticiones bloqueadas en el icono de la barra de herramientas",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLabel": {
+    "message": "Habilitar bloqueo estricto",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLegend": {
+    "message": "La navegación a sitios potencialmente no deseados será bloqueada, y se te ofrecerá la opción de continuar.",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "enablePopupBlockLabel": {
+    "message": "Habilitar el bloqueo de emergentes",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enablePopupBlockLegend": {
+    "message": "Cuando está activo, los filtros que coincidan cerraran automáticamente las pestañas no solicitadas creadas por los sitios web.",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "popupPolicyLabel": {
+    "message": "Política de ventanas emergentes para este host"
+  },
+  "popupPolicyDefault": {
+    "message": "Predeterminado (Inteligente)"
+  },
+  "popupPolicyAllow": {
+    "message": "Permitir"
+  },
+  "popupPolicySmart": {
+    "message": "Inteligente"
+  },
+  "popupPolicyStrict": {
+    "message": "Estricto"
+  },
+  "popupPolicyDescription": {
+    "message": "Se aplica a este host exacto. Las listas de filtros y los ajustes de sitios de confianza siguen vigentes. Estricto requiere una acción de confianza y un nombre de host directamente relacionado."
+  },
+  "sandboxEditorLabel": {
+    "message": "Caja de arena de creación de filtro",
+    "description": "Header for filter-creation section in the dashboard"
+  },
+  "sandboxEditorUserScriptsInfo": {
+    "message": "Para hacer respetar los filtros cosméticos o de scripts desde el entorno aislado, debes otorgar a ShieldBlock - Ad & Tracker Blocker Pro permiso para ejecutar scripts de usuario.",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "developerModeLabel": {
+    "message": "Modo desarrollador",
+    "description": "Label for a checkbox in the options page"
+  },
+  "developerModeLegend": {
+    "message": "Habilita acceso a características aptas para usuarios técnicos.",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "settingsBackupRestoreLabel": {
+    "message": "Respaldar",
+    "description": "The header text for the back up/restore section"
+  },
+  "settingsBackupRestoreSummary": {
+    "message": "Haz un respaldo de tu configuración personalizada en un archivo o restaura tu configuración personalizada desde uno.",
+    "description": "A summary description of the back up/restore section."
+  },
+  "settingsBackupRestoreLegend": {
+    "message": "La restauración sobrescribirá toda tu configuración personalizada actual.",
+    "description": "Important information about the back up/restore section."
+  },
+  "findListsPlaceholder": {
+    "message": "Encontrar listas",
+    "description": "Placeholder for the input field used to find lists"
+  },
+  "strictblockTitle": {
+    "message": "Página bloqueada",
+    "description": "Web page title for the strict-blocked page"
+  },
+  "strictblockSentence1": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro impidió la carga de la página:",
+    "description": "Sentence used in the strict-blocked page"
+  },
+  "strictblockReasonSentence1": {
+    "message": "La página ha sido bloqueada como resultado de un filtro coincidente en {{listname}}.",
+    "description": "Text informing about what is causing the page to be blocked"
+  },
+  "strictblockRedirectSentence1": {
+    "message": "La página bloqueada quiere redirigir a otro sitio. Si eliges continuar, navegarás directamente a: {{url}}",
+    "description": "Text warning about an incoming redirect"
+  },
+  "strictblockNoParamsPrompt": {
+    "message": "sin parámetros",
+    "description": "Label to be used for the parameter-less URL"
+  },
+  "strictblockBack": {
+    "message": "Regresar",
+    "description": "A button to go back to the previous web page"
+  },
+  "strictblockClose": {
+    "message": "Cerrar esta ventana",
+    "description": "A button to close the current tab"
+  },
+  "strictblockDontWarn": {
+    "message": "No me adviertas de nuevo sobre este sitio",
+    "description": "Label for checkbox in document-blocked page"
+  },
+  "strictblockProceed": {
+    "message": "Continuar",
+    "description": "A button to navigate to the blocked page"
+  },
+  "zapperTipEnter": {
+    "message": "Eliminar un elemento",
+    "description": "Tooltip for the button used to enter zapper mode"
+  },
+  "zapperTipQuit": {
+    "message": "Salir del modo eliminación de elementos",
+    "description": "Tooltip for the button used to exit zapper mode"
+  },
+  "pickerTipEnter": {
+    "message": "Crear un filtro personalizado",
+    "description": "Label for the menu entry to create cosmetic filters"
+  },
+  "unpickerTipEnter": {
+    "message": "Eliminar un filtro personalizado",
+    "description": "Label for the menu entry to delete cosmetic filters"
+  },
+  "developDropdownLabel": {
+    "message": "Ver:",
+    "description": "A label of a dropdown list"
+  },
+  "developOptionFilteringModeDetails": {
+    "message": "Detalles del modo de filtrado",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionCustomDnrRules": {
+    "message": "Reglas DNR personalizadas",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionDnrRulesOf": {
+    "message": "Reglas DNR de …",
+    "description": "A section header in a dropdown list"
+  },
+  "developOptionDynamicRuleset": {
+    "message": "Conjunto de reglas dinámicas",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionSessionRuleset": {
+    "message": "Conjunto de reglas de sesión",
+    "description": "An option in a dropdown list"
+  },
+  "saveButton": {
+    "message": "Guardar",
+    "description": "Text for buttons used to save changes"
+  },
+  "revertButton": {
+    "message": "Revertir",
+    "description": "Text for buttons used to revert changes"
+  },
+  "addButton": {
+    "message": "Añadir",
+    "description": "Text for buttons used to add content"
+  },
+  "importAndAppendButton": {
+    "message": "Importar y anexar…",
+    "description": "Text for buttons used to import and append content"
+  },
+  "exportButton": {
+    "message": "Exportar…",
+    "description": "Text for buttons used to export content"
+  },
+  "backupButton": {
+    "message": "Respaldar…",
+    "description": "Text for buttons used to back up content"
+  },
+  "restoreButton": {
+    "message": "Restaurar…",
+    "description": "Text for buttons used to restore content"
+  },
+  "resetToDefaultButton": {
+    "message": "Restablecer ajustes predeterminados…",
+    "description": "Text for buttons used to reset configurations to default"
+  },
+  "resetToDefaultConfirm": {
+    "message": "Se borrará todas tus configuraciones personalizadas. ¿Seguro que quieres restablecer a la configuración predeterminada?",
+    "description": "Message asking user to confirm reset to default settings"
+  },
+  "dnrRulesWarning": {
+    "message": "No añadas contenido de fuentes no confiables",
+    "description": "Short description of the DNR rules editor pane"
+  },
+  "dnrRulesCountInfo": {
+    "message": "Número de reglas registradas: {count}",
+    "description": "Short sentence to report the number of currently registered DNR rules"
+  },
+  "pickerSliderLabel": {
+    "message": "Mueve el control deslizante para seleccionar la mejor coincidencia",
+    "description": "Label to describe the purpose of the slider"
+  },
+  "pickerPick": {
+    "message": "Elegir",
+    "description": "Text for the button to re-enter element-picking mode"
+  },
+  "pickerPreview": {
+    "message": "Vista previa",
+    "description": "Text for the button to activate preview mode"
+  },
+  "pickerCreate": {
+    "message": "Crear",
+    "description": "Text for the button to create the filter"
+  },
+  "unpickerUsage": {
+    "message": "Selecciona un filtro abajo para resaltar los elementos coincidentes en la página web. Haz clic en la papelera para eliminar un filtro.",
+    "description": "Summary description on how to use the tool to remove custom filters"
+  },
+  "myFiltersPageName": {
+    "message": "Mis filtros"
+  },
+  "siteRulesPageName": {
+    "message": "Reglas por sitio"
+  },
+  "diagnosticsPageName": {
+    "message": "Diagnóstico"
+  },
+  "advancedPageName": {
+    "message": "Avanzado"
+  },
+  "powerConsoleTitle": {
+    "message": "Consola Power"
+  },
+  "powerConsoleDescription": {
+    "message": "Control al estilo original con perfiles Plus+, apariencia, reglas por sitio, protección inteligente contra ventanas emergentes, rendimiento y diagnóstico en tiempo de ejecución."
+  },
+  "powerSettingsLoadFailed": {
+    "message": "No se pudieron cargar los ajustes de Power."
+  },
+  "protectionProfilesTitle": {
+    "message": "Perfiles de protección"
+  },
+  "protectionProfilesDescription": {
+    "message": "Aplica una configuración base completa y reversible, o continúa ajustando cada control de abajo."
+  },
+  "protectionProfileBaseline": {
+    "message": "Base"
+  },
+  "protectionProfileBaselineDescription": {
+    "message": "Filtrado de red básico; la protección contra ventanas emergentes permanece activada."
+  },
+  "protectionProfileBalanced": {
+    "message": "Equilibrado"
+  },
+  "protectionProfileBalancedDescription": {
+    "message": "Filtrado avanzado, bloqueo estricto de navegación y selección automática de memoria."
+  },
+  "protectionProfileMaximum": {
+    "message": "Máximo"
+  },
+  "protectionProfileMaximumDescription": {
+    "message": "Filtrado extendido completo, navegación estricta y presupuesto de rendimiento equilibrado."
+  },
+  "protectionProfileLowMemory": {
+    "message": "Memoria reducida"
+  },
+  "protectionProfileLowMemoryDescription": {
+    "message": "Protección avanzada con compilación en serie y cachés más pequeñas para dispositivos de pocos recursos."
+  },
+  "protectionProfileApply": {
+    "message": "Aplicar perfil"
+  },
+  "protectionProfileApplying": {
+    "message": "Aplicando perfil de protección…"
+  },
+  "protectionProfileApplied": {
+    "message": "Perfil de protección aplicado."
+  },
+  "protectionProfileApplyFailed": {
+    "message": "No se pudo aplicar el perfil de protección."
+  },
+  "protectionProfilePermissionDenied": {
+    "message": "Este perfil requiere acceso amplio a los sitios, pero no se concedió."
+  },
+  "protectionProfileActive": {
+    "message": "Activo: $1"
+  },
+  "protectionProfileCustomActive": {
+    "message": "Activo: Ajustes personalizados"
+  },
+  "appearanceSettingsTitle": {
+    "message": "Apariencia e interfaz"
+  },
+  "appearanceSettingsDescription": {
+    "message": "Elige un tema explícito, un color de acento, la densidad de información y el diseño de la ventana emergente."
+  },
+  "appearanceThemeLabel": {
+    "message": "Tema"
+  },
+  "appearanceThemeAuto": {
+    "message": "Seguir el sistema"
+  },
+  "appearanceThemeLight": {
+    "message": "Claro"
+  },
+  "appearanceThemeDark": {
+    "message": "Oscuro"
+  },
+  "appearanceAccentLabel": {
+    "message": "Color de acento"
+  },
+  "appearanceAccentCrimson": {
+    "message": "Carmesí"
+  },
+  "appearanceAccentBlue": {
+    "message": "Azul"
+  },
+  "appearanceAccentEmerald": {
+    "message": "Esmeralda"
+  },
+  "appearanceAccentViolet": {
+    "message": "Violeta"
+  },
+  "appearanceDensityLabel": {
+    "message": "Densidad"
+  },
+  "appearanceDensityComfortable": {
+    "message": "Cómoda"
+  },
+  "appearanceDensityCompact": {
+    "message": "Compacta"
+  },
+  "appearancePopupLayoutLabel": {
+    "message": "Diseño de la ventana emergente"
+  },
+  "appearancePopupPower": {
+    "message": "Power (todos los controles)"
+  },
+  "appearancePopupCompact": {
+    "message": "Compacta"
+  },
+  "appearanceSettingsSaved": {
+    "message": "Ajustes de la interfaz guardados."
+  },
+  "appearanceSettingsSaveFailed": {
+    "message": "No se pudieron guardar los ajustes de la interfaz."
+  },
+  "siteRulesTitle": {
+    "message": "Control por sitio"
+  },
+  "siteRulesDescription": {
+    "message": "Gestiona sitios de confianza, niveles de filtrado y políticas inteligentes de ventanas emergentes sin editar el almacenamiento interno."
+  },
+  "popupPolicyManagerTitle": {
+    "message": "Reglas de ventanas emergentes"
+  },
+  "popupPolicyManagerDescription": {
+    "message": "Define excepciones por nombre de host exacto. Las reglas compiladas de listas de filtros conservan la prioridad."
+  },
+  "popupPolicyHostnameLabel": {
+    "message": "Nombre de host"
+  },
+  "popupPolicyHostnamePlaceholder": {
+    "message": "example.com"
+  },
+  "popupPolicyModeLabel": {
+    "message": "Política"
+  },
+  "popupPolicyActionsLabel": {
+    "message": "Acciones"
+  },
+  "popupPolicyAdd": {
+    "message": "Añadir regla"
+  },
+  "popupPolicyRemove": {
+    "message": "Eliminar"
+  },
+  "popupPolicyEmpty": {
+    "message": "No hay reglas de ventanas emergentes por sitio."
+  },
+  "popupPolicySaved": {
+    "message": "Política guardada."
+  },
+  "popupPolicyRemoved": {
+    "message": "Política eliminada."
+  },
+  "popupPolicySaveFailed": {
+    "message": "No se pudo guardar la política."
+  },
+  "popupPolicyInvalidHostname": {
+    "message": "Introduce un nombre de host válido como example.com."
+  },
+  "filteringSiteRulesTitle": {
+    "message": "Nivel de filtrado por sitio"
+  },
+  "filteringSiteRulesDescription": {
+    "message": "Un nombre de host por línea. «Sin filtrado» es la lista de sitios de confianza; un nombre de host solo puede aparecer en un nivel."
+  },
+  "saveSiteRules": {
+    "message": "Guardar reglas por sitio"
+  },
+  "siteRulesSaved": {
+    "message": "Reglas por sitio guardadas."
+  },
+  "siteRulesInvalid": {
+    "message": "Las reglas por sitio contienen un nombre de host no válido o duplicado."
+  },
+  "siteRulesLoadFailed": {
+    "message": "No se pudieron cargar las reglas por sitio."
+  },
+  "diagnosticsTitle": {
+    "message": "Diagnóstico en tiempo de ejecución"
+  },
+  "diagnosticsDescription": {
+    "message": "Examina el motor MV3 real, las capacidades del navegador, los límites de cuota, el presupuesto de memoria y las decisiones recientes sobre ventanas emergentes."
+  },
+  "diagnosticsRefresh": {
+    "message": "Actualizar diagnóstico"
+  },
+  "diagnosticsLoadFailed": {
+    "message": "No se pudo cargar el diagnóstico en tiempo de ejecución."
+  },
+  "runtimeCapabilitiesTitle": {
+    "message": "Capacidades en tiempo de ejecución"
+  },
+  "diagnosticsNetworkEngine": {
+    "message": "Motor de red"
+  },
+  "diagnosticsInstallType": {
+    "message": "Tipo de instalación"
+  },
+  "diagnosticsPopupObservation": {
+    "message": "Observación inteligente de ventanas emergentes"
+  },
+  "diagnosticsUserScripts": {
+    "message": "Filtros de scripts de usuario"
+  },
+  "diagnosticsOffscreenCompiler": {
+    "message": "Compilador fuera de pantalla"
+  },
+  "diagnosticsStaticRules": {
+    "message": "Reglas estáticas disponibles"
+  },
+  "diagnosticsDynamicRules": {
+    "message": "Límite de reglas dinámicas"
+  },
+  "diagnosticsSessionRules": {
+    "message": "Límite de reglas de sesión"
+  },
+  "diagnosticsRegexRules": {
+    "message": "Límite de reglas de expresiones regulares"
+  },
+  "diagnosticsAvailable": {
+    "message": "Disponible"
+  },
+  "diagnosticsUnavailable": {
+    "message": "No disponible"
+  },
+  "performanceDetailsTitle": {
+    "message": "Presupuesto de rendimiento efectivo"
+  },
+  "performanceSelectedProfile": {
+    "message": "Perfil seleccionado"
+  },
+  "performanceEffectiveProfile": {
+    "message": "Perfil efectivo"
+  },
+  "performanceDeviceMemory": {
+    "message": "Memoria detectada del dispositivo"
+  },
+  "performanceCompileConcurrency": {
+    "message": "Procesos simultáneos de compilación al importar"
+  },
+  "performanceCacheEntries": {
+    "message": "Entradas de la caché CSS"
+  },
+  "performanceCacheHighWatermark": {
+    "message": "Umbral superior de la caché CSS"
+  },
+  "performancePruneInterval": {
+    "message": "Intervalo de depuración de la caché"
+  },
+  "performanceMinutes": {
+    "message": "$1 min"
+  },
+  "performanceRetainMetadata": {
+    "message": "Conservar metadatos de scripts"
+  },
+  "popupDiagnosticsTitle": {
+    "message": "Decisiones recientes de ventanas emergentes"
+  },
+  "popupDiagnosticsDescription": {
+    "message": "Registro limitado y local. No se guardan URL, rutas, consultas ni credenciales."
+  },
+  "popupDiagnosticsClear": {
+    "message": "Borrar historial"
+  },
+  "popupDiagnosticsCleared": {
+    "message": "Historial borrado."
+  },
+  "popupDiagnosticsClearFailed": {
+    "message": "No se pudo borrar el historial."
+  },
+  "popupDiagnosticsEmpty": {
+    "message": "No se registraron decisiones en esta sesión."
+  },
+  "diagnosticTime": {
+    "message": "Hora"
+  },
+  "diagnosticAction": {
+    "message": "Acción"
+  },
+  "diagnosticSource": {
+    "message": "Origen"
+  },
+  "diagnosticTarget": {
+    "message": "Destino"
+  },
+  "diagnosticReason": {
+    "message": "Motivo"
+  },
+  "popupUnavailable": {
+    "message": "La protección no está disponible en esta página"
+  },
+  "popupCapabilityUnavailable": {
+    "message": "No disponible"
+  },
+  "popupLoadFailed": {
+    "message": "No se pudo cargar la configuración de protección. Inténtalo de nuevo."
+  },
+  "popupParentScope": {
+    "message": "Este sitio hereda una regla del sitio principal. Cambia primero la regla del sitio principal en «Reglas por sitio»."
+  },
+  "popupActionFailed": {
+    "message": "No se pudo guardar este cambio. Inténtalo de nuevo."
+  },
+  "popupToolFailed": {
+    "message": "No se pudo abrir esta herramienta en la página actual."
+  },
+  "popupPermissionDenied": {
+    "message": "No se concedió acceso al sitio. Se mantuvo la configuración de protección."
+  },
+  "popupPermissionFailed": {
+    "message": "No se pudo solicitar acceso a este sitio."
+  },
+  "popupReloadFailed": {
+    "message": "No se pudo volver a cargar esta página."
+  },
+  "popupRetry": {
+    "message": "Intentar de nuevo"
+  },
+  "popupMore": {
+    "message": "Más"
+  },
+  "popupLess": {
+    "message": "Menos"
+  },
+  "popupPowerEdition": {
+    "message": "Edición Power"
+  },
+  "popupPowerToggle": {
+    "message": "Activar o desactivar la protección de este sitio"
+  },
+  "popupReloadPage": {
+    "message": "Recargar esta página"
+  },
+  "popupProtectionOn": {
+    "message": "Protección activada"
+  },
+  "popupProtectionOff": {
+    "message": "Protección desactivada"
+  },
+  "popupCapabilitySummary": {
+    "message": "Resumen de capacidades de protección"
+  },
+  "popupCapabilityNetwork": {
+    "message": "Filtrado de red"
+  },
+  "popupCapabilityExtended": {
+    "message": "Filtrado ampliado"
+  },
+  "popupCapabilityPopups": {
+    "message": "Ventanas inteligentes"
+  },
+  "popupCapabilityLists": {
+    "message": "Listas activas"
+  },
+  "popupCapabilityActive": {
+    "message": "Activo"
+  },
+  "popupCapabilityInactive": {
+    "message": "Inactivo"
+  },
+  "popupSiteControls": {
+    "message": "Controles del sitio"
+  },
+  "popupQuickTools": {
+    "message": "Herramientas rápidas"
+  },
+  "popupMatchedRules": {
+    "message": "Reglas coincidentes recientes"
+  },
+  "popupRecentBlocks": {
+    "message": "$1 ventanas emergentes bloqueadas recientemente en este sitio"
+  }
+}

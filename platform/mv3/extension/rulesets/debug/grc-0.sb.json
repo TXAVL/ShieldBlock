@@ -1,0 +1,250 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.gr.doubleclick.net",
+        "ad2.linkwise.gr",
+        "adman.kathimerini.gr",
+        "adman.otenet.gr",
+        "ads.24media.gr",
+        "ads.naftemporiki.gr",
+        "adserver.linkwise.gr",
+        "affiliate.linkwise.gr",
+        "banners.dol.gr",
+        "bold.adman.gr",
+        "cdn.orangeclickmedia.com",
+        "clickbanner.gr",
+        "d.agkn.com",
+        "el.williamhillcasino.com",
+        "gazzetta.adman.gr",
+        "gpoint.gpoint.com.gr",
+        "gr.partypoker.com",
+        "media.mybet.com",
+        "obj.adman.gr",
+        "phaistos-ssp.adman.gr",
+        "scripts.bestprice.gr",
+        "serve.ads.gr",
+        "static.adman.gr"
+      ]
+    },
+    "_sourceKeys": [
+      "42d5e35f2e309c1b79eec059a80200a26f1970971f36d825fdecf1723443558b",
+      "b160722b8351a1cedd14d73b2d2b1350f443138765546717e01dc5ea49926673",
+      "647a399547600d3f277e33b41614bffd28b125ff370abe49a87b185edc18bf28",
+      "53e069166ce6c09d8c63b0411f399e7cff2050215cd711e3a8be5f033607ad4a",
+      "95c5b3e2d6899bb62d15aee555d94f9721eebea845e7571c492ee2dfb4c5e444",
+      "5534af542393fbc225393c35b85e8e866554930797571b1f4b676d68b1500d59",
+      "e0268d7d058a3e3e90e31cd0be57d341015f1215f845c100b3d88aad62a096c0",
+      "216c4abecbf1c914678465c806936ad94ef0f9a7ad392ea50ad3865692df4cda",
+      "1ac8580e6cfd646dbae5cd70b353e964f998ab6aa567f9a20c08f1cab9053909",
+      "506556a8b8078d02441f09822dbab907477b8b126b968e1753761edef96d5079",
+      "bf1a01b8495e999e1af2281fa19473d315081524c8a2404028f56439e90d042e",
+      "861aeadbff2013407c95731f523d80bcbf490f1e948ef02d96e1c9b4cbcf11e7",
+      "97e720c82e8a8b9779174861dad5a862878e690365d93b6034a471ce1750435e",
+      "7f9655ec9d602491478d8891ae7dd9b4b8e3b61358ddeafb710f60b9d49f977f",
+      "aa8a0dd101eea70301ee9376b7f812bbc38ae1809753e2bc24b04249f7e1f895",
+      "19a42d032852ef968ad2dd1306f4cbe36a33b936fd45dd46ef9474a70de204c0",
+      "ace3beb7891101b244cf694c1beb8ecaac1d6692af1eb6acb4e9e04acfd0f86a",
+      "7b65acdee13f69c96dc631ffe86e48e2fc0225813b213b2bf6e9aef0bc1ba26e",
+      "788a5a3b56d658d6d2bb4da137f7ad183567803e78baa0f73b15d290e84439f4",
+      "c9338debf016743fd51b4db7c17e9ab5e834449e72b39be051f4459c9570f154",
+      "d3606ecbd70b391ab7a58f564fa5a0d52062e73ae7e36863b0d09937b3ed65e6",
+      "c3460c87353e1ded32088631254a354aa6c016e16da577c30659f053079b99e4",
+      "8af59b53e4366fe5bb05a237da98e0344f906bfe98428f3bf85a619131739897"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad.gr.doubleclick.net",
+        "keys": [
+          "42d5e35f2e309c1b79eec059a80200a26f1970971f36d825fdecf1723443558b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad2.linkwise.gr",
+        "keys": [
+          "b160722b8351a1cedd14d73b2d2b1350f443138765546717e01dc5ea49926673"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adman.kathimerini.gr",
+        "keys": [
+          "647a399547600d3f277e33b41614bffd28b125ff370abe49a87b185edc18bf28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adman.otenet.gr",
+        "keys": [
+          "53e069166ce6c09d8c63b0411f399e7cff2050215cd711e3a8be5f033607ad4a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.24media.gr",
+        "keys": [
+          "95c5b3e2d6899bb62d15aee555d94f9721eebea845e7571c492ee2dfb4c5e444"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.naftemporiki.gr",
+        "keys": [
+          "5534af542393fbc225393c35b85e8e866554930797571b1f4b676d68b1500d59"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.linkwise.gr",
+        "keys": [
+          "e0268d7d058a3e3e90e31cd0be57d341015f1215f845c100b3d88aad62a096c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.linkwise.gr",
+        "keys": [
+          "216c4abecbf1c914678465c806936ad94ef0f9a7ad392ea50ad3865692df4cda"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.dol.gr",
+        "keys": [
+          "1ac8580e6cfd646dbae5cd70b353e964f998ab6aa567f9a20c08f1cab9053909"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bold.adman.gr",
+        "keys": [
+          "506556a8b8078d02441f09822dbab907477b8b126b968e1753761edef96d5079"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.orangeclickmedia.com",
+        "keys": [
+          "bf1a01b8495e999e1af2281fa19473d315081524c8a2404028f56439e90d042e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickbanner.gr",
+        "keys": [
+          "861aeadbff2013407c95731f523d80bcbf490f1e948ef02d96e1c9b4cbcf11e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d.agkn.com",
+        "keys": [
+          "97e720c82e8a8b9779174861dad5a862878e690365d93b6034a471ce1750435e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "el.williamhillcasino.com",
+        "keys": [
+          "7f9655ec9d602491478d8891ae7dd9b4b8e3b61358ddeafb710f60b9d49f977f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gazzetta.adman.gr",
+        "keys": [
+          "aa8a0dd101eea70301ee9376b7f812bbc38ae1809753e2bc24b04249f7e1f895"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gpoint.gpoint.com.gr",
+        "keys": [
+          "19a42d032852ef968ad2dd1306f4cbe36a33b936fd45dd46ef9474a70de204c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gr.partypoker.com",
+        "keys": [
+          "ace3beb7891101b244cf694c1beb8ecaac1d6692af1eb6acb4e9e04acfd0f86a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "media.mybet.com",
+        "keys": [
+          "7b65acdee13f69c96dc631ffe86e48e2fc0225813b213b2bf6e9aef0bc1ba26e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "obj.adman.gr",
+        "keys": [
+          "788a5a3b56d658d6d2bb4da137f7ad183567803e78baa0f73b15d290e84439f4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "phaistos-ssp.adman.gr",
+        "keys": [
+          "c9338debf016743fd51b4db7c17e9ab5e834449e72b39be051f4459c9570f154"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "scripts.bestprice.gr",
+        "keys": [
+          "d3606ecbd70b391ab7a58f564fa5a0d52062e73ae7e36863b0d09937b3ed65e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serve.ads.gr",
+        "keys": [
+          "c3460c87353e1ded32088631254a354aa6c016e16da577c30659f053079b99e4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.adman.gr",
+        "keys": [
+          "8af59b53e4366fe5bb05a237da98e0344f906bfe98428f3bf85a619131739897"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "goldenconcept.ir^"
+    },
+    "_sourceKeys": [
+      "2ca46a891d86a2b37e17b548f0ee59a92ed91416ee4db8bbab0d6262e36a8bc8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "indusviva.com^"
+    },
+    "_sourceKeys": [
+      "bb91dea242251672e0362b3884a5ef76d0f2e84dc06094924133db9b5ee695f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  }
+]

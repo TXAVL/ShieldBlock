@@ -1,0 +1,8397 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/plugins/footer-pop-up-banner/"
+    },
+    "_sourceKeys": [
+      "6e3d2e75afe60d5244106b5fe3233cc4b25ca22594f8b689f8cb7d6d33e46cf8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "/reclama/"
+    },
+    "_sourceKeys": [
+      "3f99d01225fdabb9bd9eab464a1e2985f4a919306368797679f9187c5a22ad6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/load_e.php"
+    },
+    "_sourceKeys": [
+      "1cfba3eef1d1e6da93bc128ba565318673ec150820d70b43e49b7d3e454c05a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/preurl.php"
+    },
+    "_sourceKeys": [
+      "59b22426e605867654dcfea12264a82dbf0764d81a8b5da84f6a53052dd61dca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/ac_d_n"
+    },
+    "_sourceKeys": [
+      "5f211aec3ac79dc08d54e2cce8013cc88e89954161653619f2b8b858293752a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "/campaigns/click"
+    },
+    "_sourceKeys": [
+      "1c8b292ba0a9f08c6cff6cd934138b7bfc108c1529375ad8f6593959c8b06bf0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||paydemic.com"
+    },
+    "_sourceKeys": [
+      "66ab56e674ca81a672b01167f9803dc339e34494b1bf25f24ad28bd31ea00265"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiripesurse.ro/images/ads-images/"
+    },
+    "_sourceKeys": [
+      "4c98b31fa283abf8f870405bd8cbdbf73a515d24da2bbef319f4f8e33698a26b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||amazonaws.com/newd.cetrk.com/"
+    },
+    "_sourceKeys": [
+      "03b715d2c6d9fd1957af72892e81e9f39f74bf506e70cd466451aecc2fd34e36"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||projectagora.s3.amazonaws.com"
+    },
+    "_sourceKeys": [
+      "a232b5cac439b7b59f0be8a2f726b2766984e3b9cf62c53a687a6eecdd3299d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||hdsupraveghere.ro/supraveghere125.jpg"
+    },
+    "_sourceKeys": [
+      "81c622d49303e40709e9f0d4318824f84987c96bc701ee717cd2247872296c21"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||transilvaniareporter.ro/bannerilcjtreporter.png"
+    },
+    "_sourceKeys": [
+      "9a40b1b17e8461f483aa60e74e5758a9dbea084ae99e76e0e1ffb996db11d8c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||valentinu.ro/keyhost_125_x_125.gif"
+    },
+    "_sourceKeys": [
+      "8ddcb39a0f4cd9757c9953c16d7261df54732c693cf80acb176a985496babca9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||biziday.ro/wp-content/themes/biziday/images/aegon/bizy-day-banner-lateral-animat-albastru.gif"
+    },
+    "_sourceKeys": [
+      "4bc5d6b2dbcf7be4da048a7d4182fba5fef1b16b44686d8c82858d8230ce603d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||biziday.ro/wp-content/themes/biziday/images/rompetrol/rompetrol-2016_200x360px.jpg"
+    },
+    "_sourceKeys": [
+      "37250fea601603aad66afc6da6367671128805141f4a0be19afcffa9f32a0ff1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||biziday.ro/wp-contents/uploads/2015/09/banner-biziday_ambitioasa.jpg"
+    },
+    "_sourceKeys": [
+      "752588c7d71d8d773e4353b5203215d9ad5ea08cc6800b3c6fb28da3e23978a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||manafu.ro/wp-content/uploads/2016/08/bitdefender.jpg"
+    },
+    "_sourceKeys": [
+      "61578688ce6afa538560e07d29d810742b5ce8c78376366e808115b9c6233ad9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||petreanu.ro/wp-content/uploads/2016/08/banner-vlad.jpg"
+    },
+    "_sourceKeys": [
+      "74e8b6b56461c0a1801a2fc56ac17a80e348666bd29305ebdabc1566180b8adc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||petreanu.ro/wp-content/uploads/2016/08/banner-vlad-2.jpg"
+    },
+    "_sourceKeys": [
+      "804839d3f9016301ca30426fb909001dd92ec381243ac5af541839d16655de17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvdece.ro/wp-content/uploads/2014/03/banner_hoha_tvdece1.png"
+    },
+    "_sourceKeys": [
+      "d0ab46e1b643bdd1ceb69f8dbdf6ef698d6b7a8601f8cc1ce5a2b6016abb2187"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvdece.ro/wp-content/uploads/2014/03/printransilvania.jpg"
+    },
+    "_sourceKeys": [
+      "75ff6bbe164b7f20e337f2f19783c1501464f5bf14675b4b30bed24d41c55215"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvdece.ro/wp-content/uploads/2014/03/banner-usturoi1.jpg"
+    },
+    "_sourceKeys": [
+      "e8665d2cc53baaa77f36eb4109b9cfbd6322df2f8346df159294a39056a0bda6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvdece.ro/wp-content/uploads/2011/12/webfactor-foarte-mic_iepuri.jpg"
+    },
+    "_sourceKeys": [
+      "aaac45e1fbb83c81f35edb1def1445b14b3c2bcb5107ece314ebd04e2273ce9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "zonait.tv/wp-content/uploads/2016/09/229-x-250_dreamhack.jpg"
+    },
+    "_sourceKeys": [
+      "52678368e25319361169d9bca671af63487415b63c1991e188db6c626da2aa07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "zonait.tv/wp-content/uploads/2016/10/irobot.jpg"
+    },
+    "_sourceKeys": [
+      "6c3e57eeb44db99419ae38240189c3b3de81329ed5553c92c7bf1e000d7ad446"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/posta.jpg"
+    },
+    "_sourceKeys": [
+      "82b46d0149e86e46208efe7389317a301f2213f0ccbfbdbc696895905aacbfe4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/banner*"
+    },
+    "_sourceKeys": [
+      "836a45a6f1879b1735a894a1c330bc510a7f204aea8d73efe8d0281ea39049e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/ten.jpg"
+    },
+    "_sourceKeys": [
+      "be52f4cbb97abc4cb01f0a2c1cd5d3bafb139218737e989f751f10687f7aad73"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/juri2.jpg"
+    },
+    "_sourceKeys": [
+      "f2d459e340b0c98a947fa30048161186ce8dccd898a5396da2614e4496993947"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/banners/banner-psd.jpg"
+    },
+    "_sourceKeys": [
+      "2bab85dcd682e97eee25b90e2238f75d2221495a498ba54c43ada6eb7571c2db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiridecluj.ro/files/banners"
+    },
+    "_sourceKeys": [
+      "2480fd1cd7c73416482b13eca6848fd9728319f264d8c0b0abfb2aba112c27bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/images/banner_240x140px.jpg"
+    },
+    "_sourceKeys": [
+      "80c01f9af486500f7d3798d86c97b0dcf11bdd2416a005aafbae05740d9a2857"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/images/bannercitylimo.gif"
+    },
+    "_sourceKeys": [
+      "261e55cbb65cde220b1a0e1b79b007bda0ee65cbf16d073bda55e68539f34ed9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/images/hertz.gif"
+    },
+    "_sourceKeys": [
+      "dffb324fa0ec12812a08e5c14f2fab90346a1106b690ebabccd8722f10ff3bff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/images/thrifty.gif"
+    },
+    "_sourceKeys": [
+      "73da8e57086eec26efdf19e8116806d1b5834816853ff9dcd9549df97173453e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/img/smartfit.gif"
+    },
+    "_sourceKeys": [
+      "010434559b9d94c90a46fd4812692235db89cb63b4582dc146d7b6726e7879e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||aerotim.ro/img/bannerempty.jpg"
+    },
+    "_sourceKeys": [
+      "1a5a5d4af313182c0f84441d6ec0dd5f8cd34da1438c8b0f05e45119f896320c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||nosteam.ro/js/common.lib.js"
+    },
+    "_sourceKeys": [
+      "ab39e79b9c52ac0d2e1a1c23e9e76332dbd88584b6c201cc9d8d488467e54240"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||nosteam.ro/js/jquery.min.25-t1.js"
+    },
+    "_sourceKeys": [
+      "7b212dfb32a2f5bd7fb26e97facdc261577570260a9c248d56bacfaf8fbe9501"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||b1.ro/media/image/andfashion.gif"
+    },
+    "_sourceKeys": [
+      "5615bd15841a5d56cceab46ec21b5232d48229c0c707c10fc5b9c766688a2192"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||lumeapokemon.ro/pokemon.gif"
+    },
+    "_sourceKeys": [
+      "e941b4935fc6eadbcdacc8e502da0042cd9e3f5dee99437387d4d1182d59ea29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziuadevest.ro/images/banners/leaderboard/mall750x1006.jpg"
+    },
+    "_sourceKeys": [
+      "c4ffff83fab8510abd14454eeb7f146672f67c13180c270038b770ce4e15bf4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||agerpres.ro/agerpres/views/site/pages/xml/widget.html*"
+    },
+    "_sourceKeys": [
+      "a2ce5cc82acfdc02dde6e0190ecf6d5a9413c276298f34cee39a0df90d394f3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||j745s.com"
+    },
+    "_sourceKeys": [
+      "0f5390b86be3ce5fceeeb54cca142a7117ab64881a5ba83dfb2e05bbc5f31444"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||timesnewroman.ro/files/attach/filebox/banner_nou_570x185.gif"
+    },
+    "_sourceKeys": [
+      "7f0aa8d2353c77a5206fea7deb6437dc75aa3d6ea9f34d3239ae290e96a83541"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||timesnewroman.ro/files/attach/images/127/598108/570x185animat2.gif"
+    },
+    "_sourceKeys": [
+      "1ae200a5bfaa358611f4855528073ea5963778710e3ba641cb5ecc27c0b19c53"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||cotidianul.ro/wp-content/uploads/*banner"
+    },
+    "_sourceKeys": [
+      "d52f3b2411413b7c924e06929f45e78fb33d662e14363cfee9196ba9ab507808"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulromanesc.de/*promo"
+    },
+    "_sourceKeys": [
+      "1aadc7d8fdf237911b8c9618b8f624d82eebea19f7a1e9857e0baa53da61fd56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||curentul.md/wp-content/banners/"
+    },
+    "_sourceKeys": [
+      "77d6fbfc242efe8f9422804f345dc31a5acc659a4fc233299fc54d8fb6d2d96d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||ph-online.ro/*banner"
+    },
+    "_sourceKeys": [
+      "ed169485f90eac3b7b796c10d3d740980df5c588da61c401a82c933507889194"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||sfatulmedicului.ro/external/img/adds*"
+    },
+    "_sourceKeys": [
+      "fb35eb6f3fe9714dcb9b3bd93a5d956cac009b6e8217943111650a804d2ca972"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||sfatulmedicului.ro/*/images/banner"
+    },
+    "_sourceKeys": [
+      "b10d5637619293f1ef95c87de72d5f388984eac7e4e1563dbc729a6ecfddb474"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "stream-aleph.m.ro"
+      ],
+      "initiatorDomains": [
+        "mediafax.ro"
+      ]
+    },
+    "_sourceKeys": [
+      "f8f47cde79b5f452256eca1f78f7eac6b0ffad5ad751ba22202fcdd4c39bf650"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.imgur.com/oj9g0zy.png"
+    },
+    "_sourceKeys": [
+      "5e72d58fedbb7485f825d5569e82230308da4a8682215101c4405069a5d26e56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||ro-ph.com/img/banners/roph.jpg"
+    },
+    "_sourceKeys": [
+      "8e9629f041ff59bdb7dff10fb910c8c105e56847da04b8d3a2bceb71f679aaa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*widgets/*betfair"
+    },
+    "_sourceKeys": [
+      "0697887dcc33c25b6a1a372d2436a2ff19d3e43f67a0056c6c774f1f2caa37ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*superbet"
+    },
+    "_sourceKeys": [
+      "ce0d7bfd0a22a74134f5bf3848055ff4d89446096caf602008fd8095920011d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aff.carvertical.com"
+      ],
+      "initiatorDomains": [
+        "promotor.ro"
+      ]
+    },
+    "_sourceKeys": [
+      "b975c7cdb7a83259658946c64dcc78e7453f7e73dcd1dea926a335b33531d34e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||sighet247.ro/banners/"
+    },
+    "_sourceKeys": [
+      "311f2049766549a976c71d74320e5eebe5178235fec62fc3545cae14c57657a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.dcnews.ro/ads/"
+    },
+    "_sourceKeys": [
+      "3e21ca07482364fddfcf1310f056c2980d2514865460a7880db31de58c50fc71"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro/wp-content/uploads/*/*/netbet*.webp"
+    },
+    "_sourceKeys": [
+      "27372c715efdfc7f4bb06285c28c5adabaff014aca1b8c94944ade3d08077cc0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro/wp-content/uploads//*/*/netbet-fundal.svg"
+    },
+    "_sourceKeys": [
+      "cdde2b1fe40523da7bf86a52281af698939442424bea23d8ca122197fb81701f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro/wp-content/uploads/*/*/fortuna*.webp"
+    },
+    "_sourceKeys": [
+      "429f1c65a4d1ed62c1c7a87417f22a6cc8709b87fcf4a788bf96843bd22cd0c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro/wp-content/uploads/*/*/betano*.webp"
+    },
+    "_sourceKeys": [
+      "9c64c1474749a4b06d33f0fe5aa7c4f4e1282604fce443e1a08468de669fdd04"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||romaniataramea.com/wp-content/plugins/buymeacoffee/"
+    },
+    "_sourceKeys": [
+      "d8b24f63dd7cd2c7f64ab98afabfa7ace84bb8c266867a46145ff36c1fc3d03c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "buymeacoffee.com"
+      ],
+      "initiatorDomains": [
+        "romaniataramea.com"
+      ]
+    },
+    "_sourceKeys": [
+      "ed6abcaf2e4a13a76bc8401f8c250d4fdfa898479cad22b64a81bf1fd177b3ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||invicdn.clausweb-hosting.ro/*/publicitate"
+    },
+    "_sourceKeys": [
+      "68cc978d32b1822d0c59267783f3b21fcd7b4026b6cc83112de7edfb25e07bcf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||alba24.ro/wp-content/uploads/*/*/banner*"
+    },
+    "_sourceKeys": [
+      "c3a4bb1ce54082cef4c914b47503ade4b09705b0615bca3990e85e8b5109b0a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||monitoruldevrancea.ro/*reclama"
+    },
+    "_sourceKeys": [
+      "874708c15c09f7fd69221c23a8fb8f67c3706109eb18d1be0c3b4048649caafe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||computerblog.ro/banner/"
+    },
+    "_sourceKeys": [
+      "a4b45a37e16702ecc89261c9dc3f4cee7b26de467465e5a7bdb713e538710e95"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||cargo-bus.ro/*banner"
+    },
+    "_sourceKeys": [
+      "60b6bf4eb57250b021b9fbbb6f23a2b34cce19d3a948e02ca2dbc6b464f7a415"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "imobiliare.ro"
+      ],
+      "initiatorDomains": [
+        "moise.ro"
+      ]
+    },
+    "_sourceKeys": [
+      "63a6324f932977d92a17571935f3b98e0bc5adb8d266c536f4f6e971f07b4c42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||gedave.ro^*.gif"
+    },
+    "_sourceKeys": [
+      "7fddcd1cdc2769d70b592ad2123e209a11f9095715bfdeef4109e56e77dbcc9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||arq.ro/html/media/banners"
+    },
+    "_sourceKeys": [
+      "879c370c701d023cca51ddb2ff6912ef54da622c6592f948bdb4b8f3d98358c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediafax.ro/publicitate"
+    },
+    "_sourceKeys": [
+      "59293cd4d7f2702083ca5036e8ac612bcffc392f00c6422eadbb0473841b441f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||criterii.ro/images/banner"
+    },
+    "_sourceKeys": [
+      "9606a08109ee0dee4079067d7955065631d1ea6aca97ed43c867255407112533"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulatac.ro/static/banner"
+    },
+    "_sourceKeys": [
+      "556223559fc6ced4d8d2f8726fb5b9cf13b06535e9d6922eeaadd457277dbe8f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||bancherul.ro/banner"
+    },
+    "_sourceKeys": [
+      "2fe4d0f78434d79f7ca28f1dbcb57282f0cbe617e6d5c6b86ecafa60aca56849"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||infotravelromania.ro/banner"
+    },
+    "_sourceKeys": [
+      "b2dcc7045ca715bfedd56a146a34520587788558fe97ed0192e10578b855f6cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||info1tv.ro/*banner"
+    },
+    "_sourceKeys": [
+      "4b8d999eb1c86e314e4d4e205b07f940d139abf37659759320d7561fa205236c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmelexxx.com/*.php"
+    },
+    "_sourceKeys": [
+      "18011fdbc52d9df15cd917547ef2d961bb82bb17f6b2bb3e2b0f5108aa2185a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||argument.ro/*banner"
+    },
+    "_sourceKeys": [
+      "b53fca3cbd614bd9e8ec87be14efda6a101e69fb42c3907d8e9c5bbcb0aa934e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbucuresti.ro/*romedica.jpg"
+    },
+    "_sourceKeys": [
+      "91d351261d37c7af56631b15d5d0ac4b37bccb77f2697262f2d3641f7f5aae44"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbucuresti.ro/*/2023/08/denta.jpg"
+    },
+    "_sourceKeys": [
+      "3eec6d7014c8b7c81d0000b6c24fe844bad7b09fe9415cb62bd67b542f7b90b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||citu.ro/ads/"
+    },
+    "_sourceKeys": [
+      "c55fa86d3408843c3c588835975db0eae1b105f2102e812cd97cd5e6d4cf7630"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiridetimisoara.ro/*banner"
+    },
+    "_sourceKeys": [
+      "07322494903fe1c2b707e50c38f150dc277a98e82dd441596567a104fe9f614c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulactualitatea.ro/*banner"
+    },
+    "_sourceKeys": [
+      "ec1e19da2e6ed9524e05d9322bdfab50fa86f94cd060bc95bff26f3da6200e5e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulactualitatea.ro/*/ultima-computers"
+    },
+    "_sourceKeys": [
+      "27451e72de81d296440758f65d96193a57be2f9e58ec0691dcaf3e57e3ffb770"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulactualitatea.ro/*/bella-gold"
+    },
+    "_sourceKeys": [
+      "59c8d5881eb6f691bb6dd9794ee5da29ec627c0b625d4be435f808ca85411b5b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulactualitatea.ro/*/macheta"
+    },
+    "_sourceKeys": [
+      "885904d262bb6a9ab80e4e7990c0ea6a37288604aa5c6595e42b5361a0ec85a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||jurnalulph.ro/images/banners/"
+    },
+    "_sourceKeys": [
+      "343edcff71a40dade9bfe487840983026d7e731fc45fb92ec6fb2660a5ce30bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||timisoarastiri.ro/*banner"
+    },
+    "_sourceKeys": [
+      "79ecbdd3a45b5fb06e61f9d1eec422f386f076b49bd5184eea85174a99b054ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||timisoarastiri.ro/wp-content/uploads/*.gif"
+    },
+    "_sourceKeys": [
+      "08d0e6ee6e768ba83e680d2ccbf476b7585119979703443e50a47fa77649b3a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||urbeamea.ro/albaiulia/wp-content/plugins/interactive-3d-flipbook-powered-physics-engine/"
+    },
+    "_sourceKeys": [
+      "9c4d0aa3181fd882a3b6421664f74834f5a4c0cffbff18b9f2eb97423e755c57"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||urbeamea.ro/albaiulia/wp-content/uploads/3d-flip-book/"
+    },
+    "_sourceKeys": [
+      "08d78e9434fdfc17e488332095eeabf14e2fabe7967b13357dda54cfb00570bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||livearad.ro/*advert"
+    },
+    "_sourceKeys": [
+      "7d158b01d55629709fc61941de8bc8b8a54210fec3318e392034051c2bf0c6af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||activenews.ro/*/publicitate"
+    },
+    "_sourceKeys": [
+      "0b80db31339babaa817f467cb36a88bfa614d0cf684f8d50ad7b397b8dfce081"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||miscareaderezistenta.ro/*banner"
+    },
+    "_sourceKeys": [
+      "67cbb96a02d459ed5aba635a0a55d4bbb9068bc36c01e494620ca3088c6e0aaa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.ottoweb.ro/*/ads/"
+    },
+    "_sourceKeys": [
+      "57b111938ccb0cc2ff74a1b58805d62c4c72a5e720777a1c205d48f73023f807"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||vasluianul.ro/*reclam"
+    },
+    "_sourceKeys": [
+      "8438725029fe0fffbe2be384f0cc729a31299aa5bee2c252d68c02246dbf527b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||b-o.ro/banners/"
+    },
+    "_sourceKeys": [
+      "204f4f19ea422c77fb0a223307e304cf91407ff370e5506e64e4f55de713a106"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||stirilemm.ro/images/reclame"
+    },
+    "_sourceKeys": [
+      "452a75c862dc9901bdfd4446e34311c04e2c448cf5d1b2f600bb4c704ea94690"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||necenzuratmm.ro/images/reclame"
+    },
+    "_sourceKeys": [
+      "267a112986428e7bf0771a1cb4a5c8e89c2b7d79ad973b276206525a225479b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmexxx.ro/*push"
+    },
+    "_sourceKeys": [
+      "00f2a77b1107568978beeff67d2f74ff0490ce08fb7c0dc9d4d741c06c149f8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmexxx.ro/assets/js/cxads.js"
+    },
+    "_sourceKeys": [
+      "287eabddb55d0e19b688ac005338c08f7b1c7ac502e093fe6cc0479712aed349"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||business24.ro/index.php?module=getactiveblockercontent.ajxinternal"
+    },
+    "_sourceKeys": [
+      "2e6d0e3157305965773516ace628ef48c0268336134ac633b53f5ec9bb0ba641"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "jsecoin.com",
+        "reasedoper.pw",
+        "listat.biz",
+        "minecrunch.co",
+        "7w.ro",
+        "ado.icorp.ro",
+        "brand.ad",
+        "omniconvert.com",
+        "storage.icorp.ro",
+        "zm232.com",
+        "adtlgc.com",
+        "tynt.com",
+        "crwdcntrl.net",
+        "ads1-adnow.com",
+        "ads2-adnow.com",
+        "ads3-adnow.com",
+        "tesseradigital.com",
+        "profitshare.emag.ro",
+        "profitshare.ro",
+        "l.profitshare.ro",
+        "adexc.net",
+        "admonitoring.bsgroup.ro",
+        "adocean.pl",
+        "ads.gadget.ro",
+        "ads.tradeads.eu",
+        "adservingfactory.com",
+        "brat-online.ro",
+        "chargeplatform.com",
+        "flx1.com",
+        "gravityrd-services.com",
+        "megapopads.com",
+        "new.cetrk.com",
+        "profiling.avandor.com",
+        "profiling1.avandor.com",
+        "s.atemda.com",
+        "secure.trafic.ro",
+        "st.ad.adnow.com",
+        "storage.trafic.ro",
+        "track.atom-data.io",
+        "www4.smartadserver.com",
+        "pwa.grgs.ro",
+        "retargeting.biz",
+        "hotjar.com",
+        "awstaticdn.net",
+        "contestapp.a1.ro",
+        "creativcdn.net",
+        "kreativcdn.net",
+        "ads2.evz.ro",
+        "adsnative.com",
+        "s2blosh.com",
+        "3myad.com",
+        "serve.efortuna.ro",
+        "banners.livepartners.com",
+        "openstat.eu",
+        "sgbm.info",
+        "aplizz.net",
+        "pornlash.com",
+        "pgnasm.click",
+        "colorfulculture.click",
+        "massug.space",
+        "adc-teasers.com",
+        "xamubee.ru",
+        "gwngdfxtm.ru",
+        "nnowa.com",
+        "klodrum.com",
+        "get-in-shape.beauty",
+        "gonowx.com",
+        "adv.noi.md",
+        "deltarockme.com",
+        "beesratyou.com",
+        "whitemaincode.com",
+        "kdsk32lfa.xyz",
+        "shufflefell.com",
+        "rvlqplr.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bc61594518b5ab778c5fa645ce864da7cbb5dc910611562a652f396b1087e0f6",
+      "d88a6657e07efe41f2c617822040ea5fdd9f4e0f815a466c22c8fdd90c1e4817",
+      "f0855f25354207a8fc5f1d21b56e8f06f51abaec4805741cf54abc61e04e4496",
+      "a57d64d84f9a5245dd422f52db7c5560853a13b3322db7e8e6c4f1af30f4cc4d",
+      "64bc3d7d5c1d6618736eaa03bf3fb494d5474b107f317039aed2462ee0d7cf85",
+      "08bbbc078d31e57ce2e432475a8f1db9eb39d090af01b2ac49a34ced10cb8fc2",
+      "222ab9d44ad198d272c6239adcd913712e7573653abf22d24f57850f48e2f86b",
+      "b68602080caad619dcd4686e530efac107d17363f9d3973d2254fbf1689eba54",
+      "ae6246b22a29e6777d72510dfc086e4d18a89a8b20d3cc403321b73bc062d8d6",
+      "3ac8d7ffcf6c866a0593efd7f5fa2ff6f6241e16de6f3d1269c40890d9a8822d",
+      "084268dc87bd8996bf8f7baef4a49b23cea4849efa87e2f11fe875f70d41651b",
+      "df268fb651c5e8503c3a47d7b40f2c2ce80e642e57ecb5333edbbe79805f8950",
+      "36440a21ff9b4df2fa036f874cda97fac3a588b0ddb4b0637307b050b07768c3",
+      "28f9b5ce1e4c568cd26d43596df2689872643d3b69ded0971a7cc1f1e8d83f4b",
+      "8974bcc321d3f824ebfe24d43692447a0f770dda79eb2512b1991f4d76b6a5b5",
+      "1be3b777a90b36c761095963e22d36fd85b8f43a51158f0d2102a9b9085f6549",
+      "f2d539788bb03588f498d9e515cdb65cd9ff66c8e0f0881cb5bffd1b4c52b495",
+      "b312dc54eacabd13bde2cf28479c2d95eb637254af05865e7af7806a13d3c633",
+      "4a7dab09e3e495f4ed9f6157342cdd1ed1043126f9f15c9eaf2c494ef2d1e51b",
+      "c9e641493d4fd87b0ae9d397b16dd6d442a351fc026324176764479e4f64bdd1",
+      "7a76017d3b5a4d3f3be89895c88ba590ac5aadb6ff94f9d5ad211c41e05519f8",
+      "9cbf8baaf6ff73da93c304b4e296f7d7fcd442a3d1b205c9a9dbc0de3161b70f",
+      "e0cf27dd65cd33163a167f7d46caff4eafd975fa18c9ead7bbc74a6ac35f6254",
+      "7f5a1f0b984265549f2f25f7be7c6497918e639f52dd0e3fb8414d85cc02c41d",
+      "91e2f41ebb18e8d5f4129c0156793f5f054a1894fed43b53fda8f6d25dc55a19",
+      "5baded9f0c5d2933707481526fbea237f7bc34bfa8bea89130d74104b8958bd8",
+      "38c4f5550706ebb5ec10b1c0f44e0fe0a57c0b436dda7d7d9669b62e90e2a81e",
+      "5d670aa9639a95303fc98ad6d3dfe5913a4748c5532e38fd1cde3dd7263e75af",
+      "90aa1aebd7f0144a387caa0389c3d5d7d5a8d088c41a100e6ba1097ac4b996d2",
+      "20ab1bbb609343dd85f53dbcbea9f953f126dd7f1a9baec39be674e5efee1aee",
+      "23ac577119aebd5a100448e5528149163339a4b851465aa3ba4c884a09aa0671",
+      "a1451353d28bcf464a08acbf166dd9d637b1c3fc877dc02905057b2f6e5ae206",
+      "2fe6e2e198b299c8a9f01cd1c14c70e35fed48871992dd8c8f3a478dc32ee7fe",
+      "a86bf5114b87c84b5ff713e1a528615b4f9bfa4c3a068940b5edcc67197cd8f1",
+      "cb514e6a5c429c84849d8205975c229e070532c466cb8f0a714680251fe144a1",
+      "8e95e35be5f8b80bd10d2e7b9a52a8ae986b45d4749c54df8f1cbd6a8896b42c",
+      "0e0abe4bf86cfa7fd8ed6863241a707aa3f60a5471ba21f21ba1b0fb28df44fa",
+      "328517e3579d886e29c9883e0c543b392f798760b6f3a04bda209c148c7e101a",
+      "3ea1f175b28d2cd9cba5c13367260112e90ea9c72ed38abcc26e012d7a871b82",
+      "313b47d6f6ae3bd983b7c326ad4688602a65cd67346325eb8cd9a389441f8390",
+      "d2a5e53c32d6b7bd31a7159ad576c6a55d3499f3a7d7350de21ad3cea72c3b1e",
+      "6ff5ef1086ad4a9cd9f0b476daa00f6552272b6826734c1ffd0d9e4d4e0df4bc",
+      "3674c6c22a95f70bb0729d844f3c355a1a5df491f6bc6b6b1a12baad0bf0f7ba",
+      "0b54a15ca1523f598ebb25275943ee383e0239c827413d32fe5dfc4acce1054b",
+      "479cfae66edaacf26a74daa979d8c57fb62a590f3ec59cd389e95c26bb59a764",
+      "90fd1bd914a20418cbd28232fdaa02fc8e2a90554dc410efc8b6193950e27e98",
+      "ee3efcbd4441827e4a9f9873c061111b2a4891f2f8261b76f3595eccdad99d78",
+      "1a54e4057d228923d18e482574a5fa44098ebe9880530ed815973e838cf5e98f",
+      "788d6d420970773c3edf8751b27ca5e803fb2111c5d524f66cf5f3f308427be7",
+      "611cbe1a7c4ad7de1e3958d2d47a22cd475ff53ab7ee4fca981066edb9b67c31",
+      "ca07da525df402cdd653658b4c54f6407397b93f67ab8236d58c718d10b97c14",
+      "5da81585e8231af8664512f9ccce42785357ab5f27a6572381da046c5c8aa25f",
+      "432948e6f85972543fc4c64982bac5963ae079ecf205b2e584e3546a3226c3af",
+      "596f7d64335f08be97ebe2ef01590103180915399c2683618cbb7a30c96b763c",
+      "928661872632a6e693754311b3df43c9dfa30b2a3d0d962986cd70b5238752a5",
+      "da754cc751b41157a603390831a70fa4c2b68e479f7966af8d89e0ba340de207",
+      "ab1c49472b79752916d7b6fc30644272a0de6dd159b4cde05eaafbc4880b81ef",
+      "23095073e8f8b68da9403acd7da31aa3d360ad75c5eb1ebc73ba9ca416a06209",
+      "5648515329d454312a208bea2fc3eaea74a5c5924b144f3c7b49257fb6dbc618",
+      "4dcf9d7089ce76b81004ce02467275598d6e6f8eacd09e90f80231e38b37a20c",
+      "000eb815255f8b36c75a2d4535467a5f8e154ccc7da0725905e5d34c4225306e",
+      "f7d2e578d0bfea3c830fd716bea5f974c0c702aed278102c3e6bf397702a693f",
+      "d804d820d1c33905a1bd3f0368cdc8f3ac5e48fd97875723c9bb92d51f2628e2",
+      "777c3db2fd6476d2e0d92b00e5eea46f68b86707047ab18e8e7185fbfba9ea8f",
+      "d86fc6dfd7794f2a88846b6d64bbce91a3775bd9eb5f146937ef7f89bf0dee0e",
+      "193178ffd705a965768dc1d88dbd0ee51731d4d771034e4be7409a0b0405e392",
+      "87d4400cba658062cbcbb09110b81b91657979a303ace0417d2c972c97ed5d19",
+      "6859995b9229df85dd8d8c7f9a91f10e94570a7dfacac26125cc4fb13166ccde",
+      "e7cf3c8306bae24b4197f24822cddf92c36cefa43346d4a1c095f2172ef4c4f6",
+      "8c85fc2e05ed62e7a4082e0bc020bad330540893debb3bb620ad086415d1eb29",
+      "d95ca1750a38c367e618ac23a01a9bf5f9bf8d0b74c2c5ef493eba85c57bc79c",
+      "23bfeb10cf00e5407e78dceb4f3e57a2b6a33a6e7999bfca7cbfdba3f9e14adf",
+      "c5c0c624693518140b5612cba330d7e6d22d152f2c74515a148525e2a2531424",
+      "0059fc65c12033abd947437d9faa59c37af61e394ccd3c1ac640a7e3f0eae099"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "jsecoin.com",
+        "keys": [
+          "bc61594518b5ab778c5fa645ce864da7cbb5dc910611562a652f396b1087e0f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reasedoper.pw",
+        "keys": [
+          "d88a6657e07efe41f2c617822040ea5fdd9f4e0f815a466c22c8fdd90c1e4817"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "listat.biz",
+        "keys": [
+          "f0855f25354207a8fc5f1d21b56e8f06f51abaec4805741cf54abc61e04e4496"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "minecrunch.co",
+        "keys": [
+          "a57d64d84f9a5245dd422f52db7c5560853a13b3322db7e8e6c4f1af30f4cc4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "7w.ro",
+        "keys": [
+          "64bc3d7d5c1d6618736eaa03bf3fb494d5474b107f317039aed2462ee0d7cf85"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ado.icorp.ro",
+        "keys": [
+          "08bbbc078d31e57ce2e432475a8f1db9eb39d090af01b2ac49a34ced10cb8fc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "brand.ad",
+        "keys": [
+          "222ab9d44ad198d272c6239adcd913712e7573653abf22d24f57850f48e2f86b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "omniconvert.com",
+        "keys": [
+          "b68602080caad619dcd4686e530efac107d17363f9d3973d2254fbf1689eba54"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storage.icorp.ro",
+        "keys": [
+          "ae6246b22a29e6777d72510dfc086e4d18a89a8b20d3cc403321b73bc062d8d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zm232.com",
+        "keys": [
+          "3ac8d7ffcf6c866a0593efd7f5fa2ff6f6241e16de6f3d1269c40890d9a8822d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtlgc.com",
+        "keys": [
+          "084268dc87bd8996bf8f7baef4a49b23cea4849efa87e2f11fe875f70d41651b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tynt.com",
+        "keys": [
+          "df268fb651c5e8503c3a47d7b40f2c2ce80e642e57ecb5333edbbe79805f8950"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crwdcntrl.net",
+        "keys": [
+          "36440a21ff9b4df2fa036f874cda97fac3a588b0ddb4b0637307b050b07768c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads1-adnow.com",
+        "keys": [
+          "28f9b5ce1e4c568cd26d43596df2689872643d3b69ded0971a7cc1f1e8d83f4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads2-adnow.com",
+        "keys": [
+          "8974bcc321d3f824ebfe24d43692447a0f770dda79eb2512b1991f4d76b6a5b5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads3-adnow.com",
+        "keys": [
+          "1be3b777a90b36c761095963e22d36fd85b8f43a51158f0d2102a9b9085f6549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tesseradigital.com",
+        "keys": [
+          "f2d539788bb03588f498d9e515cdb65cd9ff66c8e0f0881cb5bffd1b4c52b495"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profitshare.emag.ro",
+        "keys": [
+          "b312dc54eacabd13bde2cf28479c2d95eb637254af05865e7af7806a13d3c633"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profitshare.ro",
+        "keys": [
+          "4a7dab09e3e495f4ed9f6157342cdd1ed1043126f9f15c9eaf2c494ef2d1e51b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "l.profitshare.ro",
+        "keys": [
+          "c9e641493d4fd87b0ae9d397b16dd6d442a351fc026324176764479e4f64bdd1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adexc.net",
+        "keys": [
+          "7a76017d3b5a4d3f3be89895c88ba590ac5aadb6ff94f9d5ad211c41e05519f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admonitoring.bsgroup.ro",
+        "keys": [
+          "9cbf8baaf6ff73da93c304b4e296f7d7fcd442a3d1b205c9a9dbc0de3161b70f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adocean.pl",
+        "keys": [
+          "e0cf27dd65cd33163a167f7d46caff4eafd975fa18c9ead7bbc74a6ac35f6254"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.gadget.ro",
+        "keys": [
+          "7f5a1f0b984265549f2f25f7be7c6497918e639f52dd0e3fb8414d85cc02c41d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.tradeads.eu",
+        "keys": [
+          "91e2f41ebb18e8d5f4129c0156793f5f054a1894fed43b53fda8f6d25dc55a19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adservingfactory.com",
+        "keys": [
+          "5baded9f0c5d2933707481526fbea237f7bc34bfa8bea89130d74104b8958bd8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "brat-online.ro",
+        "keys": [
+          "38c4f5550706ebb5ec10b1c0f44e0fe0a57c0b436dda7d7d9669b62e90e2a81e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chargeplatform.com",
+        "keys": [
+          "5d670aa9639a95303fc98ad6d3dfe5913a4748c5532e38fd1cde3dd7263e75af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "flx1.com",
+        "keys": [
+          "90aa1aebd7f0144a387caa0389c3d5d7d5a8d088c41a100e6ba1097ac4b996d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gravityrd-services.com",
+        "keys": [
+          "20ab1bbb609343dd85f53dbcbea9f953f126dd7f1a9baec39be674e5efee1aee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "megapopads.com",
+        "keys": [
+          "23ac577119aebd5a100448e5528149163339a4b851465aa3ba4c884a09aa0671"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "new.cetrk.com",
+        "keys": [
+          "a1451353d28bcf464a08acbf166dd9d637b1c3fc877dc02905057b2f6e5ae206"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profiling.avandor.com",
+        "keys": [
+          "2fe6e2e198b299c8a9f01cd1c14c70e35fed48871992dd8c8f3a478dc32ee7fe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profiling1.avandor.com",
+        "keys": [
+          "a86bf5114b87c84b5ff713e1a528615b4f9bfa4c3a068940b5edcc67197cd8f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s.atemda.com",
+        "keys": [
+          "cb514e6a5c429c84849d8205975c229e070532c466cb8f0a714680251fe144a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "secure.trafic.ro",
+        "keys": [
+          "8e95e35be5f8b80bd10d2e7b9a52a8ae986b45d4749c54df8f1cbd6a8896b42c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "st.ad.adnow.com",
+        "keys": [
+          "0e0abe4bf86cfa7fd8ed6863241a707aa3f60a5471ba21f21ba1b0fb28df44fa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storage.trafic.ro",
+        "keys": [
+          "328517e3579d886e29c9883e0c543b392f798760b6f3a04bda209c148c7e101a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "track.atom-data.io",
+        "keys": [
+          "3ea1f175b28d2cd9cba5c13367260112e90ea9c72ed38abcc26e012d7a871b82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "www4.smartadserver.com",
+        "keys": [
+          "313b47d6f6ae3bd983b7c326ad4688602a65cd67346325eb8cd9a389441f8390"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pwa.grgs.ro",
+        "keys": [
+          "d2a5e53c32d6b7bd31a7159ad576c6a55d3499f3a7d7350de21ad3cea72c3b1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "retargeting.biz",
+        "keys": [
+          "6ff5ef1086ad4a9cd9f0b476daa00f6552272b6826734c1ffd0d9e4d4e0df4bc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hotjar.com",
+        "keys": [
+          "3674c6c22a95f70bb0729d844f3c355a1a5df491f6bc6b6b1a12baad0bf0f7ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "awstaticdn.net",
+        "keys": [
+          "0b54a15ca1523f598ebb25275943ee383e0239c827413d32fe5dfc4acce1054b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "contestapp.a1.ro",
+        "keys": [
+          "479cfae66edaacf26a74daa979d8c57fb62a590f3ec59cd389e95c26bb59a764"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "creativcdn.net",
+        "keys": [
+          "90fd1bd914a20418cbd28232fdaa02fc8e2a90554dc410efc8b6193950e27e98"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kreativcdn.net",
+        "keys": [
+          "ee3efcbd4441827e4a9f9873c061111b2a4891f2f8261b76f3595eccdad99d78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads2.evz.ro",
+        "keys": [
+          "1a54e4057d228923d18e482574a5fa44098ebe9880530ed815973e838cf5e98f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsnative.com",
+        "keys": [
+          "788d6d420970773c3edf8751b27ca5e803fb2111c5d524f66cf5f3f308427be7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "s2blosh.com",
+        "keys": [
+          "611cbe1a7c4ad7de1e3958d2d47a22cd475ff53ab7ee4fca981066edb9b67c31"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "3myad.com",
+        "keys": [
+          "ca07da525df402cdd653658b4c54f6407397b93f67ab8236d58c718d10b97c14"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serve.efortuna.ro",
+        "keys": [
+          "5da81585e8231af8664512f9ccce42785357ab5f27a6572381da046c5c8aa25f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.livepartners.com",
+        "keys": [
+          "432948e6f85972543fc4c64982bac5963ae079ecf205b2e584e3546a3226c3af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "openstat.eu",
+        "keys": [
+          "596f7d64335f08be97ebe2ef01590103180915399c2683618cbb7a30c96b763c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sgbm.info",
+        "keys": [
+          "928661872632a6e693754311b3df43c9dfa30b2a3d0d962986cd70b5238752a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aplizz.net",
+        "keys": [
+          "da754cc751b41157a603390831a70fa4c2b68e479f7966af8d89e0ba340de207"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pornlash.com",
+        "keys": [
+          "ab1c49472b79752916d7b6fc30644272a0de6dd159b4cde05eaafbc4880b81ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pgnasm.click",
+        "keys": [
+          "23095073e8f8b68da9403acd7da31aa3d360ad75c5eb1ebc73ba9ca416a06209"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "colorfulculture.click",
+        "keys": [
+          "5648515329d454312a208bea2fc3eaea74a5c5924b144f3c7b49257fb6dbc618"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "massug.space",
+        "keys": [
+          "4dcf9d7089ce76b81004ce02467275598d6e6f8eacd09e90f80231e38b37a20c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adc-teasers.com",
+        "keys": [
+          "000eb815255f8b36c75a2d4535467a5f8e154ccc7da0725905e5d34c4225306e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xamubee.ru",
+        "keys": [
+          "f7d2e578d0bfea3c830fd716bea5f974c0c702aed278102c3e6bf397702a693f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gwngdfxtm.ru",
+        "keys": [
+          "d804d820d1c33905a1bd3f0368cdc8f3ac5e48fd97875723c9bb92d51f2628e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nnowa.com",
+        "keys": [
+          "777c3db2fd6476d2e0d92b00e5eea46f68b86707047ab18e8e7185fbfba9ea8f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klodrum.com",
+        "keys": [
+          "d86fc6dfd7794f2a88846b6d64bbce91a3775bd9eb5f146937ef7f89bf0dee0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "get-in-shape.beauty",
+        "keys": [
+          "193178ffd705a965768dc1d88dbd0ee51731d4d771034e4be7409a0b0405e392"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gonowx.com",
+        "keys": [
+          "87d4400cba658062cbcbb09110b81b91657979a303ace0417d2c972c97ed5d19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.noi.md",
+        "keys": [
+          "6859995b9229df85dd8d8c7f9a91f10e94570a7dfacac26125cc4fb13166ccde"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "deltarockme.com",
+        "keys": [
+          "e7cf3c8306bae24b4197f24822cddf92c36cefa43346d4a1c095f2172ef4c4f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beesratyou.com",
+        "keys": [
+          "8c85fc2e05ed62e7a4082e0bc020bad330540893debb3bb620ad086415d1eb29"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "whitemaincode.com",
+        "keys": [
+          "d95ca1750a38c367e618ac23a01a9bf5f9bf8d0b74c2c5ef493eba85c57bc79c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kdsk32lfa.xyz",
+        "keys": [
+          "23bfeb10cf00e5407e78dceb4f3e57a2b6a33a6e7999bfca7cbfdba3f9e14adf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shufflefell.com",
+        "keys": [
+          "c5c0c624693518140b5612cba330d7e6d22d152f2c74515a148525e2a2531424"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rvlqplr.com",
+        "keys": [
+          "0059fc65c12033abd947437d9faa59c37af61e394ccd3c1ac640a7e3f0eae099"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "thumbs.gfycat.com"
+      ],
+      "initiatorDomains": [
+        "deschide.md"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e9315a976bb05e0b21d611aa077e8da4e1298a6f63fcacceaf66ed97d02081ff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||virginradio.ro/wp-content/uploads/2019/04/*kfc-dejun-virgin-*.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5716716b807737c44eb73c06a1aee131ded1e3762c70da30be3521cae68a5329"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||catchy.ro/wp-content/plugins/sam-images/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "012009cdc1f99797746200ad0e63ce65e031338f5d737f4c199d751cf39ac5ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.stiripesurse.ro/assets/img/ads_img/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "64494c427365eb563f9c6d579117f5067e96e105bd19bf45e3234e93e66d8270"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.stiripesurse.ro/image/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c19d5cbfe52c0931622f44075f6c2d29c8cf0cb69a375625af2a607adf105d2b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.stiripesurse.ro/assets/img/agerpres-300x250.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2cbba8089fb9047a852bc988569892adfea0997bd933de0a7048f303362c7acd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||zonait.ro/*/728x90px",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d586ac909b77f0d74a0087bde7935e0577b6e0c5d6ff3717448a77ce19a0661a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||mesagerulneamt.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ef0241fb8ad6b9f1d88392a4387bce70eceb22816c80d02d0ca186bef62ffe28"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2020/07/publiserv-sa-servicii*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8a0bc970822a8575b372fa1c1147fb923fed30381e03c04551b4a51abd00d68d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2020/08/mugur-cozmanciuc-pnl-1200x-150px.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2ddfdf4bfa058ed258ea792c31c18a5326cc06b77e5b9f667b919f572a390372"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2020/01/arhiprint_rca*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "45b515794298bb9f8de86d1810cc25941137ee04024f2ef908a85f6c92de0ee7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2020/03/salubritas-sa-servicii*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "41483c1e7ee342aa5525b948e5132d98d13339f26176ff96c9e8ec5788fcd87c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2019/10/mega-travel-sigla*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7ee51c8a42534a0b0bd37a8d31ad51675e25eda6318883419c1c2fad9b62b53d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsallert.ro/wp-content/uploads/2020/08/banner-mugur-cozmanciuc-pnl-1200-x-150.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9a5b22c9a3696eae803126ae9966cd756508f7a606171ffd7f9e847bb5b8e9d3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2020/02/mplus-fm-creative-print*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7d553b3a849e25f52696947b4323de646c76a4bacddeab3f7a02e3b5731cc8cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2020/02/whatsapp-image-2020-02-22-at-09.57.34*.jpeg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f17b9d873c0f17381d15e5f7752df44d8c5a1d277e9ae9320736882203c28ac4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2019/07/05*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bbd4f827f726079f5ef1cc47669b607beeadbc7e00b393ff0b6cf778a4b8d1db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2020/02/tesa*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8f4184496ec54f4acb1cb1f400f586793bc9ef4c689648235274e9df6eec1c7a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/10846314_358363621010976_5389899719681894478_n*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f920341d42ecc5fae5d95f32eee5b894b83aaefc379157a5b7618f9ac868cf4d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/as2-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d32e76ee395c977acfe876015ddefdce875e2ab1a9ec25939290626335950a20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/14361421_1788204751460538_8516078036903297482_o-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "902b36ed3d508c48fb97468bb1a89c6c2439e12fbc4b7df979d04017050333d5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/servelectron*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d634871486f362829136cbf7134c51fb5cbf413b0ed018a3f1b1a7a18dd1735f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/magic-mirror*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ec1da0c1fe804ed761b88d6dd2ee06c01387f78c45cd26c7c61195ac5ea8c35e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/la-cetate*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "204e731f1375ccd532dbe0be1486802c9ca775689a6f1b9489c25ae9a656fd1b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/petshop*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e8b9ae74cca19f5da6f500e294c46ca3db488cbce2a2da293909c3a729200850"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/geneza-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3222dd015e0da07b27afab3f08b3138d7d21a00980c02d5da5eee2919261450f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||neamt24.ro/wp-content/uploads/2018/05/coravi-2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9b33bfd7f4d2401ea341e1adb07489d3f39812cd2d01b75e8c2fd39bc361453a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarpiatraneamt.ro/wp-content/uploads/2020/08/ardealul*.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3b1881825fdb0d2a4a53bdccd0a56a82af6f3df4271e2e01e46b3a7105351202"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarpiatraneamt.ro/wp-content/uploads/2020/06/rifil-neamt*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "570b55a77e94918c9dc22520d7ea910298722011661d738e34faf5ddd6707eca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarpiatraneamt.ro/wp-content/uploads/2020/06/brantner-piatra-neamt*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b66d0c8fe14980164cfacd95dabf06ca0c5dc382902552b8bddba29c818ad9f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||informatia-zilei.ro/wp-content/uploads/2023/03/captura",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8c237598fb991c113575f2a65da094fce6e01353f249a768da39ff489f0fc778"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||informatia-zilei.ro/wp-content/uploads/2026/03/poster",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5f1aa5f0fccedd4448a1567a0f47c4558e4945e44770dcc95d673bc5ce992a70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||portalsm.ro/wp-content/uploads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9833d95af04c4d593447b18e660feca7d75cb4fd5262e8d297b6132a466ed617"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||portalsm.ro/media/publicitate/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bcaa9a2620d0213cd43c73867af80ca23129703dedb5183d1bd3e07fc5067415"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||presasm.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "97949e74d30f7f6032c77645c1ff0ac1cd33c7124e21065aca0f764e1c98b218"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||satumareonline.ro/*reclame",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7c96b3ab97e8b74f011a9e9f1e63ce4d3a4f9202234311155435c56b9eaf3199"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "razvanbb.ro"
+      ],
+      "regexFilter": "razvanbb\\.ro\\/[a-zA-Z0-9=,.?&-]+$",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "faa1b5e0cad1ad19f080ab704adc33d83ce7f9073e14f4e530a5e5a1fbe546dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "yoso.ro"
+      ],
+      "initiatorDomains": [
+        "zoso.ro"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d0f76a239c097fd2933e97ff3e01878c2e799920877f0396f3e6c3a91d03605b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f67058b67e1bba42faa41826aab331e6f131478928499f04f73e104fe91ec393"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "imgur.com"
+      ],
+      "initiatorDomains": [
+        "zoso.ro"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0346cac36dfa43d5e34b44828fa87f6ebccf33b7c9ba8ae9e199decb0da23966"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||eftimie.net/wp-content/uploads/2016/10/300x250animat2.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a28c57c3729a1645cddc6e6083a61bc35368c701037c0cd11075b4c9670d6230"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||picgifs.com/graphics/a/listen-live/animaatjes-listen-live-7518111.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7c3c56cc0325a8b3e2b51756c5def4941f00d1ec1b64201a44e746f48a7a7597"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.moise.ro/wp-content/themes/biziday/images/app-desktop.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "328c77e21b63696381d5d746083ab2ffcd64c6d6fb5bb6bbbbc9ddb1093a8824"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.moise.ro/wp-content/uploads/2017/02/bt-mic-sidebar.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1978a0ec6e88bd159e33ae44c86e5c1897e47bb26b7fe0a43f9858586de9a589"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.moise.ro/wp-content/uploads/2017/04/emba_bucharest380x220_0603.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "975b099461744bb4ddc4da6ad75fb45f144a23366c8b9d1b7296ecf9c991beaa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||cotatii.tradeville.eu/quotations/img/gr.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9050cbfa6a7f682b0a76d1eeacbefa05c9b4b9cdd2bd23d5b360fd913085f471"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||manafu.ro/*/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e33b2f090bd4c1b4f28d23f388eb98f7e5f5490853b6b4ad9940581b64516000"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "luju.ro"
+      ],
+      "regexFilter": "luju\\.ro\\/static\\/images\\/[a-zA-Z0-9=,.?&]+$",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "26d83162624669c853a94a2941de2e3c705dd80fb2f15dffc1d0a6b940b2933a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||agerpres.ro/agerpres/bannerfetch",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fd573e2d2b652df2bf147ff48c26448915b5d8208c242eaeb4353db26c506bc5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||cabral.ro/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6161c2b5e0aeba505747a201b3c0e4182c129032224f0e21bb98af2374747707"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||psnews.ro/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "32fa7ec6aa9341240fef21248fe57373e8795c91b48ff6db9fd992f34ba47174"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||psnews.ro/*/*ad_ps*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a015c1f49c061d933b2beba3f77a5222ce5369e242ceddff4c6c1a4f7fa228de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||evz.ro/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "aede4dfd104de5d42dbec791b88aaafe0a73be96542ad3c1effbfed6f26656a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||evz.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e38ce6674e311651cf1a90a965e1932a58a483382b1587a0e46c7e309ceafb35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.evz.ro/wp-content/uploads/2021/03/kuga-bdt.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4cdd87b0d9015aadf0cb2a62f21e8a81a695eb5953420213abd79efb1260bfcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||bestchange.com/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f2ddc91f253b763061a2a511603a2de74efd03f24b14b430b28104b08d2efc62"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||tribuna.md^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e1bf0f0ec33ef8ed3b5a00fe082de7ea6b8057e8923c8f8ff19440d9dca072fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||capital.ro/wp-content/uploads/2019/04/comunicate-online-capital.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3d41fc37ada5169ae526b02a4e77f42cb73892798fba47941520bdbfb99224aa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||capital.ro/wp-content/uploads/2020/01/bdt-fordstore-28012020.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c56aaf792b950e42457448cacf452479f786518337f09a3a37622a7848ad2391"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||capital.ro/img/buton_shop.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5c2305c2e3f5a28bba37cc6da0dc4f523f7877659347bb94a9ba6863d8eab633"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||capital.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "155c9853e9a45460a22e7c399bf10ebd0e14061013bed2d5ac7fa4757a2f51d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||timponline.ro/*300x250",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0f54d363e65565f0ef231544c1b86412173fee81876589a62e7178f90f30b899"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||timponline.ro/*728x90.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "61e322297723581e983dfa82267d19b16a5319c9e9189852ed1f1c57596fef75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||replicaonline.ro/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fb0dc5a68e138510c4f5e80779d888d5498577adcfe5c6de043c16599c9605c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||replicaonline.ro/rbin/rdata/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6d2f162108d005bcbdfae39149f0ea00796ba526df5572209cec78e422f0788c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||crestinortodox.ro/img/pub/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0d14a14e882b3412dbd63c06596b4da2019441956a0dfc53357ac3361a79d97a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||opiniatimisoarei.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e815d6ca840513c2e27292cdba0388163c4ec92a707cd6e7de7c2fb8bc946188"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||opiniatimisoarei.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f61cedac733375153423a7197b318c1d6067152b55bb908f34b5f26621ad3cb2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||agrointel.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4f4da5e316039ee15fbd2d76c9da01402e7bf7da4775426152611f2d8f5ef827"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziuaconstanta.ro/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b601177ba0d6bad202d59735f680a9be353c1388fe47bee208a1e8e0ca49f40a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||adevarul.ro/assets/adevarul.ro/mrimage/2019/02/20/5c6d75d7445219c57e642558/orig.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ee87c269d4733028332550450e05b7933b36ef7c2189b7f5ba7ac387b22ca7f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||adevarul.ro/assets/adevarul.ro/mrimage/2019/05/27/5cec182e445219c57e1efd38/orig.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b7dbc7400b9d76d83e424ab520c7f02c6fc2452b95e1e6614b12ea1e5d5d3c88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||clubopel.com/8080/images/autopieseonline24.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4dc3d2f71a7ebc4351e7b7f3d08888674df88d26b9ba8c882e65855e5f63fd60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||clubopel.com/8080/images/autodoc24.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ac31275bf6f3554a154793ddbe87a0720e467df135517325c98f2316016ab054"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||clubopel.com/8080/images/euautopiese.ro.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c79b7b2cd688693d997af6dcdcae6df7a3ed1a432be93d6248bd316d5591b82c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||clubopel.com/8080/images/dwight.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e56964419d309e01fcd12016a2bba223d26da47b867d7d375a9e42c9207a2e7a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||multecase.ro/assets/img/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0cdaa77f381e8306815357905ee2db7ccacaee2dff4ecdf3bb8e095bc83fd01d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||digi24.ro/static/img/adblock.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7ed910a281aca6563a014de2879f6ab02ce9e451f7f854665de70aab8a6a98f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||rangfort.ro/*/rfhz.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fe054dae2d942b440c14ee9914b3a51d69fb35d078939754e199e5a78b6d3cd9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||nimfomane.com/wp-content/uploads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "61a4c2ddb6a22944b591f6388377cf300138157b842e12a7027fd5fc5014834b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/usr/widgets/*/cptm*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e95ca2436af1dceb214c27d64e5da753799b45aad1395c8ed942d15910692a04"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*/widgets*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a295115d3edea0b719dc71fcb5a8928604091f7ddc8292135d55fc4f70759d40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro^*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cb13d27bb0a6a08ca0ca5bca9e77a69e6126f93a88afcdf542b1434447512bf5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*maxbet",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "50db0497f45c3e565282173a496460343ca3a4b64674e42a5ee4e2d18b1e25a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*/betano",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "80269a8118cbbbb8236e25c2eb8ffa66b996c1985bf3f0ec3284d5f15100594d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsp.ro/*winbet",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "12a8319831b01fb815f0636a2386cb207105925407ebf825502ae09fc9418327"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||oradesibiu.ro/wp-content/uploads/*/*/banner*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "63745a8b12317c97aacd69cc9d3ba0da70c25576ed74878bc9663c8d6b6e69d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||oradesibiu.ro/wp-content/uploads/*/*/*-banner-*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d72200bbb3496cf173dcda93bb93c23b8744c916140cbd98bf4a84bd0cc4a32b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmecrestineonline.ro/wp-content/uploads/2021/01/nail-khusnutdinov-als-171-000-aro-244-modelling-0-1.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "be6cb8d6b7e618e2e491759204f2302b2fcc4d67ac3f167b5e5dde92556b418c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmecrestineonline.ro/wp-content/uploads/2017/09/resizedimage-300x150.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9d29efcd5c902ed1446d3090c645f48d65a4a994d8e0623ebcb73afe5730dc95"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmecrestineonline.ro/wp-content/uploads/2017/12/banner-video-crestin.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6421ae7fde5974c0dd600a0fcb1d0ee051ad50880d8e1571cff10a93104228bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||hoinaru.ro/wp-content/uploads/*/*/banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bfe0adda03bb61ea893b588fd8745bd9118604b2c4988c8525188838e15b3f77"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.dcnews.ro/nxt/bolero2300x600min.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "901c7a2214854b20c39625be0cd3d9e7424c8669bacd7b4f151ce3b3862f9b9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.dcnews.ro/nxt/publicitate_v2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b5cacd93f08b7df0d4db2bc50e8e91f5e3c2393f428b3a3fb8f2b44fc01d064d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro/*fortuna.svg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6d6337c0215389bd8d0a9ffe2c195b35bd3cb098e107ff8a449d5cb99a13f8ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanatik.ro^*betano*.svg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "502318bc771a10ad241100fe15663407c831c8b9ee25ea96e7981c1c93eb28dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziare.com^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9b5165fc2679a2089ef311026837d34fd0d0a87a9f5b1920d87c6aaf3d6a4fd7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||divahair.ro/*/featured_brands/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c51d8c8526f21d1714895417986c0a534a5ef133f192067281192c15f938e6dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||focuspress.ro/wp-content/uploads/*/ad",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "68f45ec81ffb11a74e517a218a428edecf71b9ba326b72858d2c08573047e356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||focuspress.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3097727482e1351886ff6f7772fa52112bac2f5eafb92fd5aa9ff85037d775c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||sfatulparintilor.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1db22b1a0c7539bd2884488395899bf8225fd7282e64686b5fc52d854530e312"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||serveresamp.com/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "16a9f31cf18965c8a72fe86beb065d61b2779884c13fa98117885ffd98ff71dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||autoexpert.ro/img/rca300.png",
+      "initiatorDomains": [
+        "floteauto.ro"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c57d000763b73278b017764b191658254e6bd1a877b9d4db470a5a827d076ba2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||floteauto.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7f5b271e3b2057bfacb4107a1ac01609d40f516a3c693ec4e35c41ce174d0446"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlinesport.ro/uploads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0d04c3bc3b0e3e320b322d55bfd622a9f8aae1002f496becf3b578f707f1df40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.aktual24.ro/wp-content/uploads/2022/02/simion4-*.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "51d254228e6e4d4c7d20389428772085e47efd873bb8b2df97d7789a70c7c8a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||dirtbike.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "41514d16fee3779771ae1d7d38dc582f31e7c03ba81314b1188ac2a4cdb0e8ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||monitorulexpres.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "df6ea928d9a97c843cbe2a5b4ab5c1920782c6eb70ab360d310c57e7c9369c43"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulevenimentul.ro/data/_editor/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "541027837e2fe193f3f5a04452d629c146b5a973d227142dc9a50e71e10190ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||investigatoria.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1e39cec1f892572413384ea25bd303fc67783ca32e5ae5f40e51eea1d6609c42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||desteptarea.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b09b88fa0a5ed3c8c4d502aceccba2b71af2320f3d85bcead3d01474b2f5616f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||autolatest.ro/wp-content/uploads/*/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6a5a7bb9ca71f1e75c4817c3de46e9ccda6f7b697a7b44beeddea07f2a69dd25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||project-e.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "43457cf22b58735025993bc880966a9a65dd5bc947fae1ffcd6f8667cc51c9d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||alba24.ro/wp-content/uploads/*/*/728x150.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "727e3d7b178b20362fb024ec473a6959d288861a037f5a32ac84e406f855cc1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||alba24.ro/*banner*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "16940b7870cd5c0d4991989c7f415f7f1a4568673307edd45e429044489d614a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulunirea.ro^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ac01491d012261ee549a326b3ac97d42f4c272fad973715a1b0e5200103bb639"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||vremeanoua.ro/wp-content/uploads/*/*/banner*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6101ba62dfc7ebd5a8936b261a7d2aacc5d9dfd4e4e7ddaf368afe7b6b779162"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||vremeanoua.ro/*gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e3a24f915be614a5253e4b23755aeaeab9a6996f0904af2b40bda3db2f3f3081"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stiridesibiu.ro"
+      ],
+      "urlFilter": "||cdn.sanity.io/images/*1170x90.jpg*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "29480e11bb61dcb15f120fadef9099d22e468cfad04e4865567c882dc10bb2b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stiridesibiu.ro"
+      ],
+      "urlFilter": "||cdn.sanity.io*gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cda45be3cd24baa503a0c6812d50f01c39faaa55fb14daa290605f2a94913341"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||weradio.ro/*banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7a6a975c63856fc0553d1440318a7e7a1bd2fc1f2a048bf48666fe3ceeaed39f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||curier.ro^*/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0d5d4fccbe3e3b15426ef7c8f2957ccfd866a8e2c18457edb12f65e596e996db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||curier.ro^*/publicitate/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "091fceabf6ea87754995183a15068c4b2b8fbd9af8f5a676a55b05fb4e312fa7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||startingup.ro^*/banner*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "51ae6efd8f268fdd38e9fba8317749708a09be53c755195a8bea06e73e15c345"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||giurgiuveanul.ro/stiri/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6eaf06ca08ffa4dff78a7774c9eff3ac1bf14788e48bc858741b93b841283ea1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||independentonline.ro^*/commercials/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5cf1d56d57469dc329425153fe96b67dd80a3ac3162c5417783ed4fab86d06ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||inturda.ro^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9d0686b4d3130acf3370f3f662404a749dd0fecfd7525118b7c6328b86dbb0b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||campinatv.ro/photos/ad_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5b3b29c0c9b4802b92202962013e7ed7392c8f14804bd51e8c838e756f362778"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziartopdearges.com^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "63681a3be94ad0d6a1249a2facc3b90c1f4de9165069bfde523de5c21572a14d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "refleqtmedia.ro"
+      ],
+      "urlFilter": "||i0.wp.com^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bd7e8c79c7d7a7226b4d9fa993cf8420f692ec55038307b511ea98c30a4fa0c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||glasul-hd.ro/*1200x200px.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "99fe2f9aa26202e2495c2668a2b948e7c5c6412c21cefc1974da0f0206b520ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||clujust.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eb33c6996a66219f5ca4e07ca5d39b2d22de831d6310f6526a78e4d1472bd42c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||clujust.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "28af51e568d818d812705a63ac4c2685428eb0440cb7188ee3480cb8f25d60c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||napocanews.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "295f976bc353f8c735f5ea1c7d1dc09b763d65d29b3092fe1dab00c7992ca85a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||geekchronicles.ro/*lisandraad",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7e32f62f1eb440d65ea8a632597bc411e2df702fbc149e8888e4a5e76c6665e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||geekchronicles.ro/*/ban",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fee88ce8a52cbb645240313f126840c2423f24f5cd079a6e3cd7fe873cc2a7c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||opiniabuzau.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e033a1cdcadc70a5aac4e73937a80756035c8570be4e423a15d307380bbf07f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiulsalajului.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3dad2bdd251a9b9c2a56cd2f2881d6ef67ce1a93168c31da03162dd2acbf004e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiulsalajului.ro/*2048x136",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "95716259b6e5489f48f3ff5d2de8bd49e1344e708b8de62edb99f6be086b391d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||voceavalcii.ro/*ad.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ad4a8a608d4a6c63813cebd7afc7479f1084320e82c50fb090fde43676bb935d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazetadambovitei.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2cc1245ad1eea48cda39df1cf658a8a2fc4fdd85e8849e14d3d880eaf7e8ad37"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||viata-libera.ro/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a604cfd80a6d9af94a1ba68bb87ac4b7d9ad5a276175226bc330388b2f86fc4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||monitoruldevrancea.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "40174ce4bfe3558487bb1e45ddbb4a910115f9de7d3668c6fbf47b9bd9eee305"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||newmoney.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6a1364b2daa57ab1bd0337a95a5abab86d734d3f4f8b591f8de02ed2f7f1721c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||filme-bune.biz^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "81e05b5e7d23ca7208cfdd270a4fd5bec8df90690497f125ae6305e5e87daba9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||topgear.ro^*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bf4f4e2f1728158397ed2c8e63ba782dae4ff0895f1226432200cc89b4405d6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||topgear.ro^*gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3cdf34b2f79316f88508f36bd761e2dab704c66b1e3a7d2bd4ec6949d55497dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||lajumate.ro/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f4338cab71a34034d17725b12c62fb6bf13b67d81bc4acb0a4ec66cf618ff73a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||computerblog.ro^*970x250",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eca2798ba23e6636c47f34eeda4d000b0e560957ece23c6049498ac8942db873"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||computerblog.ro^*600_300",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "42c504bc13cfc6630a6c53e87c777c60eb932affc2b40ec1ecc4d84db97376e5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||bankingnews.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "edc0c92a76a365af1d501303f65e0bd952556c2cf5d6b6e5ed2c179c2bc8f1f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||i0.wp.com/r3media.ro/*/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9b17a43ac17ce0c591200c3607fa45fe10f617a0b32a190b2a5d9b347c3f4510"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||lyberti.com/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "171283e7016a4af84784f8a58a79608a73b651f8ca8d3f0c8dee234f7ca53f31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||impactpress.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d5602eb230ee3efec667b279a2dae6a387d67ef1c0846fd42d928135131d59ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiriest.ro/*banners",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "901d44597796f91e48302eca8261711e63a3acf198ba7ca7badbef8a88190d87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiriest.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eebd32b55fb09665e7974165eaad65eba6c04a9898cbf94fb71cf29dc0d579bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsbv.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8810f5ec1e38ff07acc20a8f4fee6abddc141897150aba0d7794819cc10a79d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||cargo-bus.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9c76fe200513a0ac03b6b03b2c9c458e051a969451c9783d1261564abf267311"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||buzau.net^*gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6a98bd93de94e130e5e715eec4133cd50be135bb06cbf1eee35ce71b9e34e028"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||buzau.net/*promo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "185b58076e732a49a91a28ab1d432a13e0e3760e4fe15c2206704f81c9b96ec0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||buzau.net/img.pro/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c3f93f40cbf337c463d94186d77589ca73a7b20010fe404e6009350a9d67b3bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||damboviteanul.com^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ef80f100165d4be9bbfeed956d0b128682627ab1e40c4fda18c96d0cb80abf36"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||obiectiv-sm.ro/wp-content/uploads/2023/*demolari-sm.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "843c77b2dbe7d8c638705ff1e398972698c9e3ce1bf4a271a835d9acab5dfcfe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportulsalajean.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "87a74b21e32713242e9ce283c8cb14fad3cb5c4d3ea1fe46dfa37edba671351a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulincomod.ro^*gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a672297b0c4e3840954a9fa6b15dd60ba5af24d829a596f43183a43a0025418a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailyfeed.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8fc5ee7543b4658a5517f2e8909c50d58710843bea8a7183dfca3459c12db5ee"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediaflux.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c04ac936817ccc3ce271fe2aeabca5addcdc7a1cc726c24f3ce38ace9723340b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiridinromania.ro^*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4d098ebc50445d7b9ceb9c4c3a8fbe4eab76c11e99bd44d78d782bb71fb82ee2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||brasovstiri.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c272d4684dd08e6f4691c17067fdaf2641149714b4f4159d30c244c9f8c2d701"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||brasovmetropolitan.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1bfcd7d1affa4df48b219cd7ea34662f9cbebd9cbee172649b406b82d034d69c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||observatorulbv.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "36303c8553b4b6f3fd77bceeae21ab5dbdecd1f48408f9944a348e2818612e7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||pitesti24.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fcd7f08f7c14edf5d2d4a87695cec87a14f4de922e068b8dea6d73a5de5770cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarobiectiv.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "408689be5aed8b0f922e31128ac96bbb459ea409fbac1f96e2761a3b6899442f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ctnews.ro"
+      ],
+      "urlFilter": "||wp.com/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0b3efb7e5327e4921d66822ee52d400d8a36fba65a32f3e4f9daa024b018d257"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||litoraltv.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "53abc8963deb9610ea0b8100322d5537ef2c149083a0a77a6359508dfa6abf88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziaruldinmuscel.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ad40d1cb53d256aaea33534a543d706f0babf8562c48832d226ce2dedff97442"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||obiectivbr.ro/*/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "815abba6e5937e81fd44fa1a45edfef2ad6c036b8489702c81ddc2c9d06c5d82"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||fileshare.ro/banners",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5cd87768da39351852977631c9994adf4fc687eae533f1b0c6d18e5188e93ef9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||albaiulianul.ro/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8a77082abe5a89d616ea37352ff80e8c99d446e319b7ef6914d88060fae94f19"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||cronicazilei.ro/*banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ca6f740f73cb02f3d0302344409397645bfcb6f6f4ac0e78fab0af564b1c3025"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziaruldebacau.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "22c3758968ba3c45d891b364d0c24893a406ec429329b9be3c66e61173cda90c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziaruldebacau.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a4e50421935f776768af965ed958470f0505fca464f913f2b4fd63a4f7bc781d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||viata-libera.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d306e0c6b11bc66872e7cd6f298c59d6646b08091bcd3b30d1bfeb2240dbd3a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||revistaconstructiilor.eu/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "629c49aa77ec51b4bb788206fb9c677e5db435369b7b87def3914c7537f9d3cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||autoplay.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "de43a1ce0f2d5fd61bd5270935a816307817242016812962af32e5ea03ab1733"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||spectacola.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3a6fbfb7c279518ae596c6b1633c7911cb6f8a9ce45671e8d9bb14b30bdac603"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||novatv.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "868727ef3aea7ae312ca5f61c433971db27977babb1ef3d306b2f37ad357620b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||ghiseulbancar.ro/files/anunturi/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "72685b9e31b5e2e8304be347dfdd3962088e60a023ffeb3a83dee688f943cc03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||anunturigalati.ro/images/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f08e471e6c75a248e6b13fcc78b665ce0e8a75a5aff7d3258afe776d1ea06379"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||site-anunturi.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e99169d98e2208722bc9210148d19121e20223bf6a9b37f84d88df7f00726a33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||anunturigarla.ro/banners/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6f41b3fa5366f34c77612c33d3c040cfd50154ba89e7a318839931d3c9ce3b08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||bzb.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "768767be5eebf64a73247f562f79c5e5953fe6b4d8979ee9c0bce333d6d45c09"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "||info1tv.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c50c260db909c67c853269638539bce86d29fc2920e88a086746b082fed86f38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulsanatatea.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d39e40f4c09b8cf60e6fb59189155008c70f33d085a24c4afc767d4c109a6783"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporteris.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "736c35a048a939a91f1f851589fc14223859b7da717ed0b82d4e87a875db6138"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||reporteris.ro/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3bc167c1e3bd2d3badeaa1c4b36f38be59263bcd8d71992fd72c8cc78aec0c55"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||stirivaslui.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7b49e0f6c22f992b6c0b0dd8c56f026219b4d54ca7a9ab8af3c8d8ba976c00a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||stirisuceava.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ec075a5556740ac28b3c56ae5bbdef404c0302189fec17ada9ab94f19317021a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||roman24.ro/w*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ea6784c7d0c586310e5b3fcaa170805eede0d4bd2cf812ae52bf2277856b1e96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||roman24.ro/wp-content/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "18f9f98e374699a33b92fa3f7c5c08bc6faf4c3378fdcd828b72c5786742a679"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "argument.ro"
+      ],
+      "urlFilter": "||i0.wp.com/*/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2bfb2b66dacbd118edb74e0104856e3684002038617ba1a54130637021224da2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||botosaneanul.ro/reclame/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "becca1f4fa0e929474b752e3e732e17985527d1f714965f3cef350ab9cd0ab76"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": ".gif",
+      "initiatorDomains": [
+        "botosaneanul.ro"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "08ad23a634e7e9a98ee0a8f342fd525a627e2225cbfb7539f862e51a5e6e4f18"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||roforum.net/*sponsor",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d6a2c52838efe17a826d8b382f70512d65f4d1a7c959b8639471d1815effdb07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||clubmercedes.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4a0f26d2515b4ba33ebe58dfc5d8f4b31324720020e669a481b2990b4be5eb00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||atacdeconstanta.com/*banner-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "70d546f88a188edf0efd3307ecd992ecb43bd0a028afc31aa7bbb9d232e74571"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||atacdeconstanta.com/*vivo*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cb57bb5d6035a340f2ed74e83adad33b607882f20e413070b76e880ab5e6519b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||antena3constanta.ro/*/*728x90px.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "622d7d286ebec54a9823e03700ffe49f018f22b57fad223497ce251c21909713"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.knd.ro/media/*/common/placeholders/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4c95922334d22f147ecde8e37a309ac42b44e7f92d35f9dc9bf352854f20d50b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||rotalianul.com/wp-content/uploads/ads/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4e8b00fbca0f7f2551b8883129437e66acf8ce597c42644e3eb12b2d0970c5bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||gorjeanul.ro/wp-content/uploads/2018/06/macheta_clinic_life.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e540ed85bd4892817f4505332c1c109a6f4c237a927886e58387282651c2092e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.expressdebanat.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ff5f5fcca5a9ef8a56a75c6ab3175d510d6f9114a30b9a66cc7f184dc3588167"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.expressdebanat.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "11753eb628982031d6f042e93728f54fb48b3bea839ff7986d5583e3fb24b4ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||stiridetimisoara.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2f2e60ca415369300df9dd5b9e44730b47b3a36037ecadf1c47c437c2f7c4441"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||bihorstiri.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "aac7b31eccacf32c0a754170a3f1c11f6adeb11440b8c63852ad4ef5cfe556cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||republicaoltenia.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "040b6a7fd3d17e006f6da140fe79020af1e84e002a7005ee61823d3b853716cf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||micapi.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "299fa7981a2e9cd06aa43b17bcb13da44ae1a4da1d2c99a22f8df54ec6c32976"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||svnews.ro/adv/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8b03d7d53423716eccdf579d89e0d253855a70ff40692dad6bd532c2004a1a8b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiul.ro/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c9526f8068f0a47414dcb9d907640cf548006e2dde1a1bc4bd02694b4beb0965"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiul.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "42e2f9d8466c0f13e96f154c1cf12a20125c7340096563a3dd40ee2c59b6b68d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiul.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "625d7b0ed31ead30490b011f5664092068fe83bb36a7aea3294718232dadec91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||graiul.ro/wp-content/uploads/2025/09/clinica*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e7fa6fe9ff7de822f4fee39e95caa0ab81b62e965be276b6156549457cdf0003"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "||obiectivdesuceava.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e14ed9a0e1bc879caa56ee154929e770f15fdf5e789fb8511cd58de3e95c1b5f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||obiectiv-mehedintean.ro/imgs/profin-small.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6839d385fb8d9a42b2e8d2d7eb003c4785985cdd0cd82f106ff3160fcf135807"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||euro-firms.eu/reclame/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f3a1fd6f9f52c30df6f26c7d140523e8c66f98a5b5b5957abe693280d6d9e96b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||bunaziuafagaras.ro/*reclama",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "86f2c00595fc5db674619a52dda642f12e714225cb6e1abcdb0b53934a1bf1de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||bunaziuafagaras.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bcf7ce69124bfa3fe9a709fac27eceabe8f93644b606ecefc6a27300093151eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||bunaziuafagaras.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f9c7a28f65bc602b15685896902713ab488323071f733a2e231ecb613603ba12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||atacul.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "15998d9097847e4030ff7e2db165e22d957635d77080815d66178818df5046d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||money.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "39febb687e021fcabd4c93a5def274666ddaf34e4c8e6a39c4a381c8abadb176"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||miscareaderezistenta.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2ec9258d6a3e7af429ff574203c861138212a4ebca99aacf2a7790de02095c34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||dincolodesport.eu/wp-content/uploads/*/auto-service.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7b17d7300285ac4505ed0a30b5a40b2e7dca0ab0f5680c9a86eef96b33ce2090"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||infotulcea.ro/wp-content/uploads/*navrom-delta*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9d83f567c1833d0c865aea03c0ff061b6caa0e6641582b7fe3b8a5462ff75550"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||rasunetul.ro/*/adfiles",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bcae5cae977536c5b1469f21ce90370a3b48be8f88ecf91a2c2f263a7bba739a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||rasunetul.ro/sites/default/files/reclame/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5d501666deb6bf1a48d62bb5762fa6c8ca25e3a0cd5e13e655a41db68c9107e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.shortpixel.ai/spai/*/florian-shaorma.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e1700d77d3614239514b82f3c4f56fac1ffa022418cf61bc9fff564b18da9d3b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||magazinsalajean.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "90b166a9e9a91aa10155ff3d39407e828080faad8da26ce387d2cf196ca8c212"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||magazinsalajean.ro/*/meses",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d81c6e9de18b860219cdbfce63031c1052d11f9a181e00fa815dd61ef66cfec5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||magazinsalajean.ro/*/traducator-copy*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "56bc1a3137df75fafee228cab24f7c07b39e950e77d87f456996ba0d4a5a1cae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||magazinsalajean.ro/*/just*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bc7da4ed25efb70ad31009cad12bb73b6c4c096dee149f575a0cd9fd4d69acc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvfagaras.ro/*/my-flyer",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "944d00ac9cb3b997d61a7d77e29e0a3af8351869341bed054b5bdb27f9d0e268"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||reper24.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d262426a2be421f263b77093ec9e3e04bfb5c465eb81f1a22643362837805ba2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||reper24.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1110c6486c38ad655375e57c85a224b2664d58fca8f9555078dfce40076e2dc4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||reper24.ro/*/brantner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2a3bc86e51073816666b961ffb83039d7d14b268b74b78c8e02987cff7937da7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||ieseanul.com/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d06e3c364cc2b0264da40cc722ffdcc7af20e1d6a3421d52009e7ad016745e7f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||botosaninews.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ac7b19bc28e255fb038921b06f88708443c7308330fc580ecb611a96225fa98c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||infobt.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6c2beaca5a58a531f65ccd48273c4ce7c8be084f7189b5f18fc9cb2398f26610"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||banulbotosanean.ro/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b50bfeb87e382309bcec2e73323dde1b30fb16c2313e5bf6446196b114458688"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||bihorstiri.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a86d1ac45e879c485e02d549bc205f36d5be36ca4a1d6816906351dd28c17689"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||newsvaslui.ro/*-ad",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "483e7dc9bcc806c3a3cdc841d5937e8c6ea2daef4e723a8d282f7debf66d8783"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||turnucustiri.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "31e7e63706af2a91b127980859dadf8256d2e558c3cdb4ef8a1099ed0f20210f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||unghiul.md/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2efb07839dd5ce9f50c68634fc2e8c4edb2530410f7ff8fdaf8a9daab7448514"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||curentul.info/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2bcaa9fd942ab77fa1dbde2e78c34e70e98caa480e07bbde09f178154403d7ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||atitudineadincalarasi.ro/wp-content/uploads/*/aldis.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a4c106bcff22934c0593aef965e362579b318ff42a51263ba13db62cbc579cf3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||atitudineadincalarasi.ro/wp-content/uploads/*/afispic.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e47b22b943e2db957e1e8a6c4dc697481e7c1fb261ac0908cce5246640039b24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "||dambovitanews.com/wp-content/uploads/*/ddd",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "24126b29a4b472f64cb71fb9560bafc0ac96526d1564e431c9c4682e7e4ef578"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||zdp.ro/*banner_gme.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6fa39765928c41a1b2f7b93e6419793a9a841dbf40a8240b77b9e63d28b198c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||ziarulderoman.ro/wp-content/uploads/2016/05/danlinxxl.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "34d1dbdaf8d7e41487fcadff36c471db6eba9786fcda42250f5fe9002d3f0356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportulbistritean.ro/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b4243b227384d72792878f3b1e7cd68f999cc428a6c7c38fdc6ece24bb7e9d28"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||financiarpress.ro/wp-content/uploads/2026/07/garanta*.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a48467892837ecf45eb97ed641e42a9e0f5ed95254f709d0dcb4135004edf557"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||curier.ro/wp-content/uploads/2024/04/hotel_360x300*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3bf6d8603a3625a01ebd6902c3520868351c96e7e94c13cd578ef9566fac085f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gemius.mgr.consensu.org"
+      ],
+      "initiatorDomains": [
+        "zf.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f4a78789e4bf7ad3606342fc8d0bb0437f377acad3d1a403ec5ebaa4ad61ddfb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "razvanbb.ro"
+      ],
+      "regexFilter": "razvanbb\\.ro\\/[a-zA-Z0-9=,.?&-]+$",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "faa1b5e0cad1ad19f080ab704adc33d83ce7f9073e14f4e530a5e5a1fbe546dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": ".ro/track.js?",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "87325c8b4bbca9d09014e003bef79f4a75c282bbbd2e1df721fba90f3c7a1872"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||nosteam.ro/themes/*alph21",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bc1be0246d7cd81ea238d8760bc76a9d77e759ae5fdf3b4fd11e5596c563a787"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cloudfront.net"
+      ],
+      "initiatorDomains": [
+        "playfs.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1f2ffc3d4be2b614bb218f63c004693dd65d26357c551f68b560a8b7a96a1f5b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.apropo.ro/js/providers/autopro/widgets/ads/widget.js",
+      "initiatorDomains": [
+        "prosport.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "92a743bd4a49fbc3bc9b6bd8ad9717518bfa7ec270f6f224a16618f5dcb5c5a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||connect.facebook.net/ro_ro/all.js",
+      "initiatorDomains": [
+        "ph-online.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cc345d8f1f9aa793ec16a8a0efa4a7a9bd878c8f78424fc07fc8da8d9bfc6e49"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||eporno.ro/assets/js/cxads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a70325685508e87b26ab7db159d9d22a8f59a7d82b5225717c9151c188e149b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||filme-porno.ro/assets/js/cxads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e1a5a2f13d7dc8c48166dcaa51bba3257c211c9c49eb7313a02bb2e445a09532"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "filmexxx.live"
+      ],
+      "urlFilter": "||gonowx.com/*?filmexxx.live",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8c038984d1a2bae360351d2ef8c97badf084857e5655774e0bc5f27982687220"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||zfilmeonline.ro/scripts.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "20403ce62f027dab0437573a0899c460bb55ac46c515c2b6ea8971c3ec4f0898"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js",
+      "initiatorDomains": [
+        "vzlinks.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0f855757c4cbddbb32c03175bc6bf2c92c34602a0d2d023b65712a32a05fd8f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||ivm.antenaplay.ro/fadead_check.php",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "b927b5ea3e0e938dfbd36f27396cdd65de88dd0a539c3ff846117af825c8a8ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "alephnews.ro"
+      ],
+      "initiatorDomains": [
+        "zf.ro"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "dd944759218298d30fdb41107aad4ce31b24611f34f46e92ef70ac7d661f1854"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "stream-aleph.m.ro"
+      ],
+      "initiatorDomains": [
+        "zf.ro"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "982d837a1a587f4cd1545226d83e5267ef1eb2b953ea2bf24535e5fd5bc441f2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.stiripesurse.ro/assets/img/ads_",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "72a9d3886dbadf2b6291b7321b0d334b7023fb3983384c9f7d0f01ceed449556"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.dw-world.de/syndication/feeds/rss-en-hotnews.2757-cb.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "954cb9d4700ca1a334f28bde465f9b0c60e233a25b347318c4633b2e0e140904"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.dw-world.de/syndication/feeds/vtpartner_hotnewsecon.2756-cb.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "aa69a70b9c3f01e748a9eeb6fb39a5de3a4570bbc2a64155d02dc6270cb9a742"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||privesc.eu/widget/embeded/inregistrare/romania,parlament,guvern,conferinte,offlineuri,emisiuni,concerte,retransmisiuni,sport,monden,altele,hotnews",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "6878a41cd34aa83dcba6caa65d72ffd513c9108cb20a2e6f57558781f14e388f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "||ido.ro/i/a/160.php",
+      "initiatorDomains": [
+        "vremea.ido.ro"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d2121089f2dc64aa6c3af05a802d562965aefed4b8c30b5cb2f76ee3b152ad8b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||ido.ro/i/a/300.php",
+      "initiatorDomains": [
+        "vremea.ido.ro"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "ddb112b981cff47316d43ff619fec95df36066423c5fc3f6d8b688ba73d58468"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediafax.ro/dacia-plant",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "6de947ab6ca0db9837879d8c26b0fa009d94e5e8e2cd2a14b88fc55b96b33213"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediafax.ro/sanador",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "24c6616a0c3195bdef76e475060b08d41ee0febb8cc658286b962f5c455f4ff4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||horticultorul.ro/rcl/*.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a99cca28efb9c71616462bc31e4bcf6f9f40e3ed70ab0efc92735354b0dbe024"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "widget.apsis.ai"
+      ],
+      "initiatorDomains": [
+        "timesnewroman.ro"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "cfeef0e404a28e89f15a443b29199da5a3d26b58df536718995128036d448c51"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||gandul.ro/*tobacco",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "a8da9acf7247358e68093da9bbd74e2cc38c53dffeac1ff011e419cdea9b9830"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||golazo.ro/storage/2025-01-10/65534/bucovina.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "edadc346390b4749878380185a6fdc062069f3f78505b770ce5452fa4e7fdc51"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "push.tradeville.eu"
+      ],
+      "initiatorDomains": [
+        "moise.ro"
+      ],
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "9b4b9462531400daeee84d53ab408edcf6364bb2cd265ba89f9cd43e73921ea9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ro"
+      ],
+      "regexFilter": "wp-content\\/plugins\\/custom-banner-plugin",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "d7a7d55e1800f0d6a148c399c6790543f2219b2ec060e90ab9ba948b1e49f174"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "||observatorulph.ro/cdn-cgi/apps/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b70e78f5399e8911fc1593d19f5eb966dd49d4aab58da26710fdf6fb05f4f4f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "/cdn-cgi/apps/head/",
+      "initiatorDomains": [
+        "dot.ro"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0d66eaabd0e4f97930324d8567b178ad824d75e63e6753cc4f0ca30154f86f9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "*fifa-banner",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7bdebc15a09291f7f26dffbc5b4109dbfcb32bb5dad502193850c40a8449b187"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||sapi.emag.*/recommendations/*zones=adss",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5ae3aaa743b0b41631f58ff3bc8a954ce6330a1aa3137c5eed8f0b0c9a592a5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "geozo.com",
+        "mookie1.com",
+        "e-day.ro",
+        "2parale.ro",
+        "2performant.com",
+        "bannersnack.com",
+        "evensys.ro",
+        "best-top.ro",
+        "gtop.ro",
+        "hit100.ro",
+        "statistics.ro",
+        "top-ro.ro",
+        "trafic.ro",
+        "trafix.ro",
+        "zontera.com",
+        "integr8.digital",
+        "confortmedia.ro",
+        "simpatie.ro",
+        "adsmedia.ro",
+        "kkadverts.com",
+        "director-web.helponline.ro",
+        "roportal.ro"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d6b0f08599fa2776821d3fbc26ced1dda369c17b754eb849e09110d4b9e5c998",
+      "cff49899b42c8661d81ac1664f8eee7b3cbeb18baf584f89442c292509c6a7f9",
+      "ba116baadb572deb30059ffb1082198e7ffdbde17673a460f2e67229fb0943e5",
+      "9852b3bbaa81507e0575ee878b726cf276c01da545d5ccc6baa62c6f00fe8e5c",
+      "d3dd3f2dea6b10e74b77d2402731e8e205ee946928e2166866c2814d0456219c",
+      "8e3ddd157853d2d0737e24189cd66d8d09343b120a02880e7ec67f70ec061c0a",
+      "71e2d2343fb8e4ef6c1321d3707f144cd3e1098e0e01230b1c71fac6a1f500db",
+      "df04907f797d36556fb193c56e8e3bc4b0707dc350febde3b139b17bf0d3f52a",
+      "35ffb5f204d73e39e03f7e7c661c7224f053b01ae373302d4c4b8744643f8732",
+      "e0b84f1b6154e9053cbf1d43c14b6378a6da0b126307a9e8be2ecaeef756e72f",
+      "b8aecc8d138491dee9ba0d8e77e66fa81189d3be0d6add0136116d830e9a1079",
+      "b9d4189919e688b215ed44a27156ea580419a54bbf0a98d1629a27fee0543bfc",
+      "42de2f2ca052138b9f068373ee02452d0e234e517ec45473d4ae549bc505d1db",
+      "4252c048a543b96a90031346185499c65f3f81127ec4fdbb43d34f70f474a642",
+      "500a7435eb54b39bce3a96faebc4851076cd55bed5cb38d5c8df1e4f124f5040",
+      "9e52e849c1a7ad82054acbecf72e31fc7e3f9fa8530a1b3d47b00524e13cab31",
+      "e3a1bf6b14ba4fbabd5e6b7000e7201f2e3d6d4c3566d6780313b292116533bb",
+      "d62d8eab8d9589dceeb3edfe17ba35a88e77b627e3b6574a4130dd90dfb6988b",
+      "7a4de47c64978504bf78c02e5ba04a5e990cadbfbc64066cafabb990bbe704e1",
+      "68e49a9279e731894aff26e302f9a87972aa03263c11eeee89b791ffd898f25d",
+      "f47f85c5b9a83a7e9ac5c16150eca6f14834db785529fc286b6df4d64e0ead7b",
+      "fb5b4447e9632047930f4ee3748feef434008d4594b3fc8072edbc87598a185e"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "geozo.com",
+        "keys": [
+          "d6b0f08599fa2776821d3fbc26ced1dda369c17b754eb849e09110d4b9e5c998"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mookie1.com",
+        "keys": [
+          "cff49899b42c8661d81ac1664f8eee7b3cbeb18baf584f89442c292509c6a7f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "e-day.ro",
+        "keys": [
+          "ba116baadb572deb30059ffb1082198e7ffdbde17673a460f2e67229fb0943e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "2parale.ro",
+        "keys": [
+          "9852b3bbaa81507e0575ee878b726cf276c01da545d5ccc6baa62c6f00fe8e5c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "2performant.com",
+        "keys": [
+          "d3dd3f2dea6b10e74b77d2402731e8e205ee946928e2166866c2814d0456219c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannersnack.com",
+        "keys": [
+          "8e3ddd157853d2d0737e24189cd66d8d09343b120a02880e7ec67f70ec061c0a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "evensys.ro",
+        "keys": [
+          "71e2d2343fb8e4ef6c1321d3707f144cd3e1098e0e01230b1c71fac6a1f500db"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "best-top.ro",
+        "keys": [
+          "df04907f797d36556fb193c56e8e3bc4b0707dc350febde3b139b17bf0d3f52a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gtop.ro",
+        "keys": [
+          "35ffb5f204d73e39e03f7e7c661c7224f053b01ae373302d4c4b8744643f8732"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hit100.ro",
+        "keys": [
+          "e0b84f1b6154e9053cbf1d43c14b6378a6da0b126307a9e8be2ecaeef756e72f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statistics.ro",
+        "keys": [
+          "b8aecc8d138491dee9ba0d8e77e66fa81189d3be0d6add0136116d830e9a1079"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "top-ro.ro",
+        "keys": [
+          "b9d4189919e688b215ed44a27156ea580419a54bbf0a98d1629a27fee0543bfc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafic.ro",
+        "keys": [
+          "42de2f2ca052138b9f068373ee02452d0e234e517ec45473d4ae549bc505d1db"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafix.ro",
+        "keys": [
+          "4252c048a543b96a90031346185499c65f3f81127ec4fdbb43d34f70f474a642"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zontera.com",
+        "keys": [
+          "500a7435eb54b39bce3a96faebc4851076cd55bed5cb38d5c8df1e4f124f5040"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "integr8.digital",
+        "keys": [
+          "9e52e849c1a7ad82054acbecf72e31fc7e3f9fa8530a1b3d47b00524e13cab31"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "confortmedia.ro",
+        "keys": [
+          "e3a1bf6b14ba4fbabd5e6b7000e7201f2e3d6d4c3566d6780313b292116533bb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "simpatie.ro",
+        "keys": [
+          "d62d8eab8d9589dceeb3edfe17ba35a88e77b627e3b6574a4130dd90dfb6988b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsmedia.ro",
+        "keys": [
+          "7a4de47c64978504bf78c02e5ba04a5e990cadbfbc64066cafabb990bbe704e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kkadverts.com",
+        "keys": [
+          "68e49a9279e731894aff26e302f9a87972aa03263c11eeee89b791ffd898f25d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "director-web.helponline.ro",
+        "keys": [
+          "f47f85c5b9a83a7e9ac5c16150eca6f14834db785529fc286b6df4d64e0ead7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "roportal.ro",
+        "keys": [
+          "fb5b4447e9632047930f4ee3748feef434008d4594b3fc8072edbc87598a185e"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||t5.ro/static/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e8a08f2306d72e8412c3926902957a4d401cea265df1b2f08f021bbd15c88441"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||smartdreamers.ro/embed/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "aa93b28d587e975138a67ad8b3da24790e3b5cc1a917190e59df4322bcc88c72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||florariafocsani.ro/image/catalog/adv/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fdc184a4dbe6ff788b753c316cf1650eead76826567c3503b32cc199d5327f11"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "e-porno.ro"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ff0dbdf4751d1f3b0e1f813e120c8894f0e0fcc6bd5cbda3096f4844d93dfc89"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "e-porno.ro",
+        "keys": [
+          "ff0dbdf4751d1f3b0e1f813e120c8894f0e0fcc6bd5cbda3096f4844d93dfc89"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "versmuzica.ro"
+      ],
+      "excludedRequestDomains": [
+        "facebook.net"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [],
+    "_sourceIncomplete": true,
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/themes/zoso4/images/logo.png"
+    },
+    "_sourceKeys": [
+      "86034d002b0657691676f76d17e146d6cccdc668a8f65b3a4c3003e50a988124"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/plugins/comment-rating/images/1_14_up.png"
+    },
+    "_sourceKeys": [
+      "96b5a835d87f3dae7d36bf5d346869420f572de44b6041b7a706ca9d73499dd7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/plugins/comment-rating/images/1_14_down.png"
+    },
+    "_sourceKeys": [
+      "61c2790caa2b105a3b4db68915590ee34db468e5acc43452f41d20de8687c9d1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_up.png"
+    },
+    "_sourceKeys": [
+      "3d63a683787eecb9d2dc7592465fb3b9c2fca84350e614e53398fceea7defd3c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/plugins/comment-rating/images/1_14_gray_down.png"
+    },
+    "_sourceKeys": [
+      "fe5972251fe463a81255590156410566019b707aff5b07903225cc7ec6daaa02"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/plugins/classic-smilies/img/icon_*.gif"
+    },
+    "_sourceKeys": [
+      "321ed46f8feacf2d2b1f0bffbb04d2b7473277a3fecc0bcd08ba4f458bb418f4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/themes/zoso/icons/favicon.ico"
+    },
+    "_sourceKeys": [
+      "8d1c560a2c8e9c6b4e881ab58d31060b1d55003b6a30daf03d8cb3a74f12f476"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/jurindex.jpg"
+    },
+    "_sourceKeys": [
+      "18c77a1f8ffb0b76838fe5b29229ba66f658a24927cabb8cb0e4eea3c3164d1f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/unbr2.png"
+    },
+    "_sourceKeys": [
+      "0d83d3db77d3d6448e630fc77141b4375fbee49e35401f5bf02d0df96eae37b9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/en.jpg"
+    },
+    "_sourceKeys": [
+      "9b01d576175936a081226143cb97097166ca0dec644144dbd7a08f2526f2558d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/ladylft.jpg"
+    },
+    "_sourceKeys": [
+      "d2a7ea683366d7bc9e6f8a62744b10804190c8bbc6efee15edb4b517ee627dea"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/ladyrht.jpg"
+    },
+    "_sourceKeys": [
+      "02454d536c9c6605a8a5a68d970ee221375cc53183fdbea14c3eb05c5d950d06"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/home.jpg"
+    },
+    "_sourceKeys": [
+      "cbcab66a999fc989df02a493b84e18e14e5d1aeb82c692e3a3b1bd16733914ca"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/logo.jpg"
+    },
+    "_sourceKeys": [
+      "d7440cddaa8a90ba67b3051ac2cfbb50e05f10a25cda6eb46bec76078a9d696c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||luju.ro/static/images/shadow.jpg"
+    },
+    "_sourceKeys": [
+      "4c9ada24610ef7cc27d1f3add14bbb5b677966dc70bc62d63a2fd8fe21467976"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||nosteam.ro/ads/advertisements.js"
+    },
+    "_sourceKeys": [
+      "83ac76bdfd32e6ef0758005e17d6229337d68e1c1e4d23308ec3effc146fcc96"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "romaniatv.net"
+      ]
+    },
+    "_sourceKeys": [
+      "fcb6fdb14b6f8f0b67f4270e6ca5d489b0e653a2d06368871dc0f8960c5c2e8f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||focuspress.ro/*/logo-600x90-constanta.png"
+    },
+    "_sourceKeys": [
+      "52b40693c770f41622912d35b6edf597d6c0f110bf41149b2299771756749922"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||onesignal.com/sdks/onesignalsdkstyles.css",
+      "initiatorDomains": [
+        "libertatea.ro"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "21548f3819bd30ada5f148d29515172f601c6e0f2c8e62767eb87392f821b233"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||zoso.ro/wp-content/themes/zoso/images/logo.svg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "75f77d3586b10a51bd113be2fe418e8424b2e2fc38ae812d8cbde8cb3c332811"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||s1.olx.ro/static/olxro/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js",
+      "initiatorDomains": [
+        "olx.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7df3da5b01632ffdea939965ec0c5120c108457cbd4178fcd9e820c325e09055"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "||ado.icorp.ro/files/js/ado.js",
+      "initiatorDomains": [
+        "catchy.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d5c06470a3ff6d47feca77251936a0890aabb6b521a87c8ee60ffc865d0232ab"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "catchy.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6db55918025f8f70f9763148aa75824c70152fbf77fcccddc062914a7b685db6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "libertatea.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "341ebabe2370a65141bf4b58164f5d085d3880a3738541f1082c6c72ac9abb0e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 436
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "libertatea.ro"
+      ],
+      "urlFilter": "||onesignal.com/api/*/sync/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "eb8208ceb885a64c6761e4195d9d9dfc333d3dfa2f2b7daa39e452aa76603b5b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||s1emagst.akamaized.net/layout/all/js/showads.js",
+      "initiatorDomains": [
+        "emag.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0940a1bb7166905e4121dc12456938e4e3516c90463ef77a0b32bbc5f9d78a12"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js?id=gtm-tks335",
+      "initiatorDomains": [
+        "emag.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5bbb4cad117fb089451ec06e83f1707dff74e2eede2d44aa03143528f38804e1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "evz.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "18ce6a9e3f021c49cf5c7922b520640a1b0a542dc07053482889a4dcfce2799a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/managed/js/adsense/",
+      "initiatorDomains": [
+        "national.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7d2bf47aa8e836037e98fdf70fd9c09060102fddff28e0d96d819d7c58858d35"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsid/integrator.js",
+      "initiatorDomains": [
+        "national.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0be37d42318f578bdeb76f096728fe95d8cc6f31bd5f9ddd4c3a5d23901ccff5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "initiatorDomains": [
+        "national.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "481a1eb3fb74675540851908d8c9546773dd51af35c9e733beadab82af5a5845"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 443
+  },
+  {
+    "condition": {
+      "urlFilter": "||brid.tv/player/",
+      "initiatorDomains": [
+        "prosport.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6edaabb39614b3f494661020e52a7cec1fb539014e73ef2499595d1b7a9e1698"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 444
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "prosport.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2a2ddaabd3a874d2830f55215096da5d84f82e97fb9687759713ec552a6510cb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 445
+  },
+  {
+    "condition": {
+      "urlFilter": "||liveplayer.romaniatv.net/js/ads.js",
+      "initiatorDomains": [
+        "liveplayer.romaniatv.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ade1157f1e47ee76234ceb8df34401373132f228990bde59df19644dec82db26"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||scdn.cxense.com/cx.js",
+      "initiatorDomains": [
+        "digi24.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2be151839f250fa13dad7b1f2f894a53f567e6ffbf5cae4ee1ebb64388e676d2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||clarity.ms/tag/",
+      "initiatorDomains": [
+        "craiovaforum.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "58f42d98e82a9cb4bf3fc3852dc5bc2de05c043cdad43553d48d0fc350fa1c9f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 448
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "cancan.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f474eb1d1c3d09c7e5cff2de9534aa6830c28f2b694deb3f0ced0abd68594427"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "dcnews.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5c68dc3587bae89845c97e5ef51c0e9f04db1411c926a8b248bb7d6dc1a3bf90"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "savoriurbane.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "93af35414cda376f6c5ce5da1fae3b0a373abaa452fed6d8759b88bbe31f1ef0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/managed/js/adsense/",
+      "initiatorDomains": [
+        "savoriurbane.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2f29a3d87217dda6ea17c6948150d8e7d4d73c12bcd15e70a21c3020538e57b9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 452
+  },
+  {
+    "condition": {
+      "urlFilter": "/adsid/integrator.js",
+      "initiatorDomains": [
+        "savoriurbane.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8532477458379304646c9ad7ecdaa1d38bcb39cd0fabba53c3c22fd1444825b8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "divahair.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f99b00f51cee7aa8516989d875acac9982d5014b41da40564638ab43da0fe57f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "kudika.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "276947cb0ec4175e93ea0970ed1d0332584f05bca5705adf34e5b5ec37d5aad8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "life.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5a81aaa8104c6236e05da9af23d5f76c69f5cf36e9a42111f7b17fc6c25b88e5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "kfetele.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "eb40bb50c17e4a48e9e2f40175f03a6eca5881624ceb2ae4c808bd6a9dd5e8b3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "wall-street.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "265944eaf9bf3a1197dd6f570b8a5ace76f1892cc7f7d5393f8cea5f3669dbf2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "kanald.ro",
+        "stirilekanald.ro",
+        "video.onnetwork.tv"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e8281a51a7b91e48aa764db86367eee1348e6c41ad6751245a62b2ff1bc15826"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/",
+      "initiatorDomains": [
+        "kanald.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c5ece4cf45cd08a08dcfe165897ded80ef27a909a87bba27cf29bd2d1ff9ec08"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "9am.ro",
+        "wowbiz.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "01cc5c6551f2143dda515881419c933c1a30ece00d3e23aa41110fae2171b39d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "csid.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2fd31c7bd1ce921e10c485bd26f2a245eedc7a128012789520cf77720312da47"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "a1.ro",
+        "antena3.ro",
+        "antenastars.ro",
+        "as.ro",
+        "jurnalul.ro",
+        "observator.tv",
+        "observatornews.ro",
+        "spynews.ro",
+        "zutv.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "dd94616cb30ea65dfa498bc333a19a5b0e18ac2420129f2a4a1f0ef5a53103c2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "qbebe.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d2687f2bccd08848830ba95e3aaa5eeeb407ec6988476f37cef56e11ae67c00c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "ziaruldeiasi.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ad8864a993166c4639063dffd17705f4038cf1fa96e2e692822200713dca75ff"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_dai.js",
+      "initiatorDomains": [
+        "digisport.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9a79b32138324e6b64ee181d8e06ffa04da30a1e66f828cdd4942e3198b52874"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||pubads.g.doubleclick.net/ssai/event/",
+      "initiatorDomains": [
+        "digi24.ro"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "367c70c7957dcf29a16344845f192948280c058c706f6df07d676bdd72a8fb35"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/getconfig/",
+      "initiatorDomains": [
+        "savoriurbane.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "6a2678acadc330a880ad28f7aac69aa234ab47f3ec60a863a5c178492083d0c0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||stay22.com/embed/",
+      "initiatorDomains": [
+        "eventim.ro"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "bc47102c4a13223aeb8e9950a78c852a65e3a2a0c43a7138e213351f93e0deca"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 469
+  },
+  {
+    "condition": {
+      "urlFilter": "||dez.ro/media/images/ads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0da50b868adcb07ad9b03dd1b87cd376cd64f830d24ffdf8a8029a71ea009079"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "||vitan-auto.ro/*/ads_images/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e1a228791af34dda9a6b1f2a743e373d249e6361cb6e5b778cfeb821b15abb97"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||obiectivbr.ro/sites/default/files/banner/bogdi1024-web.jpg",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2172ada497c1fc7c0fa6582007e31d62792f8fdf95b691c4bfa644661ad64d01"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 472
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "digisport.ro"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "337538a34686d2d69600f528b8f78bf4d2af0f240760355a90d1d0034b90ac57"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "digisport.ro",
+        "keys": [
+          "337538a34686d2d69600f528b8f78bf4d2af0f240760355a90d1d0034b90ac57"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 473
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "a1.ro",
+        "antena3.ro",
+        "antenastars.ro",
+        "as.ro",
+        "evz.ro",
+        "jurnalul.ro",
+        "observator.tv",
+        "observatornews.ro",
+        "realitatea.net",
+        "spynews.ro",
+        "zutv.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "4f49d9c516145af362de1e1ed22c82f35a5f6320db44c39624a5b14bc1aa79fb"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 474
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "qbebe.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "4cab027d52298f5af61dc40aef3fcfcb309f4be0a81683f8a2dbec6fccd38f73"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 475
+  },
+  {
+    "__modifierAction": 2,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "divahair.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "6acc5c525f8f43e14bb8504c2f2eb95cacc12ef305264b95f8954548b56df721"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 41,
+    "id": 476
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "stiripesurse.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1ddab9eb06f4bdca6483f15439c93a7626fcec246a1fe1eac7aa477648deecee"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 11,
+    "id": 477
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "google-ima.js",
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "kanald2.ro"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2b1221ca1bfa39e8212bed150b9dac845332ada8b14ce05a3aa7dc55f66b83e1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/google-ima.js"
+      }
+    },
+    "priority": 11,
+    "id": 478
+  }
+]

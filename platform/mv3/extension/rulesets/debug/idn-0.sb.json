@@ -1,0 +1,149 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "klik.zeus.fun",
+        "klik4.me",
+        "shortbioo.com",
+        "driverhugoverblown.com",
+        "earmuffpostnasalrisotto.com",
+        "investopedia.today",
+        "lockerimage.com",
+        "lolhello.com",
+        "macory.com"
+      ]
+    },
+    "_sourceKeys": [
+      "2495cc4116917305a4d1bc84e1182bd5ae7ad78711d31e20a0e7c667ae6c458a",
+      "ffd6a00134373a3147d85977dcd1f11a34e1969b218eabba6d020c8ab111a79f",
+      "1c0bece6976bd0e7109c656ae220fb3d4b19011a72742178570739a0a8195629",
+      "40f99728ba7513d124373fad4eed8827f44a9fa400cbf79fa2791550a7059b44",
+      "1d0bca5cb346feffccba3c4974baf3b295ef62e8f754b206999a8acd83c3e963",
+      "57b308049463b24c39b5618e597eaf89bac99b63d33d8bd0e92d7fd9eac205de",
+      "94ad76a275340e52db3c9ccc103c2ec2ae68bcd5f902e717f82d71916523406a",
+      "9ada377284dea4c896116b44df33cb61a3cdec982c9451e9bfcd761536f95ddf",
+      "3d713cbf6ba579fadfcbadb41e327d1bfff7fd0f92158bab3f7744dc8b145fa1"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "klik.zeus.fun",
+        "keys": [
+          "2495cc4116917305a4d1bc84e1182bd5ae7ad78711d31e20a0e7c667ae6c458a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klik4.me",
+        "keys": [
+          "ffd6a00134373a3147d85977dcd1f11a34e1969b218eabba6d020c8ab111a79f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shortbioo.com",
+        "keys": [
+          "1c0bece6976bd0e7109c656ae220fb3d4b19011a72742178570739a0a8195629"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "driverhugoverblown.com",
+        "keys": [
+          "40f99728ba7513d124373fad4eed8827f44a9fa400cbf79fa2791550a7059b44"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "earmuffpostnasalrisotto.com",
+        "keys": [
+          "1d0bca5cb346feffccba3c4974baf3b295ef62e8f754b206999a8acd83c3e963"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "investopedia.today",
+        "keys": [
+          "57b308049463b24c39b5618e597eaf89bac99b63d33d8bd0e92d7fd9eac205de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lockerimage.com",
+        "keys": [
+          "94ad76a275340e52db3c9ccc103c2ec2ae68bcd5f902e717f82d71916523406a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lolhello.com",
+        "keys": [
+          "9ada377284dea4c896116b44df33cb61a3cdec982c9451e9bfcd761536f95ddf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "macory.com",
+        "keys": [
+          "3d713cbf6ba579fadfcbadb41e327d1bfff7fd0f92158bab3f7744dc8b145fa1"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "klik.zeus.fun",
+        "klik4.me",
+        "shortbioo.com",
+        "lockerimage.com"
+      ]
+    },
+    "_sourceKeys": [
+      "2495cc4116917305a4d1bc84e1182bd5ae7ad78711d31e20a0e7c667ae6c458a",
+      "ffd6a00134373a3147d85977dcd1f11a34e1969b218eabba6d020c8ab111a79f",
+      "1c0bece6976bd0e7109c656ae220fb3d4b19011a72742178570739a0a8195629",
+      "94ad76a275340e52db3c9ccc103c2ec2ae68bcd5f902e717f82d71916523406a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "klik.zeus.fun",
+        "keys": [
+          "2495cc4116917305a4d1bc84e1182bd5ae7ad78711d31e20a0e7c667ae6c458a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klik4.me",
+        "keys": [
+          "ffd6a00134373a3147d85977dcd1f11a34e1969b218eabba6d020c8ab111a79f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shortbioo.com",
+        "keys": [
+          "1c0bece6976bd0e7109c656ae220fb3d4b19011a72742178570739a0a8195629"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lockerimage.com",
+        "keys": [
+          "94ad76a275340e52db3c9ccc103c2ec2ae68bcd5f902e717f82d71916523406a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1604
+  }
+]

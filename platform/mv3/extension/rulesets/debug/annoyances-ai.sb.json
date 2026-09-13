@@ -1,0 +1,62 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "chat.cdn-plain.com",
+        "chat.g4media.org",
+        "embed.chatnode.ai",
+        "urbandictionary.ai",
+        "widget.indexfox.ai"
+      ]
+    },
+    "_sourceKeys": [
+      "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7",
+      "4ffbe0e1979546c1d2f260d64ffcdbe4f30672dad4f73632c491916bec361581",
+      "fceefa87acc39eec2d9caad36d5d788b210bbc325d456a797f6cf0ebe6570707",
+      "eb4b57684e5a2d68eec6782d717351f8db4f71790a814c4376ec60508e5c1eaa",
+      "42886f2a3014fa4b372c858c476003436c8f8bec9638306fd1ee53d94500cc71"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "chat.cdn-plain.com",
+        "keys": [
+          "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.g4media.org",
+        "keys": [
+          "4ffbe0e1979546c1d2f260d64ffcdbe4f30672dad4f73632c491916bec361581"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "embed.chatnode.ai",
+        "keys": [
+          "fceefa87acc39eec2d9caad36d5d788b210bbc325d456a797f6cf0ebe6570707"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "urbandictionary.ai",
+        "keys": [
+          "eb4b57684e5a2d68eec6782d717351f8db4f71790a814c4376ec60508e5c1eaa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.indexfox.ai",
+        "keys": [
+          "42886f2a3014fa4b372c858c476003436c8f8bec9638306fd1ee53d94500cc71"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  }
+]

@@ -1,0 +1,439 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/scripts/click.php"
+    },
+    "_sourceKeys": [
+      "f1293c99b9ca91356d9da0d70bf915d4fab6da7f2ffb31feb5d319d78fa790c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 712
+  },
+  {
+    "condition": {
+      "urlFilter": "||upvid.co/",
+      "excludedInitiatorDomains": [
+        "mirrorace.com"
+      ]
+    },
+    "_sourceKeys": [
+      "ff72a084c322efc2b80e4a231eeee218deca52fbb384d13f3794f1542eaa153d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 713
+  },
+  {
+    "condition": {
+      "urlFilter": "|https://consumer.huawei.com/pl/?utm_source=huawei.pl&utm_medium=huawei.pl",
+      "initiatorDomains": [
+        "www.dobreprogramy.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "d0ebe57cf863d06c2785b86e51f15a8179d46bcad1216e7dfde2ec5ac2d320d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 714
+  },
+  {
+    "condition": {
+      "urlFilter": "||benchmark.pl/screen-container-target.html"
+    },
+    "_sourceKeys": [
+      "d5dfcf43b8e56120d5c8342df0ab9463283b8083652dd4e33ed4b4db6c6c83fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 715
+  },
+  {
+    "condition": {
+      "urlFilter": "||bit.ly/2",
+      "initiatorDomains": [
+        "mmorpg.org.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "4aee0bcaaf08d9ab47aed137814531c50af5d8f7dde134e83eb7687807094f4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 716
+  },
+  {
+    "condition": {
+      "urlFilter": "||czasdzieci.pl/adurl.php"
+    },
+    "_sourceKeys": [
+      "aebaa209b1dccf57205c9f0853e0dd1fe5957684f3be85cc25bc09366ca4e7e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 717
+  },
+  {
+    "condition": {
+      "urlFilter": "||evertiq.pl/go/"
+    },
+    "_sourceKeys": [
+      "eadeda9deb30da384c01b4803410f09ec01e0f2f866defd2583de094c21d064c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 718
+  },
+  {
+    "condition": {
+      "urlFilter": "||interia.pl/#utm_source",
+      "initiatorDomains": [
+        "cdaction.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "e9610617b9dae4971ba15033465b871a10b9d3876209c4e6b56af6e506ab1b0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 719
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "spolecznosci.net"
+      ],
+      "excludedInitiatorDomains": [
+        "www.donald.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "bf34681dd44f3b8742f8d68c76ffc867a2624d37372f095f2abaf8f4681436c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 720
+  },
+  {
+    "condition": {
+      "urlFilter": "||superfilm.pl/*source=admedia&model=pop"
+    },
+    "_sourceKeys": [
+      "2ee0513854a0513534e785c3b4a3cbea7a76c9677657931c165cdaf0aa03521a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 721
+  },
+  {
+    "condition": {
+      "urlFilter": "||tabletowo.pl/a/461740",
+      "initiatorDomains": [
+        "tabletowo.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "b1f8bf32d2e7cd6de96026070ae8f4600e65351f5aaf235c529203b356e866c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 722
+  },
+  {
+    "condition": {
+      "urlFilter": "||weszlo.com/?bsa_pro_id"
+    },
+    "_sourceKeys": [
+      "308c13c58cf96ca688e9a3877525c55738b515b019dd572cf446329842bfa951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 723
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.wp.pl"
+      ],
+      "regexFilter": "^(http|https):\\/\\/www\\.wp\\.pl\\/[a-zA-Z0-9-_]{50,}"
+    },
+    "_sourceKeys": [
+      "8e2f08501ab135bef6a551f70f12017066645e9aa76d666e9d4aca97e9de248d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 724
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.wp.pl"
+      ],
+      "regexFilter": "^https:\\/\\/[a-z.]{2,17}\\.wp\\.pl\\/[a-zA-Z0-9_-]{450,}"
+    },
+    "_sourceKeys": [
+      "52404938e4bbcb5aab6a41f19ef987288db49737208cf8d8db3049042a9014f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 725
+  },
+  {
+    "condition": {
+      "urlFilter": "|about:",
+      "initiatorDomains": [
+        "abcvideo.cc",
+        "onlystream.tv",
+        "playtube.ws",
+        "tabletowo.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "abc67814c87de1a9b0cacb2a8f0189451ee0ca7b9601a30824808b626b565479"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 726
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "allcaster.pl"
+      ],
+      "urlFilter": "||freedisc.pl/static/rating/*.png"
+    },
+    "_sourceKeys": [
+      "00f024424f32ff9d718024551eb1bb762531f0300b6bc2a850cf57bd35686dab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 727
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "image.tmdb.org"
+      ],
+      "initiatorDomains": [
+        "cdahd.co"
+      ]
+    },
+    "_sourceKeys": [
+      "fc87d5f164a316302836b8693e89ff22bd0e0ee63df2ff96daca4ab131b27d15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 728
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.google.com"
+      ],
+      "initiatorDomains": [
+        "onlystream.tv"
+      ]
+    },
+    "_sourceKeys": [
+      "2a8fc071ad2b33bdf549b46fa35891786499531e2ece9a485bb7347744ce4d5a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 729
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.google.com"
+      ],
+      "initiatorDomains": [
+        "www.flashx.net"
+      ]
+    },
+    "_sourceKeys": [
+      "5f2aed917f13386c56e216f763790f7ff1bfb1b0a14bab058ffdb7501b120a59"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 730
+  },
+  {
+    "condition": {
+      "regexFilter": "^http:\\/\\/p[0-9]{6,10}\\.[a-z]{5,10}\\.com\\/itab\\/[a-z?=A-Z_0-9&]{10,}Zippyshare\\.com[a-z0-9A-Z%.'-]{5,}"
+    },
+    "_sourceKeys": [
+      "291fecece56f3b50ec684d19e7d12ec274c824759c75d113b6f49c9ba9b0d47b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 731
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cdahd.co",
+        "onlystream.tv",
+        "tele-wizja.is",
+        "widestream.io"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-zA-Z0-9]{5,10}\\.[a-z]{2,10}\\/[a-zA-Z0-9?_=&-.%]{50,70}"
+    },
+    "_sourceKeys": [
+      "8aedfa2e5e8efec65c303f890160e8724341dc17864562e334b700934e7374dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 732
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "veecast.net"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-zA-Z0-9]{5,15}\\.(com|net)\\/[a-z]{4,10}\\/[0-9a-z.?=%A-Z-&]{60,100}"
+    },
+    "_sourceKeys": [
+      "8ab383e4c823281d2badad99d11716586958bb356bd84f5e839e3c15a67f4eaf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 733
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.flashx.net"
+      ],
+      "regexFilter": "^https?:\\/\\/[a-z]{3,15}\\.[a-z]{3,4}\\/[\\w\\W]{10,20}"
+    },
+    "_sourceKeys": [
+      "7c10a55c4711637b3e89a9f4c1575bb4b3b28dc82d9bbfb9048da99e9b8cf683"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 734
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gasurvey.gemius.com",
+        "spolecznosci.mgr.consensu.org",
+        "postlnk.com"
+      ]
+    },
+    "_sourceKeys": [
+      "c165b9aa806a2d025bea81bb79c93c89c2c07e68bdcdfb2e4b85f30f7808c7ea",
+      "bbd162ec079f3e7923f486869c2015c4f3297588a02175fdfd8ffcc8e85bbfdf",
+      "75e620fc52d2aaa30aa7dd2a5b26c959e055a58eaf606a670652fa5526d0d928"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "gasurvey.gemius.com",
+        "keys": [
+          "c165b9aa806a2d025bea81bb79c93c89c2c07e68bdcdfb2e4b85f30f7808c7ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spolecznosci.mgr.consensu.org",
+        "keys": [
+          "bbd162ec079f3e7923f486869c2015c4f3297588a02175fdfd8ffcc8e85bbfdf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "postlnk.com",
+        "keys": [
+          "75e620fc52d2aaa30aa7dd2a5b26c959e055a58eaf606a670652fa5526d0d928"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 735
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "www.bet-at-home.com"
+      ],
+      "urlFilter": "||www.bet-at-home.com/*/account/deposit/"
+    },
+    "_sourceKeys": [
+      "f200ff638feca9655c91d730ab6dc81b9eb2ccf21309744454c95dd7da5cee47"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 896
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ads.allegro.pl"
+      ],
+      "initiatorDomains": [
+        "ads.allegro.pl"
+      ]
+    },
+    "_sourceKeys": [
+      "50ec58fab25bf325915bfebb03dbc43f5ab91109af5c3505e8a51da9cba283e8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 897
+  }
+]

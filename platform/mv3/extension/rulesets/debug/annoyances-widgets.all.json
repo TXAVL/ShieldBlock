@@ -1,0 +1,2594 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/creame-whatsapp-me/public/js/joinchat.min.js"
+    },
+    "_sourceKeys": [
+      "58303c86e6a237579a94fb0663b6b2ed7bd1a5ce31d5853db27eb7cdf0f8b9bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/click-to-chat-for-whatsapp/"
+    },
+    "_sourceKeys": [
+      "c870fe9c0718619aa68a427fa18be8ff787052d2dfb96b44ccb3b04b32d50ea0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "://webim.*/button.js"
+    },
+    "_sourceKeys": [
+      "4d7d1f11acfbee9e7b2c1a2e09a622e6346a6191ed08a2bfa94b750728537076"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "://webim.*/button.php"
+    },
+    "_sourceKeys": [
+      "c63210e5246c4f58ba856d17c5b2fdf77ff88d76e5dc62b835a30da2500e854b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ai.casbin.com"
+      ],
+      "initiatorDomains": [
+        "casbin.org"
+      ]
+    },
+    "_sourceKeys": [
+      "73bb27ab086aed4b6c80751ecbd303aa35b4d8e4ea2e4bf951a88e2d62f056f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||eservices.healthhub.sg/public/chatbot/widget/ca/assets/index.js"
+    },
+    "_sourceKeys": [
+      "97e900902d43c8bb7718b6d866cc5cac454d1a1c817e710090ef93f80ab3cb6d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaufland.ro/etc.clientlibs/kaufland/*/chatbot"
+    },
+    "_sourceKeys": [
+      "c24e953f772a4ef59bd3da82ebc88a51c10c3f04af251ebdaa0be50c57204ae6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||r.mobirisesite.com/*/assets/chatbutton/script.js"
+    },
+    "_sourceKeys": [
+      "08c423714e7c26d028445edfff1963089c191b1d90b5cc2db6b56c8ca55aa410"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||singaporeair.com/assets/chatbotvs/"
+    },
+    "_sourceKeys": [
+      "d0e601e54839a890340752ae71cfb6b780f31edcd72e46396707f7f5e7d99012"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||today.com/oli/"
+    },
+    "_sourceKeys": [
+      "93a5ab2eb0c0ed4a8a8bf14569d31198892c4077719290be8ce5ad951b99391d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||3cx.com/livechat/"
+    },
+    "_sourceKeys": [
+      "e30d7dd7e917b307360444b025bf5b4d91108a1e627ecb5e95a5931424790d60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||allegro.concerto.ai/chatbot_v2/"
+    },
+    "_sourceKeys": [
+      "9835c9b5919787a123cdfd6d6f5411dc8c234161d2436df9adfdb55e0e761d78"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.mymaisie.com/static/chatbot-component/"
+    },
+    "_sourceKeys": [
+      "e1541b415a423705de6e68fced9410f39ed978eb954f7a0045e5722ba9cd4b20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.asksuite.com/infochat.js"
+    },
+    "_sourceKeys": [
+      "a33c18f9ad5280d047cd63845862e0f1441f577c39dec5fe1f7169884e9d9d29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.shopify.com/extensions/*/assets/inbox-chat-loader.js"
+    },
+    "_sourceKeys": [
+      "84191f643bc77a5c15b953377ecc754f14e8d64e343ca7483ded5af338a9a645"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.shopify.com/extensions/*/manifest-ai-chatbot-548/assets/common-script.js"
+    },
+    "_sourceKeys": [
+      "39ad948a7d31e15b7b6c21abbee0dd2a18a6d53cededef31bd9a2bc4a505ce46"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||cgsinc.cl/mcic/web/mediatel_chat.js"
+    },
+    "_sourceKeys": [
+      "aeda0ae30f712263f37a1e3d2dc768e99b1f5e47521b922ef47d5ffdd1185fb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||chatbase.co/embed.min.js"
+    },
+    "_sourceKeys": [
+      "3fa36f3645b66e2f70610bfb55940d0be0d341662768debd6de55e26706ab597"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/gosquared.js"
+    },
+    "_sourceKeys": [
+      "19b80a363d944c1aac351dadb72ecc7fee196d79b1d2ae28b082cfcecbddc780"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||connect.facebook.net^*/xfbml.customerchat.js"
+    },
+    "_sourceKeys": [
+      "c8b4d436eb4fbdc006796455099e0ddee10ccda23a8de6ef2577b79910fd81f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||contivio.com/chat2/"
+    },
+    "_sourceKeys": [
+      "672df74feac4206cb3623808d1220a4e685c0d10bd187b55de1b3fa08809e783"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||engage.wixapps.net/chat-widget-server/"
+    },
+    "_sourceKeys": [
+      "06d4322c728fc50a414b8b4f2ddd79fac365df59f2049f8331f4c5dbe42a90aa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||fcc-online.pl/chat/"
+    },
+    "_sourceKeys": [
+      "3ed729fa574a2499bc49fa9dc32ea745947d101e120069af83ae43c88cdae7bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||gladly.com/chat-sdk/"
+    },
+    "_sourceKeys": [
+      "030ceaf9e0ca2f8cc139c12a34f28407c665ae94335c080ba868379d39ee33ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleapis.com/ebbot-web/"
+    },
+    "_sourceKeys": [
+      "d836975ebe1f32657ea4346ede77646cb03021558e65a7cdee16ee1b6dc92448"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||gstatic.com/dialogflow-console/fast/messenger/"
+    },
+    "_sourceKeys": [
+      "70c2bdb1b3a02069a2fa77d9b0ac1c2f56350682a3142a2ed6eaa89e7e6ffa44"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||guuru.com^*/chat.min.js"
+    },
+    "_sourceKeys": [
+      "26ef65b119004d8be604de28335ff2397c181b49053507635c2a7809fc872b3c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||hubspot.com/livechat-public/"
+    },
+    "_sourceKeys": [
+      "8bb35326d30f5f76a848fdd3bfecf30d61f3373b3b8a19eb48709eaea4aee9fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||iadvize.com/iadvize.js"
+    },
+    "_sourceKeys": [
+      "4b749284bccaebbd1936df9b63ac64539e18f072dc2a0cd93f55cbfd76d896b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||jsdelivr.net/gh/tykhe-dev/tykhe-chat@1.0/tykhe-chat.js"
+    },
+    "_sourceKeys": [
+      "c6fa5fdac310196d20431d7a4fa18fdb4005d6e5085d0b5ed498875b0ebcca6c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||leadster.com.br/api/chatbot/"
+    },
+    "_sourceKeys": [
+      "63ab34e298e21b06c4ef11013bc716bc9cae1ba21d6fda3e83f5d831c399f2a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||momence.com/plugin/webchat/webchat.js"
+    },
+    "_sourceKeys": [
+      "e9fcbe9aba659d2fbc4056d47b7ea7b1d9012cdfc88cf21bf8dd485d105b6537"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||my.salesforce.com/embeddedservice/"
+    },
+    "_sourceKeys": [
+      "2667e4728d739a3e3e930294cbee0530715607d110601882681a0b22722e02a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||phenompeople.com/txm-bot/prod/prod.js"
+    },
+    "_sourceKeys": [
+      "7e3ba47dda3546ad287ab64dff2cd9cb35b5607139783671da12d95f3833d358"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||predu.sk/chat/chat.js"
+    },
+    "_sourceKeys": [
+      "b6467545c393fb38f6e9a7aa0e6d60b08e82fff3d8cc960e19e96289add20dc1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||script.ask.gov.sg/widget.js"
+    },
+    "_sourceKeys": [
+      "e64aa316262b8670416cb14d6d58b844aad1c11bd3eef28eb9057ff732a7b8f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||shopify.com^*/shopifychatv1.js"
+    },
+    "_sourceKeys": [
+      "cdfc72b40c9302862124a9a4bbb7b7fdd16a05ccca311ab50ad361f46b2ef2cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/code.snapengage.com/"
+    },
+    "_sourceKeys": [
+      "f870c558447c08c84e41efe41ba76fb8ac3ed61c3b311246e77425ee951b7d50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||usemessages.com/conversations-embed.js"
+    },
+    "_sourceKeys": [
+      "c8d7ebb689785beb1ec1f9364f6bf8416472c45126bb4b9a0261a5326d327d62"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||userback.io/widget/"
+    },
+    "_sourceKeys": [
+      "0d14904fbf0af7ef4f1a0ee83f7b7eedaede502055ea24ec4099fc09ba6eba1f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||userlike-cdn-widgets.*.amazonaws.com^"
+    },
+    "_sourceKeys": [
+      "b1099b45cebaa18f2b378186c7202d6896c32bfc40e98859ae474a81898a3141"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||virtualspirits.com/vsa/chat.js"
+    },
+    "_sourceKeys": [
+      "481755767e07190f72e1ff4ddf19492c0c22bd0d69a0b767fa67c7d27ebf3991"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||web.pypestream.com/launcher.js"
+    },
+    "_sourceKeys": [
+      "c5225b1a145455b2ef9c81a6f22622f024df20faec1f26d4466f944529468af7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||webchat.vica.gov.sg/static/js/chat.js"
+    },
+    "_sourceKeys": [
+      "b69cf0de3dbc544c27e657a358f856b3e1697c70a06f4b9c8a968b66c52b2579"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgetinstall.com/plugin/chat.js"
+    },
+    "_sourceKeys": [
+      "5d78f7d065721201675facb4d2df193a9cd6725ce97d3ed340f0d3b5d7dbcd2d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.binotel.com/chat/"
+    },
+    "_sourceKeys": [
+      "56563354b868df83c1a6f172208196f224cf4ebbc4c23fb491b57b8ecb3c1292"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.binotel.com/getcall/"
+    },
+    "_sourceKeys": [
+      "8e9776fe3217b828f1bec885d4e029958d5ca383469867b43f47be5c3b2ef152"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||zapier.app/_z/embed/chatbot/"
+    },
+    "_sourceKeys": [
+      "72373fdb9523943fe15db4378c6dfae3f2f5ab26ded7a9b1e0c31617c590f84c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "allegro-cdn.concerto.ai",
+        "assistant.almaintelligence.com",
+        "call.chatra.io",
+        "chat-widget.hiverhq.com",
+        "chat.24liveblog.com",
+        "chat.cdn-plain.com",
+        "chat.connectnowai.com",
+        "chatbot.pef.czu.cz",
+        "chatwidget-prod.web.app",
+        "chatwidget.kodif.ai",
+        "cloud.aikosmo.com",
+        "lptag-cdn.liveperson.net",
+        "lptag.liveperson.net",
+        "pageview.activengage.com",
+        "selfservice.robinhq.com",
+        "webchat.bebot.io",
+        "webchat.omni.cafe",
+        "widget.chatbot.laiye.com",
+        "widget.helpcrunch.com",
+        "widget.intercom.io",
+        "widget.kommunicate.io",
+        "widget.trengo.eu",
+        "widgets.leadconnectorhq.com"
+      ]
+    },
+    "_sourceKeys": [
+      "6e4307f9830b297b15ccc45818f6e702c2bfe382538eed827fe553cbbe85c57a",
+      "530aa53b53656bc7d554f793c462659178263d4abb77976de5a9a4e3252a2e28",
+      "c69c4c638e929336c6cc0eb2a4b756b54ff4335ec17b71368f2ed36ee660f8d1",
+      "ac344df4bc790eaa227173903b5a2f1e016514c7e551cfb93b1fd8efd064f998",
+      "539660f14ec52470876250ced276295c50cd75b39a8863d246a276c8270d1e79",
+      "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7",
+      "579fdf2d6bd82a1e7f81d031eb91122ec70d4d684fafd3bc2427f6f3d977ebe1",
+      "b39d5f853f47d8234fd0f35f95268abf2109e02b762635c06ffe2121eff25269",
+      "68522f9b54ff848eaad7a30587d52d8096174a939a0c716d812825dcc6848a30",
+      "6ae5bbebe26b62f2e02519d1560ebf2c3921597a1c678fb8e6c5e2985936f8a6",
+      "fefe5d818426adf1788385320d27763f16899768e19b1a9f5313c6362cfaee9e",
+      "f6d92d936cc5deec797adaba1af476615e7368cf08afbc8f030e40aabcec76bf",
+      "c1028f52d5181fe5268005c2242fffb9e8f4ce8a25835005ffc8f5c8576c5a13",
+      "30d197577fc49479455f114f772592f82abcafed65b6ba8d0a19b48cec852a69",
+      "df0689adbab14ac6dd8f5888d8b0b4d66ac9d180faf97f7fd9d05dcee90036fb",
+      "b68767f5de79dd33b55c558137edf58791850b0fe464d40c7a837c452e30a9ff",
+      "3bb77786e3d8db0c277a5bf0ed72ca64d4c40a3d75e4caee1c1fd4f1ed176fd6",
+      "4785e62cfc4156a4fe86c7c67df6bebf47b8f452ec0e51f405614427f4f94620",
+      "a67c5c4aad24d36f8509b5b7be707dcb5790780f97c0b218d60b15a300534161",
+      "6fb0b000da224596d68cd2b13f17ecc8ed0561bf6e219d03d4a34129d649e5c2",
+      "38f0febd99a8a03f3082e1a7a08df92aa7f7f7f39ff48fda3892af9d6eb512a5",
+      "662dffc7697cdedff8c02dd04394fc94b196fd265709f8b7cdaf38aa5e7ddcf3",
+      "169cb2feded69fcb3d6823e23441cf9b9babf6893ea81f5f967b5efce27ff991"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "allegro-cdn.concerto.ai",
+        "keys": [
+          "6e4307f9830b297b15ccc45818f6e702c2bfe382538eed827fe553cbbe85c57a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "assistant.almaintelligence.com",
+        "keys": [
+          "530aa53b53656bc7d554f793c462659178263d4abb77976de5a9a4e3252a2e28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "call.chatra.io",
+        "keys": [
+          "c69c4c638e929336c6cc0eb2a4b756b54ff4335ec17b71368f2ed36ee660f8d1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat-widget.hiverhq.com",
+        "keys": [
+          "ac344df4bc790eaa227173903b5a2f1e016514c7e551cfb93b1fd8efd064f998"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.24liveblog.com",
+        "keys": [
+          "539660f14ec52470876250ced276295c50cd75b39a8863d246a276c8270d1e79"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.cdn-plain.com",
+        "keys": [
+          "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.connectnowai.com",
+        "keys": [
+          "579fdf2d6bd82a1e7f81d031eb91122ec70d4d684fafd3bc2427f6f3d977ebe1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbot.pef.czu.cz",
+        "keys": [
+          "b39d5f853f47d8234fd0f35f95268abf2109e02b762635c06ffe2121eff25269"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwidget-prod.web.app",
+        "keys": [
+          "68522f9b54ff848eaad7a30587d52d8096174a939a0c716d812825dcc6848a30"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwidget.kodif.ai",
+        "keys": [
+          "6ae5bbebe26b62f2e02519d1560ebf2c3921597a1c678fb8e6c5e2985936f8a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cloud.aikosmo.com",
+        "keys": [
+          "fefe5d818426adf1788385320d27763f16899768e19b1a9f5313c6362cfaee9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lptag-cdn.liveperson.net",
+        "keys": [
+          "f6d92d936cc5deec797adaba1af476615e7368cf08afbc8f030e40aabcec76bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lptag.liveperson.net",
+        "keys": [
+          "c1028f52d5181fe5268005c2242fffb9e8f4ce8a25835005ffc8f5c8576c5a13"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pageview.activengage.com",
+        "keys": [
+          "30d197577fc49479455f114f772592f82abcafed65b6ba8d0a19b48cec852a69"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "selfservice.robinhq.com",
+        "keys": [
+          "df0689adbab14ac6dd8f5888d8b0b4d66ac9d180faf97f7fd9d05dcee90036fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchat.bebot.io",
+        "keys": [
+          "b68767f5de79dd33b55c558137edf58791850b0fe464d40c7a837c452e30a9ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchat.omni.cafe",
+        "keys": [
+          "3bb77786e3d8db0c277a5bf0ed72ca64d4c40a3d75e4caee1c1fd4f1ed176fd6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.chatbot.laiye.com",
+        "keys": [
+          "4785e62cfc4156a4fe86c7c67df6bebf47b8f452ec0e51f405614427f4f94620"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.helpcrunch.com",
+        "keys": [
+          "a67c5c4aad24d36f8509b5b7be707dcb5790780f97c0b218d60b15a300534161"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.intercom.io",
+        "keys": [
+          "6fb0b000da224596d68cd2b13f17ecc8ed0561bf6e219d03d4a34129d649e5c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.kommunicate.io",
+        "keys": [
+          "38f0febd99a8a03f3082e1a7a08df92aa7f7f7f39ff48fda3892af9d6eb512a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.trengo.eu",
+        "keys": [
+          "662dffc7697cdedff8c02dd04394fc94b196fd265709f8b7cdaf38aa5e7ddcf3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.leadconnectorhq.com",
+        "keys": [
+          "169cb2feded69fcb3d6823e23441cf9b9babf6893ea81f5f967b5efce27ff991"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||embed.typeform.com/next/embed.js",
+      "initiatorDomains": [
+        "vitbikes.de"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "311b1e0cae69be4ac4c043e3cde316e89902eab06bb51d7dfe419280da8c115e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||live-mt-server.wati.io/*/whatsappchatscript?shopifydomain=",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3c1fea0f7bfa565f1181b3d49bb361f725319fd5a816648c1637093555900b23"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.zdassets.com/web_widget/messenger/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4fe087d57e00496745e12e4aa9cdc992230e80aacde372ae98ceb8126f729ef2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "247-inc.net",
+        "24nettbutikk.chat",
+        "3cx.uk",
+        "above.im",
+        "acquire.io",
+        "alive5.com",
+        "alo-tech.com",
+        "apex.live",
+        "api.botsonic.ai",
+        "api.visitor.chat",
+        "app.chaport.com",
+        "app.chatplus.jp",
+        "assets.flex.twilio.com",
+        "astutebot.com",
+        "awhy.it",
+        "belco.io",
+        "bestchat.com",
+        "birdeye.com",
+        "boei.help",
+        "boldchat.com",
+        "bot.leadoo.com",
+        "botgenes.org",
+        "botmind.io",
+        "botsrv2.com",
+        "callpage.io",
+        "carchat24.com",
+        "carrotquest.io",
+        "cbot.ai",
+        "cdn-fe.chatty.net",
+        "chat-app.chat-link.de",
+        "chat-app.neurabot.de",
+        "chat.broadly.com",
+        "chat.gosquared.com",
+        "chat.octadesk.services",
+        "chatbot.com",
+        "chatbotize.com",
+        "chatbox.copilot.livex.ai",
+        "chatbro.com",
+        "chatdealer.jp",
+        "chatsir.com",
+        "chatway.app",
+        "chatwoot.frai.pro",
+        "chatwoot.on-mail.ru",
+        "cibbot.com",
+        "cliengo.com",
+        "clientchatlive.com",
+        "clients.streamwood.ru",
+        "console.rul.ai",
+        "conversationalsdevelopment.nl",
+        "conversiobot.com",
+        "craft-talk.com",
+        "crall.io",
+        "daktela.com",
+        "directtalk.com.br",
+        "echatsys.com",
+        "embed.chatnode.ai",
+        "embed.simplifeye.co",
+        "engagebay.com",
+        "enquirybot.com",
+        "evidence.io",
+        "external.airport.ai",
+        "freshchat.com",
+        "getrisk.info",
+        "globalbot.ai",
+        "go.botmaker.com",
+        "goftino.com",
+        "gorgias.chat",
+        "gs-chat.com",
+        "gso.amocrm.com",
+        "gubagoo.io",
+        "happyfox.com",
+        "helpscout.net",
+        "heyoliver.com",
+        "igetresponse.chat",
+        "inside.chat",
+        "inteliwise.com",
+        "intelliticks.com",
+        "jivosite.com",
+        "landbot.io",
+        "lcmagentportal.appspot.com",
+        "leadback.ru",
+        "leadbooster-chat.pipedrive.com",
+        "leadgenic.ru",
+        "live2support.com",
+        "livechat.ekonsilio.io",
+        "livehelpnow.net",
+        "me-talk.ru",
+        "melibo.de",
+        "messenger.customerly.io",
+        "mindbehind.com",
+        "mobilemonkey.com",
+        "moustacheai.com",
+        "mylivechat.com",
+        "neurologic.com.br",
+        "nice-incontact.com",
+        "noem.ai",
+        "ocelotbot.com",
+        "olark.com",
+        "ommi-prod-widget.web.app",
+        "onlim.com",
+        "onwebchat.com",
+        "paradox.ai",
+        "phplivesupport.com",
+        "podium.com",
+        "production.raptive.ai",
+        "purechat.com",
+        "qualified.com",
+        "quicktext.im",
+        "raychat.io",
+        "readyplanet.com",
+        "reamaze.com",
+        "replain.cc",
+        "richpanel.com",
+        "salesiq.zoho.com",
+        "sendinblue.com",
+        "serviceform.com",
+        "smart.generaxion.fi",
+        "smartarget.online",
+        "smartsuppcdn.com",
+        "smith.ai",
+        "smooch.io",
+        "snapengage.com",
+        "snapsmedia.io",
+        "st.chatango.com",
+        "stadtwerk.bot",
+        "swi.neobox.ebu.io",
+        "talkative-cdn.com",
+        "tawk.to",
+        "thankful.ai",
+        "thelivechatsoftware.com",
+        "tidiochat.com",
+        "unibuddy.co",
+        "userbot.ai",
+        "userway.org",
+        "vergic.com",
+        "verint-cdn.com",
+        "visitor.chat",
+        "wbot.chat",
+        "web-chat.global.assistant.watson.appdomain.cloud",
+        "web.kodabots.com",
+        "webchat.hyperflow.global",
+        "webchatapi.robbu.global",
+        "webim.ru",
+        "whatya.solairo-api.com",
+        "widget.insent.ai",
+        "widget.moin.ai",
+        "widget.screets.io",
+        "widget.superchat.de",
+        "widget.writesonic.com",
+        "worldchatbox.worldfone.vn",
+        "xeno.app",
+        "yellowmessenger.com",
+        "zammo.ai",
+        "zopim.com",
+        "zyratalk.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b1ee0e804f86ded722bc55b4cd862cd1854ec18ea7bcc570d71a239a358483a3",
+      "8b537b9469c9c4fa7eb4fa455a4db03f0b6d8f16a141c4f3608b5cf452acbf9a",
+      "d69a40f3b95cd0e382939bb8ec46a93000614b7e151aa249c9fc7b716426fcca",
+      "695af93c70a2147e7943ec199dca7bf180c3a3330945f49a94f42433a7896caa",
+      "c20abd1a82ba4fcfa99bbd440c29bcb160ad3009217cf024785be398d72677b4",
+      "8960558c8ce60b3117c86e63740fa74e739902f153bfca979065ddc615526545",
+      "3bf7808bf3957b33aabaf50f05ca9cd121730b84e0868a374f49dbd58f81c824",
+      "8885b7fc1522ea9f63ca12b8a6bef7c67118b289e42417c698d051dc4c635a6a",
+      "2bed5c560b505a13ddbec57f5f210487553d2f4d1389193d9408cc9c54b10337",
+      "c3fa2a2a545dd7337d5463d0e976d029c00e5aa1b9266ddb9fd50e0379be1b7f",
+      "2a4267b8c8d87fb8e709279da2bb04f0233684dda0deeb6be1d1c868f272b803",
+      "0e97c343ab540eb15420632860714869cfaabcbacd8b0fd0844734f5ca03bb0b",
+      "29ce3f77781cfad15c158bc8d19ffa81d6e824a02c127098ed6560ac2c403813",
+      "59d260496d281e959e4dadf7038d05df2c7816e1d78b5e9c5b0bb8956bb7cf25",
+      "cbd977dca1f1966ad2ead69769e6add4bdd9c21a9f07c49c54e27f382fb9db4e",
+      "a7cc9ccadfecdddb2404eef79a2429112469b235bec0ea87f68fe3d2905ccccc",
+      "9904ce3007df408dbeba13a5f76baea7e3c09efee3820e2a483bd031f75d06c1",
+      "fbf335b8c1c5b0a4d8eef4a13b54051282936216f7eb729c29c680e43e78b752",
+      "df6cb20b0069ec2d65cef12afb2cf5402c1b0ccd30bd48776cb4d2dbe815d749",
+      "55f1614e890498ce927a15a6b33175d2b14b35a72c494f65a5e7ba6077684563",
+      "686eaa9b851663d0af96d8c90536d1aef03bd3e1e616fa28a2cf7c5e7d9a831d",
+      "6336268fe6696bbd6b48434ebf50e13148223895c19b3174890c3b959955fdb9",
+      "456ac3d682cce0977c9461d8a2aafb0ab41e6202938a17e773ac9d99e6876cf4",
+      "cd6fe08789d083aa57da575083feeadb2f9e15017cb1898a40519e580cd1bbb9",
+      "ecb9bcbd5bbfb87a93f017f9d1be31da5d620d2e5202131ed780f321293f92e1",
+      "4c7311e4e78085bb8c825f3e9f071d38eef4e7b9e566007e35b5dcb1b4c498d7",
+      "84a82b1feb55e3c621f52a6db3627d9e7539207d6aca309062516b582bc77e19",
+      "9ea84b69e3ff6799055f8dc77c59deea12a191dafc25c64c2be8e0cd2a16c60b",
+      "e35417d86e3f7bd547bf807fa1bfae91a0032511ee0f4b73826a43e8f7e88ac5",
+      "b8cc256db1fcccf6710f9b4809116242cda248b04be831f8d289949dedeef14c",
+      "18e9ee3b627c6dbf321f230f1b24da5a6f8dfdccbc06d61c3272295fe8cf947b",
+      "249968aa6453f160b765be916e8d96c74eb555a1f8049dd8e4b99742058382b9",
+      "2000cfe16b3f6d5cf641f67bb25b56fc032db48cae49588052817099bfb4499a",
+      "245fd2eb79f808f33293fc239ecc25d6fa66f2f2577125d35a1f207497e70d7d",
+      "5f98c78a655c2249512fcd9b8ebe8afda35b23c721b941bbf57f267185afdc10",
+      "6ac2ad361db237d0f4876f5292c86fc54f1832cb55e8273eb2ddf2658fe25280",
+      "866a53a12ea5c02fbf8857d4b005fcd0a706af9f6a3f191fa15b251d41e176fa",
+      "6a30fd1dab6c2be9a2177f1a54e47947f2a998715450a1cb898e570ad5033db3",
+      "6a8edb3a5a3c567d00ab0dfad1687fa50d9852092f6aec20e7334cc7f7fc94a6",
+      "65453c155f8741de5ea64ec69d8b99f148c8875e79cbc7d659cfb34cc9c7883f",
+      "f9c7b22d4b1b7c9cd4069144d99f3a13acbaff1e9b47b7614b67e4e4b79004c1",
+      "d9f295685a635a5294c23d6164cae5a6b81f2974f81289b0e318e47d8f0330d7",
+      "40ac9be151b33bca7c3340d73f121c5083f1854652c909d2c57f9aeef68276bd",
+      "03f7d6eee416934c4dccc56e279804b3415c819ecfb72b6797c44b020d44d963",
+      "8b50ec601bf522e91e51df1827046c75408d560c9b27abbcf1245eb9b8cfaea3",
+      "cfc4a7b7643aca63aa840ddabae4bff78e76f3ae54d8d7e09af798994da0d00b",
+      "a217802625cf3163dc6062ff4d7cd961201cf029828452bc672c2985b25934c3",
+      "5fc547fe118de431536166e79e2d9554719d5e1cd219e06032dc48afd2a4b8f1",
+      "8d251ecf58437456f6202cadd883eb33bf2aec1ff7c3950f77438b14468d7657",
+      "5428e21444536551412b27a5e6e5992b83f223011b3fa7851d529a9831325c87",
+      "12ef4cf20dd73cb6345421c4b7479467a3aaf3daaedf52e1684dcf3aa7d4de99",
+      "0986ba0221eb3f7cbf960f7ec75da764ee7a035e45a0640c030a342096be7975",
+      "56694176728e74f5389288c500097827df51f54688d78e0a3325ca368b80ad29",
+      "3b0d537ad293d50b062948a81b41279d252868c33e06be33fab36808c56b841d",
+      "a9d74867b881eca95ffd194e7399412285775c9ab24591b555f7d0f978ced6ae",
+      "a7c18fd390fd42bcb7fd2f4c731cc411e217ae54a8f44683c50e4b676cc67e84",
+      "15b42075281945a1a194b7346faa23363ff4d34ad4cf9fed175e7391bf5241d7",
+      "16011cb9f9d648cd5616350098986487f169d477257834c2bfbb915788688651",
+      "63826c4ef5bc4bb17a754c122815f2eb1ecd65135dc673288d1faf6681960c08",
+      "6c7dd0f83390158cd25efec1bc05a31c1f762ef5c1b8e0638b356132ed9882b4",
+      "ae01234870a1ad3a9543a48365e275d64f575e58670689c65b998ac68eefec26",
+      "54562f9d90bd9b819712a718cbe2965f9baa5dc7c4b8a80dc5c166fd8be01871",
+      "8e4950cbbc6d34951eff8205a76bfe8802d8cb4056e9c86248017a8acde385b2",
+      "eb88536d7674912cf35c3b247aeb9a1450765b7a93bea4d3a47dd6860b0ef63d",
+      "e80e5688a9a590f686953b2e131c53675503f67aa41f7f340c50a1f94997db91",
+      "5cdd6be66961f791f68ac72b72ca6d006765194e2853094c0082f98af755a38a",
+      "cc4065253d8baf75775d2d8b3d94931ce9b5fe679c2128ac1275f7bd1454ae1a",
+      "d8f2faabee9ca69f18400f713e81a669c20ed5db2eb18bbcb27c3b0b4a6b7832",
+      "b087cd84969ee9a27767a2a241366f47ea30a783a371c9e87aeaacc8f8a0ec25",
+      "83df0f1848ca8f37458a17ba7820de97c6bea551e7feff129bc9fa2483b09ea9",
+      "15d27556d2159716adff081ec31f34b46a5b75da3f2b8b7eb9681547620dd0f7",
+      "54c2d2b4947544d40916aefea9a5deeb0bd92f9ee4f46357e586ffc61fef62c4",
+      "372733fea5ee413a5cf1dbad02e04d0b652a22e23f5ac5a64816c39424d64920",
+      "6485595444c21a4824101b5f8c6ae03a3a04d4939594bf1058c4035aa7d03a4a",
+      "6b097d3710c0303024c5c49c33bb1f3c981f1feb9c0879f894a91177a0b2fc27",
+      "7bc65c2dd3cc9b94eeaba2e13d2b632ee6a04f606f61a159a42db6f7cbb98200",
+      "11614f6f4d728f279e1261ca3e85e7347dc1ed6899cf3d327f1b68fe30c7a03a",
+      "f6cd6ba49dfb87ed3387f3f78fd8e5948e978a53be39187eba85bc1c824b0560",
+      "f189cfd680a3ff7e651b76fe01dce410dbc95b248acf727179b4d3ccffe01b2e",
+      "f5896fdfce2d251ac603a0111ac2ec9d42db88a524bf3d1e1ca1f686551bd7df",
+      "c0a30c9e1f7268350c30071749db25d6ed83de5c8c8cf8fdbb6c65c27fc014c3",
+      "766953fffb04543832e41c09a0a87cd5187d0f9fbed23c16fa91547ea3dcb181",
+      "1ac69fa425006cb897e7963dc4acee25226fd030ea4aa0feaea999b3d71e3207",
+      "7311364ccae420ebfb105130e78b072c314064122783242b260ac78b9e2320ca",
+      "eb886686505b97f4d4f3bd6a4021292101c765180786721212a8412bd2e67fc6",
+      "6988009219d8685ca168972b88940a263ad6bb54ef682d9b74a58aa6e8d3baa2",
+      "b9c834b1a9330566664499bf84647fe5660957bbdcaaee327b33696fa798b00e",
+      "a344e409e4002f3d66153bfe13871a2a59e726c0eb02738b6b2f9b4326af3925",
+      "5c52b76025e5e0546dfccf2926f00dd97982738168668d022eed89b5ef6a5c11",
+      "1c6f3613a4f648810cf96b7e39c01656c265998321304e99506fc3282bb6c5da",
+      "66c6ef8ca07f5f2babc8683075b1c72a931b34a09045840391478f59fc44636f",
+      "44b7fe17e2c30625e9005ee1222c5afb6522e9e84280d5fc3b0bff408669736b",
+      "bce0e7dd5700c6192ff890a3bcd1170a8f44502eb196a8e7a645c56f862713ed",
+      "3b873830f4a26d84ac70ada814338fbad62304f62318c9a4b134fab012bc22e1",
+      "46ab34ec46aad18b310fa24e93829977521c412a21dc3d15702ecca9786bb852",
+      "81774e660cd3ffb022a712953f57385d8d50c824a6f344f6e16cb022d68d2d79",
+      "ed3896913727d9475d08464226f27c9aee489a07aff02a7820a4d75305599fe7",
+      "fb13d6bca7e2f800be3c0d2ac62b10e5db53a979a710ed31752cb47829bd4845",
+      "516dbc4a373635f5f44def89c40332b01d0a66f38a659e613eb65b9857bc9a35",
+      "0c259af052084403a16acc9bb4c276e8771196e380074094c25f0beb4152bcc3",
+      "13d3fd1ee7a90f4de1984f6586b34f4560e134f92565a8a8446c823993b0fd86",
+      "656c5cf8faef6477c397f5f9c5df3118245e60295981847e0d8f7269931f8225",
+      "eceac22f35e10e186409bc5e906fce9d44daf02aa811e0bb1d3f143827ea57c6",
+      "026e6c56294521677feccef7371e9da6445207ef97b280540d4b2a3513fcc9c9",
+      "4f9e073536eea0ffdfd305d0f3b8aa4914d7ce466dbeec262ce8b62d7ea5e497",
+      "8136856616128e5ee069e3cb3fc11f4aee340153e5d58197efc6c54f16ae46c7",
+      "597f1da12bafb82a0a84f5097f1869a42dd1ff12154e01f7aa0f85dddd8452f7",
+      "fb38c59f12f71bddb6a0e3e9010ffe3a8a48a23c436546e329de98aa265aca3f",
+      "ca2db00aa1652710c899c1fc09200c259bf6bf9b258d976f024a4242482e75ff",
+      "a87992f1c44b3195dcbe372c6f5e76e5fa856a231f00d226ab16f1f5b6ff57ae",
+      "a67b95fadaaed064890df1d49336939da413185e4a6485de1a1aa1aaff853883",
+      "e4875684d80ea349c0c8432879e20d4bd087097e55be2bbb033f680b35b4df12",
+      "1bf01fd588277d480b5bf36b5dc2386d6109a282972ff3a7c54f22e9d7739ed1",
+      "6e4904d8fba65896c15a68b3d16bc812181bd4fe5e162759efd4e0325f5b2f74",
+      "3178bd34bf8606591224d661ba206ef5478d443b834cc28da8996afbaa8f3d4f",
+      "1e0ca3982a56433b115e1595da794464091cf80ee07ca7e87442439f69cecf01",
+      "c162de6d0c2ee67ac36a7123390164d00a6c8c88fdab8efe76dc107b97d4c7d1",
+      "5298ee488e8ecf72f142fe57efa11489c4955ec991d6f2a49d2b05ccb53c9e34",
+      "61d5a4688fc5129443fb818ba1c0ea54145f06027eb6cae2dd496269975bc8f5",
+      "7356a8eaf12398356511e5fe0b5651892cde935c0255747b77924c2594d83c21",
+      "8b780b31e4902d5cee674777a076ac17aa6fc0c49766e738b2aeaa08a0b614bf",
+      "5b3fad093c9d65ebeb0972766dbdaf884dcac216a58e5ea9c05a3d08c2ad8f8c",
+      "095a3b65a0284c5a52afbbc14b54d3d0ee877c5657373740a7fe67bb2f05dee7",
+      "48d071ba52234438fdb3fefb8d413ecf6a19ac19948dfafcaac2fafa539c9406",
+      "27252b442acbe4e8518cff9515cf6b03eb189087d101e76bc6fdb9cfed093a09",
+      "fedf16ab134bb92f2e54ea59d6346e9caabba7989f23079b017bef4d72b62755",
+      "700a1c74a3616179dd351d3ef1e469986ed6969db49fd575a658c7e3ed84d625",
+      "5e581b9500ef3195899a9aa7b66dee32a2f2773e396887b3ebbd51c22a7924e3",
+      "986a357d6ad26d697237c4e8ad33c0e8ab00848c523a1ef7b1c21c14dd822a08",
+      "535b271e07aea7689af86eee7ed32894d23c22a77a107805af4abfd5c017e4ec",
+      "8e74fd2b335013a40e7c90a1d25f6eebc0448e52f17253936527ec63039fbeb3",
+      "60fcd04f08e037fd8d295a2eadd958fbad41096e666f7aa220e8a97575b66d5c",
+      "afa2d3624fdde84eedc073641d6cab345b66fc372448e2970ac0cedaa48d5b0f",
+      "de9aae736f26c800f5466db0e321ab5a7998dd72e529b5b48e2a880e2e11b9b2",
+      "70f3c189633e554739a2290dd0bc0c4ee26fb90cdbf78546a913db54794428c1",
+      "a097c59939ec50ff8a9de5aa6c026afbee1d1962288aec7feabaf2ad50faf948",
+      "29adbe6700605dc672b54fb371a9c1111e0acd94547d47d5a590a4b58491dfb4",
+      "8b6c4a79c428d3fc2316d1859253fc5271918a4597834e8bc39d737f2fa609e9",
+      "8c2bfbb00137635f62641f0da1589b9c5c2d52de5d33087cf6b6d25c46576756",
+      "e761005b52f734497d47be4a49dcb0230a34d15bf8c104a708a07cc15f593c46",
+      "d2a744abf97e8c7085ebb48684d1a82e23dd5b1f72358b256fc5275268b0dc71",
+      "4bd0f6ee21c45969f7dbadfe8ce09e31808f75e78608d5a6b6cc6e5589182caa",
+      "ea5210d51e8febe231b69a1f2861cc47ac792d0c076a190ba3a09be9db53c618",
+      "34b9aa2351464bc006874803eff8be61560b190a9128472f4db6a8c50a2a035f",
+      "fe7b2e33514fb6817420d503f5c03ab3ba7e34431bbfbda5e21691d18efc6fae",
+      "bf5770c404bd5ac658b1178c64eef896eacf7ffbac6f1b2728ddaf9865ceebee",
+      "4cce6d4c3b08199a1133844043a4209bd25e3e8dba044efc2d243e4a03e2b6b5",
+      "ba0184337fa430d72d6d59ac1499c4f153e7d87dc0e0449d80d0ad22ca1a0381",
+      "56b52138edafab6ffc8caf8095da8d9f4a528e07c648001357b4a8f505ceb291",
+      "9788f13fc68b06baa9156eba7e0352522b58ff2211710d7febe3bc1c8275a1ad",
+      "87b25ec604e1289641037cbbbc1e6e5f456af7df1246c77707aeea2d0d456313",
+      "074c32b5ae5266c78acdd22d0c2e7d0e79fe9ab1c4f60a45ca10f55b5ebf71b9",
+      "aa45910445dde70bdea6553d8cdc4ecdbceafea2d7b94b592c2d54d978fb8f43",
+      "f39da2c7a800bc15ab0a8ae78b21367565987977c6347c9e5013bf0f2e2cb7b2",
+      "8c4e393032726eec02b3ffd0ef6169d6f0b170e0a10f00b695d10ed6d0d0762c"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "247-inc.net",
+        "keys": [
+          "b1ee0e804f86ded722bc55b4cd862cd1854ec18ea7bcc570d71a239a358483a3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "24nettbutikk.chat",
+        "keys": [
+          "8b537b9469c9c4fa7eb4fa455a4db03f0b6d8f16a141c4f3608b5cf452acbf9a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "3cx.uk",
+        "keys": [
+          "d69a40f3b95cd0e382939bb8ec46a93000614b7e151aa249c9fc7b716426fcca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "above.im",
+        "keys": [
+          "695af93c70a2147e7943ec199dca7bf180c3a3330945f49a94f42433a7896caa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acquire.io",
+        "keys": [
+          "c20abd1a82ba4fcfa99bbd440c29bcb160ad3009217cf024785be398d72677b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alive5.com",
+        "keys": [
+          "8960558c8ce60b3117c86e63740fa74e739902f153bfca979065ddc615526545"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alo-tech.com",
+        "keys": [
+          "3bf7808bf3957b33aabaf50f05ca9cd121730b84e0868a374f49dbd58f81c824"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "apex.live",
+        "keys": [
+          "8885b7fc1522ea9f63ca12b8a6bef7c67118b289e42417c698d051dc4c635a6a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api.botsonic.ai",
+        "keys": [
+          "2bed5c560b505a13ddbec57f5f210487553d2f4d1389193d9408cc9c54b10337"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api.visitor.chat",
+        "keys": [
+          "c3fa2a2a545dd7337d5463d0e976d029c00e5aa1b9266ddb9fd50e0379be1b7f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "app.chaport.com",
+        "keys": [
+          "2a4267b8c8d87fb8e709279da2bb04f0233684dda0deeb6be1d1c868f272b803"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "app.chatplus.jp",
+        "keys": [
+          "0e97c343ab540eb15420632860714869cfaabcbacd8b0fd0844734f5ca03bb0b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "assets.flex.twilio.com",
+        "keys": [
+          "29ce3f77781cfad15c158bc8d19ffa81d6e824a02c127098ed6560ac2c403813"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "astutebot.com",
+        "keys": [
+          "59d260496d281e959e4dadf7038d05df2c7816e1d78b5e9c5b0bb8956bb7cf25"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "awhy.it",
+        "keys": [
+          "cbd977dca1f1966ad2ead69769e6add4bdd9c21a9f07c49c54e27f382fb9db4e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "belco.io",
+        "keys": [
+          "a7cc9ccadfecdddb2404eef79a2429112469b235bec0ea87f68fe3d2905ccccc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bestchat.com",
+        "keys": [
+          "9904ce3007df408dbeba13a5f76baea7e3c09efee3820e2a483bd031f75d06c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "birdeye.com",
+        "keys": [
+          "fbf335b8c1c5b0a4d8eef4a13b54051282936216f7eb729c29c680e43e78b752"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "boei.help",
+        "keys": [
+          "df6cb20b0069ec2d65cef12afb2cf5402c1b0ccd30bd48776cb4d2dbe815d749"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "boldchat.com",
+        "keys": [
+          "55f1614e890498ce927a15a6b33175d2b14b35a72c494f65a5e7ba6077684563"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bot.leadoo.com",
+        "keys": [
+          "686eaa9b851663d0af96d8c90536d1aef03bd3e1e616fa28a2cf7c5e7d9a831d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "botgenes.org",
+        "keys": [
+          "6336268fe6696bbd6b48434ebf50e13148223895c19b3174890c3b959955fdb9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "botmind.io",
+        "keys": [
+          "456ac3d682cce0977c9461d8a2aafb0ab41e6202938a17e773ac9d99e6876cf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "botsrv2.com",
+        "keys": [
+          "cd6fe08789d083aa57da575083feeadb2f9e15017cb1898a40519e580cd1bbb9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "callpage.io",
+        "keys": [
+          "ecb9bcbd5bbfb87a93f017f9d1be31da5d620d2e5202131ed780f321293f92e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "carchat24.com",
+        "keys": [
+          "4c7311e4e78085bb8c825f3e9f071d38eef4e7b9e566007e35b5dcb1b4c498d7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "carrotquest.io",
+        "keys": [
+          "84a82b1feb55e3c621f52a6db3627d9e7539207d6aca309062516b582bc77e19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cbot.ai",
+        "keys": [
+          "9ea84b69e3ff6799055f8dc77c59deea12a191dafc25c64c2be8e0cd2a16c60b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn-fe.chatty.net",
+        "keys": [
+          "e35417d86e3f7bd547bf807fa1bfae91a0032511ee0f4b73826a43e8f7e88ac5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat-app.chat-link.de",
+        "keys": [
+          "b8cc256db1fcccf6710f9b4809116242cda248b04be831f8d289949dedeef14c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat-app.neurabot.de",
+        "keys": [
+          "18e9ee3b627c6dbf321f230f1b24da5a6f8dfdccbc06d61c3272295fe8cf947b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.broadly.com",
+        "keys": [
+          "249968aa6453f160b765be916e8d96c74eb555a1f8049dd8e4b99742058382b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.gosquared.com",
+        "keys": [
+          "2000cfe16b3f6d5cf641f67bb25b56fc032db48cae49588052817099bfb4499a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.octadesk.services",
+        "keys": [
+          "245fd2eb79f808f33293fc239ecc25d6fa66f2f2577125d35a1f207497e70d7d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbot.com",
+        "keys": [
+          "5f98c78a655c2249512fcd9b8ebe8afda35b23c721b941bbf57f267185afdc10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbotize.com",
+        "keys": [
+          "6ac2ad361db237d0f4876f5292c86fc54f1832cb55e8273eb2ddf2658fe25280"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbox.copilot.livex.ai",
+        "keys": [
+          "866a53a12ea5c02fbf8857d4b005fcd0a706af9f6a3f191fa15b251d41e176fa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatbro.com",
+        "keys": [
+          "6a30fd1dab6c2be9a2177f1a54e47947f2a998715450a1cb898e570ad5033db3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatdealer.jp",
+        "keys": [
+          "6a8edb3a5a3c567d00ab0dfad1687fa50d9852092f6aec20e7334cc7f7fc94a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatsir.com",
+        "keys": [
+          "65453c155f8741de5ea64ec69d8b99f148c8875e79cbc7d659cfb34cc9c7883f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatway.app",
+        "keys": [
+          "f9c7b22d4b1b7c9cd4069144d99f3a13acbaff1e9b47b7614b67e4e4b79004c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwoot.frai.pro",
+        "keys": [
+          "d9f295685a635a5294c23d6164cae5a6b81f2974f81289b0e318e47d8f0330d7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatwoot.on-mail.ru",
+        "keys": [
+          "40ac9be151b33bca7c3340d73f121c5083f1854652c909d2c57f9aeef68276bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cibbot.com",
+        "keys": [
+          "03f7d6eee416934c4dccc56e279804b3415c819ecfb72b6797c44b020d44d963"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cliengo.com",
+        "keys": [
+          "8b50ec601bf522e91e51df1827046c75408d560c9b27abbcf1245eb9b8cfaea3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clientchatlive.com",
+        "keys": [
+          "cfc4a7b7643aca63aa840ddabae4bff78e76f3ae54d8d7e09af798994da0d00b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clients.streamwood.ru",
+        "keys": [
+          "a217802625cf3163dc6062ff4d7cd961201cf029828452bc672c2985b25934c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "console.rul.ai",
+        "keys": [
+          "5fc547fe118de431536166e79e2d9554719d5e1cd219e06032dc48afd2a4b8f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "conversationalsdevelopment.nl",
+        "keys": [
+          "8d251ecf58437456f6202cadd883eb33bf2aec1ff7c3950f77438b14468d7657"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "conversiobot.com",
+        "keys": [
+          "5428e21444536551412b27a5e6e5992b83f223011b3fa7851d529a9831325c87"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "craft-talk.com",
+        "keys": [
+          "12ef4cf20dd73cb6345421c4b7479467a3aaf3daaedf52e1684dcf3aa7d4de99"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crall.io",
+        "keys": [
+          "0986ba0221eb3f7cbf960f7ec75da764ee7a035e45a0640c030a342096be7975"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daktela.com",
+        "keys": [
+          "56694176728e74f5389288c500097827df51f54688d78e0a3325ca368b80ad29"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "directtalk.com.br",
+        "keys": [
+          "3b0d537ad293d50b062948a81b41279d252868c33e06be33fab36808c56b841d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "echatsys.com",
+        "keys": [
+          "a9d74867b881eca95ffd194e7399412285775c9ab24591b555f7d0f978ced6ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "embed.chatnode.ai",
+        "keys": [
+          "a7c18fd390fd42bcb7fd2f4c731cc411e217ae54a8f44683c50e4b676cc67e84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "embed.simplifeye.co",
+        "keys": [
+          "15b42075281945a1a194b7346faa23363ff4d34ad4cf9fed175e7391bf5241d7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "engagebay.com",
+        "keys": [
+          "16011cb9f9d648cd5616350098986487f169d477257834c2bfbb915788688651"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "enquirybot.com",
+        "keys": [
+          "63826c4ef5bc4bb17a754c122815f2eb1ecd65135dc673288d1faf6681960c08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "evidence.io",
+        "keys": [
+          "6c7dd0f83390158cd25efec1bc05a31c1f762ef5c1b8e0638b356132ed9882b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "external.airport.ai",
+        "keys": [
+          "ae01234870a1ad3a9543a48365e275d64f575e58670689c65b998ac68eefec26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "freshchat.com",
+        "keys": [
+          "54562f9d90bd9b819712a718cbe2965f9baa5dc7c4b8a80dc5c166fd8be01871"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getrisk.info",
+        "keys": [
+          "8e4950cbbc6d34951eff8205a76bfe8802d8cb4056e9c86248017a8acde385b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "globalbot.ai",
+        "keys": [
+          "eb88536d7674912cf35c3b247aeb9a1450765b7a93bea4d3a47dd6860b0ef63d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "go.botmaker.com",
+        "keys": [
+          "e80e5688a9a590f686953b2e131c53675503f67aa41f7f340c50a1f94997db91"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "goftino.com",
+        "keys": [
+          "5cdd6be66961f791f68ac72b72ca6d006765194e2853094c0082f98af755a38a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gorgias.chat",
+        "keys": [
+          "cc4065253d8baf75775d2d8b3d94931ce9b5fe679c2128ac1275f7bd1454ae1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gs-chat.com",
+        "keys": [
+          "d8f2faabee9ca69f18400f713e81a669c20ed5db2eb18bbcb27c3b0b4a6b7832"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gso.amocrm.com",
+        "keys": [
+          "b087cd84969ee9a27767a2a241366f47ea30a783a371c9e87aeaacc8f8a0ec25"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gubagoo.io",
+        "keys": [
+          "83df0f1848ca8f37458a17ba7820de97c6bea551e7feff129bc9fa2483b09ea9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "happyfox.com",
+        "keys": [
+          "15d27556d2159716adff081ec31f34b46a5b75da3f2b8b7eb9681547620dd0f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "helpscout.net",
+        "keys": [
+          "54c2d2b4947544d40916aefea9a5deeb0bd92f9ee4f46357e586ffc61fef62c4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "heyoliver.com",
+        "keys": [
+          "372733fea5ee413a5cf1dbad02e04d0b652a22e23f5ac5a64816c39424d64920"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "igetresponse.chat",
+        "keys": [
+          "6485595444c21a4824101b5f8c6ae03a3a04d4939594bf1058c4035aa7d03a4a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inside.chat",
+        "keys": [
+          "6b097d3710c0303024c5c49c33bb1f3c981f1feb9c0879f894a91177a0b2fc27"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inteliwise.com",
+        "keys": [
+          "7bc65c2dd3cc9b94eeaba2e13d2b632ee6a04f606f61a159a42db6f7cbb98200"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "intelliticks.com",
+        "keys": [
+          "11614f6f4d728f279e1261ca3e85e7347dc1ed6899cf3d327f1b68fe30c7a03a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jivosite.com",
+        "keys": [
+          "f6cd6ba49dfb87ed3387f3f78fd8e5948e978a53be39187eba85bc1c824b0560"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "landbot.io",
+        "keys": [
+          "f189cfd680a3ff7e651b76fe01dce410dbc95b248acf727179b4d3ccffe01b2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lcmagentportal.appspot.com",
+        "keys": [
+          "f5896fdfce2d251ac603a0111ac2ec9d42db88a524bf3d1e1ca1f686551bd7df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leadback.ru",
+        "keys": [
+          "c0a30c9e1f7268350c30071749db25d6ed83de5c8c8cf8fdbb6c65c27fc014c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leadbooster-chat.pipedrive.com",
+        "keys": [
+          "766953fffb04543832e41c09a0a87cd5187d0f9fbed23c16fa91547ea3dcb181"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leadgenic.ru",
+        "keys": [
+          "1ac69fa425006cb897e7963dc4acee25226fd030ea4aa0feaea999b3d71e3207"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "live2support.com",
+        "keys": [
+          "7311364ccae420ebfb105130e78b072c314064122783242b260ac78b9e2320ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "livechat.ekonsilio.io",
+        "keys": [
+          "eb886686505b97f4d4f3bd6a4021292101c765180786721212a8412bd2e67fc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "livehelpnow.net",
+        "keys": [
+          "6988009219d8685ca168972b88940a263ad6bb54ef682d9b74a58aa6e8d3baa2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "me-talk.ru",
+        "keys": [
+          "b9c834b1a9330566664499bf84647fe5660957bbdcaaee327b33696fa798b00e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "melibo.de",
+        "keys": [
+          "a344e409e4002f3d66153bfe13871a2a59e726c0eb02738b6b2f9b4326af3925"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "messenger.customerly.io",
+        "keys": [
+          "5c52b76025e5e0546dfccf2926f00dd97982738168668d022eed89b5ef6a5c11"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mindbehind.com",
+        "keys": [
+          "1c6f3613a4f648810cf96b7e39c01656c265998321304e99506fc3282bb6c5da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mobilemonkey.com",
+        "keys": [
+          "66c6ef8ca07f5f2babc8683075b1c72a931b34a09045840391478f59fc44636f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "moustacheai.com",
+        "keys": [
+          "44b7fe17e2c30625e9005ee1222c5afb6522e9e84280d5fc3b0bff408669736b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mylivechat.com",
+        "keys": [
+          "bce0e7dd5700c6192ff890a3bcd1170a8f44502eb196a8e7a645c56f862713ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "neurologic.com.br",
+        "keys": [
+          "3b873830f4a26d84ac70ada814338fbad62304f62318c9a4b134fab012bc22e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nice-incontact.com",
+        "keys": [
+          "46ab34ec46aad18b310fa24e93829977521c412a21dc3d15702ecca9786bb852"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "noem.ai",
+        "keys": [
+          "81774e660cd3ffb022a712953f57385d8d50c824a6f344f6e16cb022d68d2d79"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ocelotbot.com",
+        "keys": [
+          "ed3896913727d9475d08464226f27c9aee489a07aff02a7820a4d75305599fe7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "olark.com",
+        "keys": [
+          "fb13d6bca7e2f800be3c0d2ac62b10e5db53a979a710ed31752cb47829bd4845"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ommi-prod-widget.web.app",
+        "keys": [
+          "516dbc4a373635f5f44def89c40332b01d0a66f38a659e613eb65b9857bc9a35"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onlim.com",
+        "keys": [
+          "0c259af052084403a16acc9bb4c276e8771196e380074094c25f0beb4152bcc3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onwebchat.com",
+        "keys": [
+          "13d3fd1ee7a90f4de1984f6586b34f4560e134f92565a8a8446c823993b0fd86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "paradox.ai",
+        "keys": [
+          "656c5cf8faef6477c397f5f9c5df3118245e60295981847e0d8f7269931f8225"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "phplivesupport.com",
+        "keys": [
+          "eceac22f35e10e186409bc5e906fce9d44daf02aa811e0bb1d3f143827ea57c6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "podium.com",
+        "keys": [
+          "026e6c56294521677feccef7371e9da6445207ef97b280540d4b2a3513fcc9c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "production.raptive.ai",
+        "keys": [
+          "4f9e073536eea0ffdfd305d0f3b8aa4914d7ce466dbeec262ce8b62d7ea5e497"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "purechat.com",
+        "keys": [
+          "8136856616128e5ee069e3cb3fc11f4aee340153e5d58197efc6c54f16ae46c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "qualified.com",
+        "keys": [
+          "597f1da12bafb82a0a84f5097f1869a42dd1ff12154e01f7aa0f85dddd8452f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quicktext.im",
+        "keys": [
+          "fb38c59f12f71bddb6a0e3e9010ffe3a8a48a23c436546e329de98aa265aca3f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "raychat.io",
+        "keys": [
+          "ca2db00aa1652710c899c1fc09200c259bf6bf9b258d976f024a4242482e75ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "readyplanet.com",
+        "keys": [
+          "a87992f1c44b3195dcbe372c6f5e76e5fa856a231f00d226ab16f1f5b6ff57ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reamaze.com",
+        "keys": [
+          "a67b95fadaaed064890df1d49336939da413185e4a6485de1a1aa1aaff853883"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "replain.cc",
+        "keys": [
+          "e4875684d80ea349c0c8432879e20d4bd087097e55be2bbb033f680b35b4df12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "richpanel.com",
+        "keys": [
+          "1bf01fd588277d480b5bf36b5dc2386d6109a282972ff3a7c54f22e9d7739ed1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "salesiq.zoho.com",
+        "keys": [
+          "6e4904d8fba65896c15a68b3d16bc812181bd4fe5e162759efd4e0325f5b2f74"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sendinblue.com",
+        "keys": [
+          "3178bd34bf8606591224d661ba206ef5478d443b834cc28da8996afbaa8f3d4f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "serviceform.com",
+        "keys": [
+          "1e0ca3982a56433b115e1595da794464091cf80ee07ca7e87442439f69cecf01"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smart.generaxion.fi",
+        "keys": [
+          "c162de6d0c2ee67ac36a7123390164d00a6c8c88fdab8efe76dc107b97d4c7d1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartarget.online",
+        "keys": [
+          "5298ee488e8ecf72f142fe57efa11489c4955ec991d6f2a49d2b05ccb53c9e34"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartsuppcdn.com",
+        "keys": [
+          "61d5a4688fc5129443fb818ba1c0ea54145f06027eb6cae2dd496269975bc8f5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smith.ai",
+        "keys": [
+          "7356a8eaf12398356511e5fe0b5651892cde935c0255747b77924c2594d83c21"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smooch.io",
+        "keys": [
+          "8b780b31e4902d5cee674777a076ac17aa6fc0c49766e738b2aeaa08a0b614bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "snapengage.com",
+        "keys": [
+          "5b3fad093c9d65ebeb0972766dbdaf884dcac216a58e5ea9c05a3d08c2ad8f8c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "snapsmedia.io",
+        "keys": [
+          "095a3b65a0284c5a52afbbc14b54d3d0ee877c5657373740a7fe67bb2f05dee7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "st.chatango.com",
+        "keys": [
+          "48d071ba52234438fdb3fefb8d413ecf6a19ac19948dfafcaac2fafa539c9406"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stadtwerk.bot",
+        "keys": [
+          "27252b442acbe4e8518cff9515cf6b03eb189087d101e76bc6fdb9cfed093a09"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "swi.neobox.ebu.io",
+        "keys": [
+          "fedf16ab134bb92f2e54ea59d6346e9caabba7989f23079b017bef4d72b62755"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "talkative-cdn.com",
+        "keys": [
+          "700a1c74a3616179dd351d3ef1e469986ed6969db49fd575a658c7e3ed84d625"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tawk.to",
+        "keys": [
+          "5e581b9500ef3195899a9aa7b66dee32a2f2773e396887b3ebbd51c22a7924e3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "thankful.ai",
+        "keys": [
+          "986a357d6ad26d697237c4e8ad33c0e8ab00848c523a1ef7b1c21c14dd822a08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "thelivechatsoftware.com",
+        "keys": [
+          "535b271e07aea7689af86eee7ed32894d23c22a77a107805af4abfd5c017e4ec"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tidiochat.com",
+        "keys": [
+          "8e74fd2b335013a40e7c90a1d25f6eebc0448e52f17253936527ec63039fbeb3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unibuddy.co",
+        "keys": [
+          "60fcd04f08e037fd8d295a2eadd958fbad41096e666f7aa220e8a97575b66d5c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "userbot.ai",
+        "keys": [
+          "afa2d3624fdde84eedc073641d6cab345b66fc372448e2970ac0cedaa48d5b0f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "userway.org",
+        "keys": [
+          "de9aae736f26c800f5466db0e321ab5a7998dd72e529b5b48e2a880e2e11b9b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vergic.com",
+        "keys": [
+          "70f3c189633e554739a2290dd0bc0c4ee26fb90cdbf78546a913db54794428c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "verint-cdn.com",
+        "keys": [
+          "a097c59939ec50ff8a9de5aa6c026afbee1d1962288aec7feabaf2ad50faf948"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "visitor.chat",
+        "keys": [
+          "29adbe6700605dc672b54fb371a9c1111e0acd94547d47d5a590a4b58491dfb4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wbot.chat",
+        "keys": [
+          "8b6c4a79c428d3fc2316d1859253fc5271918a4597834e8bc39d737f2fa609e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "web-chat.global.assistant.watson.appdomain.cloud",
+        "keys": [
+          "8c2bfbb00137635f62641f0da1589b9c5c2d52de5d33087cf6b6d25c46576756"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "web.kodabots.com",
+        "keys": [
+          "e761005b52f734497d47be4a49dcb0230a34d15bf8c104a708a07cc15f593c46"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchat.hyperflow.global",
+        "keys": [
+          "d2a744abf97e8c7085ebb48684d1a82e23dd5b1f72358b256fc5275268b0dc71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webchatapi.robbu.global",
+        "keys": [
+          "4bd0f6ee21c45969f7dbadfe8ce09e31808f75e78608d5a6b6cc6e5589182caa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webim.ru",
+        "keys": [
+          "ea5210d51e8febe231b69a1f2861cc47ac792d0c076a190ba3a09be9db53c618"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "whatya.solairo-api.com",
+        "keys": [
+          "34b9aa2351464bc006874803eff8be61560b190a9128472f4db6a8c50a2a035f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.insent.ai",
+        "keys": [
+          "fe7b2e33514fb6817420d503f5c03ab3ba7e34431bbfbda5e21691d18efc6fae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.moin.ai",
+        "keys": [
+          "bf5770c404bd5ac658b1178c64eef896eacf7ffbac6f1b2728ddaf9865ceebee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.screets.io",
+        "keys": [
+          "4cce6d4c3b08199a1133844043a4209bd25e3e8dba044efc2d243e4a03e2b6b5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.superchat.de",
+        "keys": [
+          "ba0184337fa430d72d6d59ac1499c4f153e7d87dc0e0449d80d0ad22ca1a0381"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.writesonic.com",
+        "keys": [
+          "56b52138edafab6ffc8caf8095da8d9f4a528e07c648001357b4a8f505ceb291"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "worldchatbox.worldfone.vn",
+        "keys": [
+          "9788f13fc68b06baa9156eba7e0352522b58ff2211710d7febe3bc1c8275a1ad"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xeno.app",
+        "keys": [
+          "87b25ec604e1289641037cbbbc1e6e5f456af7df1246c77707aeea2d0d456313"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yellowmessenger.com",
+        "keys": [
+          "074c32b5ae5266c78acdd22d0c2e7d0e79fe9ab1c4f60a45ca10f55b5ebf71b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zammo.ai",
+        "keys": [
+          "aa45910445dde70bdea6553d8cdc4ecdbceafea2d7b94b592c2d54d978fb8f43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zopim.com",
+        "keys": [
+          "f39da2c7a800bc15ab0a8ae78b21367565987977c6347c9e5013bf0f2e2cb7b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zyratalk.com",
+        "keys": [
+          "8c4e393032726eec02b3ffd0ef6169d6f0b170e0a10f00b695d10ed6d0d0762c"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||apigateway.co/webchat-client.",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ee77b9e3e8896fce2305b3087006fbd644390ae80fbab5e9371a7f83c4e26bb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||boost.ai/chatpanel/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1d04305be88407b7a9555943a827694a833c914a8041f44c063ab74604a2280b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "crisp.chat"
+      ],
+      "excludedResourceTypes": [
+        "image",
+        "main_frame"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d43dad3cc41171de52c7445d3985174a2f41df49a5501f39f45abc027680a084"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "driftt.com"
+      ],
+      "excludedInitiatorDomains": [
+        "paloaltonetworks.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4b009b4b2042e6e41675007ec1183c6dfeee3ef6cb81d3dc6aa1a9dd9a2ad7c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.zohocdn.com/ichat/",
+      "excludedInitiatorDomains": [
+        "zoho.com",
+        "zoho.eu",
+        "zoho.in",
+        "zohoshowtime.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e2de746af1fc63f44b11458db56e5173cdb30c7b1dcb10946042a4e8d3165a66"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.zohocdn.com/salesiq/js/floatbutton1_",
+      "excludedInitiatorDomains": [
+        "zoho.com",
+        "zoho.eu",
+        "zoho.in",
+        "zohoshowtime.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b0c1fd764711a9a0d925083b6f95604a7de984d1abd97b880b88bbb3979acfb3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||ladesk.com/chat/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "cc04ceea34b0ff7c6c2357bfbdd847bafb91430b6300c752cdb091a1bb845459"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "livechatinc.com"
+      ],
+      "excludedInitiatorDomains": [
+        "direct.lc.chat"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2f21398998de417900129cbd6b1397714e4d96568d66e7579c89e739b845b610"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "livetex.ru"
+      ],
+      "excludedInitiatorDomains": [
+        "livetex.github.io"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ba496562586e0dc263ce85fb2756c6f62e153fe2bc547cbfc1edf87f62aea5b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||services.leadconnectorhq.com/chat-widget/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "77771bc90466ee364e4d2f3c1885fd2ecac974f6950bbd776e8799ff0098fa6d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||sprinklr.com/api/livechat/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d09e348e5f64475ea1b0d8064216bfaf3c1c88cb0586d887a82bbd11c48b5f9a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||supportai.yandex/widget/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "145f3e1075ba431690fa8a6b79e09c8cb356152d26def8f4fcb28e5aed16b459"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tidio.co"
+      ],
+      "excludedInitiatorDomains": [
+        "tidio.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b1eb3d69855d28ba22b42ffa9584607bd41a0d434e2ee5cab0c388c743e0f11c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||zohopublic.com/watchws?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0cad44a4e5ea3de2791ca600ccb3ea17ce8c79aa5af8df74cc96be8a45925d0d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "components.justanswer.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1036eb8c88b009f9562605598b044cbdebd1dfb7f099298a9663bc0c2945af38"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "components.justanswer.com",
+        "keys": [
+          "1036eb8c88b009f9562605598b044cbdebd1dfb7f099298a9663bc0c2945af38"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||socialintents.com/api/chat/socialintents.",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "09cc51bf3602cd16d07ce821a9f05885cc54936be38d3f0850a50852983c09a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  }
+]

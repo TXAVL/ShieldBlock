@@ -1,0 +1,18 @@
+[
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hintaseuranta.fi"
+      ],
+      "urlFilter": "||track.adform.net^*https://kauppa.dna.fi/tuote/"
+    },
+    "_sourceKeys": [
+      "8264ee25c7ec961b2882fb00e4a13b2c371311a9ee8b9379b532a2b02d02b96f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 172
+  }
+]

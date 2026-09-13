@@ -1,0 +1,35 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "terrapops.com",
+        "magazinuldecase.ro"
+      ]
+    },
+    "_sourceKeys": [
+      "457168a7489df1a9e58cbc592e9bef7fb392516e10cea122e5ef9db73b98a18d",
+      "09fa84f938d758852550faf9240b56d3482e34a408eac5c0f6a7a0d7356e1dd4"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "terrapops.com",
+        "keys": [
+          "457168a7489df1a9e58cbc592e9bef7fb392516e10cea122e5ef9db73b98a18d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magazinuldecase.ro",
+        "keys": [
+          "09fa84f938d758852550faf9240b56d3482e34a408eac5c0f6a7a0d7356e1dd4"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  }
+]

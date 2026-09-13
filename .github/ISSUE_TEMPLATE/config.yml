@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability (private)
+    url: https://github.com/TXAVL/ShieldBlock/security/advisories/new
+    about: Report an unpatched vulnerability privately; do not publish exploit details or browsing data.
+  - name: Upstream uBlock Origin
+    url: https://github.com/gorhill/uBlock/issues
+    about: Check whether the problem belongs to the official upstream project.
+  - name: Upstream uAssets filter issues
+    url: https://github.com/uBlockOrigin/uAssets/issues
+    about: Report content problems in a filter list maintained by uBlock Origin/uAssets.

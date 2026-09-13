@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta name="color-scheme" content="light dark" />
+<title data-i18n="dashboardName"></title>
+<link rel="stylesheet" href="css/default.css">
+<link rel="stylesheet" href="css/common.css">
+<link rel="stylesheet" href="css/fa-icons.css">
+<link rel="stylesheet" href="css/dashboard.css">
+
+<link rel="stylesheet" href="css/dashboard-common.css">
+<link rel="stylesheet" href="css/settings.css">
+<link rel="stylesheet" href="css/power-ui.css">
+<link rel="stylesheet" href="css/power-settings.css">
+<link rel="stylesheet" href="css/filter-editor.css">
+<link rel="stylesheet" href="css/develop.css">
+
+<link rel="icon" type="image/png" href="img/icon_64.png"/>
+</head>
+
+<body data-pane="settings" class="loading">
+
+<!-- -------- -->
+<header>
+    <nav id="dashboard-nav">
+        <span class="logo"><img data-i18n-title="extName" src="img/shieldblock.svg" alt="ShieldBlock Pro"></span><!--
+     --><button class="tabButton" type="button" data-pane="settings" data-i18n="settingsPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="rulesets" data-i18n="aboutFilterLists" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="filters" data-i18n="myFiltersPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="siteRules" data-i18n="siteRulesPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="diagnostics" data-i18n="diagnosticsPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="develop" data-i18n="advancedPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="about" data-i18n="aboutPageName" tabindex="0"></button>
+    </nav>
+    <!-- -------- -->
+    <div data-pane-related="rulesets">
+        <p><span id="commit-spinner" class="fa-icon">spinner</span> <span id="listsOfBlockedHostsPrompt"></span></p>
+        <p id="dnrError"></p>
+        <p><input id="findInLists" type="search" spellcheck="false" placeholder="findListsPlaceholder" /></p>
+    </div>
+</header>
+
+<div id="operationStatus" role="status" aria-live="polite"></div>
+
+<!-- -------- -->
+<section data-pane="settings">
+    <div class="powerHero">
+        <span class="powerHeroIcon fa-icon">sliders</span>
+        <div>
+            <h2 data-i18n="powerConsoleTitle">_</h2>
+            <p data-i18n="powerConsoleDescription">_</p>
+        </div>
+    </div>
+    <div id="protectionProfiles">
+        <h3 data-i18n="protectionProfilesTitle">_</h3>
+        <p data-i18n="protectionProfilesDescription">_</p>
+        <div class="powerProfileGrid" role="radiogroup" aria-label="protectionProfilesTitle">
+            <label class="powerProfileCard">
+                <input type="radio" name="powerProfile" value="baseline">
+                <span class="powerProfileName" data-i18n="protectionProfileBaseline">_</span>
+                <span data-i18n="protectionProfileBaselineDescription">_</span>
+            </label>
+            <label class="powerProfileCard">
+                <input type="radio" name="powerProfile" value="balanced">
+                <span class="powerProfileName" data-i18n="protectionProfileBalanced">_</span>
+                <span data-i18n="protectionProfileBalancedDescription">_</span>
+            </label>
+            <label class="powerProfileCard">
+                <input type="radio" name="powerProfile" value="maximum">
+                <span class="powerProfileName" data-i18n="protectionProfileMaximum">_</span>
+                <span data-i18n="protectionProfileMaximumDescription">_</span>
+            </label>
+            <label class="powerProfileCard">
+                <input type="radio" name="powerProfile" value="lowMemory">
+                <span class="powerProfileName" data-i18n="protectionProfileLowMemory">_</span>
+                <span data-i18n="protectionProfileLowMemoryDescription">_</span>
+            </label>
+        </div>
+        <p class="powerProfileActions">
+            <button id="applyProtectionProfile" class="preferred" type="button" data-i18n="protectionProfileApply">_</button>
+            <span class="powerProfileState"></span>
+        </p>
+    </div>
+    <div id="appearanceSettings">
+        <h3 data-i18n="appearanceSettingsTitle">_</h3>
+        <p data-i18n="appearanceSettingsDescription">_</p>
+        <div class="appearanceGrid">
+            <label><span data-i18n="appearanceThemeLabel">_</span>
+                <select data-power-ui="theme">
+                    <option value="auto" data-i18n="appearanceThemeAuto">_</option>
+                    <option value="light" data-i18n="appearanceThemeLight">_</option>
+                    <option value="dark" data-i18n="appearanceThemeDark">_</option>
+                </select>
+            </label>
+            <label><span data-i18n="appearanceAccentLabel">_</span>
+                <select data-power-ui="accent">
+                    <option value="crimson" data-i18n="appearanceAccentCrimson">_</option>
+                    <option value="blue" data-i18n="appearanceAccentBlue">_</option>
+                    <option value="emerald" data-i18n="appearanceAccentEmerald">_</option>
+                    <option value="violet" data-i18n="appearanceAccentViolet">_</option>
+                </select>
+            </label>
+            <label><span data-i18n="appearanceDensityLabel">_</span>
+                <select data-power-ui="density">
+                    <option value="comfortable" data-i18n="appearanceDensityComfortable">_</option>
+                    <option value="compact" data-i18n="appearanceDensityCompact">_</option>
+                </select>
+            </label>
+            <label><span data-i18n="appearancePopupLayoutLabel">_</span>
+                <select data-power-ui="popupLayout">
+                    <option value="power" data-i18n="appearancePopupPower">_</option>
+                    <option value="compact" data-i18n="appearancePopupCompact">_</option>
+                </select>
+            </label>
+        </div>
+    </div>
+    <div>
+        <h3 data-i18n="defaultFilteringModeSectionLabel"></h3>
+        <p data-i18n="defaultFilteringModeDescription"></p>
+        <div id="defaultFilteringMode">
+            <label class="filteringModeCard">
+                <div>
+                    <span><span class="input radio"><input type="radio" name="filteringMode" value="1"><svg viewBox="0 0 24 24"><path d="M 12 0 A 12 12 0 0 0 0 12 A 12 12 0 0 0 12 24 A 12 12 0 0 0 24 12 A 12 12 0 0 0 12 0 z M 12 2.5 A 9.5 9.5 0 0 1 21.5 12 A 9.5 9.5 0 0 1 12 21.5 A 9.5 9.5 0 0 1 2.5 12 A 9.5 9.5 0 0 1 12 2.5 z"/><circle cx="12" cy="12" r="7"/></svg></span><span data-i18n="filteringMode1Name">_</span></span>
+                </div>
+                <div class="filteringModeDescription" data-i18n="basicFilteringModeDescription"></div>
+            </label>
+            <label class="filteringModeCard">
+                <div>
+                    <span><span class="input radio"><input type="radio" name="filteringMode" value="2"><svg viewBox="0 0 24 24"><path d="M 12 0 A 12 12 0 0 0 0 12 A 12 12 0 0 0 12 24 A 12 12 0 0 0 24 12 A 12 12 0 0 0 12 0 z M 12 2.5 A 9.5 9.5 0 0 1 21.5 12 A 9.5 9.5 0 0 1 12 21.5 A 9.5 9.5 0 0 1 2.5 12 A 9.5 9.5 0 0 1 12 2.5 z"/><circle cx="12" cy="12" r="7"/></svg></span><span data-i18n="filteringMode2Name">_</span></span>
+                </div>
+                <div class="filteringModeDescription" data-i18n="optimalFilteringModeDescription"></div>
+            </label>
+            <label class="filteringModeCard">
+                <div>
+                    <span><span class="input radio"><input type="radio" name="filteringMode" value="3"><svg viewBox="0 0 24 24"><path d="M 12 0 A 12 12 0 0 0 0 12 A 12 12 0 0 0 12 24 A 12 12 0 0 0 24 12 A 12 12 0 0 0 12 0 z M 12 2.5 A 9.5 9.5 0 0 1 21.5 12 A 9.5 9.5 0 0 1 12 21.5 A 9.5 9.5 0 0 1 2.5 12 A 9.5 9.5 0 0 1 12 2.5 z"/><circle cx="12" cy="12" r="7"/></svg></span><span data-i18n="filteringMode3Name">_</span></span>
+                </div>
+                <div class="filteringModeDescription" data-i18n="completeFilteringModeDescription"></div>
+            </label>
+        </div>
+    </div>
+    <div>
+        <h3 data-i18n="behaviorSectionLabel"></h3>
+        <p><label id="autoReload" data-i18n="autoReloadLabel"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label>
+        </p>
+        <p><label id="showBlockedCount" data-i18n="showBlockedCountLabel"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label>
+        <p data-platform-exclude="safari"><label id="strictBlockMode" data-i18n="enableStrictBlockLabel"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend data-i18n="enableStrictBlockLegend"></legend>
+        <p><label id="popupBlockMode" data-i18n="enablePopupBlockLabel"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend data-i18n="enablePopupBlockLegend"></legend>
+        <p id="developerMode"><label data-i18n="developerModeLabel"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend data-i18n="developerModeLegend"></legend>
+    </div>
+    <div id="memoryProfile">
+        <h3 data-i18n="memoryProfileSectionLabel">_</h3>
+        <p data-i18n="memoryProfileDescription">_</p>
+        <p class="memoryProfileControls">
+            <select aria-label="memoryProfileSelectLabel">
+                <option value="auto" data-i18n="memoryProfileAuto">_</option>
+                <option value="balanced" data-i18n="memoryProfileBalanced">_</option>
+                <option value="low-memory" data-i18n="memoryProfileLow">_</option>
+            </select>
+            <span class="memoryProfileStatus" role="status" aria-live="polite"></span>
+        </p>
+        <p class="memoryProfileMetrics"></p>
+        <p>
+            <button class="memoryProfileRefresh" type="button" data-i18n="memoryProfileRefresh">_</button>
+            <button class="memoryProfileCleanup" type="button" data-i18n="memoryProfileCleanup">_</button>
+        </p>
+    </div>
+    <div id="privacyHardening" data-platform-only="chromium">
+        <h3 data-i18n="privacyHardeningSectionLabel"></h3>
+        <p data-i18n="privacyHardeningDescription"></p>
+        <p class="privacyPermissionPrompt">
+            <button id="grantPrivacyPermission" class="iconified dontshrink" type="button"><span class="fa-icon">lock</span><span data-i18n="privacyPermissionButton">_</span><span class="hover"></span></button>
+            <span class="privacyPermissionStatus" role="status"></span>
+        </p>
+        <div class="privacyControls">
+            <p><label id="privacyDisableHyperlinkAuditing" data-i18n="privacyDisableHyperlinkAuditing"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend></legend></p>
+            <p><label id="privacyDisableNetworkPrediction" data-i18n="privacyDisableNetworkPrediction"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend></legend></p>
+            <p><label id="privacyProtectWebRTC" data-i18n="privacyProtectWebRTC"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend></legend></p>
+            <p><label id="privacyDisableAdApis" data-i18n="privacyDisableAdApis"><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span>_</label><legend></legend></p>
+        </div>
+    </div>
+    <div>
+        <h3 data-i18n="settingsBackupRestoreLabel">_</h3>
+        <p data-i18n="settingsBackupRestoreSummary">_</p>
+        <p>
+            <button class="iconified dontshrink" type="button"><span class="fa-icon">download-alt</span><span data-i18n="backupButton">_</span><span class="hover"></span></button>
+            <button class="iconified dontshrink" type="button"><span class="fa-icon">upload-alt</span><span data-i18n="restoreButton">_</span><span class="hover"></span></button><input type="file" accept="application/json">
+            <button class="iconified dontshrink" type="button"><span class="fa-icon">undo</span><span data-i18n="resetToDefaultButton">_</span><span class="hover"></span></button><input type="file" accept="application/json">
+        </p>
+    </div>
+</section>
+
+<!-- -------- -->
+<section data-pane="rulesets">
+    <div id="lists"></div>
+    <aside>
+        <p class="userScriptsInfo"><span data-i18n="customListImportUserScriptsInfo"></span> <span data-i18n="userScriptsInfo"></span></p>
+        <details class="importRulesetURL"><summary data-i18n="customListImportLabel">_</summary>
+        <p>
+            <input type="url" spellcheck="false" placeholder="customListImportPlaceholder">
+            <button class="iconified dontshrink" type="button"><span class="fa-icon">check</span><span data-i18n="addButton">_</span><span class="hover"></span></button>
+        </p>
+        </details>
+    </aside>
+    <aside id="filterStore">
+        <details open>
+            <summary data-i18n="filterStoreTitle">_</summary>
+            <p class="filterStoreIntro" data-i18n="filterStoreDescription">_</p>
+            <div class="filterStoreToolbar">
+                <input id="filterStoreSearch" type="search" spellcheck="false" placeholder="filterStoreSearchPlaceholder">
+                <select id="filterStoreCategory" aria-label="filterStoreCategoryLabel"></select>
+                <select id="filterStoreLanguage" aria-label="filterStoreLanguageLabel"></select>
+                <select id="filterStoreProfile" aria-label="filterStoreProfileLabel"></select>
+            </div>
+            <p id="filterStoreQuota"></p>
+            <section id="filterStoreBundleSection">
+                <h4 data-i18n="filterStoreBundles">_</h4>
+                <div id="filterStoreBundles"></div>
+            </section>
+            <div id="filterStoreEntries"></div>
+            <p id="filterStoreStatus" role="status" aria-live="polite"></p>
+            <details class="filterStoreRepositories">
+                <summary data-i18n="filterStoreRepositories">_</summary>
+                <p data-i18n="filterStoreRepositoryWarning">_</p>
+                <div class="filterStoreRepositoryInput">
+                    <input id="filterStoreRepositoryURL" type="url" spellcheck="false" placeholder="filterStoreRepositoryPlaceholder">
+                    <button id="filterStoreAddRepository" class="iconified dontshrink" type="button"><span class="fa-icon">plus</span><span data-i18n="filterStoreAddRepository">_</span><span class="hover"></span></button>
+                </div>
+                <ul id="filterStoreRepositoryList"></ul>
+            </details>
+        </details>
+    </aside>
+</section>
+
+<!-- -------- -->
+<section data-pane="filters">
+    <ul class="hostnames"></ul>
+    <aside>
+        <details class="importFromText"><summary data-i18n="customFiltersImportExportLabel">_</summary>
+            <div><textarea spellcheck="false" placeholder="customFiltersImportTextareaPlaceholder"></textarea></div>
+            <p>
+                <button class="iconified dontshrink" type="button"><span class="fa-icon">check</span><span data-i18n="addButton">_</span><span class="hover"></span></button>
+                <button class="iconified dontshrink" type="button"><span class="fa-icon">download-alt</span><span data-i18n="importAndAppendButton">_</span><span class="hover"></span></button>
+                <button class="iconified dontshrink" type="button"><span class="fa-icon">upload-alt</span><span data-i18n="exportButton">_</span><span class="hover"></span></button><input type="file" accept="text/plain">
+            </p>
+        </details>
+    </aside>
+    <aside id="sandboxEditor">
+        <h3 data-i18n="sandboxEditorLabel">_</h3>
+        <p class="userScriptsInfo"><span data-i18n="sandboxEditorUserScriptsInfo"></span> <span data-i18n="userScriptsInfo"></span></p>
+        <div class="cm-container"></div>
+    </aside>
+</section>
+
+<!-- -------- -->
+<section data-pane="siteRules">
+    <div class="paneIntro">
+        <h2 data-i18n="siteRulesTitle">_</h2>
+        <p data-i18n="siteRulesDescription">_</p>
+    </div>
+    <div id="popupPolicyManager" class="powerPanel">
+        <h3 data-i18n="popupPolicyManagerTitle">_</h3>
+        <p data-i18n="popupPolicyManagerDescription">_</p>
+        <form id="popupPolicyForm">
+            <input id="popupPolicyHostname" type="text" inputmode="url" spellcheck="false" placeholder="popupPolicyHostnamePlaceholder" aria-label="popupPolicyHostnameLabel">
+            <select id="popupPolicyMode" aria-label="popupPolicyModeLabel">
+                <option value="allow" data-i18n="popupPolicyAllow">_</option>
+                <option value="block" data-i18n="popupPolicySmart">_</option>
+                <option value="strict" data-i18n="popupPolicyStrict">_</option>
+            </select>
+            <button type="submit" data-i18n="popupPolicyAdd">_</button>
+        </form>
+        <div class="tableScroller">
+            <table class="powerTable">
+                <thead><tr><th data-i18n="popupPolicyHostnameLabel">_</th><th data-i18n="popupPolicyModeLabel">_</th><th data-i18n="popupPolicyActionsLabel">_</th></tr></thead>
+                <tbody id="popupPolicyRows"></tbody>
+            </table>
+        </div>
+        <p id="popupPolicyEmpty" data-i18n="popupPolicyEmpty">_</p>
+    </div>
+    <div id="filteringSiteRules" class="powerPanel">
+        <h3 data-i18n="filteringSiteRulesTitle">_</h3>
+        <p data-i18n="filteringSiteRulesDescription">_</p>
+        <div class="siteRuleGrid">
+            <label><span data-i18n="filteringMode0Name">_</span><textarea data-mode="none" spellcheck="false"></textarea></label>
+            <label><span data-i18n="filteringMode1Name">_</span><textarea data-mode="basic" spellcheck="false"></textarea></label>
+            <label><span data-i18n="filteringMode2Name">_</span><textarea data-mode="optimal" spellcheck="false"></textarea></label>
+            <label><span data-i18n="filteringMode3Name">_</span><textarea data-mode="complete" spellcheck="false"></textarea></label>
+        </div>
+        <p><button id="saveFilteringSiteRules" class="preferred" type="button" data-i18n="saveSiteRules">_</button></p>
+    </div>
+</section>
+
+<!-- -------- -->
+<section data-pane="diagnostics">
+    <div class="paneIntro">
+        <h2 data-i18n="diagnosticsTitle">_</h2>
+        <p data-i18n="diagnosticsDescription">_</p>
+        <button id="refreshDiagnostics" type="button" data-i18n="diagnosticsRefresh">_</button>
+    </div>
+    <div class="diagnosticGrid">
+        <div class="powerPanel">
+            <h3 data-i18n="runtimeCapabilitiesTitle">_</h3>
+            <dl id="runtimeCapabilities"></dl>
+        </div>
+        <div class="powerPanel">
+            <h3 data-i18n="performanceDetailsTitle">_</h3>
+            <dl id="performanceDetails"></dl>
+        </div>
+    </div>
+    <div class="powerPanel">
+        <div class="panelHeading">
+            <div><h3 data-i18n="popupDiagnosticsTitle">_</h3><p data-i18n="popupDiagnosticsDescription">_</p></div>
+            <button id="clearPopupDiagnostics" type="button" data-i18n="popupDiagnosticsClear">_</button>
+        </div>
+        <div class="tableScroller">
+            <table class="powerTable">
+                <thead><tr><th data-i18n="diagnosticTime">_</th><th data-i18n="diagnosticAction">_</th><th data-i18n="diagnosticSource">_</th><th data-i18n="diagnosticTarget">_</th><th data-i18n="diagnosticReason">_</th></tr></thead>
+                <tbody id="popupDiagnosticRows"></tbody>
+            </table>
+        </div>
+        <p id="popupDiagnosticsEmpty" data-i18n="popupDiagnosticsEmpty">_</p>
+    </div>
+</section>
+
+<!-- -------- -->
+<section data-pane="develop">
+    <div>
+        <p>
+            <label for="editors" data-i18n="developDropdownLabel"></label> <select id="editors">
+                <option value="modes" selected data-i18n="developOptionFilteringModeDetails"></option>
+                <option value="dnr.rw.user" data-i18n="developOptionCustomDnrRules"></option>
+                <hr>
+                <optgroup label="" data-i18n-label="developOptionDnrRulesOf">
+                    <option value="dnr.ro.dynamic" data-i18n="developOptionDynamicRuleset"></option>
+                    <option value="dnr.ro.session" data-i18n="developOptionSessionRuleset"></option>
+                </optgroup>
+            </select>&nbsp;
+        </p>
+        <div class="cm-container"></div>
+    </div>
+</section>
+
+<!-- -------- -->
+<section data-pane="about">
+    <div class="aboutContainer">
+        <!-- 1. Hero Brand Card -->
+        <div class="aboutHeroCard">
+            <div class="aboutLogoWrap">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="aboutShieldIcon">
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                    <path d="M9 12l2 2 4-4"/>
+                </svg>
+            </div>
+            <div class="aboutHeroInfo">
+                <div class="aboutTitleRow">
+                    <h2 id="aboutNameVer" class="aboutAppTitle">ShieldBlock Pro</h2>
+                    <span class="aboutBadge proBadge">PRO</span>
+                    <span class="aboutBadge mv3Badge">Manifest V3</span>
+                </div>
+                <p class="aboutTagline">Trình chặn quảng cáo, bảo vệ quyền riêng tư và tăng tốc duyệt web tối tân.</p>
+                <div class="aboutCopyrightNotice">
+                    <span>© 2026 ShieldBlock Team. Tất cả các quyền được bảo lưu.</span>
+                    <span class="licensePill">Giấy phép GNU GPLv3</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 2. Feature & Action Cards Grid -->
+        <div class="aboutCardsGrid">
+            <div class="aboutCard">
+                <div class="aboutCardHeader">
+                    <span class="aboutCardIcon fa-icon">book</span>
+                    <h3>Tài liệu & Thông tin</h3>
+                </div>
+                <div class="aboutLinksList">
+                    <a href="https://github.com/TXAVL/ShieldBlock#readme" class="aboutLinkItem" data-i18n="aboutDocumentation">Hướng dẫn sử dụng</a>
+                    <a href="https://github.com/TXAVL/ShieldBlock/releases" class="aboutLinkItem" data-i18n="aboutChangelog">Nhật ký thay đổi phiên bản</a>
+                    <a href="https://github.com/TXAVL/ShieldBlock/blob/main/docs/PRIVACY.md" class="aboutLinkItem" data-i18n="aboutPrivacyPolicy">Chính sách bảo mật</a>
+                </div>
+            </div>
+
+            <div class="aboutCard">
+                <div class="aboutCardHeader">
+                    <span class="aboutCardIcon fa-icon">code</span>
+                    <h3>Mã nguồn & Cộng đồng</h3>
+                </div>
+                <div class="aboutLinksList">
+                    <a href="https://github.com/TXAVL/ShieldBlock" class="aboutLinkItem" data-i18n="aboutCode">Kho lưu trữ mã nguồn</a>
+                    <a href="https://github.com/TXAVL/ShieldBlock/graphs/contributors" class="aboutLinkItem" data-i18n="aboutSourceCode">Những người đóng góp</a>
+                    <a href="https://crowdin.com/project/ublock" class="aboutLinkItem" data-i18n="aboutTranslations">Dự án dịch thuật ngôn ngữ</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- 3. Dependencies Card -->
+        <div class="aboutCard fullWidthCard">
+            <div class="aboutCardHeader">
+                <span class="aboutCardIcon fa-icon">cogs</span>
+                <h3 data-i18n="aboutDependencies">Các thành phần mã nguồn mở phụ thuộc</h3>
+            </div>
+            <div class="aboutDepChips">
+                <a href="https://github.com/rsms/inter" target="_blank" class="aboutChip">Inter font family</a>
+                <a href="https://fontawesome.com/" target="_blank" class="aboutChip">FontAwesome</a>
+                <a href="https://github.com/mathiasbynens/punycode.js" target="_blank" class="aboutChip">Punycode.js</a>
+                <a href="https://flagpedia.net/" target="_blank" class="aboutChip">Flags of the World</a>
+                <a href="https://codemirror.net/" target="_blank" class="aboutChip">CodeMirror 6</a>
+                <a href="https://github.com/AdguardTeam/Scriptlets" target="_blank" class="aboutChip">Scriptlets engine</a>
+            </div>
+        </div>
+
+        <!-- 4. Troubleshooting Card -->
+        <div class="aboutCard fullWidthCard aboutTroubleshootCard">
+            <details class="aboutDetails">
+                <summary data-i18n="supportS5H" class="aboutSummary"></summary>
+                <pre class="aboutPre" style="user-select:all; -webkit-user-select:all; direction:ltr;"></pre>
+            </details>
+        </div>
+
+        <!-- 5. Rate & Review Card -->
+        <div class="aboutCard fullWidthCard aboutReviewCard" style="background: linear-gradient(135deg, rgba(2, 132, 199, 0.12) 0%, rgba(56, 189, 248, 0.04) 100%); border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 12px; padding: 18px;">
+            <div class="aboutCardHeader" style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+                <span class="aboutCardIcon fa-icon" style="color: #f59e0b; font-size: 18px;">star</span>
+                <h3 style="margin: 0; font-size: 15px; font-weight: 600;">Đánh giá & Ủng hộ tiện ích trên Chrome Web Store</h3>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: 8px;">
+                <div style="font-size: 16px; letter-spacing: 2px;">⭐⭐⭐⭐⭐</div>
+                <p style="margin: 0; font-size: 13px; color: #94a3b8; line-height: 1.5;">Nếu bạn yêu thích tốc độ lướt web mượt mà và khả năng chặn quảng cáo thông minh của ShieldBlock Pro, hãy dành 30 giây để đánh giá 5 sao trên Chrome Web Store nhé!</p>
+                <div style="margin-top: 6px;">
+                    <button id="btnDashboardRate" type="button" style="background: #0284c7; color: #fff; border: none; border-radius: 6px; padding: 8px 16px; font-size: 13px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; transition: background 0.15s ease;">
+                        <span>⭐ Đánh giá 5 sao ngay trên Store</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- -------- -->
+<section data-pane="busy">
+    <div>
+        <span class="fa-icon">spinner</span>
+    </div>
+</section>
+
+<!-- -------- -->
+<template id="listEntryLeaf">
+    <div class="listEntry" data-role="leaf">
+        <span class="detailbar">
+            <label><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span><span class="listname forinput"></span>
+            </label>
+            <span class="iconbar"><!--
+             --><span class="fa-icon support doRemove">trash-o</span><!--
+             --><span class="fa-icon support undoRemove">undo</span><!--
+             --><a class="fa-icon support" href="#" target="_blank">home</a>
+            </span>
+        </span>
+    </div>
+</template>
+<template id="listEntryNode">
+    <div class="listEntry expandable" data-role="node">
+        <span class="detailbar">
+            <label><span class="input checkbox"><input type="checkbox"><svg viewBox="0 0 24 24"><path d="M1.73,12.91 8.1,19.28 22.79,4.59"/></svg></span><span class="listname forinput"></span></label>
+            <span class="count"></span>
+            <span class="fa-icon listExpander">angle-up</span>
+        </span>
+    </div>
+</template>
+<template id="listEntryRoot">
+    <div class="listEntry expandable" data-role="rootnode">
+        <div class="detailbar">
+            <h3 class="listname"></h3>
+            <span class="count"></span>
+            <span class="fa-icon listExpander">angle-up</span>
+        </div>
+    </div>
+</template>
+<template id="listEntries">
+    <div class="listEntries"></div>
+</template>
+<template id="customFiltersHostname">
+    <li class="hostname" data-pretty="" data-ugly=""><div><span class="hostname" spellcheck="false" contenteditable="plaintext-only"></span><span class="copy fa-icon">files-o</span><span class="remove fa-icon">trash-o</span><span class="undo fa-icon">undo</span></div>
+    <ul class="selectors"></ul>
+    </li>
+</template>
+<template id="customFiltersSelector">
+    <li class="selector" data-pretty="" data-ugly=""><div><span class="selector" spellcheck="false" contenteditable="plaintext-only"></span><span class="copy fa-icon">files-o</span><span class="remove fa-icon">trash-o</span><span class="undo fa-icon">undo</span></div></li>
+</template>
+<template class="io-panel">
+    <span class="io-panel">
+        <button id="apply" class="preferred iconified" type="button" disabled><span class="fa-icon">save</span><span data-i18n="saveButton">_</span><span class="hover"></span></button>
+        <button id="revert" class="iconified" type="button" disabled><span class="fa-icon">undo</span><span data-i18n="revertButton">_</span><span class="hover"></span></button>
+        <button id="import" class="iconified" type="button"><span class="fa-icon">download-alt</span><span data-i18n="importAndAppendButton">_</span><span class="hover"></span></button>
+        <button id="export" class="iconified" type="button"><span class="fa-icon">upload-alt</span><span data-i18n="exportButton">_</span><span class="hover"></span></button><input type="file" accept="json/application">
+    </span>
+</template>
+<template class="summary-panel">
+    <div class="info-panel summary-panel">
+        <span class="info"></span><span class="warning" data-i18n="dnrRulesWarning"></span>
+    </div>
+</template>
+<template class="feedback-panel">
+    <div class="info-panel feedback-panel">
+        <div class="info"></div>
+        <div class="close"></div>
+    </div>
+</template>
+<template class="ro-summary-panel">
+    <div class="info-panel summary-panel">
+    </div>
+</template>
+<template class="badmark-tooltip">
+    <div class="badmark-tooltip">
+    </div>
+</template>
+
+<script src="lib/codemirror/cm6.bundle.ublock-plus.min.js"></script>
+<script src="js/theme.js" type="module"></script>
+<script src="js/fa-icons.js" type="module"></script>
+<script src="js/i18n.js" type="module"></script>
+<script src="js/dashboard.js" type="module"></script>
+<script src="js/settings.js" type="module"></script>
+<script src="js/power-settings.js" type="module"></script>
+<script src="js/firewall-ui.js" type="module"></script>
+<script src="js/filter-manager-ui.js" type="module"></script>
+<script src="js/develop.js" type="module"></script>
+
+</body>
+</html>

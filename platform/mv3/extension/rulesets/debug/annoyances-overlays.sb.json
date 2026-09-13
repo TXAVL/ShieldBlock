@@ -1,0 +1,147 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "data.reachplc.com",
+        "embeds.beehiiv.com",
+        "f.convertkit.com",
+        "subscription-forms.smsbump.com",
+        "wheelioapp.azureedge.net",
+        "widget.smsinfo.io",
+        "gn-flagpoles.api.bbci.co.uk",
+        "ping.contactpigeon.com",
+        "follow-it-form-subscribe",
+        "bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com",
+        "vlan.qualifioapp.com",
+        "newsletter.beautydea.it",
+        "algosit.com"
+      ]
+    },
+    "_sourceKeys": [
+      "c77f75be19e085850844aacfde201cdff2d0d4e1f91f5e73cb2ec4935c169639",
+      "4f290a28d58720477dc5c1209e02a994df0d9b008a50feacfd494fea3c213dc4",
+      "f27e1f1bda6a945d1c7333fc470446c2c0dd6d5b47c97de47f4233634ed0e39a",
+      "6a4c1dee8509aaa2155acff8569cb51816ac2169d27801740fbadfc216437435",
+      "0b992a8d4de732caee33fa42b75fda130e9bf2c0e26b60c7694382b6164d0c5a",
+      "064c5eaa6002bee953157f07717f52c50f638809ac67872413f3db831d625fcf",
+      "f7b91a1e02ea99ad48cffd7204a67adeca94bc7ea88e711f84e1fc39ea5f9063",
+      "dea5de53636bdb65da6a2410ee9e83c260da1c00f7a14ffaa21a91488beee762",
+      "0dc4b9eec00d50031f0019c742d3c9e90abd513f720401ca41c2cf5e156fbc33",
+      "d683541dd735307196c3cbaab0bb401e76729d24afb1d773cf4498605d4b4ac2",
+      "8503e35787218269881d78cca995357efc896a196c12ca71f06df88eb82c8422",
+      "68877389503248ac95ae3b6210a19f94feb832fd44aaad65b5e20d2dd6dd6176",
+      "392020213977097c0a2f046ab18930a13512cbc7c4e2f206d4151ef9b59679de"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "data.reachplc.com",
+        "keys": [
+          "c77f75be19e085850844aacfde201cdff2d0d4e1f91f5e73cb2ec4935c169639"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "embeds.beehiiv.com",
+        "keys": [
+          "4f290a28d58720477dc5c1209e02a994df0d9b008a50feacfd494fea3c213dc4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "f.convertkit.com",
+        "keys": [
+          "f27e1f1bda6a945d1c7333fc470446c2c0dd6d5b47c97de47f4233634ed0e39a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "subscription-forms.smsbump.com",
+        "keys": [
+          "6a4c1dee8509aaa2155acff8569cb51816ac2169d27801740fbadfc216437435"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wheelioapp.azureedge.net",
+        "keys": [
+          "0b992a8d4de732caee33fa42b75fda130e9bf2c0e26b60c7694382b6164d0c5a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.smsinfo.io",
+        "keys": [
+          "064c5eaa6002bee953157f07717f52c50f638809ac67872413f3db831d625fcf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gn-flagpoles.api.bbci.co.uk",
+        "keys": [
+          "f7b91a1e02ea99ad48cffd7204a67adeca94bc7ea88e711f84e1fc39ea5f9063"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ping.contactpigeon.com",
+        "keys": [
+          "dea5de53636bdb65da6a2410ee9e83c260da1c00f7a14ffaa21a91488beee762"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "follow-it-form-subscribe",
+        "keys": [
+          "0dc4b9eec00d50031f0019c742d3c9e90abd513f720401ca41c2cf5e156fbc33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com",
+        "keys": [
+          "d683541dd735307196c3cbaab0bb401e76729d24afb1d773cf4498605d4b4ac2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vlan.qualifioapp.com",
+        "keys": [
+          "8503e35787218269881d78cca995357efc896a196c12ca71f06df88eb82c8422"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "newsletter.beautydea.it",
+        "keys": [
+          "68877389503248ac95ae3b6210a19f94feb832fd44aaad65b5e20d2dd6dd6176"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "algosit.com",
+        "keys": [
+          "392020213977097c0a2f046ab18930a13512cbc7c4e2f206d4151ef9b59679de"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||awebstories.com/wp-content/plugins/secure-copy-content-protection^"
+    },
+    "_sourceKeys": [
+      "2a92c4618e0e6376699ddcf961268d152c579c0df1f4f5184ae42acba97e6173"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  }
+]

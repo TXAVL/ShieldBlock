@@ -1,0 +1,318 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "tomonavi.xyz",
+        "dailyrumor-jp.co.in",
+        "sankei.click",
+        "yariman.online",
+        "lucky-website.com",
+        "paradise1972.com",
+        "line-jp.live",
+        "assessoriagmv.com",
+        "japans-offers.com",
+        "linoee.com",
+        "line-e.com",
+        "ranmaotome.com",
+        "sb-hip-happy.ourservice.jp",
+        "bra.almado.jp",
+        "unddeliv.com",
+        "hydrangeao.com",
+        "thepsusiwho.com",
+        "moro-douga.link",
+        "enmusubimail000.com",
+        "infohimatalk77.net",
+        "askfollow.us",
+        "freeadd.me",
+        "twitob.com",
+        "twitterfollowers.site",
+        "more-followers.com",
+        "googleailesi.com",
+        "av-mov.com",
+        "click-count.info"
+      ]
+    },
+    "_sourceKeys": [
+      "a4fe68f1f57e73f2c7a3035a569a30fc23218223d41fec24aa0bf34459efebe4",
+      "34654c3fcd08e6cfe13b6b2d3d2af301f991de2f52003b4eea490ee1990c6855",
+      "176fc0cbded6e65bdf9de416c002229015dc7ff4d095e08904e831c84a8cc2eb",
+      "682b771cb0f525866cd494fd2baacfc84cc0250f1cc2fc8725b388ec7e69899a",
+      "b6028ace282e41324b89c380c54da384220eb302c38f6d2e4931d6539250af6a",
+      "cb3d9c9b05dc607b58b0ca2e45b6cb11d1e91edbe7b0b2e8f3401a9fdb777d92",
+      "6215322030dc61bb61f08b182f4f06c4d14250e7523f9118348a66cbf46f84a6",
+      "8a6863ed44dcb79dc1e94af23af9bdb544e6b9cf7630c2c0419553884a90a7c3",
+      "affe2aafa6bd09209b08a42ca9479443a4d42cc7b26a8065b220606bd46db03c",
+      "b9407a8f912164f17a24ee536c36d4e8533b9c2b8f4d3b03e56c227cfa90ee2d",
+      "2c6a30f01fa94b5f43f3b7c0cf7ca6e05d9d016214ed677b24e9895aa45dc36a",
+      "d8de8aa75ddd795c5625a0a8dfa99283643cfb2f6a712054412eb297ac2276a9",
+      "59b4b35c05e6aa30f99f1f27823acb1a8e0b99a8e10da166eac421dc833bd35a",
+      "0804b9eafa8eb15919bad8d0574a7ae3eb2262dc8fd8fcc3d6c1f4cbc3ed98b3",
+      "bdc52f6a5d369a85ad841c9ff277da0a2dc811a50a5e71626dbdb46a61dd3847",
+      "081ec832546bd249be7ad4a5824d1c7df4e376497d85e16154ae1067dde9dbae",
+      "4f004c9012c095cf9daa6a94e33634c2653df5a0e44826d2ad78ad57aa89f467",
+      "88832d72693d58fa6ae9587ab7266f53b353d960dba97adf32e8f94ac7473858",
+      "8a65eaeb66909419d0ea81e93113ea6b9795e761280976927c9dcc30442c78b0",
+      "9ba2dcd44a22efafd01a9271f69efc2c24a337315aa44d3c21bf65e83906272e",
+      "b950636924c9c26a06e9648127e5e8267e3192b5db26b1fa75c24a72b09d2921",
+      "a82cdb56cedf8c202f844f8ea2f723065a7fd8e2573e056675b266386debfc82",
+      "d7bdc02d54578d42c240b61517c0e707923257b26b22eab831b61dc4bd372a39",
+      "47e18570429d52eee4325f98c4c24d7529db675df90d5014766dbe01c83412fb",
+      "d53cff49cd69e9058d8da60b6e642c208a371d32acab3c1f9c37c726d137f597",
+      "e6b3e2ebc7d1d908f5b0f582a8143da4564ae52fd7e3760a623a6e6f2bac8c4b",
+      "ed8d8e1b999507a4264718673ecb32e107619d400910fedab12f0f7a5eaa16ae",
+      "a1559e6d710c48ebc5b9d99b19c5c8fa003f618b4b9f3ee3c2efd30a22a9ce91"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "tomonavi.xyz",
+        "keys": [
+          "a4fe68f1f57e73f2c7a3035a569a30fc23218223d41fec24aa0bf34459efebe4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dailyrumor-jp.co.in",
+        "keys": [
+          "34654c3fcd08e6cfe13b6b2d3d2af301f991de2f52003b4eea490ee1990c6855"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sankei.click",
+        "keys": [
+          "176fc0cbded6e65bdf9de416c002229015dc7ff4d095e08904e831c84a8cc2eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yariman.online",
+        "keys": [
+          "682b771cb0f525866cd494fd2baacfc84cc0250f1cc2fc8725b388ec7e69899a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lucky-website.com",
+        "keys": [
+          "b6028ace282e41324b89c380c54da384220eb302c38f6d2e4931d6539250af6a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "paradise1972.com",
+        "keys": [
+          "cb3d9c9b05dc607b58b0ca2e45b6cb11d1e91edbe7b0b2e8f3401a9fdb777d92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "line-jp.live",
+        "keys": [
+          "6215322030dc61bb61f08b182f4f06c4d14250e7523f9118348a66cbf46f84a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "assessoriagmv.com",
+        "keys": [
+          "8a6863ed44dcb79dc1e94af23af9bdb544e6b9cf7630c2c0419553884a90a7c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "japans-offers.com",
+        "keys": [
+          "affe2aafa6bd09209b08a42ca9479443a4d42cc7b26a8065b220606bd46db03c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "linoee.com",
+        "keys": [
+          "b9407a8f912164f17a24ee536c36d4e8533b9c2b8f4d3b03e56c227cfa90ee2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "line-e.com",
+        "keys": [
+          "2c6a30f01fa94b5f43f3b7c0cf7ca6e05d9d016214ed677b24e9895aa45dc36a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ranmaotome.com",
+        "keys": [
+          "d8de8aa75ddd795c5625a0a8dfa99283643cfb2f6a712054412eb297ac2276a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sb-hip-happy.ourservice.jp",
+        "keys": [
+          "59b4b35c05e6aa30f99f1f27823acb1a8e0b99a8e10da166eac421dc833bd35a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bra.almado.jp",
+        "keys": [
+          "0804b9eafa8eb15919bad8d0574a7ae3eb2262dc8fd8fcc3d6c1f4cbc3ed98b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unddeliv.com",
+        "keys": [
+          "bdc52f6a5d369a85ad841c9ff277da0a2dc811a50a5e71626dbdb46a61dd3847"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hydrangeao.com",
+        "keys": [
+          "081ec832546bd249be7ad4a5824d1c7df4e376497d85e16154ae1067dde9dbae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "thepsusiwho.com",
+        "keys": [
+          "4f004c9012c095cf9daa6a94e33634c2653df5a0e44826d2ad78ad57aa89f467"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "moro-douga.link",
+        "keys": [
+          "88832d72693d58fa6ae9587ab7266f53b353d960dba97adf32e8f94ac7473858"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "enmusubimail000.com",
+        "keys": [
+          "8a65eaeb66909419d0ea81e93113ea6b9795e761280976927c9dcc30442c78b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "infohimatalk77.net",
+        "keys": [
+          "9ba2dcd44a22efafd01a9271f69efc2c24a337315aa44d3c21bf65e83906272e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "askfollow.us",
+        "keys": [
+          "b950636924c9c26a06e9648127e5e8267e3192b5db26b1fa75c24a72b09d2921"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "freeadd.me",
+        "keys": [
+          "a82cdb56cedf8c202f844f8ea2f723065a7fd8e2573e056675b266386debfc82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "twitob.com",
+        "keys": [
+          "d7bdc02d54578d42c240b61517c0e707923257b26b22eab831b61dc4bd372a39"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "twitterfollowers.site",
+        "keys": [
+          "47e18570429d52eee4325f98c4c24d7529db675df90d5014766dbe01c83412fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "more-followers.com",
+        "keys": [
+          "d53cff49cd69e9058d8da60b6e642c208a371d32acab3c1f9c37c726d137f597"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "googleailesi.com",
+        "keys": [
+          "e6b3e2ebc7d1d908f5b0f582a8143da4564ae52fd7e3760a623a6e6f2bac8c4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "av-mov.com",
+        "keys": [
+          "ed8d8e1b999507a4264718673ecb32e107619d400910fedab12f0f7a5eaa16ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "click-count.info",
+        "keys": [
+          "a1559e6d710c48ebc5b9d99b19c5c8fa003f618b4b9f3ee3c2efd30a22a9ce91"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1135
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dlsite.com"
+      ],
+      "initiatorDomains": [
+        "motimoti3d.jp"
+      ]
+    },
+    "_sourceKeys": [
+      "f00b463339e8dd7e27754d888b0fc693cea98990f3a8a2b65e596af1aee8c4b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1136
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dmm.co.jp"
+      ],
+      "initiatorDomains": [
+        "exploader.net"
+      ]
+    },
+    "_sourceKeys": [
+      "15d94b7b2dc61acf6414b87fb4a78a7c0d4e78a8c63cfb54a2ff38af47e33ec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1137
+  },
+  {
+    "condition": {
+      "urlFilter": "||javcup.com/pop/"
+    },
+    "_sourceKeys": [
+      "5f6e390d9df3b37a7343b6ee39a86c1f9af5c7fe8da5a2109ef633315971ffe3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1138
+  }
+]

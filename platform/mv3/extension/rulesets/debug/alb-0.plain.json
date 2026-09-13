@@ -1,0 +1,481 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||joq.al//banners^"
+    },
+    "_sourceKeys": [
+      "b62769f17f22817a94532bf86dd4d9508ff144d6617b2fdba09a64b8e89024e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "albvid.com"
+      ],
+      "urlFilter": "||gameselect.net/*.php"
+    },
+    "_sourceKeys": [
+      "5abca11d4d129efc8eb28ac7027311b3cd3760dfed5fce121108f9c5626d82d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||teksteshqip.com/imgz/ads/336.gif"
+    },
+    "_sourceKeys": [
+      "4e88b5873aece8e04f8b6b999fe64f03a1496f0ec3388f78ab30354d94f2660a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||gjstatic.blob.core.windows.net/fix/bisko.js"
+    },
+    "_sourceKeys": [
+      "0fb23758177d0017d2c5092b53e6a2ba2736134eecddd67ce9899a55e7d1855e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||bisko.gjirafa.tech"
+    },
+    "_sourceKeys": [
+      "f561b2c2d4dc09783df69e07352b36a8ba55945514d0d687f8265daec26f7433"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||bisko.gjirafa.net"
+    },
+    "_sourceKeys": [
+      "5be464746c9cc2c45c309d143d063fd722b54c94a06e7dff99683ea6106d4c99"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||https://bisko.gjirafa.net/web/gjirafatest-sdk.js"
+    },
+    "_sourceKeys": [
+      "49cd53b0a0b7d7b597aed90032d495bc736b07471ab512c860f60ee6224c3514"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gjc.gjirafa.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d20360545111db1030b22447945d6dc5f580682a7058f0d89e606825325e67be"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "gjc.gjirafa.com",
+        "keys": [
+          "d20360545111db1030b22447945d6dc5f580682a7058f0d89e606825325e67be"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||kohajone.com/wp-content/uploads/2018/04/facile.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9ea3c99b9512311fb330a6b109bad8fea7a4b946bd93aac6c1d23a0776a68dec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||kohajone.com/wp-content/uploads/2018/10/psikologu-1.jpeg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ad9f00d6a84fcb2cba64ab34b50909023a81459457d08a7532580a472161533a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||kohajone.com/wp-content/uploads/2018/12/300x25012345.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d0fcb1d4f51169f26300068b3d3fae4e4786bad9a12669b6c9379dd34f87b2fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||living.al/images3/2018/banners/raiffeisen-2018-12-06.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "522578d90f59d14cd4cb887d59794b233277dfc02190ccac19fb8c7b4902a30d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazetatema.net/wp-content/uploads/2018/12/web-banner.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f09d9f343b3347b23abc60c88a42cf991d8eb1c155c2d768caf8b737a704ff07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||dritare.net/wp-content/uploads/2018/12/drittare.net_.jpeg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "94f0210adea4f2e706f1626deb85307ffbde79a812d5939ba77fa19b44830c8f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||topmedia.al/wp-content/uploads/2018/03/ads-in-front.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6fdfae1cd71bee3c9e0046f712ab1c10c63675a2aec0d7fb6883238ef8780c0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||gazetacelesi.al/img/domus_administrator_380x309px.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e89d547f801ef385fa0ac2283a2d43eede9bf007d810a1b13a87f8fc636a3c4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||360grade.al/wp-content/themes/360grade/images/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a5f74b00578a2bc512f19a911d2515360835e7a38449f368783002870fb5bc48"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||360grade.al/wp-content/themes/360grade/images/*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "708e46f4a25c1fb827aab5ff21911811d6e0bfb85bf08e7fb21c819cef271738"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||kosovarja-ks.com/wp-content/uploads/*.gif^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "74924a15499e92bb0fe97503a65a73020291c83964e68efaede9f407a5126184"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||noa.al/b^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c18631d386d40ef71019a90b64e01cfb4ba6c7285295ea4905f3d90488b26eac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.bulevardionline.com//2020/07/blue_background_color-scaled.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d2d2771585e5a31bbbd69b44325828f772191316209c7249f1a0ea9277743ffb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.bulevardionline.com//2020/02/albcanon.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "61e7ccfe4a8f8d87d516da32589996c09ee965ddc162a212fbb96adedd2feeb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||acp.al/images/banners/selmani-desktop-new-banner-v4-02-2021-2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e1c51757d13ffd05a3962795a41e71efdac2b186ac6cb8da8eefee06fd637f9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "html",
+      "initiatorDomains": [
+        "kohajone.com"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "2152432c9bbcba990ffeeef93fe47927855b874806928b341dc25588e15d151a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "html",
+      "initiatorDomains": [
+        "vizionplus.tv"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "bd6f6beb34f53794c5c7e324244f74c1a138eeaea749f0f7fc571e11c666c543"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||classlifestyle.com/rek/megabanner.php^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "2e45a0716f807900d05b31008e84a41cc192cb62cd387e17026ecc8b5ab51506"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||classlifestyle.com/rek/reklama-poshte-dok.php^",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "83e233213d6407c0fdf11cf8fcd78f5e01d30aa0ea361ada6bc428e1c228a193"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gjc.gjirafa.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9fd0aee661ba0c8d0b7c3afbd00e744a89215120729add59643ef2485928d34d"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "gjc.gjirafa.com",
+        "keys": [
+          "9fd0aee661ba0c8d0b7c3afbd00e744a89215120729add59643ef2485928d34d"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||videotekaime.net/uni/popunder.js|"
+    },
+    "_sourceKeys": [
+      "0b40b1f0d059297ec96575a0455145cc4a1175a631fc120280793e535e567e6d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||videotekaime.com/uni/popunder.js"
+    },
+    "_sourceKeys": [
+      "2eadd931939f000b92baa53804b788895b74f0e1839f196d7213b7b9e2bbe991"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 30
+  }
+]

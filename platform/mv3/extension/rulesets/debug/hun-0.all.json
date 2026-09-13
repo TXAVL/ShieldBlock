@@ -1,0 +1,5498 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||3monkey.lol/vilagunk_640.html",
+      "initiatorDomains": [
+        "vilagunk.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "f0b11abc0fdda626a4f4717681919acf1aa76b6c65e058b02c2f4bc183226a26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||floweryoperation.com/v2/0/",
+      "initiatorDomains": [
+        "karpathir.com"
+      ]
+    },
+    "_sourceKeys": [
+      "12dca418bc3c6a2a307a8c9cd6e972ed1a8f5c2d1c879348723ab97b923ed348"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cdn.taboola.com"
+      ],
+      "initiatorDomains": [
+        "gyakorikerdesek.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "bf37cd11e7133833db3eca65c438811004055fab8188ccd8efa1370925559393"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/empty.json"
+    },
+    "_sourceKeys": [
+      "dbf570328f4d21606bfb2232dc740699ffb4b3634cb22402486438440772f239"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/eu-banned-popup/"
+    },
+    "_sourceKeys": [
+      "5e484ec3bd9b155393ac4b2b4d3fd997fc8b3ed7d523210ac471c97322e47766"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||partner.tippmixpro.hu/skins/tippmixpro/uploads/banners/"
+    },
+    "_sourceKeys": [
+      "befd863e4807c60f78c7b21081ec8d6aef2fd14d897a40db5ae2be0265ab772d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "||444.hu/*/ease/"
+    },
+    "_sourceKeys": [
+      "dc161034240af47ca913818b72e7cfe0a2d4c5f2cd4f8fcf7f92062917e5074b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||affiliation.arukereso.hu/pbox/"
+    },
+    "_sourceKeys": [
+      "5031221516d0df96ee19135aa42a2332d2e05b854d5042c59292eea5c53143c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "||asva.info/tmp/"
+    },
+    "_sourceKeys": [
+      "91a9df9528561f7de0676543d2a792536dd9730865e417264f4b418a3397f549"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "||atv.hu/*reklam"
+    },
+    "_sourceKeys": [
+      "69d80cd88c0848a6b753b18460d7837c590ca09ea4e19c2a78b8a96e28ee12e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.hu/*/ad/"
+    },
+    "_sourceKeys": [
+      "524dbfcb60178884399ffaac4add328452c845583ac362baf826b3cc2ca742f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.hu/*/hird/*."
+    },
+    "_sourceKeys": [
+      "e89f2ea0be80e193d75f92fa3379263c87ff760884260e2a253460474e2c23e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.hu/ad/"
+    },
+    "_sourceKeys": [
+      "112e3775f58c0d5d353e89be7c9058dce02c4993596f411480c50c378ff936c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.hu/pixel"
+    },
+    "_sourceKeys": [
+      "061863f89fd80200e643766095c545a42139cf121e7d1a5bf5a28b6ca6212473"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "||borsonline.hu/*hirdetes"
+    },
+    "_sourceKeys": [
+      "b83cb368239341b3b65ec6ace3a85866d0687b235469180d89904c70421f0956"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "||cegmarketing.hu/banner"
+    },
+    "_sourceKeys": [
+      "a8b8e541576e057d07ba7885b9c1a6afb0b21da7d17251dfaa459de7a84cd3a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||cosmopolitan.hu/*/sponsor/"
+    },
+    "_sourceKeys": [
+      "1b77bd628a2bb3c36d20ec2de9596cd79e5df95841ec3ea272ebc245d9b168c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||duen.hu/*ad"
+    },
+    "_sourceKeys": [
+      "c4664ecb5525bc36fe4f54141f216f0f6d77b529d153f995f118a18e3f8e62bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||femcafe.hu/*/spike_ad/"
+    },
+    "_sourceKeys": [
+      "5c8caedc10cd6874b807a11b36212fad9e40a9d3633673b5f8a60aed0f5d283e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||femcafe.hu/*/sponsoration/"
+    },
+    "_sourceKeys": [
+      "64f4b6e1db3213ddba7a83b21df924d2700bcf0a0b105addd9df1f73bad0011d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||femcafe.hu/*/szponzoracio/"
+    },
+    "_sourceKeys": [
+      "084c2258092a52b14dda08df0aa97eef5c98e21bc5936b285276d88592d3bb77"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||femcafe.hu/spike-ad/"
+    },
+    "_sourceKeys": [
+      "8e21dc268669925c701d72f5d74d3f818043fa8a2ae9b3363a3fded224236207"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||harmonet.hu/*hirdetes"
+    },
+    "_sourceKeys": [
+      "4a4dedfae8a36044476e38f8aff149481589166b64351180f512c63c161b76ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||hasznaltgsm.hu/gsm/iframes/"
+    },
+    "_sourceKeys": [
+      "9efa4cd9b5e4323187ff0f4ef9d0c2ec12c6434031e5e1f0de857b04869f1a19"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||hatarido-szamitas.hu/partnerek/"
+    },
+    "_sourceKeys": [
+      "e6616a44d0a4bc041cc67fbac7a556d156c8edd130b4c00b79e6b78b0a16aeb8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||hazipatika.com/sponsoredbys/"
+    },
+    "_sourceKeys": [
+      "02228e2f046d8ebc77518123e787f0b1817b50b236582f2deb32155eed5827b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||hircsarda.hu/ads/"
+    },
+    "_sourceKeys": [
+      "57be067bcb4b0a05544c602cc12cf53bc868c6a3afc8532f2e8e14f40537ab2a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||hupont.hu/hirdetes/"
+    },
+    "_sourceKeys": [
+      "1da81b78e3b0eb4d58ec36e3610f577e3662d4ae3d61d42c8598d10787de1a34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||i.cdn29.hu/apix_collect/ads"
+    },
+    "_sourceKeys": [
+      "86fcf0ae625dcb9c9531cb6c9e634309114e0a793969bef600c259642a966c41"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||iho.hu/img/banner/"
+    },
+    "_sourceKeys": [
+      "84bb77987e85831c99b9bcd7f15f8eac66e717af03d81cdfc5ae1b4fca956960"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||jogiforum.hu/files/partner/"
+    },
+    "_sourceKeys": [
+      "762526e51a451d42c8e796745726174e24be7d8e7994b7dce5829141595860c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||koponyeg.hu/skins/k4/hirdetes/"
+    },
+    "_sourceKeys": [
+      "b46c11a4e54251d1054ccfea0ddc18730c2c19a2d6cacadbe6840d6c0cfc6ffd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||lapok.hu/felso/felso.php"
+    },
+    "_sourceKeys": [
+      "4bd938158a99f54752270213b5f924c1cd66b9316dd1a5b82f1d475fbf9fe7f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||libri.hu/export/prodbann/"
+    },
+    "_sourceKeys": [
+      "d0c27e8821c93c07e451536a58476589a83d0dfacfc233d4bcd3f83ccf545676"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||love.hu/design/*hirdetes*."
+    },
+    "_sourceKeys": [
+      "41e818a1c35441630aad10f750eb0c85585f3362fe193d62c613ccd03807755f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||medicalonline.hu/*hirdetes"
+    },
+    "_sourceKeys": [
+      "a59f2ca51723a6f55517caf55517a1f3a1416af2e067fd0bb581923b22b6aac2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||miabonyunk.hu/hirdetesek/"
+    },
+    "_sourceKeys": [
+      "9586d6d62f11ef645518c56a277f563be260fbff1e0407a8478f53d3b3067bf9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||napidroid.hu/*/*hird"
+    },
+    "_sourceKeys": [
+      "dd1be83c3bc3c1cc05062ec96b1ffde55f206bf741140b6370dc45255b6b4a52"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||nso.hu/*/sponsoration/*."
+    },
+    "_sourceKeys": [
+      "2eeaf6980cba643dd672c73d06e6fabaee7e5f60e009f1a7dc05d08bd230411f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||p3k.hu/*szponz*."
+    },
+    "_sourceKeys": [
+      "84bd29474b8ef327ff0b75f536e7e723bb8558f32e1bbcb38ea1be954ffb031d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||port-network.com/sponsoration_elements/"
+    },
+    "_sourceKeys": [
+      "65e36724bf3428747abb201eaf0dfcc6aeabbd5b7ced2a670ab40cdefbdb7951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||randihely.hu/adnews/"
+    },
+    "_sourceKeys": [
+      "59fe04a38b05808f6e82fe826c27486c4a6ad56300a7faf3104dfb3ae21c9556"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.love.hu/design/ad/"
+    },
+    "_sourceKeys": [
+      "56165f9401c10cce2ccbaac02486d033bc866135c39171a9fa166a808458b667"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||stylemagazin.hu/static/template_settings/"
+    },
+    "_sourceKeys": [
+      "a07ef61ac6f75ccf7fcf253f92ec8917f2d59fab98dc574f065468aa3dcf663f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||szegeder.hu/get-ads"
+    },
+    "_sourceKeys": [
+      "8dada06e0814db124725dd86f9c354863a0d27a0bc6524f06d5b517578927227"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||talalka.hu/hirdetes/"
+    },
+    "_sourceKeys": [
+      "60f03ec425ec753d366f49500cd5b86883165064f82d017fabf8d05eacd9d81a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||ultraweb.hu/ad*.php"
+    },
+    "_sourceKeys": [
+      "6c2fcadfa2fe4dfefee7f9cde436f3d604ee5cd35fa8e6bb083694b5e35d621b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||utcakereso.hu/hirdetes/"
+    },
+    "_sourceKeys": [
+      "cd082deaf47417058cc8af1cbdfeb65618ebb57e53446f1542ad180dec8d9573"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||zeneszoveg.hu/gfx/skin-*/*."
+    },
+    "_sourceKeys": [
+      "c159f91884a546d579cc2aaec8f7dfa5b3a152b4879aa62e2bf3e75078c50234"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad*.gyaloglo.hu^"
+    },
+    "_sourceKeys": [
+      "7b12a49ccee4372153710a64a81c6ce54d94d1b60bde8ebba3c8d8bc10959d85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad*.mellesleg.hu^"
+    },
+    "_sourceKeys": [
+      "c0fc41d593b9e9c94adcc54e9b4055fd8016c768114dc0f68c2e5192c0dd9f8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||advert*.ultraweb.hu^"
+    },
+    "_sourceKeys": [
+      "77ef85ab16869ec91de1ff003dcd7ed5a48c2f575cfc80a910d0432a81c4dcf6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||adverticum.*.hu^"
+    },
+    "_sourceKeys": [
+      "ba10b9a72c700f6ef985481b5cddf6768150b0c3413d648f93eb21c4505c45b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||as*.prog.hu^"
+    },
+    "_sourceKeys": [
+      "9afdb98c1aa0cf7f46eb36051d2086e8a383e36e853e84a866e1f9db143a10a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||etargetnet.*.hu^"
+    },
+    "_sourceKeys": [
+      "b8a76c31157d007d3e94a7bf24cb9e3c7b6e4cdf1bb2a0eab1816186436d2d11"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||rehs.*.hu^"
+    },
+    "_sourceKeys": [
+      "e91fc1f74870593554a5986fa9f4115825c818aca8e562eb1bbe3538e6f4fc42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||sher.*.hu^"
+    },
+    "_sourceKeys": [
+      "2b39d65e5c67cc633d7cb8768177168088844fa1f1e32dcdc6e170805fa3b7c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/ajax.php?action=offerblogcikk",
+      "initiatorDomains": [
+        "ittjartam.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "84cbe0e960ebf0b856e6f9cf6a189943f47472ab34fb34e8c8811e6411c6c081"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "/static-tr-frame/json/cookie-consent/cookie-consent-hu.json",
+      "initiatorDomains": [
+        "telekom.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "02741b56a3d0085c2851c3199586e3060a8cdab17706aa61c65be485957654e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/advanced-ads-tracking"
+    },
+    "_sourceKeys": [
+      "b966b5238e3a5bc69fc87e8aaebfabf644a86a8f02e6b2dfdf77152dab1ed219"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": ".hu/userip.php"
+    },
+    "_sourceKeys": [
+      "efadb936661fdbb9e5a50c76c60cacdd71646fe879f474c98312cb304fb3cae3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.telex.hu/showtime.php"
+    },
+    "_sourceKeys": [
+      "79fbcb6d5a54a6db0dbddfc79fb2f171dd7f2dc13d8629534a73514d49dd0b36"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||websas.hu/statistics/"
+    },
+    "_sourceKeys": [
+      "a0c352bd91a0f569ea67b341a2e49654fb301254947bf30f18fbfa92a00b95b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||tesco.hu/*/update-fingerprint"
+    },
+    "_sourceKeys": [
+      "b36d14a648082ada9ece36ccc80e66ca1430dca6f1e80747f1a03ca4575d1787"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||ittjartam.hu/ajax.php?action=logsearchhistory"
+    },
+    "_sourceKeys": [
+      "6a980e7ab69162ff65dd34a50d1ee7ab453c1a3fde1a2c75eb4e9a903d858830"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "/inside-banner.mini.js",
+      "initiatorDomains": [
+        "myonlineradio.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "b69908b938c43cf68bb5cf2024f09425b6b3028843fb9124fec55abc75107df4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adserver.raceonline.hu",
+        "a.adnium.com",
+        "ad.depo.hu",
+        "ad.gyermekevek.hu",
+        "ad.kapos.hu",
+        "ad.love.hu",
+        "ad.napilapcsoport.hu",
+        "ad.onadozo.hu",
+        "ad.parom.hu",
+        "ad.pphungary.hu",
+        "ad.szexneked.hu",
+        "adfair.hu",
+        "adfree-stat.p3g.hu",
+        "admanager.magyarhirlap.hu",
+        "ads.geeks.hu",
+        "adv.forpsi.hu",
+        "adv.hu",
+        "adverbs.napilapcsoport.hu",
+        "app.livechatoo.com",
+        "audit.median.hu",
+        "avatraffic.com",
+        "banner.webtar.hu",
+        "bannerzone.agroinform.hu",
+        "campaign-remp.444.hu",
+        "cdn-dynamic.optimonk.com",
+        "daserver.ultraweb.hu",
+        "et.twyn.com",
+        "fruitflan.com",
+        "iofferphoto.com",
+        "loader.nyitvatartas24.hu",
+        "loading-delivery2.com",
+        "media.netpositive.hu",
+        "netadclick.com",
+        "netexs.com",
+        "pixel.blog.hu",
+        "pixel.sojern.com",
+        "rc.rc.hu",
+        "rc.rootclick.com",
+        "redwolfmoon.com",
+        "related.hu",
+        "smartcj.com",
+        "stat.adultium.com",
+        "static.hvgrt.hu",
+        "stats.badoostats.com",
+        "syndication.trafficreps.com",
+        "up-banner.wavecdn.de",
+        "vid4u.org",
+        "widget.block4d.com",
+        "wstat.ozon.ru",
+        "chatrobot.mia.gov.hu",
+        "chimpstatic.com",
+        "adat.agrokep.vg.hu",
+        "adat.borsonline.hu",
+        "adat.freemail.hu",
+        "adat.ingatlanbazar.hu",
+        "adat.kisalfold.hu",
+        "adat.koponyeg.hu",
+        "adat.life.hu",
+        "adat.magyarnemzet.hu",
+        "adat.mandiner.hu",
+        "adat.metropol.hu",
+        "adat.mindmegette.hu",
+        "adat.nemzetisport.hu",
+        "adat.origo.hu",
+        "adat.ripost.hu",
+        "adat.she.life.hu",
+        "adat.vg.hu",
+        "adat.videa.hu",
+        "adform.net",
+        "adtrackeraa.com",
+        "beam-tracker.telex.hu",
+        "beam.telex.hu",
+        "counter.megagroup.ru",
+        "doubleclick.net",
+        "gemius.hu",
+        "gemius.pl",
+        "indexstat.index.hu",
+        "mediaownerscloud.com",
+        "px.blog.hu",
+        "tracker-remp.magyarnarancs.hu",
+        "tracker.24xtra.hu",
+        "tracker.azet.sk",
+        "trackerapi.ebxcdn.com",
+        "tracking.binarypromos.com",
+        "tracking.tchibo.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "960f8a44801c5e984781dd00017de6d66176647a33ffc750592133f11a4610ae",
+      "9299b062da0d7e42ec64a444cbe87e8cb71538fe04f7ec0cc8be3560f2236464",
+      "a102538cbed1c8dc3f829f44567db73829af3cbc653dfd4e68dfccd92435838f",
+      "cc4944d1da3002fad22337893ef8e7c21ef69ea70f66aa22a9bff8f5b3bc1a05",
+      "069f261610343621f676b430c872ef0f146c76b75f1c8311f9a3d94e4cacb1cc",
+      "6fae77d4b4542e1988108ec370bab6a4d9627ae779ad8748d215ca3ca7c947d6",
+      "c924b029384e9880453e852434bb1bf34127147ebf9bc0de9f2fa09fd905de40",
+      "2252fdb5816693313910a11c58c4b7be3518d17fd63a852509472a6c1ba6dba6",
+      "7ac5c54b348c7fd18bf07583912254909fc1b985e6c8d46c6418663ac090204c",
+      "943286e37a1e45875cc63bdddc26c6e7671c029129f6d29dd97f66a71b959d08",
+      "160b204d3148277b6261ce91ec9da6342bfd8418ba2cd378c1be3b4ac146e4af",
+      "1aef8258686294ce1824b0e088bdf9eec6f740931df93a905bf32cbce5fa2a12",
+      "14b22637b8ee39dd7c26d485c915bd2ced2ae5d88d02b10a4ef4a0cec8d41d82",
+      "0e73cc32aa0340b9718f6fa1415d079b3e6ebf253fb2ca64de84424690a4f82a",
+      "d6263f5b1902c6816d505a7a1e325ee7ce2e7204a156ad74e825d177270c92c2",
+      "a569e7e5c374bdae139d6d9a08fc3b5d20797702171bdca0ae2bc239a542e021",
+      "70ac8d2b4ee9fdd48d803c5617111f5bf2d8b7c728450df7d700dfcc35aa7a9f",
+      "a09bfd62108d3748cddbee14951a9afb6eacb042ac5bcae8fec643eaa6a9c89a",
+      "db57ef4cbfaefefdbe344728189dde4beed814b1ee30b152f980589220531fea",
+      "1dc0cd2697746af58b5bf3d707c689dc5b732b96f6f689cdb986e6605c5683e3",
+      "e8fc4ad46669ff975569cec27f0d504e4739b2b3ec4c65d969c1eb0dbbc24ea9",
+      "6371f4f2dcc3ff1249dd75548ee20d6d2d27bb4a55c1e9b601b7076d5c3e0959",
+      "d88964427ce07f2a07aa866e7a735d5fb4db535529a50bb7af5916074f92586c",
+      "44d2996bfef135f6786b2161784ccdee47d399390d3e87ef553f8c431272ad99",
+      "0aa8b6aae5d95039c2756a35bab1eb5ea76e88bae0831ddd217ff965f53ccb3b",
+      "02f6f64110015bb71ae71b8ff390192188c84eb4a7bed3ae4e5514ca1ad08217",
+      "705f98e8acc6219fcdfeaab9d4792f0890bda82529fc61dcdc180f8ef4b8bbd4",
+      "b32e87680f768431c90ff8b503da747209d0ea97f03deeff6e085fcc74637524",
+      "91806c0f895f6169b0b5919cbe5f1ffc0f0996bc4949d5b3726f81b22b3cc44a",
+      "509b3460ca33ee21d6a009643d7deac9a937446500595e40b55f230ac6c52aef",
+      "591b001e8f92c537714893efc69e1f76bd71f657a30ef45a479918572673b0ba",
+      "187678131b10b70eb7d1888d139b50d743a0524749a652ca75b6897f69a91100",
+      "16b29ae9479e075093f8ceaaa40291d40c09c5573f737f62001cc329ed96da6d",
+      "28140d68086cb998041a75aa0c607bb665540c87ff2e5e51db4aafb20083772f",
+      "27dd12744b5124d991bde99906aa1c6736a4b3dd7c6e11ffd50839e9d35e750f",
+      "919aec77fdc25ee87b283a039cc0c365c4b8af582b2a7d73f269de33de78fc12",
+      "5e9f5a0758e7af1c63204928a837e7ab8a02fe9beea210eb7868cad16f173eda",
+      "225beeaaacde66498ecb4abadeabf6ebc8824c22bdab796053dac59d10dfeff8",
+      "38e7118c5233012503295e210fcacf3eb6050543625878f2592f1495dde684e6",
+      "e2dd68d7bcc6797da219200d07e573bd74863e705229f4ca62e2fdd6202bfbb1",
+      "76d116b4a0a7930fcae44ab11cb218d446fd1b0edb4f2c607ed4dec655ba5476",
+      "a766c2f3dc649f0ce79f258fdf6c4a095c35a7ebcf41daaf21be9240d84a38ca",
+      "ca6bcaa2eb507f45341e973abda9f5f08dd2d03f9d59bc6f5c6e370a0a1ceaf4",
+      "7a98ed669e1ee3934b6877e512e0279ab82280da5f421245f4fd4d940e45a707",
+      "53c2b0f27223942d00cd0a2e801c6099b052e60b44c6d38c283ed5a527690c2d",
+      "a09e3d23a7cd9fc16f3d61f8adca50aaea6b11761b0fb1b4e08b2c6863aa7c7b",
+      "e9adb70227d8a538193dfa42112e71da3e59cefb1ed9ecad39143bbfba14b1a0",
+      "6d235487a3d2395b58b3a6a16eb64591eacf9bb77be55f205c6425d4890efd2d",
+      "d1e51a22d538236aecc23afa1f5a629b5b47205693feed5b33aef34b5697a24c",
+      "26a4a413f6f6e9604faa5114cecba284c142f417b44b78ca317f5898c2f4b816",
+      "42c1495cb8694b78d90db5b85a7884a45c4c1c1108bbee59f5c4f14b2b3f54a0",
+      "24fef17ba9d5e6d9d5cb54d245520346a59aaec3cee5ec62651f56148ad4f448",
+      "ee709d3bd7013c2b29fc480dac878a48879221014dda6f12f07f799ff0eb95fb",
+      "dd26ed9fbc85b863d51be2e00a45b727a087796077cd7a63f3321031f01afb0d",
+      "a5a3c35cf27ef71a3cbcf6497e3456463480c67cfaf14b855005188f5e691479",
+      "9254ceeb281efdc61ae4807f66423e0492af83477b8dab22de7cbeee43946b91",
+      "3cdb15de21cc7c70307c61f072b5901479931c29c7e07864a397f1087546fd71",
+      "9f18d44ce50c107d1efe486e3ec02c3c720d751d5dcbc07230b4f886fcdabb1d",
+      "49c7779243e7cb797a85e786805e8e7dc67c466bf0f3d33214700613e22ed0e1",
+      "f73d74be29e27b24d4e69a83e917ea6db4e1f6245ab5d2f706cb44dd5b05201d",
+      "1882bd99d6f7302709812b4ddc4b72d2feebbab7dd41ecace0f8699def27c01a",
+      "26ceddf751d92d1483823ddbd7ad467c82f4caa37d5cf3e092a55c6824b0c102",
+      "2e3d8560784b9c134b3648a99a73ed7bbf33034debd3d71b1b11da6771fe5d9e",
+      "de0c85a2801afac7f6d9e7ad1a53905e29ecccb3da3071624cbfe02f0553206e",
+      "f47c29f80debf9ee5eb0676f54f22d3de3c78395463697be48c2841a580113f7",
+      "6ba770dd340d7f2a0d2734273a801c23845fc6241f021c93c050b6e4d28481e7",
+      "fe11787a4e1730d6bdf5d912292d7e728aa70a261dc553e38b54461e0c965605",
+      "8190888caf7d2ef526bf158d8bf2ba5f727dcaf62b4eeb31d5d4cc46373a94a6",
+      "585820099a174ecde3fce304025677cce567dd37f001eaa4b95b10a4fbd2defc",
+      "b7ca425e4b96ebc560194510930d144ed213528fb9c03b7519f335e42a45354c",
+      "c17a931f2c344d862ef9a0ae62936e58f5848fd4f60c8b7cd0d705d32266a8f3",
+      "8e1523a6d51ff31c753314cb6e39aebb8b1753b640e1cc30474edbb6b2b1d2bd",
+      "a303780a123f54b836d73fdc126b0903e4235f815986c378ff266eaf75d2ef10",
+      "43d74a36f0483eca8be7c1a1b956cb673e852daccdd281060c0bbd28a639996c",
+      "7b5b822862a557258381b9da3e40cb8f023943c2ab21a9789eb596a108275b0a",
+      "8a369e2d41005cca12cfe86346e2c78b26ecebb15e42eb233558ab72ce7bc127",
+      "b6a2b110603897946a9f37bdd87968a6e99280d73808ad60bab79841b2abe1ea",
+      "ffb9166b627b95cf52b9bd2dc74933691f9300f751c20aa50de3258d33804435",
+      "526f3d9f60abd43e69146ba5fc68e1286ec0e79c986fabcb4ae48a3b0c95bc70",
+      "78e4eb503a8ea598c423ce281ba658cd14365921152f365c9288c5cf16954f65",
+      "d87e02e5b6f75a61e4c2983b9e88643fcd457e141e5dddc314020774be84f4c2",
+      "9550300e2d2279171f7ee62fdbc58c1becd5860ea978089b11e609f18db9f392",
+      "4b5651ace363bcf746b5798aecafa99a2948e37e5e151487e9e11129f9070bf7",
+      "7f03858bd5ac6ceac925029f22af8d9483827530e5859400d1d7861df8ad1a33",
+      "54688ae905ee94cb792d21274dd048ef7275506cb48e78fffeb0d3babc51fa49"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.raceonline.hu",
+        "keys": [
+          "960f8a44801c5e984781dd00017de6d66176647a33ffc750592133f11a4610ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.adnium.com",
+        "keys": [
+          "9299b062da0d7e42ec64a444cbe87e8cb71538fe04f7ec0cc8be3560f2236464"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.depo.hu",
+        "keys": [
+          "a102538cbed1c8dc3f829f44567db73829af3cbc653dfd4e68dfccd92435838f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.gyermekevek.hu",
+        "keys": [
+          "cc4944d1da3002fad22337893ef8e7c21ef69ea70f66aa22a9bff8f5b3bc1a05"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.kapos.hu",
+        "keys": [
+          "069f261610343621f676b430c872ef0f146c76b75f1c8311f9a3d94e4cacb1cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.love.hu",
+        "keys": [
+          "6fae77d4b4542e1988108ec370bab6a4d9627ae779ad8748d215ca3ca7c947d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.napilapcsoport.hu",
+        "keys": [
+          "c924b029384e9880453e852434bb1bf34127147ebf9bc0de9f2fa09fd905de40"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.onadozo.hu",
+        "keys": [
+          "2252fdb5816693313910a11c58c4b7be3518d17fd63a852509472a6c1ba6dba6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.parom.hu",
+        "keys": [
+          "7ac5c54b348c7fd18bf07583912254909fc1b985e6c8d46c6418663ac090204c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.pphungary.hu",
+        "keys": [
+          "943286e37a1e45875cc63bdddc26c6e7671c029129f6d29dd97f66a71b959d08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.szexneked.hu",
+        "keys": [
+          "160b204d3148277b6261ce91ec9da6342bfd8418ba2cd378c1be3b4ac146e4af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adfair.hu",
+        "keys": [
+          "1aef8258686294ce1824b0e088bdf9eec6f740931df93a905bf32cbce5fa2a12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adfree-stat.p3g.hu",
+        "keys": [
+          "14b22637b8ee39dd7c26d485c915bd2ced2ae5d88d02b10a4ef4a0cec8d41d82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "admanager.magyarhirlap.hu",
+        "keys": [
+          "0e73cc32aa0340b9718f6fa1415d079b3e6ebf253fb2ca64de84424690a4f82a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.geeks.hu",
+        "keys": [
+          "d6263f5b1902c6816d505a7a1e325ee7ce2e7204a156ad74e825d177270c92c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.forpsi.hu",
+        "keys": [
+          "a569e7e5c374bdae139d6d9a08fc3b5d20797702171bdca0ae2bc239a542e021"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv.hu",
+        "keys": [
+          "70ac8d2b4ee9fdd48d803c5617111f5bf2d8b7c728450df7d700dfcc35aa7a9f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adverbs.napilapcsoport.hu",
+        "keys": [
+          "a09bfd62108d3748cddbee14951a9afb6eacb042ac5bcae8fec643eaa6a9c89a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "app.livechatoo.com",
+        "keys": [
+          "db57ef4cbfaefefdbe344728189dde4beed814b1ee30b152f980589220531fea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "audit.median.hu",
+        "keys": [
+          "1dc0cd2697746af58b5bf3d707c689dc5b732b96f6f689cdb986e6605c5683e3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "avatraffic.com",
+        "keys": [
+          "e8fc4ad46669ff975569cec27f0d504e4739b2b3ec4c65d969c1eb0dbbc24ea9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.webtar.hu",
+        "keys": [
+          "6371f4f2dcc3ff1249dd75548ee20d6d2d27bb4a55c1e9b601b7076d5c3e0959"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerzone.agroinform.hu",
+        "keys": [
+          "d88964427ce07f2a07aa866e7a735d5fb4db535529a50bb7af5916074f92586c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "campaign-remp.444.hu",
+        "keys": [
+          "44d2996bfef135f6786b2161784ccdee47d399390d3e87ef553f8c431272ad99"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn-dynamic.optimonk.com",
+        "keys": [
+          "0aa8b6aae5d95039c2756a35bab1eb5ea76e88bae0831ddd217ff965f53ccb3b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daserver.ultraweb.hu",
+        "keys": [
+          "02f6f64110015bb71ae71b8ff390192188c84eb4a7bed3ae4e5514ca1ad08217"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "et.twyn.com",
+        "keys": [
+          "705f98e8acc6219fcdfeaab9d4792f0890bda82529fc61dcdc180f8ef4b8bbd4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fruitflan.com",
+        "keys": [
+          "b32e87680f768431c90ff8b503da747209d0ea97f03deeff6e085fcc74637524"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "iofferphoto.com",
+        "keys": [
+          "91806c0f895f6169b0b5919cbe5f1ffc0f0996bc4949d5b3726f81b22b3cc44a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.nyitvatartas24.hu",
+        "keys": [
+          "509b3460ca33ee21d6a009643d7deac9a937446500595e40b55f230ac6c52aef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loading-delivery2.com",
+        "keys": [
+          "591b001e8f92c537714893efc69e1f76bd71f657a30ef45a479918572673b0ba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "media.netpositive.hu",
+        "keys": [
+          "187678131b10b70eb7d1888d139b50d743a0524749a652ca75b6897f69a91100"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netadclick.com",
+        "keys": [
+          "16b29ae9479e075093f8ceaaa40291d40c09c5573f737f62001cc329ed96da6d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netexs.com",
+        "keys": [
+          "28140d68086cb998041a75aa0c607bb665540c87ff2e5e51db4aafb20083772f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pixel.blog.hu",
+        "keys": [
+          "27dd12744b5124d991bde99906aa1c6736a4b3dd7c6e11ffd50839e9d35e750f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pixel.sojern.com",
+        "keys": [
+          "919aec77fdc25ee87b283a039cc0c365c4b8af582b2a7d73f269de33de78fc12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rc.rc.hu",
+        "keys": [
+          "5e9f5a0758e7af1c63204928a837e7ab8a02fe9beea210eb7868cad16f173eda"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rc.rootclick.com",
+        "keys": [
+          "225beeaaacde66498ecb4abadeabf6ebc8824c22bdab796053dac59d10dfeff8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "redwolfmoon.com",
+        "keys": [
+          "38e7118c5233012503295e210fcacf3eb6050543625878f2592f1495dde684e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "related.hu",
+        "keys": [
+          "e2dd68d7bcc6797da219200d07e573bd74863e705229f4ca62e2fdd6202bfbb1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartcj.com",
+        "keys": [
+          "76d116b4a0a7930fcae44ab11cb218d446fd1b0edb4f2c607ed4dec655ba5476"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.adultium.com",
+        "keys": [
+          "a766c2f3dc649f0ce79f258fdf6c4a095c35a7ebcf41daaf21be9240d84a38ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.hvgrt.hu",
+        "keys": [
+          "ca6bcaa2eb507f45341e973abda9f5f08dd2d03f9d59bc6f5c6e370a0a1ceaf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stats.badoostats.com",
+        "keys": [
+          "7a98ed669e1ee3934b6877e512e0279ab82280da5f421245f4fd4d940e45a707"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "syndication.trafficreps.com",
+        "keys": [
+          "53c2b0f27223942d00cd0a2e801c6099b052e60b44c6d38c283ed5a527690c2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "up-banner.wavecdn.de",
+        "keys": [
+          "a09e3d23a7cd9fc16f3d61f8adca50aaea6b11761b0fb1b4e08b2c6863aa7c7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vid4u.org",
+        "keys": [
+          "e9adb70227d8a538193dfa42112e71da3e59cefb1ed9ecad39143bbfba14b1a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.block4d.com",
+        "keys": [
+          "6d235487a3d2395b58b3a6a16eb64591eacf9bb77be55f205c6425d4890efd2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wstat.ozon.ru",
+        "keys": [
+          "d1e51a22d538236aecc23afa1f5a629b5b47205693feed5b33aef34b5697a24c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chatrobot.mia.gov.hu",
+        "keys": [
+          "26a4a413f6f6e9604faa5114cecba284c142f417b44b78ca317f5898c2f4b816"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chimpstatic.com",
+        "keys": [
+          "42c1495cb8694b78d90db5b85a7884a45c4c1c1108bbee59f5c4f14b2b3f54a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.agrokep.vg.hu",
+        "keys": [
+          "24fef17ba9d5e6d9d5cb54d245520346a59aaec3cee5ec62651f56148ad4f448"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.borsonline.hu",
+        "keys": [
+          "ee709d3bd7013c2b29fc480dac878a48879221014dda6f12f07f799ff0eb95fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.freemail.hu",
+        "keys": [
+          "dd26ed9fbc85b863d51be2e00a45b727a087796077cd7a63f3321031f01afb0d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.ingatlanbazar.hu",
+        "keys": [
+          "a5a3c35cf27ef71a3cbcf6497e3456463480c67cfaf14b855005188f5e691479"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.kisalfold.hu",
+        "keys": [
+          "9254ceeb281efdc61ae4807f66423e0492af83477b8dab22de7cbeee43946b91"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.koponyeg.hu",
+        "keys": [
+          "3cdb15de21cc7c70307c61f072b5901479931c29c7e07864a397f1087546fd71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.life.hu",
+        "keys": [
+          "9f18d44ce50c107d1efe486e3ec02c3c720d751d5dcbc07230b4f886fcdabb1d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.magyarnemzet.hu",
+        "keys": [
+          "49c7779243e7cb797a85e786805e8e7dc67c466bf0f3d33214700613e22ed0e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.mandiner.hu",
+        "keys": [
+          "f73d74be29e27b24d4e69a83e917ea6db4e1f6245ab5d2f706cb44dd5b05201d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.metropol.hu",
+        "keys": [
+          "1882bd99d6f7302709812b4ddc4b72d2feebbab7dd41ecace0f8699def27c01a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.mindmegette.hu",
+        "keys": [
+          "26ceddf751d92d1483823ddbd7ad467c82f4caa37d5cf3e092a55c6824b0c102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.nemzetisport.hu",
+        "keys": [
+          "2e3d8560784b9c134b3648a99a73ed7bbf33034debd3d71b1b11da6771fe5d9e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.origo.hu",
+        "keys": [
+          "de0c85a2801afac7f6d9e7ad1a53905e29ecccb3da3071624cbfe02f0553206e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.ripost.hu",
+        "keys": [
+          "f47c29f80debf9ee5eb0676f54f22d3de3c78395463697be48c2841a580113f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.she.life.hu",
+        "keys": [
+          "6ba770dd340d7f2a0d2734273a801c23845fc6241f021c93c050b6e4d28481e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.vg.hu",
+        "keys": [
+          "fe11787a4e1730d6bdf5d912292d7e728aa70a261dc553e38b54461e0c965605"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adat.videa.hu",
+        "keys": [
+          "8190888caf7d2ef526bf158d8bf2ba5f727dcaf62b4eeb31d5d4cc46373a94a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adform.net",
+        "keys": [
+          "585820099a174ecde3fce304025677cce567dd37f001eaa4b95b10a4fbd2defc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtrackeraa.com",
+        "keys": [
+          "b7ca425e4b96ebc560194510930d144ed213528fb9c03b7519f335e42a45354c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beam-tracker.telex.hu",
+        "keys": [
+          "c17a931f2c344d862ef9a0ae62936e58f5848fd4f60c8b7cd0d705d32266a8f3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "beam.telex.hu",
+        "keys": [
+          "8e1523a6d51ff31c753314cb6e39aebb8b1753b640e1cc30474edbb6b2b1d2bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "counter.megagroup.ru",
+        "keys": [
+          "a303780a123f54b836d73fdc126b0903e4235f815986c378ff266eaf75d2ef10"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "doubleclick.net",
+        "keys": [
+          "43d74a36f0483eca8be7c1a1b956cb673e852daccdd281060c0bbd28a639996c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gemius.hu",
+        "keys": [
+          "7b5b822862a557258381b9da3e40cb8f023943c2ab21a9789eb596a108275b0a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gemius.pl",
+        "keys": [
+          "8a369e2d41005cca12cfe86346e2c78b26ecebb15e42eb233558ab72ce7bc127"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "indexstat.index.hu",
+        "keys": [
+          "b6a2b110603897946a9f37bdd87968a6e99280d73808ad60bab79841b2abe1ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediaownerscloud.com",
+        "keys": [
+          "ffb9166b627b95cf52b9bd2dc74933691f9300f751c20aa50de3258d33804435"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "px.blog.hu",
+        "keys": [
+          "526f3d9f60abd43e69146ba5fc68e1286ec0e79c986fabcb4ae48a3b0c95bc70"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker-remp.magyarnarancs.hu",
+        "keys": [
+          "78e4eb503a8ea598c423ce281ba658cd14365921152f365c9288c5cf16954f65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.24xtra.hu",
+        "keys": [
+          "d87e02e5b6f75a61e4c2983b9e88643fcd457e141e5dddc314020774be84f4c2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.azet.sk",
+        "keys": [
+          "9550300e2d2279171f7ee62fdbc58c1becd5860ea978089b11e609f18db9f392"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackerapi.ebxcdn.com",
+        "keys": [
+          "4b5651ace363bcf746b5798aecafa99a2948e37e5e151487e9e11129f9070bf7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.binarypromos.com",
+        "keys": [
+          "7f03858bd5ac6ceac925029f22af8d9483827530e5859400d1d7861df8ad1a33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.tchibo.hu",
+        "keys": [
+          "54688ae905ee94cb792d21274dd048ef7275506cb48e78fffeb0d3babc51fa49"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||24.hu/*/sponsoredpost.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "9712407c8c6d7dbdab9d104880a7c04ae832bc4bd949ad13bcff0ad1df62ed8f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.origos.hu/s/css/responsive-ads/hangar/hangar-investor-web.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "126598b4a4981db6d2ccd383a437fe6fb0fb884ab2936c28ea2a67859b770cb9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "/szechenyilogo.css",
+      "initiatorDomains": [
+        "bme.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "db32d7b0836238fb6020757a8c01fd6d39a838589d231016a65dab87fb6ef2b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookie-box.css",
+      "initiatorDomains": [
+        "posta.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "9b9f23c6396755922eec60fa122d6d85de286e634685af0ec0a73ba962897129"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookie-information-modal.css",
+      "initiatorDomains": [
+        "posta.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "03462db161cb178424d47e5bb02b76ede53c48b4f96bde2a211fc962115c3a6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookie-modal.css",
+      "initiatorDomains": [
+        "posta.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "e3cdcbe35985591789c5296c49c584286850685498fbb5f552aac6fb6608b35c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookieconsent.css",
+      "initiatorDomains": [
+        "bme.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "50548afda20cde7a28dfc2891dcb1cbf8869016689a0e7a6e116c8d48e30a39b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookieconsent.min.css",
+      "initiatorDomains": [
+        "tesco.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "b81bfda54c822426e7bdfed3c3a2c128b80fa5ce28960a2d4c9f7c1d95e38310"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "/megacookies.css",
+      "initiatorDomains": [
+        "gabo.hu"
+      ],
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "27062f9e0054bcab80e34ef0544f199ffc73177ed0febb6167abcee52c8e17bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": ".hu/*eu_cookie_compliance.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "a8747908e3378c0889eb70a94bc256e9625ebffa5de7b405e2ecfe3cb0e2f3d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": ".hu/*wp-content/plugins/complianz-gdpr/*.css",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "fa2d520ab1d0f248bb656889eeb69582aff635848f8edbd074f056449fcd680a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "gyakorikerdesek.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8c01af90a615becb6dde7946259fa61524288606009da63621af03ad23f36646"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "gyakorikerdesek.hu",
+        "keys": [
+          "8c01af90a615becb6dde7946259fa61524288606009da63621af03ad23f36646"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hardverapro.hu",
+        "logout.hu",
+        "mobilarena.hu",
+        "prohardver.hu"
+      ],
+      "regexFilter": "dl\\/cnt\\/20[^0]\\d-\\d{2}\\/\\d{4}\\/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c977688b394f3910170c4f8372f8b6a059b49499ad977c83d0759d2f94b0e19b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||rosszlanyok.hu/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "42c6b2ea1550369ff357e72e2e68ec39f515cb62a513f8a8605504f77318fe26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||ado.hu/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0f81de18f85770a982ede21cd3b98180383aff02124673d8dca4e7f0ff8222a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||alfahir.hu^*/hirdetesfoto/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "af377e201cf1e78a7be9a90eb118fd757cb2c28e674f496f038e549714e2f935"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||amiotthonunk.hu/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4d3b510d539281b218728a9a68946a1e815a0931bfdf23a91315da7f77701267"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||aori.hu/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c6b033f6b5770c969864971f4f5b9d114b1a3467ed5240e74ed340c5c041a3ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||asva.info/wp-content/themes/branfordmagazine/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "94afb177c6d9020f7398c45ea744494dd49c1984023ed72cc378462a19fc7454"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||autopro.hu/uploads/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0d777e5a3fda78bef0239e3993d3c35bb5c08ea1962e1e9327cdb5e2c121d9ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitport.hu/images/szponzoracio/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eeb1615f8c8f7498d7934f8ec5c6508e8aae98016c71650b08c51623f52be6f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||bkv.hu/public/assets/img/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a9f918a43bddc903bdc0e8d40d2678cafbf583808408f1d531f3e6d49e25b905"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||blog.hu/media/image/hird/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e0b74f6e88d81fc2a84ce2e1d35b18c2ab2334a99ea332e5fe3b6e9e51514953"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||chat.hu/client/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5e60a2920c9fd8ed71d836478edead9edf575ba44f4447c77a0143eeedd01cfc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||chat.hu/imgadverts",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d5a4ef6934a6f48317a5f7e229f8276ab0f808fc1c6a480742f4d26187c058f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||dijnet.hu/ekonto/images/news/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "51f1e40a4762cfc827ebf2e7e66f50e816b12590abb71e6e80aa158a5167a041"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||dijnet.hu/ekonto/images/szolg_logo/adomany_logo.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c6c05ff53596bbab3eabd886e27c41a72509e91e1abc4eeec1259f0067be5213"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||dijnet.hu/ekonto/images/szolg_logo/hu/adomany_logo.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3941a5f35cc66d6b5d8633d789a9e17efde32905bdc6b6633a018c07ece7a413"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||esport1.hu/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2fed251aa63b4a7ebde19afd9fee46a4696aa895ff3eabdffca49e77a3b176a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||ezoterikus.hu/*banner*/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0c81ba3970fc372a6e4cd3e94b24b425a87e73d37a1b5fb1009f97288a5320c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||fototrend.hu/design/hatter.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0c182b955b0666fea43f0d9abe76406606001c1b58854c93e11cec5669b21413"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||freeweb.hu/*_banner*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ef4bf2677fdd3fbc96c72ef3eafd75ecd0f62833d803a02f5d893024613e1c0a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||geeks.hu/*body-bg-*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "840782d1518f0b89943b51201f1666fe6b0711d8bea3ce1f6bf8a0bf69f8440c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||gigasex.hu/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "879486fdfb9f72deda365aa3353b73df42bc65691c4091eed06ee5a260e4c324"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||hirado.hu*/microsites/*wallpaper*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "edd05e1793e22253aa21c49bfff120a837e18c2dd4743400797b1eefc76ead31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||hirado.hu/newsreel/*_bg_*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "683ece55286595ce5666db993d8074fb411e008c4ce88c6273919bd7eef478ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||hirek.sk/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c5e1e1bfe3dedc2661b7074aecbd9864a0648cda1f10ab5e1581e06659bdbe97"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||hrportal.hu/images/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e790146066e078f404ac52a5bf2721015549200ec87ca34c255468ddd444500a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||hwsw.hu/kepek/hirek/2025/04/arm_final_5.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "038f4b853b43633d3ca9a1b32d5b4a0f245ef1e592fac34ac45ff4aef15c88a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||image.arukereso.hu/ad",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b5dd3d81b62d04e64aecc19d23aa01c2c5ce72b8505d7d169d0e43e64b4c4816"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.hunbasket.webpont.com/kosarsport/art/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "90d95078a2e462c5005462621eb05dce6c5edc7098c03a1fdaf339794a6cbd34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||infogyor.hu/*_banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a22b039c974e204bcd4ff5a169240452d2711092c32a47b48af93c5dde22633f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||informed.hu/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eb590e46aea5d2558b8ecfc0e794c4519de1403d506c2f967357c680b44033fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||ingyenweb.hu/felso/*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7cc360d4aa3946f2994dad240e8432b4f364be37a536787f5eeab93fead8e947"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||ingyenweb.hu/smsbanner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6a0fa3f4d1fee558507785faaa5b93513fbe39c1fa5169cfb2fe55e2b22d321b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiszamolo.hu/wp-content/uploads/*banner*.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fa8580720c4d171414b37376db8a82fa98f0e69218cc55dff516b9b650ac9976"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiszamolo.hu/wp-content/uploads/2016/09/hitel-290x200-blog-jobb.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ce48cfdccc6dcb1050d0736069606d5b636241920cc54d28f56c5efb2fa69fb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiszamolo.hu/wp-content/uploads/2019/11/550x104-02.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e51c8c288d10bb57b27d285ae5eaa9ae4400508f234002a377031fad865bf468"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||kiszamolo.hu/wp-content/uploads/2019/11/400x400-02.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "01c4c4ca8135a487af0abd4947ee3e434a1a5ba963b375c0cb0e533cc47b2a0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||klasszikradio.hu/uploads/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "daf7a915ceb536c5340a7e140fda16751ba1e73516747b2b57246f8d9a7c4220"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||klubradio.hu/data/files/banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0947084dc37bae165fd7b5576742b7dabd9d48aae318ad86ebc89dacd6337cd7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||konkretkonyvek.hu/data/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "18589f79862a2022c974ab67c7b5d9c1c1cf61ea93404498e33a1692034053da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||kuruc.info/galerian/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2843412f1d5ba6e54ca1df2568d24cdbac3c1a5d0b6c9aed1e7f0c6d055bb577"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||libri.hu/html/images/skin/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "071e004f647b482b56af14602273c89c0e028e64c0d08182db223be035f69dca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||lolmarkt.hu/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3c139f988ee5ed2f83eafff2a1f911682f5d871975ba1dcd8919855ac32a1c1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||magyar-elektronika.hu/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "036b42f8e94998d6cae6a733b1011726dbabb9fa0ddebebb71dcb78ef11bbe02"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||mandiner.hu/*/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a0fcc6578af1f55a836080678e1c808c256be3c99b8b4649944a82bdef64b05f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||mandiner.hu/images/design/*-bg.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d82337548097c1d75e1d180ceb4056179d0a16562b388d2481376e854a5a0492"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||metropol.hu/*/images/sponsor_*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9cf00494332d99ef7fd8e4eb152ce898a5e2e171048520ea5f610794ee8325b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||mlzphoto.hu/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a94c96fd25084791414b09a71e64af58d3e87954c9a219caa7d35b06f0f7fefb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||napidroid.hu/*/*logo",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "edf6f0343aaa41e86e39b79ee7445fad8a30d0e2b7630c650f5aabc4fa3a59ee"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||napocska.hu/images/*_advert*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1a51ed06d3341c011fd8fa6ad353d9c64ce70a0a36254ccd745b0665790a29f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||net-solutions.hu/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f385d8b0e70d0b741f3629301da47b431a11d2f170237aa1a440adcbaef29eb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||p3k.hu/*_hatter*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a401e33ed42264babc7da5382f0547be1f6f0ab3efafa09a28a04968dbf48e72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcguru.hu/uploads/banners/*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "87d6f6f9c592463f2d7df7e6026b3b7c98d6845f0237253a0468fccfbea766b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcpult.hu/*/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ad26d36f204954b6e4658d78543dafcb35dbf0a2abdb46d70bf5d6ba8e52a7b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||pcwplus.hu/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3fdc2fdcabf893b7cae710a3242b039629bfc398611512b2dcdd99a7966481e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||piacesprofit.hu/files/skin/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "46c05453995702336907f8f907b245c3b590be0abc28be27e27792f58af84ec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||portfolio.hu/img/partner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a1a101cab4f4849553d11f2629070b7d207f48645f6edd8447931b714880ac56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||preissuchmaschine.de/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5de946ddbeb1dc833390c6985a56712eb60e16ab1e54341842cb697efdd58d38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||prohardver.hu/dl/cnt/*/background.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "20bdd73f03e50cb5c3aa79bafdd206152e5067b89d0ec3513b098ef34dfaa94b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||revizoronline.com/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bd6f28c640542440a63f3352e199714c3b10b3ae1b6ed99d8fac9de660f8c4e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||sg.hu/images/hirdetes.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2db59f6241395bc722d3c69e4b2799fba2387025d27ce613cb9537db6a4df5c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||sielok.hu/kampanybanner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8379da82c6c091e2e0cbf2b0aab76e1cc140996feebef30886e520cc0427f6b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||sikerado.hu/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7afb13afffa8e31ee3c65eecb06d928f93fb162891c841e926e838074524659b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.profession.hu/static/assets/images/prize-game",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d29ed2e08a2ad8ee676e1cb2e0d2b33eb8053b53dbb6cc80d5067af7d439eba5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.lhp.hu/lhp.hu/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e36ae2700cb2cfa2fe0a796e2a5a29c2b62d0aba75d181d46665fa581fb31ebb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.nemzetisport.hu//style/nso/i/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "86465883d63fbbb161c16633b8f1942108973fa59f5b8a9cb70b88b148510152"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.nemzetisport.hu//style/nso/i/betclic.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "07d36311b3fc2289cbefad5a4b7fe7dd6231ea5a108ab1cb4a4d4af3c9ed2eb9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||szegedma.hu/*banners/*.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ceef8ef2a185da1cc6ac36be808cdae01a5ed8cde80a1918d5055b12c656688d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||szepsegbroker.hu/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e273a0e337d819f6607988ddf04ab1f99e5ed04ac5f23ff2195de6f52ef03886"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||telefonguru.hu/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cac38eaa81e1e4ee86bdf4b99f30361c9f913e361261f6e943803e86d2983ebc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||tvn.hu/tvn/kepek/xpoker.hu/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b9b0d7540bb9d7db0303c386b97060b25e072b6a7e26270dae3e27fd5554a723"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||vatera.hu/affiliate/images/banner/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "da818a95778914b842a12c82a29b8acbd4ad5e723d5d46cf7274569eb9cedec5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||vectraline.hu/*/hirdetesek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d6e282e31b9c2104cf81c6f3beeb7927d0a318e6622471e7e5729452d195fa1a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||vezess.hu/data/files/bannerek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3fbf0eb8cd0d578ac2f516e3f7d5c709d5e0b4261aa4416492c223880f590218"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||vezess.hu/data/files/kapcsolodo_anyagok/szponz_hatterek/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eafce6fec87855dba25bea1d6ebef3edd231b2059004608cfb78c9230032a237"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||vezess2.p3k.hu/app/uploads/*nyeremenyjatek",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "607e91849c1005643a79d88ae8b35f92dd4bbcb17f1d82aa99f10c1f8bb445d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.hu/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c671b84b49208875086d2f6d717e49c38ffe6b2e6076656093daead8aebb04bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "/infoblok-szechenyi-2020.png",
+      "initiatorDomains": [
+        "kre.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6076f9683a138bf54b598d24e332cb10e29f8dc5f99ca9b1feb644b895aff9af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "/szechenyi-2020-logo-bottom.png",
+      "initiatorDomains": [
+        "antikvarium.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "69d8900ef6c301d03771d2f475d51654eef502eadbaee815568cefad0afeadb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "/szechenyi-2020-strukturalis-alap-logo.png",
+      "initiatorDomains": [
+        "unideb.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "23639256af47ec05dcc76d7e68f9a55d0496a44b9c6b0e0fcd5966d473be4f42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "/szechenyi_2020_infoblokk_float.png",
+      "initiatorDomains": [
+        "semmelweis.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2df6d663037157a3666ecb2f476619bf8ad6e3bea41885baa85ef3693e1d7419"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "/szt-plusz.jpeg",
+      "initiatorDomains": [
+        "patika-akcio.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1ddd5989bcb2e0aad9c9f97102414f6780a059ca210045398f8bd68181ba982b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "/szt2020_logo.png",
+      "initiatorDomains": [
+        "patika-akcio.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b7c6da6e5eda46f4d3004c4299bdf42edbb2d922bd59e69ea88e6011e3a01439"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "/eu_rrf.jpg",
+      "initiatorDomains": [
+        "bme.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "301e6b1f33ceea98be2c78dcedde91110c0b65d52747c0fa29a22b753cb86c3e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "/pic/cookie.png",
+      "initiatorDomains": [
+        "hestore.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "57074bf3a4bbbf23ff9ac867c6bb9a3afb97b7ac6de6949b51476f39e0945969"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||aghtag.tech/libs/projectagora.min.js^",
+      "initiatorDomains": [
+        "gyakorikerdesek.hu",
+        "hoxa.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b25a31bf8573511ef43f29f52c8616b50b7e936d05326f12368df5ca8467321a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||24.hu/*/sponsoredpost.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a5d56ed625c732a520db30e40960a7515b364245e9fb537b9636ee249673ec87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||glassdoor.com/app/static/js/gd-fj-ads-init",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "adbc62fc5a36f45323b80a43426f34593ee727e76a0694e717bcd913b2b67860"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||iap.cdn.indexvas.hu/scripts.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "89c6badfd08b4543f9d8769e9e4d5c0cf274f33c59b3011c0181b04b42e65a48"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||szegeder.hu/js/ads-prebid.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "834af40fdcd7eb3125b95371a06812e948c56328518772c327e73eaedf3d4261"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||szepsegbroker.hu/elements/bannerz.2019.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c9fdd94d7a20facb9199e89fdb78a6bfc792a010e2422c557de0a8de60af4d3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "/assets-new/js/calculator-widget-init.js",
+      "initiatorDomains": [
+        "money.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "348becacaf5097056ccc15b16ed3b3da44a20bd83ef7bc42b57dd68483cc48ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "/assets/js/bioep.min.js",
+      "initiatorDomains": [
+        "penzcentrum.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b79af60cc73a47992f3cba0163da0fe345d72cccbf2ce660b95221393ccd9fd7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "szepsegbroker.hu"
+      ],
+      "urlFilter": "/items/jquery.floating_popup*.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "13c88bfe085515fa9ea253880402c6a4843bcd9b05ca8acecf0aa2fef8661612"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/push.js",
+      "initiatorDomains": [
+        "infostart.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1bed14072b4802d445547db38846c7844a0754cce796900eb9ad137535df6ea9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "/newsletter.js",
+      "initiatorDomains": [
+        "tudatosvasarlo.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "286d46df77572d2af609dab8801d9b99d1b37835977c88437ca0a8f50bd6f3b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "/subscribepopup.js",
+      "initiatorDomains": [
+        "roadster.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "af4f2d9d5647d94b06bdde9ad063ac6f992083257095eb8ec355aea88036ffec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-popups-lite/src/assets/js/wppopups.js^",
+      "initiatorDomains": [
+        "itthonrolhaza.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b4bc14a6db72f222c615a2a74e0bad1388350a1b47f4fe29a646a9d93ffbfde9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "/yett.min.js",
+      "initiatorDomains": [
+        "mavcsoport.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6a8c09eca9f29ad74e5887d04331de8bc778287048706db7dfac62857dcead54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||widget.moneycdn.com/hitelintezo/moneycheckwidget.min.js",
+      "initiatorDomains": [
+        "ingatlan.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6ccb682b4b64d117a73447876c4f988a88f47815034d4ea0f762d37b9d10b73a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "liked.hu"
+      ],
+      "urlFilter": "/choice/*/cmp2*.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c986d8e567d375721c0cbc064cab97d51acf5ec625395c4a01716fb3ada8b3a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookie.js",
+      "initiatorDomains": [
+        "posta.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ab8559a8ecc3963b70f5dad4c522fe219b7a3c8622c4434496158ce094237cac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "/cookiesettings.min.js",
+      "initiatorDomains": [
+        "ittjartam.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c708867b9156f8a28029dc9fa54126e59d0de9ea1570f655c44f91f26c2e9f0c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "/eu_cookie_compliance.min.js",
+      "initiatorDomains": [
+        "bme.hu",
+        "unideb.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "efbdedb1177d36b0ec981338dcd87199b71bbeaef953d9364c68e7b4801c14ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "/gdpr/kre_cookies.js",
+      "initiatorDomains": [
+        "kre.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "acd86dd9f8bc9d88eb46988988fb095677c9aa4b9a0f72fb6906dea0bb98f987"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "/megacookies.js",
+      "initiatorDomains": [
+        "gabo.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "885c6567da315cf25ef734b3a1cede86676be854b4660b595d949bb69bbc0394"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "/megacookiesworker.js",
+      "initiatorDomains": [
+        "gabo.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f3a925e054104d482ccbf6536620f39feaf92fc4b1309b83e3a799ca084fe0de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "/otsdkstub.js",
+      "initiatorDomains": [
+        "tesco.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "dd2e777fa48813ef5278edde377b32bf4621707e5186a45f2769e838930f42cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/beautiful-and-responsive-cookie-consent",
+      "initiatorDomains": [
+        "patika-akcio.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "01511e1e08661223ddeacad748be7a215af33b13492dc96e9459179e3648176a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/pressidium-cookie-consent",
+      "initiatorDomains": [
+        "tudatosvasarlo.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f27d1c3744f59bb7a8c3d237f74f3d6dfab7e81efd0fd4fe3497cd1e93f70e2a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.quantcast.com"
+      ],
+      "initiatorDomains": [
+        "agrarszektor.hu",
+        "autoszektor.hu",
+        "bacsmegye.hu",
+        "bama.hu",
+        "baon.hu",
+        "beol.hu",
+        "blikk.hu",
+        "boon.hu",
+        "bpiautosok.hu",
+        "budapestkornyeke.hu",
+        "civishir.hu",
+        "delmagyar.hu",
+        "duol.hu",
+        "feol.hu",
+        "g7.hu",
+        "gsplus.hu",
+        "haon.hu",
+        "hardverapro.hu",
+        "hazipatika.com",
+        "heol.hu",
+        "hrportal.hu",
+        "index.hu",
+        "kemma.hu",
+        "kisalfold.hu",
+        "logout.hu",
+        "magyarnarancs.hu",
+        "mandiner.hu",
+        "medicalonline.hu",
+        "mobilarena.hu",
+        "myonlineradio.hu",
+        "nool.hu",
+        "pcwplus.hu",
+        "pestisracok.hu",
+        "player.hu",
+        "port.hu",
+        "portfolio.hu",
+        "prohardver.hu",
+        "sassy.hu",
+        "sonline.hu",
+        "szeretlekmagyarorszag.hu",
+        "szoljon.hu",
+        "szon.hu",
+        "telex.hu",
+        "teol.hu",
+        "totalbike.hu",
+        "totalcar.hu",
+        "twice.hu",
+        "vaol.hu",
+        "veol.hu",
+        "zaol.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "52f61443cfec4fcbcbe6f505a51faa2a76ba4a8b4c9861cf5a96d0a64b7d9847"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||medinfo.ocdn.eu/hu/consent_v2/choice.js^",
+      "initiatorDomains": [
+        "egeszsegkalauz.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "32334c11e3a4e0ae5d059bc7a31c9a344b8068a8245fea9a9f5df3d735cd7b9e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "quantcast.mgr.consensu.org"
+      ],
+      "initiatorDomains": [
+        "agrarszektor.hu",
+        "autoszektor.hu",
+        "bacsmegye.hu",
+        "bama.hu",
+        "baon.hu",
+        "beol.hu",
+        "blikk.hu",
+        "boon.hu",
+        "bpiautosok.hu",
+        "budapestkornyeke.hu",
+        "civishir.hu",
+        "delmagyar.hu",
+        "duol.hu",
+        "feol.hu",
+        "g7.hu",
+        "gsplus.hu",
+        "haon.hu",
+        "hazipatika.com",
+        "heol.hu",
+        "hrportal.hu",
+        "index.hu",
+        "kemma.hu",
+        "kisalfold.hu",
+        "magyarnarancs.hu",
+        "mandiner.hu",
+        "myonlineradio.hu",
+        "nool.hu",
+        "pcwplus.hu",
+        "pestisracok.hu",
+        "player.hu",
+        "port.hu",
+        "portfolio.hu",
+        "sassy.hu",
+        "sonline.hu",
+        "szeretlekmagyarorszag.hu",
+        "szoljon.hu",
+        "szon.hu",
+        "telex.hu",
+        "teol.hu",
+        "totalbike.hu",
+        "totalcar.hu",
+        "twice.hu",
+        "vaol.hu",
+        "veol.hu",
+        "zaol.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4a341df9fe2ae73c012df9948161c417a9e160187ea222d6797cc5d1c51ab618"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.quantcast.mgr.consensu.org/v30/cmpui-popup.js^",
+      "initiatorDomains": [
+        "szeretlekmagyarorszag.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c4be8768d32e06be3ceaec24b73da5ff28b9a1953a75e97ca823a1773359b2c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": ".hu/*eu_cookie_compliance.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ce8dc75c94f2e9327affef959c6f95cf52bf31062d3159ae2665b6b99e3063ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": ".hu/*wp-content/plugins/complianz-gdpr/*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8bea1abb0c78d772f97c18522f43de547360125cd16ec4f7146818179ac1875a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||onlinestream.live/js/adb.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e71a142b6c1bece826fa777c323f5076abd586c12d45acd0b42cef24e1d6702b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "/gemius.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c017138be90368bd8f674e67fb8adef29683cf545e812781a8a7ff4afd4adb02"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "/gemius.min.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "421af9f8a680a6b86038c173005a6543c9a858cb5f4519aa36af930336a40bcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/fatchilli-google-tag-manager/js/fc/analytics-talk-content-tracking.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "271315a7bc376583dfa3eda00603323fb98d58b9ff04120e8beef29aecaf2cfc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/fatchilli-google-tag-manager/js/fc/purchase-tracking.min.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3a605465f1ce756d36914ca9d6875bebd516eb1252938ac1db73ca3c7e8b2f3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-analytify/assets/js/miscellaneous-tracking.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8fd68cac7b2668b170eef077b7da20de80fcc575fc78dbf44246c07b49dbdf51"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "/xgemius.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "30ec33283e019847f81f3c064b0ec7aaa09165d8065e1e14c3b7fead6ebf9381"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "/xgemius.min.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "aa116d8541d7c6840617c840f1814cf278c6b9234bbc4b3e90978214d3627cf8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||api1.keytiles.com/api/v1/webhits-trackingscript^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0cb799010ffc9ea97b9d786ffc29fe41e6d2af15e066f9b076b7853c902b353c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.telex.hu/*/banner.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "53666babacd60eeec982e40bedbb5cd87157b93cab8cdca6e2703622fe612a3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.telex.hu/*/remplib.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "962ba4fa1ea525cfc437561363bf590bef65c825d8a52460406abbd9a0aa01e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||infostart.hu/js/ga.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e3ba2ed768a7faf72bbded6951ac54964554980adf98457290310337aadaf088"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||scripts.keytiles.com/tracking/*.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "307888d893c2b5fa6c72d769e0b2db75345498042680f76ead715aaedef922bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||stat.p24.hu/*/measuring-codes/*.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "59e1b5b299622cfeeb5bd27db2d60befc6955ec532647657b9ea3903b899c692"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "affiliate.hu",
+        "bannerserver.hu"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d4e8dd70c53d5bef22436efc6ca1827f7ecdd644640cc8b00dd15ea938012afa",
+      "c4f8768055fef22f8cc56a95c98b0eb124a706a8b6335fe35d902dabdf2f0598"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.hu",
+        "keys": [
+          "d4e8dd70c53d5bef22436efc6ca1827f7ecdd644640cc8b00dd15ea938012afa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerserver.hu",
+        "keys": [
+          "c4f8768055fef22f8cc56a95c98b0eb124a706a8b6335fe35d902dabdf2f0598"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||mobilarena.hu/ajanlo/lapcsalad.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a394f2c9448626ab808fc163d9af4f6cbf6efc8de1d5003ad08b2a78b20cd8dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||okmanyiroda.hu/banner.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "83a1d01d828deafe232ff0b5934408caac4ad85e41bc2b793f5eab5e106b0415"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||telefonguru.hu/iframes/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "e7efa50bb039ea879d671d5361a8e2c92e67481f775cd5bddc960d918c50bb13"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "gyakorikerdesek.hu"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "e89aaf3672dbdfa3e69bbbfa315d86388315256f681b2801f9e2ebcedb8d7629"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "gyakorikerdesek.hu",
+        "keys": [
+          "e89aaf3672dbdfa3e69bbbfa315d86388315256f681b2801f9e2ebcedb8d7629"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aliexpress.hu",
+        "aliexpressz.hu",
+        "azsiacentrum.hu",
+        "kinaiwebaruhaz.hu",
+        "maplin.hu",
+        "mikroelektronik.hu",
+        "petpoolalarm.com",
+        "sexmeup.hu",
+        "magyarszo.com"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "9977501c722897083098f8ddd9ef4795efba8c331480fd5901d24466eb8e3e7c",
+      "7e7b1e1950661b5aacd61e0fae2590ddcdefce362ca41b5eb939cd7c615e7e77",
+      "d07193a0f743a525f909bd39619a8947b91b88617ea9bdee076d87a07ca9811a",
+      "3cdeab5dc608278322fd0de45f1a9b350635e1913d192a8a4a54664666be5cbd",
+      "9fcb8cce667f930d690b3c49ce129868cb773001b1dfe1631653fec7a9ab02e5",
+      "3c28d7f8256ee6310a03fe28439ae806ef205f4b43ddc6464875d2b9b5b2cee9",
+      "07f1b2438c8d50740a24b9ba3ac656d0a60067db4453389364b4bef20c579336",
+      "6690551b7f9c3200d7e373d569609ab0b7f09cddd3a5c6ceadfb784618b615d4",
+      "9ed470e17fff399473942b0dc5ac5d130041328706d36aa70b3c268448d8b791"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "aliexpress.hu",
+        "keys": [
+          "9977501c722897083098f8ddd9ef4795efba8c331480fd5901d24466eb8e3e7c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aliexpressz.hu",
+        "keys": [
+          "7e7b1e1950661b5aacd61e0fae2590ddcdefce362ca41b5eb939cd7c615e7e77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "azsiacentrum.hu",
+        "keys": [
+          "d07193a0f743a525f909bd39619a8947b91b88617ea9bdee076d87a07ca9811a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kinaiwebaruhaz.hu",
+        "keys": [
+          "3cdeab5dc608278322fd0de45f1a9b350635e1913d192a8a4a54664666be5cbd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "maplin.hu",
+        "keys": [
+          "9fcb8cce667f930d690b3c49ce129868cb773001b1dfe1631653fec7a9ab02e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mikroelektronik.hu",
+        "keys": [
+          "3c28d7f8256ee6310a03fe28439ae806ef205f4b43ddc6464875d2b9b5b2cee9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "petpoolalarm.com",
+        "keys": [
+          "07f1b2438c8d50740a24b9ba3ac656d0a60067db4453389364b4bef20c579336"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sexmeup.hu",
+        "keys": [
+          "6690551b7f9c3200d7e373d569609ab0b7f09cddd3a5c6ceadfb784618b615d4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magyarszo.com",
+        "keys": [
+          "9ed470e17fff399473942b0dc5ac5d130041328706d36aa70b3c268448d8b791"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "abmr.net",
+        "abo-widget.xyz",
+        "apiv2.indidata.com",
+        "ad.hu",
+        "ad4mat.net",
+        "adfox.ru",
+        "ads.sg.hu",
+        "ads.ventivmedia.com",
+        "advantage.as",
+        "advertshot.ru",
+        "affiliate.hu",
+        "audtd.com",
+        "banner.aqua.hu",
+        "betfair.com",
+        "bongacash.com",
+        "calivary.com",
+        "cfusion-internet.com",
+        "clicksure.com",
+        "data.bookline.hu",
+        "head-clickfusion.com",
+        "hitelkereso.hu",
+        "iitech.dk",
+        "ingatlannet.hu",
+        "js.leadin.com",
+        "klix.hu",
+        "link.adaptivemedia.hu",
+        "mytarget.hu",
+        "napiaszhirdetesek",
+        "out.pladform.ru",
+        "po.st",
+        "pornedup.com",
+        "premads.info",
+        "salesmanago.pl",
+        "seedr.com",
+        "seedr.ru",
+        "sexchat.hu",
+        "shortlink.sex",
+        "statsector.hu",
+        "streameye.net",
+        "sumome.com",
+        "tripod.com",
+        "tripod.lycos.com",
+        "tulajdonostol.com",
+        "webminute.hu",
+        "analytics.yahoo.com",
+        "clarity.ms",
+        "counter.hitslink.com",
+        "customer.io",
+        "ebxcdn.com",
+        "ex1tp.com",
+        "google-analytics.com",
+        "gravity.com",
+        "lo.v.liveperson.net",
+        "onesignal.com",
+        "performax.cz",
+        "targetix.net",
+        "track306.info",
+        "trackingterrorism.org",
+        "track.segmentstream.com",
+        "nr-data.net",
+        "js-agent.newrelic.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "54837ce6a861c46d2c50a3fd33414c5570144322db7d53e0c063285341330393",
+      "90431a7c761077fc821684716e32f73a499eac57be7b4d0ddd9adb28ff689a1a",
+      "c574afe8bd5be048aca6cbea3b6e3e9e715feb16e630306174c899d76189d765",
+      "da6be5ba6927b19b09c67f1a0714aa019ac5f4ead657b0f2149cb0f784d4e4d1",
+      "fb2a619bbf1fa0a7650073986f055535ee1485a590ac9960f8e6d62755d0ea34",
+      "4bc8e3934287beb8426c75b2cde0cef62d0b45b67e5775520c030e0fb455beb3",
+      "8ca1b76d526865c10785e94f4fe24083e1d9c6d36e25e172033ef2f3ffbbd772",
+      "280abd5c69e02d97175ec13a07bbedd30d89ee9476afcd734a77b230c5fa6de3",
+      "a534579ab553eaa83e3533fc19dbb961303bb66885a7cf95522222cdd971a626",
+      "ff56d0c71e6611364e3bacaa5175e0b8cfa8cb290672fb105a79e71016bcf602",
+      "2489287c2247ef6706a753e5c2b996281c2564adaf28a7061466c0c3ba59ffd0",
+      "240d8187d6e648e143034c7c746c44efb5fef33c327467ff997e145dbf67b60c",
+      "a4e6edd68078efcc7f650a314a45bf8206bffcec7e0dbf8e6fa32a95a1223b8f",
+      "b77d5581f9cdf1aa0cb0f9143b629811efec10b704f47ae2ff7cf2083de6376c",
+      "6ef347287caedd6fbd0b6e682718ef1be718425c154b0497cade27d6de9b021a",
+      "073e8f6deb3934725bf41db8754d9ff6c73bd2fe3dd05e01edfd7140807ac866",
+      "96ba12c677d4e98c95d2d7d6908b7b62ba3aafca79f3f7b926bbfe39dd7029a6",
+      "69b8d5cf471e55dccf4c851bb892fa2b27073c0fff28523c6ee6d91c1302e495",
+      "ccaf4716e950eed0223205cc83313fe93ef952cf3bfd7ee2982f379f4212ceaf",
+      "553623fef71e4f440e681ced711821b5f69ccb0412ff18b9814a343189d3620a",
+      "01c22fc168223521af00d5f4819527b583a8a5ea26b478aada72ca5311c4722c",
+      "a376e8a2d29602c8054bb0aac7a7e2f2d7bbe54a5170a895b38fc5157eb7d6ed",
+      "50d71266e8e10bf16043b56d2e9a2b7dfe0177ee1a5aff6943477944f5634b6b",
+      "fc7bbd5e661fed8126e04e34137eb353c2720514849764d0ea6f46aa0eefd0fc",
+      "75df8918e3b872c134882926a6029bf070b189ac5d38fcc2c2e872ec70c1a558",
+      "4433d464f322f6b7892b473e4b107618448e1ce822ed77fbbfebea5549fc3852",
+      "eb395304e571ff7849636a674397bd9338ec4fb34b5c0a6215e03cb35e151330",
+      "69a8f876ac7bce6b30d3ce94fa861e871dc12c808a9701981ac29dfa677a35c4",
+      "5bef4a6f7517280a2f103f4858cdc20caa218e41509c97dd64dc285467079e66",
+      "d223c578b08810e2e060e38bc8e859b00e1230e13818334a8d21136597b73841",
+      "a80ab3f71a73bcdb2e4d8001444218a23033abc4442611fe9936dd391b9351b2",
+      "ea75731a7a767e962ab18a7dc018da1d76b40a7d2021e747575a4027ec0a649e",
+      "aa3d6e7fe4bffdb91d9b3aaaefe6107966aeacac6f691e5612bbcec0a7af3f2e",
+      "04917df36e4aade990b9bda9912421cb03fe51f8b334efaf2c43be3936a1f842",
+      "37f361e4eed72e04cf4e1c8ee85bf488592bd24c364a6768e59a763f1ad221a6",
+      "dab95fbad72b3cccaadfc810a769521bbab190e5a78ef33d1fec9ea088fab126",
+      "1a7169e0292e031e931e1bb032522e841e0f5cbb6133083593dcee1c38fd012e",
+      "5748b30c80de676aea17eee34ae51fade581d411ab3384bb360cbddabcca92c7",
+      "b357d5988664dc079b64a8efd0f44ec7a101088464b6a8e9b260713e3954d750",
+      "fa47e731cdde6eac75a80645bcef8e6ed7610e221984aee24a807f69472229f2",
+      "d5e583a44d4a4fece42694ee332c28232e4641fa1e661d334b6a14337d0ca4a4",
+      "8a6abe426618fc1720bb59bfade68fb530baa461a23303b00149f453a41e732b",
+      "f799ba6f8b548c4e36ff4c31514d78432a981fa350ce6dd5c46fa11b71429a58",
+      "a36b82e3f8ba745eacc0137433dd99e57e966fbba850f75a3c9fa4801cb22c2e",
+      "d2cdc76d53f2e834bbba3ed05edac6a192b0ab8aeea70c0a52366925d0252d7e",
+      "e1f8cf83dcddc00da28a7f52b3efdcf3475f994d0ad57aba6fa9329262a3d157",
+      "176d97279e83e71d320a0629f4fe1f0a51f559eacdbb10ee2ea2c0924b935aea",
+      "1ee6da8ba6bd418afd0cac8208f9caa6a48bf3215fa2de0e731fcba9e3d0e6ab",
+      "c72b687813587cd0a4d6f4ff19c7e764e78390415133690837493b70ea1677e2",
+      "7e0e286ab7d01b13779e8e9cdf88a86c991510026f85f4d9a9be4d8f36429bbd",
+      "3fe888c87c20fc210c888b83de59132edee2782dad05250b52dfc862b833a1a7",
+      "efa7cdbc36225ed8371181819f287910dcd51988f3b5dbbc59208715efa4c5d6",
+      "802f0aca2f5edd5b4f53d9f39db5aba1308ae5b2e4267da8953aa10971c29db9",
+      "17e8c563d2191fd860d3293bee9c8859afb59c9cd8c749688db48a5459300cf7",
+      "ad3a704b13339884c9e1aaa1970468eee44cbd4247b0280040b39211994c0c71",
+      "2f4763ee6c0a43f636f922d5ca953f3d9aa012761750df65af7e156700ea0e3c",
+      "2bd087766d399b9a81e36ba9e34ff32eeef6e1dd1fd5900ae28fb21989adfa77",
+      "732e1205ebebdcadb8a28dba58beb595296f69a21e091aa94ca0dadad2dddecc",
+      "4cf6f584958f38773f88c4bb3109c80a0e2487948535e4e6f12e9c6247870c63",
+      "6e7aea25c0f35e35239976467811a219a2053f9ae77b879ce57c4db749042d03",
+      "3edce29801da7ee48b5fb848c4c6a9a04c5062f30f64c2d322fd31160cb2cee6"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "abmr.net",
+        "keys": [
+          "54837ce6a861c46d2c50a3fd33414c5570144322db7d53e0c063285341330393"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "abo-widget.xyz",
+        "keys": [
+          "90431a7c761077fc821684716e32f73a499eac57be7b4d0ddd9adb28ff689a1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "apiv2.indidata.com",
+        "keys": [
+          "c574afe8bd5be048aca6cbea3b6e3e9e715feb16e630306174c899d76189d765"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.hu",
+        "keys": [
+          "da6be5ba6927b19b09c67f1a0714aa019ac5f4ead657b0f2149cb0f784d4e4d1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad4mat.net",
+        "keys": [
+          "fb2a619bbf1fa0a7650073986f055535ee1485a590ac9960f8e6d62755d0ea34"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adfox.ru",
+        "keys": [
+          "4bc8e3934287beb8426c75b2cde0cef62d0b45b67e5775520c030e0fb455beb3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.sg.hu",
+        "keys": [
+          "8ca1b76d526865c10785e94f4fe24083e1d9c6d36e25e172033ef2f3ffbbd772"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.ventivmedia.com",
+        "keys": [
+          "280abd5c69e02d97175ec13a07bbedd30d89ee9476afcd734a77b230c5fa6de3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advantage.as",
+        "keys": [
+          "a534579ab553eaa83e3533fc19dbb961303bb66885a7cf95522222cdd971a626"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advertshot.ru",
+        "keys": [
+          "ff56d0c71e6611364e3bacaa5175e0b8cfa8cb290672fb105a79e71016bcf602"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.hu",
+        "keys": [
+          "2489287c2247ef6706a753e5c2b996281c2564adaf28a7061466c0c3ba59ffd0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "audtd.com",
+        "keys": [
+          "240d8187d6e648e143034c7c746c44efb5fef33c327467ff997e145dbf67b60c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.aqua.hu",
+        "keys": [
+          "a4e6edd68078efcc7f650a314a45bf8206bffcec7e0dbf8e6fa32a95a1223b8f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "betfair.com",
+        "keys": [
+          "b77d5581f9cdf1aa0cb0f9143b629811efec10b704f47ae2ff7cf2083de6376c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bongacash.com",
+        "keys": [
+          "6ef347287caedd6fbd0b6e682718ef1be718425c154b0497cade27d6de9b021a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "calivary.com",
+        "keys": [
+          "073e8f6deb3934725bf41db8754d9ff6c73bd2fe3dd05e01edfd7140807ac866"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cfusion-internet.com",
+        "keys": [
+          "96ba12c677d4e98c95d2d7d6908b7b62ba3aafca79f3f7b926bbfe39dd7029a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clicksure.com",
+        "keys": [
+          "69b8d5cf471e55dccf4c851bb892fa2b27073c0fff28523c6ee6d91c1302e495"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "data.bookline.hu",
+        "keys": [
+          "ccaf4716e950eed0223205cc83313fe93ef952cf3bfd7ee2982f379f4212ceaf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "head-clickfusion.com",
+        "keys": [
+          "553623fef71e4f440e681ced711821b5f69ccb0412ff18b9814a343189d3620a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hitelkereso.hu",
+        "keys": [
+          "01c22fc168223521af00d5f4819527b583a8a5ea26b478aada72ca5311c4722c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "iitech.dk",
+        "keys": [
+          "a376e8a2d29602c8054bb0aac7a7e2f2d7bbe54a5170a895b38fc5157eb7d6ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ingatlannet.hu",
+        "keys": [
+          "50d71266e8e10bf16043b56d2e9a2b7dfe0177ee1a5aff6943477944f5634b6b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "js.leadin.com",
+        "keys": [
+          "fc7bbd5e661fed8126e04e34137eb353c2720514849764d0ea6f46aa0eefd0fc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klix.hu",
+        "keys": [
+          "75df8918e3b872c134882926a6029bf070b189ac5d38fcc2c2e872ec70c1a558"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "link.adaptivemedia.hu",
+        "keys": [
+          "4433d464f322f6b7892b473e4b107618448e1ce822ed77fbbfebea5549fc3852"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mytarget.hu",
+        "keys": [
+          "eb395304e571ff7849636a674397bd9338ec4fb34b5c0a6215e03cb35e151330"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "napiaszhirdetesek",
+        "keys": [
+          "69a8f876ac7bce6b30d3ce94fa861e871dc12c808a9701981ac29dfa677a35c4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "out.pladform.ru",
+        "keys": [
+          "5bef4a6f7517280a2f103f4858cdc20caa218e41509c97dd64dc285467079e66"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "po.st",
+        "keys": [
+          "d223c578b08810e2e060e38bc8e859b00e1230e13818334a8d21136597b73841"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pornedup.com",
+        "keys": [
+          "a80ab3f71a73bcdb2e4d8001444218a23033abc4442611fe9936dd391b9351b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "premads.info",
+        "keys": [
+          "ea75731a7a767e962ab18a7dc018da1d76b40a7d2021e747575a4027ec0a649e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "salesmanago.pl",
+        "keys": [
+          "aa3d6e7fe4bffdb91d9b3aaaefe6107966aeacac6f691e5612bbcec0a7af3f2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "seedr.com",
+        "keys": [
+          "04917df36e4aade990b9bda9912421cb03fe51f8b334efaf2c43be3936a1f842"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "seedr.ru",
+        "keys": [
+          "37f361e4eed72e04cf4e1c8ee85bf488592bd24c364a6768e59a763f1ad221a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sexchat.hu",
+        "keys": [
+          "dab95fbad72b3cccaadfc810a769521bbab190e5a78ef33d1fec9ea088fab126"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shortlink.sex",
+        "keys": [
+          "1a7169e0292e031e931e1bb032522e841e0f5cbb6133083593dcee1c38fd012e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statsector.hu",
+        "keys": [
+          "5748b30c80de676aea17eee34ae51fade581d411ab3384bb360cbddabcca92c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "streameye.net",
+        "keys": [
+          "b357d5988664dc079b64a8efd0f44ec7a101088464b6a8e9b260713e3954d750"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sumome.com",
+        "keys": [
+          "fa47e731cdde6eac75a80645bcef8e6ed7610e221984aee24a807f69472229f2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tripod.com",
+        "keys": [
+          "d5e583a44d4a4fece42694ee332c28232e4641fa1e661d334b6a14337d0ca4a4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tripod.lycos.com",
+        "keys": [
+          "8a6abe426618fc1720bb59bfade68fb530baa461a23303b00149f453a41e732b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tulajdonostol.com",
+        "keys": [
+          "f799ba6f8b548c4e36ff4c31514d78432a981fa350ce6dd5c46fa11b71429a58"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webminute.hu",
+        "keys": [
+          "a36b82e3f8ba745eacc0137433dd99e57e966fbba850f75a3c9fa4801cb22c2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.yahoo.com",
+        "keys": [
+          "d2cdc76d53f2e834bbba3ed05edac6a192b0ab8aeea70c0a52366925d0252d7e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clarity.ms",
+        "keys": [
+          "e1f8cf83dcddc00da28a7f52b3efdcf3475f994d0ad57aba6fa9329262a3d157"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "counter.hitslink.com",
+        "keys": [
+          "176d97279e83e71d320a0629f4fe1f0a51f559eacdbb10ee2ea2c0924b935aea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "customer.io",
+        "keys": [
+          "1ee6da8ba6bd418afd0cac8208f9caa6a48bf3215fa2de0e731fcba9e3d0e6ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ebxcdn.com",
+        "keys": [
+          "c72b687813587cd0a4d6f4ff19c7e764e78390415133690837493b70ea1677e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ex1tp.com",
+        "keys": [
+          "7e0e286ab7d01b13779e8e9cdf88a86c991510026f85f4d9a9be4d8f36429bbd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "google-analytics.com",
+        "keys": [
+          "3fe888c87c20fc210c888b83de59132edee2782dad05250b52dfc862b833a1a7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gravity.com",
+        "keys": [
+          "efa7cdbc36225ed8371181819f287910dcd51988f3b5dbbc59208715efa4c5d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lo.v.liveperson.net",
+        "keys": [
+          "802f0aca2f5edd5b4f53d9f39db5aba1308ae5b2e4267da8953aa10971c29db9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onesignal.com",
+        "keys": [
+          "17e8c563d2191fd860d3293bee9c8859afb59c9cd8c749688db48a5459300cf7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "performax.cz",
+        "keys": [
+          "ad3a704b13339884c9e1aaa1970468eee44cbd4247b0280040b39211994c0c71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "targetix.net",
+        "keys": [
+          "2f4763ee6c0a43f636f922d5ca953f3d9aa012761750df65af7e156700ea0e3c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "track306.info",
+        "keys": [
+          "2bd087766d399b9a81e36ba9e34ff32eeef6e1dd1fd5900ae28fb21989adfa77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackingterrorism.org",
+        "keys": [
+          "732e1205ebebdcadb8a28dba58beb595296f69a21e091aa94ca0dadad2dddecc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "track.segmentstream.com",
+        "keys": [
+          "4cf6f584958f38773f88c4bb3109c80a0e2487948535e4e6f12e9c6247870c63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nr-data.net",
+        "keys": [
+          "6e7aea25c0f35e35239976467811a219a2053f9ae77b879ce57c4db749042d03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "js-agent.newrelic.com",
+        "keys": [
+          "3edce29801da7ee48b5fb848c4c6a9a04c5062f30f64c2d322fd31160cb2cee6"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||m2mzona.hu/ads^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f45c63a651d8bb3da735fe8b346982910772576f984d198abd8d5e34aab5d356"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "optimonk.com"
+      ],
+      "initiatorDomains": [
+        "mandiner.hu"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "544d384cd3b4ccf4c664490959a09ea90cf5fc56353fe8feb2e474429642fafc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.setupcmp.com"
+      ],
+      "initiatorDomains": [
+        "erettsegi.com",
+        "rimkereso.hu"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2dc64db48bd9a7bcb25d46b8eadbf17445f40ec772ee906fd5180ece4416b817"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "gvl-dev.setupcmp.com"
+      ],
+      "initiatorDomains": [
+        "erettsegi.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6d731b10c4d915c56c2e8472166679cb1fc19904135411e63efd4d818f297f22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "api.indidata.com"
+      ],
+      "initiatorDomains": [
+        "civishir.hu"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1a967229ee49339706932264e4dab59048fa06d99fd707924f5d828da6c42c34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "cmp.inmobi.com"
+      ],
+      "initiatorDomains": [
+        "444.hu",
+        "astronet.hu",
+        "atlatszo.hu",
+        "automotor.hu",
+        "autoszektor.hu",
+        "blikk.hu",
+        "borsonline.hu",
+        "bpiautosok.hu",
+        "budapestkornyeke.hu",
+        "cafeblog.hu",
+        "dietaesfitnesz.hu",
+        "economx.hu",
+        "eduline.hu",
+        "esport1.hu",
+        "femina.hu",
+        "fototrend.hu",
+        "freemail.hu",
+        "g7.hu",
+        "glamour.hu",
+        "greendex.hu",
+        "hardverapro.hu",
+        "hazipatika.com",
+        "hirfm.hu",
+        "hirstart.hu",
+        "hvg.hu",
+        "indavideo.hu",
+        "index.hu",
+        "ingatlanbazar.hu",
+        "kekvillogo.hu",
+        "kisalfold.hu",
+        "koponyeg.hu",
+        "lakaskultura.hu",
+        "life.hu",
+        "likebalaton.hu",
+        "logout.hu",
+        "magyarnarancs.hu",
+        "magyarnemzet.hu",
+        "media1.hu",
+        "metropol.hu",
+        "mindmegette.hu",
+        "mobilarena.hu",
+        "musicdaily.hu",
+        "myonlineradio.hu",
+        "napidoktor.hu",
+        "nepszava.hu",
+        "nlc.hu",
+        "noizz.hu",
+        "nosalty.hu",
+        "origo.hu",
+        "papageno.hu",
+        "pcguru.hu",
+        "penzcentrum.hu",
+        "pestisracok.hu",
+        "portfolio.hu",
+        "prohardver.hu",
+        "radio1gong.hu",
+        "ripost.hu",
+        "rtl.hu",
+        "startlap.hu",
+        "szabadfold.hu",
+        "telex.hu",
+        "travelo.hu",
+        "tvmusor.hu",
+        "vg.hu",
+        "videa.hu",
+        "videkize.hu",
+        "vitorlazasmagazin.hu",
+        "wmn.hu"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c2abea10986be49e286b58fde8add2e6440d80cddf07bde59cc2570339ea9f08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "consent.cookiebot.com"
+      ],
+      "initiatorDomains": [
+        "agroinform.hu",
+        "ingatlan.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "fe0d290b0e64797947f19f93a1da079c36b4c8f919c06ccc5913ae8ab3e7442a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "va.v.liveperson.net"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2bd787e9d9b831008ebf302bcec8b36c4828529ae87cd06f25095e92e2422b19"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "va.v.liveperson.net",
+        "keys": [
+          "2bd787e9d9b831008ebf302bcec8b36c4828529ae87cd06f25095e92e2422b19"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.cookielaw.org/scripttemplates/otsdkstub.js",
+      "initiatorDomains": [
+        "homedepot.ca"
+      ]
+    },
+    "_sourceKeys": [
+      "af18977f35ac8968e2ec250292a459305950177009243b3b703573be18056ed9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "mafab.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "dcc704e16f73ac48f5fb3cca5c8e8e0cf306580b2279167c88aed2cc62877a9d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.cookielaw.org/scripttemplates/otsdkstub.js",
+      "initiatorDomains": [
+        "hu.iqos.com"
+      ]
+    },
+    "_sourceKeys": [
+      "35fd105efb7c45106192d5438f9b3d1731fd3fed253c3812200dd865b55b66b0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||kollegium-neriszentfulop.chemin-neuf.hu/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js",
+      "initiatorDomains": [
+        "kollegium-neriszentfulop.chemin-neuf.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "b6dd1b45c869acc794cda0910b5f80701d718d506ba1019c466862376b717edb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||kollegium-neriszentfulop.chemin-neuf.hu/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css",
+      "initiatorDomains": [
+        "kollegium-neriszentfulop.chemin-neuf.hu"
+      ]
+    },
+    "_sourceKeys": [
+      "1825f8d2596a75ab33340706a0d82f169441205aacff7fdb1c6db00587229958"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||gyakorikerdesek.hu/p/",
+      "initiatorDomains": [
+        "gyakorikerdesek.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "739f08927430833bdedc213d97ae683e91d73ef2b802ec66abb05f678e9057c7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.gyakorikerdesek.hu/favicon.ico",
+      "initiatorDomains": [
+        "gyakorikerdesek.hu"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ce65ec449184d802b1517ebd7541a61766645b3658efc2004d27dabc607447d8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/adx_blacklist.js",
+      "initiatorDomains": [
+        "bikemag.hu",
+        "testbike.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4d45256048e30ff1147fceea7cb6e64d3471def34b9b01977e48f69cf0344b9b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.portfolio.hu/js/ad_300x250.js",
+      "initiatorDomains": [
+        "portfolio.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a763d13b12961aaa636009e0c04222fff68eea6a5378a9d1e7f5484f79ac4764"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||777blog.hu/wp-content/themes/florence/js/dfp.min.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f85eb1c6636da2a3a6555b3fd4049db9fff4592dc2f49fe6dbfc7dfbd46d54b5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitepito.hu/rejtveny/data/ads/pagead/js/adsbygoogle.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a3a3be129b0f4994abb9520df2172f13b2e5ea39ca15b9e3e730f9fbb46d5d64"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitepito.hu/rejtveny/data/ads/adsense.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f641ac4b549aaf311fdb26d54f3767845896df0c62e408814e95085512ec197a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||bitepito.hu/rejtveny/data/ads/googleads.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3630726785284818e7a6fa451d972f070aea3a3d6407c87e1c978b20354e9cb3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||meszotar.hu/scripts/advertising.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "48097eb934381a44970c301450fa315b95775208ba1a0a04ccd1e6f744a32244"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||pro.hit.gemius.pl/gstream.js",
+      "initiatorDomains": [
+        "embed.rtl.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b4b1c3bd2a19e33a40f754122eeb780b19cb36cb3b980cc57b1af8e1a485b768"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 239
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adocean.pl"
+      ],
+      "initiatorDomains": [
+        "menetrendek.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4e4d1a393d5756cc9b6e1589b42afd6d82c2153d990eeba1e8b13190f3641422"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 240
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "googlesyndication_adsbygoogle.js",
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "initiatorDomains": [
+        "pcforum.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ee557e359a5c9141647f377038a0c7e13fe142e48e98771d3fe5ee59c140253a"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/googlesyndication_adsbygoogle.js"
+      }
+    },
+    "priority": 11,
+    "id": 241
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^",
+      "initiatorDomains": [
+        "myonlineradio.hu"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9b429db606cb4ae9a5641a9e9bbdf0071f52ab65a009773c02701031427a1ae2"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 242
+  }
+]

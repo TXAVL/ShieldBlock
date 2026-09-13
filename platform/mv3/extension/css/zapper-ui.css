@@ -1,0 +1,29 @@
+:root#ublock-plus-zapper {
+    --quit-button-size: max(4em, min(6em, calc(100vw / 8), calc(100vh / 8)));
+    --ublock-plus-overlay-fill: rgba(255,255,63,0.10);
+    --ublock-plus-overlay-border: #FF0;
+}
+
+#ublock-plus-zapper aside {
+    gap: 2px;
+    right: 2px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#ublock-plus-zapper aside > div {
+    background-color: var(--surface-1);
+    border: 1px solid rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    fill: none;
+    stroke: var(--ink-1);
+    stroke-width: 2px;
+    width: var(--quit-button-size);
+    height: var(--quit-button-size);
+}
+#ublock-plus-zapper aside > div:hover {
+    background-color: var(--surface-2)
+}
+:root:not(.mobile) #pick {
+    display: none;
+}

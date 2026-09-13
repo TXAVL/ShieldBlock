@@ -1,0 +1,106 @@
+[
+  {
+    "condition": {
+      "initiatorDomains": [
+        "filmux.to"
+      ]
+    },
+    "_sourceKeys": [
+      "c1784c32b4256b0cd9176440bbef7f8f96a326f94213c87d5b8b6dcba52d401a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "filmux.to",
+        "keys": [
+          "c1784c32b4256b0cd9176440bbef7f8f96a326f94213c87d5b8b6dcba52d401a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betsafe.lt",
+        "optibet.lt",
+        "enlabspartners.com"
+      ]
+    },
+    "_sourceKeys": [
+      "3979274132ca19c20a1a3981a6131cd3587f9eefb28680b1937b53fbc7c9dd82",
+      "a001551963e31e8b774c35469d43ae1f007ac7177dc84fa6d3f35e5ecd4d165b",
+      "2962dba13866ae39fc9628d3de4fb8a0e150866ac64433cebbe18928b2419c00"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "betsafe.lt",
+        "keys": [
+          "3979274132ca19c20a1a3981a6131cd3587f9eefb28680b1937b53fbc7c9dd82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "optibet.lt",
+        "keys": [
+          "a001551963e31e8b774c35469d43ae1f007ac7177dc84fa6d3f35e5ecd4d165b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "enlabspartners.com",
+        "keys": [
+          "2962dba13866ae39fc9628d3de4fb8a0e150866ac64433cebbe18928b2419c00"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "_adcash|"
+    },
+    "_sourceKeys": [
+      "5ea966941dd3fab7b36bca59968a98aeb7ed1c1884ff1c8c95f50784ff55ecfa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "topsport.lt"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f3d6d3d7f9215e7ecf23757074af3cf16569c19a3e5185ab0f5cf93903bc7155"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "topsport.lt",
+        "keys": [
+          "f3d6d3d7f9215e7ecf23757074af3cf16569c19a3e5185ab0f5cf93903bc7155"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  }
+]

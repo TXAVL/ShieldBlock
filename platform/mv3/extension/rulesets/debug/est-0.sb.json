@@ -1,0 +1,26 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "openx.static.kava.ee"
+      ]
+    },
+    "_sourceKeys": [
+      "a4012bf3ae09fb0ad26e5c8b42250ed8d2805fb68a2ccedd258ca8d8a11efcac"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "openx.static.kava.ee",
+        "keys": [
+          "a4012bf3ae09fb0ad26e5c8b42250ed8d2805fb68a2ccedd258ca8d8a11efcac"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  }
+]

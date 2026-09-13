@@ -1,0 +1,3018 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "adtodate.ir",
+        "anetwork.ir",
+        "adverge.ir",
+        "adrooz.com",
+        "affilio.ir",
+        "analyt.ir",
+        "scripts-ads.s3.ir-thr-at1.arvanstorage.com",
+        "error-tracking.arvancloud.com",
+        "adexo.ir",
+        "adexofiles.ir",
+        "adskav.com",
+        "advn.ir",
+        "amaroid.net",
+        "adwised.com",
+        "adwisedfs.com",
+        "adivery.com",
+        "adnegah.net",
+        "adpulse.ir",
+        "adsima.net",
+        "adtrace.io",
+        "adtrace.ir",
+        "adtrace.world",
+        "affili.ir",
+        "amarfa.ir",
+        "ayyaar.ir",
+        "adro.co",
+        "adro.ir",
+        "bitad.ir",
+        "binoads.ir",
+        "bl9.ir",
+        "backlink.ir",
+        "boorantech.com",
+        "behinava.com",
+        "radar.bayan.ir",
+        "behtarinseo.ir",
+        "backority.ir",
+        "cayot.ir",
+        "chavosh.org",
+        "ck.chavosh.org",
+        "clickaval.com",
+        "clickyab.com",
+        "chabok.io",
+        "congoro.com",
+        "congoro.ir",
+        "dezhino.com",
+        "daartads.com",
+        "daneshin.ir",
+        "24d.ir",
+        "l.24d.ir",
+        "davedbux.ir",
+        "denutility.com",
+        "deemanetwork.com",
+        "deema.agency",
+        "deemaagency.ir",
+        "click.digiato.com",
+        "facepop.org",
+        "farsbux.ir",
+        "fastclick.ir",
+        "farakav.com",
+        "ads.farakav.com",
+        "sentry.hamravesh.com",
+        "notifhub.com",
+        "hantana.org",
+        "intrack.ir",
+        "geoip.imber.live",
+        "jetbux.ir",
+        "api.karpishe.com",
+        "kajads.com",
+        "ads.karzar.net",
+        "kaprila.com",
+        "linkfars.com",
+        "landyab.com",
+        "ir.mihanstore.net",
+        "metrix.ir",
+        "mediaad.org",
+        "magnetadservices.com",
+        "merita.ir",
+        "mitrarank.ir",
+        "analytics.nastooh.ir",
+        "newswidget.net",
+        "vidomusic.org",
+        "pantatec.ae",
+        "netbina.com",
+        "perlika.com",
+        "pelikan-network.ir",
+        "pegah.tech",
+        "pushq.ir",
+        "pooye-ads.com",
+        "promizer.com",
+        "phonroid.com",
+        "popina.ir",
+        "popupdl.ir",
+        "popland.info",
+        "phoenixad.io",
+        "partclick.ir",
+        "persianrank.ir",
+        "popgozar.com",
+        "popupplus.ir",
+        "popupme.net",
+        "pushe.co",
+        "p30rank.ir",
+        "publica.ir",
+        "rankirani.ir",
+        "rssbank.ir",
+        "spellpop.ir",
+        "spellads.com",
+        "offers.sapra.ir",
+        "statsfa.com",
+        "sendword.ir",
+        "sanjagh.com",
+        "sanjagh.net",
+        "ads.safarme.ir",
+        "sabavision.com",
+        "sabaidea.cloud",
+        "triboon.net",
+        "te1.ir",
+        "talapop.ir",
+        "tabligheirani.ir",
+        "tbli.ir",
+        "tavoos.net",
+        "cashback.takhfifan.com",
+        "tapsell.ir",
+        "toppopup.com",
+        "counter.toolsir.com",
+        "usermap.net",
+        "userfriendly.ir",
+        "utopclick.com",
+        "utop.ir",
+        "vatanclick.ir",
+        "wideads.com",
+        "xjs.lol",
+        "xmlx.lol",
+        "yelloadwise.ir",
+        "ylad.ir",
+        "yektanet.com",
+        "sentry.yektanet.tech",
+        "yekbux.com",
+        "zarad.net",
+        "zarpop.com",
+        "zarpop.ir",
+        "track.mailerlite.com",
+        "system-notify.app",
+        "web.webpushs.com",
+        "analytics.asiatech.ir",
+        "dsp.aparat.com",
+        "ads.asset.aparat.com",
+        "metrix.behtarino.com",
+        "apm.bama.ir",
+        "sentry.cafebazaar.org",
+        "my-pu.sh",
+        "puuush.me",
+        "hutvtpbhvmae.com",
+        "lnremmfpc.com",
+        "tracker.digikala.com",
+        "new-sentry.digikala.com",
+        "analytics.hostiran.net",
+        "ipsite.ir",
+        "analytics.irancell.ir",
+        "apptracking.irancell.ir",
+        "sentry.alibaba.ir",
+        "logapi.karbord.io",
+        "mediawach.com",
+        "counter.mahanmusic.net",
+        "analytic.magland.ir",
+        "affiliate.malltina.com",
+        "sentry.malltina.com",
+        "oscaranimation.in",
+        "sentry.namava.ir",
+        "analytics.plaza.ir",
+        "sentry.querastaff.ir",
+        "a.reymit.ir",
+        "analytics.eirib.ir",
+        "statistics.iriborg.ir",
+        "errortracking.snapp.site",
+        "ad.technews-iran.com",
+        "adengine.telewebion.com",
+        "analytics.telewebion.com",
+        "hadeseh.simra.cloud",
+        "analytics.jeldnews.com",
+        "excoino.com",
+        "irancloudmining.com",
+        "axotrade.com",
+        "yoozbit.com",
+        "nokontoken.com",
+        "aryana.io",
+        "aryacoin.io",
+        "aryastake.io",
+        "cryptoland.com",
+        "bridge.link",
+        "mtabdil.com",
+        "mttcoin.com",
+        "unique.finance",
+        "treenvest.com",
+        "artanlife.club",
+        "tastenfts.com",
+        "bemchain.io",
+        "emway.ir",
+        "defigroups.com",
+        "leumia.io",
+        "aitrades.com",
+        "propertiq.io",
+        "bixbcoin.com",
+        "bixb.exchange",
+        "synchrobit.io",
+        "arongroups.co",
+        "persia.exchange",
+        "guhtoken.org",
+        "orbitnetwork.net",
+        "kingmoney.io",
+        "utbyte.io",
+        "quahl.com",
+        "gpm.ltd",
+        "dagcoin.org",
+        "coinwallet.biz",
+        "soodland.com",
+        "minepi.com",
+        "irancoinmine.com",
+        "laqira.io",
+        "waykingroup.com",
+        "bnbmatrix.io",
+        "smartgalaxy.finance",
+        "bahatoken.site",
+        "shamining.com",
+        "ccnnetwork.co",
+        "wintap.io",
+        "frzss.com",
+        "hoho.mobi",
+        "unitedsolarinfinity.com",
+        "mogo-crypto.net",
+        "tinancefa.org",
+        "chancx.io",
+        "falixa.com",
+        "izonekala.com",
+        "laxsson.com",
+        "tradergpt.ai",
+        "mat-pnu.ir",
+        "androidupdate.download",
+        "159.100.22.89",
+        "ewpb.site",
+        "najva.com",
+        "sorenad.com",
+        "on-click.ir",
+        "onclick.ir",
+        "yektabanner.com",
+        "arvanvads.ir",
+        "adengine.telewebion.ir",
+        "adsc.beytoote.com",
+        "ovrjkuavda.com",
+        "jtoaxlbas.com",
+        "analyticsdaily.ir",
+        "kntr.ir",
+        "aflo.ir",
+        "sentry.sabaidea.cloud",
+        "sentry01.theforge.ir",
+        "analytics.zoomit.ir",
+        "analytics.qalam.group",
+        "hadeseh.telewebion.com",
+        "sentry.alaatv.com",
+        "sentry.divar.cloud",
+        "sentry.mci.dev",
+        "analytics.football360.ir",
+        "analytics.bertina.ir",
+        "sentry.bale.sh",
+        "log.ahlolbait.com",
+        "matomo.parto.media",
+        "alast.group"
+      ]
+    },
+    "_sourceKeys": [
+      "3fe8ad6c047469a9076e559ded6260b9e70b3d2e2ea80455b7bea0bf17aee6cd",
+      "5dde08fb944137573e6d91f88daabd428707143fa6fb4c610f01078792d701a0",
+      "5ffc82a684fa6f42277447e5cc34ed0f397866f508c0e1d543592711a555de92",
+      "3cec2ebb80c0fe08fae238c3ae362aed4f2dd973fe03eb3c5f0e6e3480c33c5f",
+      "aa4673cfb3d578263df9c6db9472b195f2e60232d60afe932bed8597c07955d5",
+      "62b22f6b704914d15824ea9e18f36aca103e8a3b9a72ef43dae36ac380047b28",
+      "5d8b75b0e5bedd62ea420bc89356f5dc4a03a1293dab4caeca19b09ad14404b8",
+      "7af0fa626734418d2d7b9d48587c179b5a48ac94c7ca8ca5a04e70ae5fe363ac",
+      "5d0a4c43cb518eaa5f7dbdcd0ea0ac8a32f36cf6e7e9a1af436e985e610f4e66",
+      "820551389bc4caf924ebdf128bebcd3b21d2fdb4d1b7e7f76ab3fa1c1517114d",
+      "cbb1671a00ebbc2e1b6bf091c77bb8495e7afc488a57c10ce4a22c95488f0cb6",
+      "bea4ca3bf675acecd53b4b5dc7642fc7e1a7f2ee036c7b0ad812b3916e0b5ea5",
+      "12c29930f7fc6ddbe12e84393089fafd19f15a098f6862c408b9b926057b34e7",
+      "359996e84179d3242ff093e1e14fa45bb35665360107a4d7d9e91a1164c7176c",
+      "e798d458c3e52c806c764c7387ee1258771e1d9d991e217aea6cf5a79e4ba2cb",
+      "b8a2c8b9d7038f3a46ded773ab8ec098868e40c2123ce61d6a0bdbc0f8c0ba17",
+      "76d614c19053c1a2caa964a4d1a560b9ab5c4a82a76bf7eac46e2d51a2a2b44f",
+      "14de41f2f06af8a7a7470cbbad5a4cd7e7358d8535d081d6a38d9ab7b1d66d1b",
+      "fbbba47f2f0d573632cc7d253838baf11b5f9523e10519e7e99487dfd8100877",
+      "784a594742e5c43eb9df7eb9421002f2f034349e2eb821a9fa1876e4e0abe7a7",
+      "7f5f328ffdb8f8359340557abeb3e15d224cb3d0a5c9aa2f44f3090031f45251",
+      "b5cc341b6e3f6e5a36d2b946d67540e5e00bec275503b3095fb62c79755e9069",
+      "25ac0faa64b1aa516d0d035a9b83c8fdd91e25981c540a8c906dbf75a5977258",
+      "8a750796d5d70edc158380b2a74eb03ef00f114060053e6549989aac2f57f8e8",
+      "85503a088964b0c4ed31f255d543a9e7223209cb7244cd014a95d11dc668ab81",
+      "f49f15cbf89f9ffaa887f21314a9ec73f7bb0b45f15f134dd7a6f9d3abb71de0",
+      "8607c51fd2118201eda32d9e6f8520abf3ae3707965c7990c6a78be1d3154e26",
+      "f2a4c75a2012ac376b5c1e3449bb9447bc998bb8d52e45ebe032e6b7fa30af38",
+      "29ef6c531ed39e7e33f8bb84a553555e1c41e6dbb808ae65f2fbc536b94f76c5",
+      "7829a1d063f69ffa3ea8ef2205b40cf7c63088db85b90c57171876972d509b52",
+      "cad1836b4d6f240eaac0a8ea57a93ff4b67c795f57912f2bb5b3d8a27c57d5af",
+      "6167fb8e027666ae9d3ab7db25579d9ed9b53e689a8ad6b6c39dc42f15bab299",
+      "7bc37482fac92712a3058fc6686abacfb1be631a81d5406eb7b166248f55e3e5",
+      "35fb7bd3161edbfbb818b1ea2e672d0ef955bb2b5560928641b4d4950993697c",
+      "f63a2090cd32a6d8285b69ebbb593a1244dfa518b60e6e607a1b42fadbb547a0",
+      "93e8ce0093c4fdc58a13f9d862a3330f3c4d06cec42e666274aeae07b827e577",
+      "478cbaca678d544298b4ed98bda1fce68fcd72d007782ff97a332223ad585301",
+      "c87f6e66f2f7904a28ebd45c68e7163274118883c8591ec29911442660d34f3a",
+      "e73a8927e6cea2529a7eeae6ee75d85cf9a7d13a525cb3370a43689263876128",
+      "2fce5aa2f6e8ad5248366e8a0832e54c00bf3d6fd751993841058bd810e175a5",
+      "74237bdcc741e996e7957d979231c47bcaecf6c3a24c94a4082177596dcdaa18",
+      "e317ce09921059a669f2f890dfbd2431b8140dbdd91c939556c9812bac4986a9",
+      "cf64aebf9f218c4efe0d4b25b6878e62fc034027e0a0ed27d0fde4affa56a64e",
+      "78962ead37dd86c925e77f746bed93d3b46585f86e8e7b9cc4964a01bc3098a2",
+      "6d6bb90f2465df54a66f370ee0021469c7c98f317f093e2d21bc044f6ec3eff7",
+      "48124a6fd4d380bd039ea74221ee5791a817c9dda1c94f3293766537cfa11467",
+      "3384f1f717248b5ae39a940b85bd8b2a2d9648b9979b81f76b32af99bea59e61",
+      "797d33e03178677dcf2a1e9a82758f575d6265102de80b9df1ea6c3c530b638a",
+      "7a32963e5103845576c5896b8eb33aa562d4adc11dd71397ae421bf39fc03574",
+      "84ea1d7e2f8e449626980fecaf3e4041e2d410a073a1d16f67662e015830f89d",
+      "7780321c76c35eafe3da769bb91dcdb079410e34dd1e8074cf8398b4f15e6165",
+      "3332cab52858619386a932e758e9978970b1754a0dc86393657a2240852af233",
+      "ada54805159f83dd31f18df85f52b0186609e77048b2f00206c41e2342a885f9",
+      "6015eda21a5168bf40eaf6eca25f554475eb7e9c5fbe9daf3105473b7ff14353",
+      "851b4278e8e03025cceb324a825c8b95b1771e34e3980450d0eec71b26e9317a",
+      "713ff4ccaa659fb1d1825d8de0f7a29506a8aebd06173fd667a1495c12954ce3",
+      "c03e228c74811df419cabdfbd235841c11b994bc2644df129a3760eb13a0268d",
+      "45d3e251758f3f1fc9100b49111e821973d39d4b21e705d75a6e62a90d199d1d",
+      "fcae2b7ead327aac8aa2ee125f6a657fc94bda2656e486af1ee3b362c68261ab",
+      "036f4e2df663f4c60c1a28f149595113a2394e5eaeed47da6ea7737c6a856511",
+      "a8954adb8385aa8a582db48cea36b3c63ee72f61d5372648bd48358f4351c54b",
+      "274465f7cb72ca130763eff5a8f8fe2968098dd8109ad3a409cf77afaee79213",
+      "5c682bcc7c69e2b40dca1b11227e811d2b1458cc6e38a85ccd8cc376a5beedc9",
+      "9a4a5713bb45c49fad0bc77dedb00122e1a91d61b99ebe470e3c3b173beed5c1",
+      "65acff713ca2559ba8ab610c0863ba3c4d802dbfbddaa137990fea46ef1169b8",
+      "06fc2a601bf3921e0675652d35c882ccc116c7a82cbc56224ecb9499dd62208b",
+      "657e6a6ae0932814d07150ef52d361967a6e9ed740f70cf34b97765129ddb2ab",
+      "ab3a6950c810a1de838c7f48e05211e9630e656e46b85aa774e0c1cd951bd2d5",
+      "935a8fad9350c2037af4df2894bda9c7bd921c5f5bb33dca2068744856ab8cca",
+      "6403e01605edb530a242157006fdd4966ac9153a0e63b373c9a102ff69fb6665",
+      "2b4d4a0d22a9917d51fe39d8010fd65df37fed0b890f37fb1e0bfe9577bca60e",
+      "fa507b1d76448b1eaa2ded6d7e55732b4af8f60c5269535ebb3155db9e56cbf6",
+      "68a4d75bd5ac96a4b37decacbc699dab3fdd8de59471b4605f262428a293b757",
+      "d34e78a24851db9dee5c0d9f40309cf48decb7b56ae49ae0078b19bdae9ab078",
+      "0046676ff6b018b33c0a97a336da75d2fbf2f58246cb3b4aa035c116c9578c00",
+      "0c607a8274c5292ca2822d08b4a2229ab3ca84296344d4ed328b7b62aed181a7",
+      "b6b355f80eeb284f7e6c68c3115b894828c0126de3808ffe7251b556a47af5ca",
+      "8b3525152b44ce44c67697fceb3cd7ee75b3204035418f4f62a4981bb6bbf362",
+      "76e212dac51311ac1ddeee15ec2fc7f4db8d2192e8436cc4eec85b2fb1702533",
+      "2729fd41242dcdb47a8b9b7eadd4f1d2a49a311afe73ef7e330b0e176c2237f9",
+      "df76cfcb1996859160bf9dfae2c021bded3764722c560f4c57bd3e06f6e58232",
+      "64b5bef0c6df2f5b72ebc352333c04e1cfba05a91ff6a160f0fa2f2ad0bdd176",
+      "01cfa9ccd2059d679ef420915ab2de1d8331b9c192048633239196d3620428fd",
+      "456a61a783aa166df039a498a698f39d25801d67a5dfb2a877763470b6cd8455",
+      "662da15f89b225fc5b6671c88d1154104d993326e18dbe8c37f23e4e0bac3f3d",
+      "9e50b08e17d765b9a5df9821be9dc0fbe565a1fa5b2b99d18f19987f79869275",
+      "30f6253f32be078c90c215e7351afcc10db834884d4da6413345f1e3ebbb83ff",
+      "72e5a868576910da8dd36f9cf667ce18f015ce6d02fd191a53e34c909066c5fb",
+      "d213dd99acfb366ee46fc45ba66609ce9e881dbd90a823462a0a2d47c89d9a5c",
+      "2ce662639c7947ac760716185454af505c302ba69e792f1ed0ce6e0ad00132ca",
+      "81bc7c5a6c3e72f8c5b2eda079c81c4dbadbbdc047fe2a95570990f36a870e7f",
+      "ab3dbe24f18ede6ceba5ab5b44f2baf4053531a78f144093ba9fa61c5623a7b4",
+      "3b47e7409c212396393c76e0019309318d06adeb8cb9fa0e65857abf2624bdd0",
+      "dc0fde4eda8ed11eb36d0621e3f9690eb16d26f04af7640393a6ce3b028776a3",
+      "d23234e08de315f580c4b0ce52ed161fa03972b6ef445080147078e130512259",
+      "346780549450fabfcccc17b111d17e8ea057e4ac5ec71df912a43a3b254f84ed",
+      "334d15fb670c37541110ab7bdee3144a1caefb44e6a26834ee8e82e480d9540c",
+      "1ad3006ab239742c7b9d4cb6eecabb3bb18ac81cf1c5d964b3894c29021922bf",
+      "7cd1023dc6e5711471c05d69d5ea98619c0862e3dd00e3f9ffc88cc4eed9f14b",
+      "2c5f9909db45efe39967e6d4add701401eec00002671dedb8490e78a49de127e",
+      "d648f3b4bab0785dba28c4335f332c38a37c1f15df408c82e73a97a4998d0a0d",
+      "8f694dbdcc61e85f4c9fa3372b15d85d211a9802c7bc58fe6c754c9947d66083",
+      "e5a6743a39cbfb679231aa2258d54541095b5ede51d79ba8501b102abd906dd7",
+      "3316e4d5730fce106bedd35e4cd9296673bcbea914239118f6dc703ad8619acd",
+      "c669650768dc439cec3f5a99d17a60f6606e1d608454ac180fb53f8534b0da14",
+      "1e0f76785fbbf3aee14ebc76165690945ec064c51029bf9402650c6e63fdcd37",
+      "16e213b7b659c9c02128dcbc807ab1b054b596cd245556fa04625dee9824ec4c",
+      "b599ef9c2e3ba57d8e4abd1c54e57d84ee831452355a6f43efe79def18342ad1",
+      "2b6a7cb65c129e8781f5579440253e53703989ac2152a66645749f9bb17e41b8",
+      "0da7a71243a7ace238b307657f7445568852e4c59be5d27de50931022594cf75",
+      "507ec6438587cf235f872b60bafbe3a81b47382f8cecf9b4ea8b7536be6a8a5a",
+      "2641a0db8432559dd284a8d05c32272fdad8585091d21968be23bbd17abad4bf",
+      "76072935ae2b0baeeca89157af1c31bf31dc56c361d3f0d3a792600b65d7f4a4",
+      "cc03e25f3f175ddb327ae0b268bc0671d596bfa91325f08b32d74c78a4c843a9",
+      "286a5aeff55e7ce9c6ebb2188de80ceb67765da43fa4ef6647bef10c390f29a3",
+      "807e676decea0358900478346ca49d15e974bb0a3e7b20c3f794f063dda2d13c",
+      "4e0d86a59612655b7fb75248e759435ab99708dbd9ddda13eea2bcd63e3f1a3e",
+      "6f7168f2e78abaf390020da5617bca55e851240e849bddd782eed60c7c0a4647",
+      "94002345f6c3b0af06558d20c81442f538e1376cdccd770027bd28bd0bd668ce",
+      "51e6f6843774ac7e40a1252c73c4d978a446f577fa54438989f48146a9142b3e",
+      "3ca7e0e7cbac9502596129e4121ea07dee61fe7a69b10bfc0930f9205ef01bfd",
+      "de62e6e9f85baa21a532779ecb8b413882b00e9140ce92aa640624255aa3d60a",
+      "9fc6aae62b79a688f1f6a41be47592f89a4dc33586f9dbc95c2e42b58ff9e5d4",
+      "b19d89c2d5adf7c8e46e986387fe13dbbaba22f404fab11f1df55f8c0e9fab2d",
+      "a3b361b1f7f1543c816223f8dcf8aae20ac17c23a7db2198dea7dd6e24c9c98e",
+      "c7fdea1cc23aa04f4a5b695f81b8e28abd3e72456b3bc38116fc134a959b0e23",
+      "ec2518edaaed2ef4afdb26839beadaf90da65f7214e0f603b7ac3443f2c304f1",
+      "ee68b4785a48625c6d2975e111de6919dbc3e49cdebdc97ce8d5d225e12527a9",
+      "01cdc8bab3b694861afb45bc10be4c6f0a70eaeb648da9a18e874e7a00c31b82",
+      "c61f580def31fb2ae6a95d271cb91d4651c7468dc9d40c59d1a303bf2986749b",
+      "ca59741adb69457a49767b1d21f1b9eff97f4c52c36d13e147e636878bb69d18",
+      "f4a1209a98b8b1d246e5ea11d1abe4d6105a95b03b16ad01b7b1f9cb3afa3946",
+      "8fef77f8e77fafd5364147657dc897c9538d54d6846841c07fe31941587559d2",
+      "93f123627ee196084de43e86f05146c946b72a84012f237da5d251d538384c20",
+      "570c5a404971dcd9d3e9f094973c1ab90d754f6669a973477c20d148e036136a",
+      "1ce6c0de87dd04092cd9d31a71eaea0a3e1472b3b90824e2b7e9b7212dd667e0",
+      "bccb6b29628ddd80ca78ca9691d402d84e21887c4e7a4124fe16515d97933102",
+      "855c0e7e616feea00a0695d69198f499845931a316f2b37ad59ba5418bebee0c",
+      "ef8f7b0f5a6788acafe9467bae6d28302d642280c9165dc7bcb2f6b35b0832e9",
+      "2e832b2afbf2067247b3f94809c44a90b004972e716eb6437c9f64c5ae0d6a2e",
+      "da84b4f7f2df5adfc37e935eaa01dd2d78946cdf12e7010d7871b5a4192db49b",
+      "cfa8f7bdfc65268132aaf1c1d1b5f270269732c295239e512af6eac331808178",
+      "99a2f6242a1513ed4ff01efb04acaae2ad8c4d1aa5cf0b6f148060524b65febf",
+      "7567cd846970078882e2a2b76fb0b15ab771d7dcb5d96c539fca668f4d4c9b97",
+      "db6b68c40efcf4fc81e771cd787a40a183324851b048b8f74bf80b9f63b54484",
+      "e8137892d80d8e45419921847ef77ff8b749b611453bcbcc63efb08325abcae4",
+      "fd1ad76146cbde3368535f4244a7e228fe7c2eefa8ec02328e0fc3095cce599c",
+      "67b5f341c6e3e414b55f20eadbfe962af97323f8cb22c0a908d93ff6c5b51b58",
+      "940cc16ad16ac68a3efedc016ade0f484533185dbd28e76655fcad70f43b86ea",
+      "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1",
+      "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a",
+      "2007203fcf91a51aad771421659f2b988a3c531fd5ece7babe14ce2d5241f839",
+      "dfe9b9d16266f823cdc606656fe64a06fb7fac50a07fe3fac7b3ffa107643811",
+      "a3365a9ac18257fd5374b9f463853477188023482364e8cc8547e6b0a783f3da",
+      "1dbd9352dedfab9b1ec23507f2ba77c43b2dba4a1748078cc395586d46a12db0",
+      "cf0b2e9a3e4a4024c1bc82b7a9a20796451df1f5b7f5d16025f37252d2f734ed",
+      "ded252557e35caaef55cc957e8c7cfd67b59ad0376707074d4a2945a0a616ca9",
+      "f310047312c43237bbda1a385298452c0271e48bcdd98d92ac82e7386363b1e5",
+      "e3e3ea831b08461f80b61eb1295070e6c052bc54839cdab86966e5297d32f04d",
+      "83dde48134d3696bd7dc831f724a007a18311f2dfe766ca06c38b08f37c3ab59",
+      "c021f3c39450d689a6898fbf42fb700dec93264ac2ce1c766c7a5970135e4e2c",
+      "7f383f24beba90f21b3831575838c67a514239ae508a9cc613240b8479252b11",
+      "040ad7ef8e9c87fc42912dfbceded936128169aaa2233734aa8532eee404a4be",
+      "700e54c1db85239a7a158c53e3d48916de1a763cddf03709d0833358e27f100b",
+      "47ad38fe3bee503346d535689871a32dc81c10fe181bffb8f9101da7119f8a46",
+      "aee79c67e492e835758a827917e8d2582b308c7c1826da0bd6c1880a044cd63c",
+      "8cea01ee41fd70ad6c914450bf437260a5c3341e49cd487994240916b9a50c5b",
+      "79334780a9034d15ca1dbcb21243c1728f4fba48f47e3a0c86cedf6743266098",
+      "9763a64216393e4b39fb8da8e4e147fec508741804ade600a6bca79c0ce56bb4",
+      "2f7b9007698a42db9b29c013c75903776e50e2944c8151f9a71041a8de581fd9",
+      "06b39528d1bc0b07e18e0e167c26bcac882a3c31edf0839a8ce3235f1d3caf06",
+      "a146528f831a0347fbcc4ba84715a724772946aef20c99671920d7747af409c5",
+      "6e950639bccf95b9ad995cf038766486c260c7004353016f355dd4e95052fc5c",
+      "f70731bfff3db97237262745121bc1293aed4044edf505ddb23f1c7e909f1456",
+      "09a55a287b3a9828779c35040faadd81337a5318779f3800aae4aea6f3c7ff90",
+      "9b7b5700f3298cf1088733f86a0fd878f96b1fb95463b30cff268692e24f0db6",
+      "b243487149c1254ab233b62e324cf165fa061ae07eaa1b38cbcf984bd633befd",
+      "4656a1e270a64906f33df0886f64df8d65e017cbca11acd98a2ba0ab85003d49",
+      "36dba584d97808682e5f41e6c7d7f01d50823999df19e3218426799ada81c420",
+      "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102",
+      "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f",
+      "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f",
+      "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463",
+      "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84",
+      "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683",
+      "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56",
+      "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9",
+      "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777",
+      "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04",
+      "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9",
+      "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a",
+      "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7",
+      "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047",
+      "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26",
+      "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963",
+      "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42",
+      "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78",
+      "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5",
+      "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858",
+      "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e",
+      "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d",
+      "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549",
+      "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8",
+      "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7",
+      "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8",
+      "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9",
+      "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd",
+      "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7",
+      "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b",
+      "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785",
+      "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7",
+      "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7",
+      "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18",
+      "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de",
+      "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d",
+      "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852",
+      "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9",
+      "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce",
+      "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026",
+      "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd",
+      "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d",
+      "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad",
+      "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47",
+      "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341",
+      "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6",
+      "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62",
+      "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86",
+      "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2",
+      "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd",
+      "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2",
+      "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3",
+      "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4",
+      "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02",
+      "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886",
+      "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c",
+      "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041",
+      "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8",
+      "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399",
+      "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56",
+      "867c9f9548a432de9e90e14ed9f1f25c34b499beaf397846bf0e3a1a8f0104f6",
+      "0c12e9d97abf214b81baee9cc34281acff3860952a9f274f5825a23c94a109c9",
+      "a6bc3150d7f65e3d705e8f4078d11ffc8fecd8fcf047ac700902c2d34ec07b0a",
+      "a418f4a8b502da1ff3f91aed59b37ec246b38cae5a805b41ed202f19dcc1a1d6",
+      "6a58233fbeb357384ee0eae8e78fa8e63610fcdb99457103f557fea814d75176",
+      "f54c7173a82aa86641df67c1f4430afe6613032468ae5bb3ffc0cb97c8934a4b",
+      "f5ba93253ca4b6f6b70e54aea4b6b4a9be0376874aee96f0420ca748e92bef12",
+      "54edad258556859da4d43c1086ae2face95dd5b9b3cde4cf4dbdfefad2d16522",
+      "8c58687c3e70256a2e2c49a10e44969e2246140094c1e32e8835b1c0d9740044",
+      "22bce5256b6ae60468b9b4046a743dfd63fba1fc0359ef7a617612feaebb3c8a",
+      "93139f76039e0431d73c425c7be609a142f837aad1111c312ffffac40b310513",
+      "12d593093d8fe83a9d51f62f86265d734d44aabc6b6f4367778e3eee4c8610e5",
+      "fe8953a0c4b51438f8a216956d15e5a16d616a7f49df8336f093f6e680413cf4",
+      "44082e1ed24663d943c134d4ca1dcfe3c9fe35c973f73a412ced5b0f4db82e67",
+      "3abd1dbc1bf717d4025e8a5760f8b085bfc99ab47207e5b2e84a05188adc0cca",
+      "f16b2e07b2bed8bc0cf6d2ad1a57d9cb0b11390c352649ffdf59b9922aca24de",
+      "017858dd96296dc17db3f2f3cc39dff611c98785c09242079cc701abb5f8629d",
+      "f1c59b173ea5a7b9442de2356abc9940fa8a972bda7566c473adee5eeb3e6c61",
+      "f1460a4dc2cb7a8351e219e106b000aa227e8ddb6821a4323dbf9eee0533859d",
+      "0635be4fbeaed3edee8125c9c021cb6ea2090cfa9b0a154634f403451a7bbb80",
+      "89f74ca4b16c1fdfec09eed6e850d81f3e4a20d31c9849c43e4f0fb9f9520df2",
+      "f3eb372030cc297638778f9c06d52d763a5900c9f3afed95dab5576e9f7f7350",
+      "c639e7c5f7bd11b527bc595ef857501a80fb8820576b51b172195f2281481e3f",
+      "f61e05ed385250aa1dd2c53184220bba50d28fab74269575fc6465a18f0640d4",
+      "000bd8f5e15170c5798cc3411cef5ff73e76baf5aab0e25b6144bad57afc9128",
+      "3157a239cbceebc4b115f84ec1500c93f806f8ac36cf2f33fec43c6f35b56804",
+      "17ce69c7cf6c4fa0bd210c6c15fa58432150395b24e07fa271b9caa470a12bea"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adtodate.ir",
+        "keys": [
+          "3fe8ad6c047469a9076e559ded6260b9e70b3d2e2ea80455b7bea0bf17aee6cd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "anetwork.ir",
+        "keys": [
+          "5dde08fb944137573e6d91f88daabd428707143fa6fb4c610f01078792d701a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adverge.ir",
+        "keys": [
+          "5ffc82a684fa6f42277447e5cc34ed0f397866f508c0e1d543592711a555de92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adrooz.com",
+        "keys": [
+          "3cec2ebb80c0fe08fae238c3ae362aed4f2dd973fe03eb3c5f0e6e3480c33c5f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affilio.ir",
+        "keys": [
+          "aa4673cfb3d578263df9c6db9472b195f2e60232d60afe932bed8597c07955d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analyt.ir",
+        "keys": [
+          "62b22f6b704914d15824ea9e18f36aca103e8a3b9a72ef43dae36ac380047b28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "scripts-ads.s3.ir-thr-at1.arvanstorage.com",
+        "keys": [
+          "5d8b75b0e5bedd62ea420bc89356f5dc4a03a1293dab4caeca19b09ad14404b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "error-tracking.arvancloud.com",
+        "keys": [
+          "7af0fa626734418d2d7b9d48587c179b5a48ac94c7ca8ca5a04e70ae5fe363ac"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adexo.ir",
+        "keys": [
+          "5d0a4c43cb518eaa5f7dbdcd0ea0ac8a32f36cf6e7e9a1af436e985e610f4e66"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adexofiles.ir",
+        "keys": [
+          "820551389bc4caf924ebdf128bebcd3b21d2fdb4d1b7e7f76ab3fa1c1517114d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adskav.com",
+        "keys": [
+          "cbb1671a00ebbc2e1b6bf091c77bb8495e7afc488a57c10ce4a22c95488f0cb6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advn.ir",
+        "keys": [
+          "bea4ca3bf675acecd53b4b5dc7642fc7e1a7f2ee036c7b0ad812b3916e0b5ea5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "amaroid.net",
+        "keys": [
+          "12c29930f7fc6ddbe12e84393089fafd19f15a098f6862c408b9b926057b34e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adwised.com",
+        "keys": [
+          "359996e84179d3242ff093e1e14fa45bb35665360107a4d7d9e91a1164c7176c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adwisedfs.com",
+        "keys": [
+          "e798d458c3e52c806c764c7387ee1258771e1d9d991e217aea6cf5a79e4ba2cb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adivery.com",
+        "keys": [
+          "b8a2c8b9d7038f3a46ded773ab8ec098868e40c2123ce61d6a0bdbc0f8c0ba17"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adnegah.net",
+        "keys": [
+          "76d614c19053c1a2caa964a4d1a560b9ab5c4a82a76bf7eac46e2d51a2a2b44f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adpulse.ir",
+        "keys": [
+          "14de41f2f06af8a7a7470cbbad5a4cd7e7358d8535d081d6a38d9ab7b1d66d1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsima.net",
+        "keys": [
+          "fbbba47f2f0d573632cc7d253838baf11b5f9523e10519e7e99487dfd8100877"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtrace.io",
+        "keys": [
+          "784a594742e5c43eb9df7eb9421002f2f034349e2eb821a9fa1876e4e0abe7a7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtrace.ir",
+        "keys": [
+          "7f5f328ffdb8f8359340557abeb3e15d224cb3d0a5c9aa2f44f3090031f45251"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtrace.world",
+        "keys": [
+          "b5cc341b6e3f6e5a36d2b946d67540e5e00bec275503b3095fb62c79755e9069"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affili.ir",
+        "keys": [
+          "25ac0faa64b1aa516d0d035a9b83c8fdd91e25981c540a8c906dbf75a5977258"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "amarfa.ir",
+        "keys": [
+          "8a750796d5d70edc158380b2a74eb03ef00f114060053e6549989aac2f57f8e8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ayyaar.ir",
+        "keys": [
+          "85503a088964b0c4ed31f255d543a9e7223209cb7244cd014a95d11dc668ab81"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adro.co",
+        "keys": [
+          "f49f15cbf89f9ffaa887f21314a9ec73f7bb0b45f15f134dd7a6f9d3abb71de0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adro.ir",
+        "keys": [
+          "8607c51fd2118201eda32d9e6f8520abf3ae3707965c7990c6a78be1d3154e26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bitad.ir",
+        "keys": [
+          "f2a4c75a2012ac376b5c1e3449bb9447bc998bb8d52e45ebe032e6b7fa30af38"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "binoads.ir",
+        "keys": [
+          "29ef6c531ed39e7e33f8bb84a553555e1c41e6dbb808ae65f2fbc536b94f76c5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bl9.ir",
+        "keys": [
+          "7829a1d063f69ffa3ea8ef2205b40cf7c63088db85b90c57171876972d509b52"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "backlink.ir",
+        "keys": [
+          "cad1836b4d6f240eaac0a8ea57a93ff4b67c795f57912f2bb5b3d8a27c57d5af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "boorantech.com",
+        "keys": [
+          "6167fb8e027666ae9d3ab7db25579d9ed9b53e689a8ad6b6c39dc42f15bab299"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "behinava.com",
+        "keys": [
+          "7bc37482fac92712a3058fc6686abacfb1be631a81d5406eb7b166248f55e3e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "radar.bayan.ir",
+        "keys": [
+          "35fb7bd3161edbfbb818b1ea2e672d0ef955bb2b5560928641b4d4950993697c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "behtarinseo.ir",
+        "keys": [
+          "f63a2090cd32a6d8285b69ebbb593a1244dfa518b60e6e607a1b42fadbb547a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "backority.ir",
+        "keys": [
+          "93e8ce0093c4fdc58a13f9d862a3330f3c4d06cec42e666274aeae07b827e577"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cayot.ir",
+        "keys": [
+          "478cbaca678d544298b4ed98bda1fce68fcd72d007782ff97a332223ad585301"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chavosh.org",
+        "keys": [
+          "c87f6e66f2f7904a28ebd45c68e7163274118883c8591ec29911442660d34f3a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ck.chavosh.org",
+        "keys": [
+          "e73a8927e6cea2529a7eeae6ee75d85cf9a7d13a525cb3370a43689263876128"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickaval.com",
+        "keys": [
+          "2fce5aa2f6e8ad5248366e8a0832e54c00bf3d6fd751993841058bd810e175a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickyab.com",
+        "keys": [
+          "74237bdcc741e996e7957d979231c47bcaecf6c3a24c94a4082177596dcdaa18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chabok.io",
+        "keys": [
+          "e317ce09921059a669f2f890dfbd2431b8140dbdd91c939556c9812bac4986a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "congoro.com",
+        "keys": [
+          "cf64aebf9f218c4efe0d4b25b6878e62fc034027e0a0ed27d0fde4affa56a64e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "congoro.ir",
+        "keys": [
+          "78962ead37dd86c925e77f746bed93d3b46585f86e8e7b9cc4964a01bc3098a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dezhino.com",
+        "keys": [
+          "6d6bb90f2465df54a66f370ee0021469c7c98f317f093e2d21bc044f6ec3eff7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daartads.com",
+        "keys": [
+          "48124a6fd4d380bd039ea74221ee5791a817c9dda1c94f3293766537cfa11467"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "daneshin.ir",
+        "keys": [
+          "3384f1f717248b5ae39a940b85bd8b2a2d9648b9979b81f76b32af99bea59e61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "24d.ir",
+        "keys": [
+          "797d33e03178677dcf2a1e9a82758f575d6265102de80b9df1ea6c3c530b638a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "l.24d.ir",
+        "keys": [
+          "7a32963e5103845576c5896b8eb33aa562d4adc11dd71397ae421bf39fc03574"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "davedbux.ir",
+        "keys": [
+          "84ea1d7e2f8e449626980fecaf3e4041e2d410a073a1d16f67662e015830f89d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "denutility.com",
+        "keys": [
+          "7780321c76c35eafe3da769bb91dcdb079410e34dd1e8074cf8398b4f15e6165"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "deemanetwork.com",
+        "keys": [
+          "3332cab52858619386a932e758e9978970b1754a0dc86393657a2240852af233"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "deema.agency",
+        "keys": [
+          "ada54805159f83dd31f18df85f52b0186609e77048b2f00206c41e2342a885f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "deemaagency.ir",
+        "keys": [
+          "6015eda21a5168bf40eaf6eca25f554475eb7e9c5fbe9daf3105473b7ff14353"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "click.digiato.com",
+        "keys": [
+          "851b4278e8e03025cceb324a825c8b95b1771e34e3980450d0eec71b26e9317a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "facepop.org",
+        "keys": [
+          "713ff4ccaa659fb1d1825d8de0f7a29506a8aebd06173fd667a1495c12954ce3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "farsbux.ir",
+        "keys": [
+          "c03e228c74811df419cabdfbd235841c11b994bc2644df129a3760eb13a0268d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastclick.ir",
+        "keys": [
+          "45d3e251758f3f1fc9100b49111e821973d39d4b21e705d75a6e62a90d199d1d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "farakav.com",
+        "keys": [
+          "fcae2b7ead327aac8aa2ee125f6a657fc94bda2656e486af1ee3b362c68261ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.farakav.com",
+        "keys": [
+          "036f4e2df663f4c60c1a28f149595113a2394e5eaeed47da6ea7737c6a856511"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.hamravesh.com",
+        "keys": [
+          "a8954adb8385aa8a582db48cea36b3c63ee72f61d5372648bd48358f4351c54b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifhub.com",
+        "keys": [
+          "274465f7cb72ca130763eff5a8f8fe2968098dd8109ad3a409cf77afaee79213"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hantana.org",
+        "keys": [
+          "5c682bcc7c69e2b40dca1b11227e811d2b1458cc6e38a85ccd8cc376a5beedc9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "intrack.ir",
+        "keys": [
+          "9a4a5713bb45c49fad0bc77dedb00122e1a91d61b99ebe470e3c3b173beed5c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "geoip.imber.live",
+        "keys": [
+          "65acff713ca2559ba8ab610c0863ba3c4d802dbfbddaa137990fea46ef1169b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jetbux.ir",
+        "keys": [
+          "06fc2a601bf3921e0675652d35c882ccc116c7a82cbc56224ecb9499dd62208b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api.karpishe.com",
+        "keys": [
+          "657e6a6ae0932814d07150ef52d361967a6e9ed740f70cf34b97765129ddb2ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kajads.com",
+        "keys": [
+          "ab3a6950c810a1de838c7f48e05211e9630e656e46b85aa774e0c1cd951bd2d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.karzar.net",
+        "keys": [
+          "935a8fad9350c2037af4df2894bda9c7bd921c5f5bb33dca2068744856ab8cca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kaprila.com",
+        "keys": [
+          "6403e01605edb530a242157006fdd4966ac9153a0e63b373c9a102ff69fb6665"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "linkfars.com",
+        "keys": [
+          "2b4d4a0d22a9917d51fe39d8010fd65df37fed0b890f37fb1e0bfe9577bca60e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "landyab.com",
+        "keys": [
+          "fa507b1d76448b1eaa2ded6d7e55732b4af8f60c5269535ebb3155db9e56cbf6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ir.mihanstore.net",
+        "keys": [
+          "68a4d75bd5ac96a4b37decacbc699dab3fdd8de59471b4605f262428a293b757"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "metrix.ir",
+        "keys": [
+          "d34e78a24851db9dee5c0d9f40309cf48decb7b56ae49ae0078b19bdae9ab078"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediaad.org",
+        "keys": [
+          "0046676ff6b018b33c0a97a336da75d2fbf2f58246cb3b4aa035c116c9578c00"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magnetadservices.com",
+        "keys": [
+          "0c607a8274c5292ca2822d08b4a2229ab3ca84296344d4ed328b7b62aed181a7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "merita.ir",
+        "keys": [
+          "b6b355f80eeb284f7e6c68c3115b894828c0126de3808ffe7251b556a47af5ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mitrarank.ir",
+        "keys": [
+          "8b3525152b44ce44c67697fceb3cd7ee75b3204035418f4f62a4981bb6bbf362"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.nastooh.ir",
+        "keys": [
+          "76e212dac51311ac1ddeee15ec2fc7f4db8d2192e8436cc4eec85b2fb1702533"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "newswidget.net",
+        "keys": [
+          "2729fd41242dcdb47a8b9b7eadd4f1d2a49a311afe73ef7e330b0e176c2237f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vidomusic.org",
+        "keys": [
+          "df76cfcb1996859160bf9dfae2c021bded3764722c560f4c57bd3e06f6e58232"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pantatec.ae",
+        "keys": [
+          "64b5bef0c6df2f5b72ebc352333c04e1cfba05a91ff6a160f0fa2f2ad0bdd176"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netbina.com",
+        "keys": [
+          "01cfa9ccd2059d679ef420915ab2de1d8331b9c192048633239196d3620428fd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "perlika.com",
+        "keys": [
+          "456a61a783aa166df039a498a698f39d25801d67a5dfb2a877763470b6cd8455"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pelikan-network.ir",
+        "keys": [
+          "662da15f89b225fc5b6671c88d1154104d993326e18dbe8c37f23e4e0bac3f3d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pegah.tech",
+        "keys": [
+          "9e50b08e17d765b9a5df9821be9dc0fbe565a1fa5b2b99d18f19987f79869275"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushq.ir",
+        "keys": [
+          "30f6253f32be078c90c215e7351afcc10db834884d4da6413345f1e3ebbb83ff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pooye-ads.com",
+        "keys": [
+          "72e5a868576910da8dd36f9cf667ce18f015ce6d02fd191a53e34c909066c5fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "promizer.com",
+        "keys": [
+          "d213dd99acfb366ee46fc45ba66609ce9e881dbd90a823462a0a2d47c89d9a5c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "phonroid.com",
+        "keys": [
+          "2ce662639c7947ac760716185454af505c302ba69e792f1ed0ce6e0ad00132ca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popina.ir",
+        "keys": [
+          "81bc7c5a6c3e72f8c5b2eda079c81c4dbadbbdc047fe2a95570990f36a870e7f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popupdl.ir",
+        "keys": [
+          "ab3dbe24f18ede6ceba5ab5b44f2baf4053531a78f144093ba9fa61c5623a7b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popland.info",
+        "keys": [
+          "3b47e7409c212396393c76e0019309318d06adeb8cb9fa0e65857abf2624bdd0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "phoenixad.io",
+        "keys": [
+          "dc0fde4eda8ed11eb36d0621e3f9690eb16d26f04af7640393a6ce3b028776a3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partclick.ir",
+        "keys": [
+          "d23234e08de315f580c4b0ce52ed161fa03972b6ef445080147078e130512259"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "persianrank.ir",
+        "keys": [
+          "346780549450fabfcccc17b111d17e8ea057e4ac5ec71df912a43a3b254f84ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popgozar.com",
+        "keys": [
+          "334d15fb670c37541110ab7bdee3144a1caefb44e6a26834ee8e82e480d9540c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popupplus.ir",
+        "keys": [
+          "1ad3006ab239742c7b9d4cb6eecabb3bb18ac81cf1c5d964b3894c29021922bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "popupme.net",
+        "keys": [
+          "7cd1023dc6e5711471c05d69d5ea98619c0862e3dd00e3f9ffc88cc4eed9f14b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushe.co",
+        "keys": [
+          "2c5f9909db45efe39967e6d4add701401eec00002671dedb8490e78a49de127e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "p30rank.ir",
+        "keys": [
+          "d648f3b4bab0785dba28c4335f332c38a37c1f15df408c82e73a97a4998d0a0d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "publica.ir",
+        "keys": [
+          "8f694dbdcc61e85f4c9fa3372b15d85d211a9802c7bc58fe6c754c9947d66083"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rankirani.ir",
+        "keys": [
+          "e5a6743a39cbfb679231aa2258d54541095b5ede51d79ba8501b102abd906dd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rssbank.ir",
+        "keys": [
+          "3316e4d5730fce106bedd35e4cd9296673bcbea914239118f6dc703ad8619acd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spellpop.ir",
+        "keys": [
+          "c669650768dc439cec3f5a99d17a60f6606e1d608454ac180fb53f8534b0da14"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "spellads.com",
+        "keys": [
+          "1e0f76785fbbf3aee14ebc76165690945ec064c51029bf9402650c6e63fdcd37"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "offers.sapra.ir",
+        "keys": [
+          "16e213b7b659c9c02128dcbc807ab1b054b596cd245556fa04625dee9824ec4c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statsfa.com",
+        "keys": [
+          "b599ef9c2e3ba57d8e4abd1c54e57d84ee831452355a6f43efe79def18342ad1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sendword.ir",
+        "keys": [
+          "2b6a7cb65c129e8781f5579440253e53703989ac2152a66645749f9bb17e41b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sanjagh.com",
+        "keys": [
+          "0da7a71243a7ace238b307657f7445568852e4c59be5d27de50931022594cf75"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sanjagh.net",
+        "keys": [
+          "507ec6438587cf235f872b60bafbe3a81b47382f8cecf9b4ea8b7536be6a8a5a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.safarme.ir",
+        "keys": [
+          "2641a0db8432559dd284a8d05c32272fdad8585091d21968be23bbd17abad4bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sabavision.com",
+        "keys": [
+          "76072935ae2b0baeeca89157af1c31bf31dc56c361d3f0d3a792600b65d7f4a4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sabaidea.cloud",
+        "keys": [
+          "cc03e25f3f175ddb327ae0b268bc0671d596bfa91325f08b32d74c78a4c843a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "triboon.net",
+        "keys": [
+          "286a5aeff55e7ce9c6ebb2188de80ceb67765da43fa4ef6647bef10c390f29a3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "te1.ir",
+        "keys": [
+          "807e676decea0358900478346ca49d15e974bb0a3e7b20c3f794f063dda2d13c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "talapop.ir",
+        "keys": [
+          "4e0d86a59612655b7fb75248e759435ab99708dbd9ddda13eea2bcd63e3f1a3e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tabligheirani.ir",
+        "keys": [
+          "6f7168f2e78abaf390020da5617bca55e851240e849bddd782eed60c7c0a4647"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tbli.ir",
+        "keys": [
+          "94002345f6c3b0af06558d20c81442f538e1376cdccd770027bd28bd0bd668ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tavoos.net",
+        "keys": [
+          "51e6f6843774ac7e40a1252c73c4d978a446f577fa54438989f48146a9142b3e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cashback.takhfifan.com",
+        "keys": [
+          "3ca7e0e7cbac9502596129e4121ea07dee61fe7a69b10bfc0930f9205ef01bfd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tapsell.ir",
+        "keys": [
+          "de62e6e9f85baa21a532779ecb8b413882b00e9140ce92aa640624255aa3d60a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "toppopup.com",
+        "keys": [
+          "9fc6aae62b79a688f1f6a41be47592f89a4dc33586f9dbc95c2e42b58ff9e5d4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "counter.toolsir.com",
+        "keys": [
+          "b19d89c2d5adf7c8e46e986387fe13dbbaba22f404fab11f1df55f8c0e9fab2d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "usermap.net",
+        "keys": [
+          "a3b361b1f7f1543c816223f8dcf8aae20ac17c23a7db2198dea7dd6e24c9c98e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "userfriendly.ir",
+        "keys": [
+          "c7fdea1cc23aa04f4a5b695f81b8e28abd3e72456b3bc38116fc134a959b0e23"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "utopclick.com",
+        "keys": [
+          "ec2518edaaed2ef4afdb26839beadaf90da65f7214e0f603b7ac3443f2c304f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "utop.ir",
+        "keys": [
+          "ee68b4785a48625c6d2975e111de6919dbc3e49cdebdc97ce8d5d225e12527a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vatanclick.ir",
+        "keys": [
+          "01cdc8bab3b694861afb45bc10be4c6f0a70eaeb648da9a18e874e7a00c31b82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wideads.com",
+        "keys": [
+          "c61f580def31fb2ae6a95d271cb91d4651c7468dc9d40c59d1a303bf2986749b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xjs.lol",
+        "keys": [
+          "ca59741adb69457a49767b1d21f1b9eff97f4c52c36d13e147e636878bb69d18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xmlx.lol",
+        "keys": [
+          "f4a1209a98b8b1d246e5ea11d1abe4d6105a95b03b16ad01b7b1f9cb3afa3946"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yelloadwise.ir",
+        "keys": [
+          "8fef77f8e77fafd5364147657dc897c9538d54d6846841c07fe31941587559d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ylad.ir",
+        "keys": [
+          "93f123627ee196084de43e86f05146c946b72a84012f237da5d251d538384c20"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yektanet.com",
+        "keys": [
+          "570c5a404971dcd9d3e9f094973c1ab90d754f6669a973477c20d148e036136a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.yektanet.tech",
+        "keys": [
+          "1ce6c0de87dd04092cd9d31a71eaea0a3e1472b3b90824e2b7e9b7212dd667e0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yekbux.com",
+        "keys": [
+          "bccb6b29628ddd80ca78ca9691d402d84e21887c4e7a4124fe16515d97933102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zarad.net",
+        "keys": [
+          "855c0e7e616feea00a0695d69198f499845931a316f2b37ad59ba5418bebee0c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zarpop.com",
+        "keys": [
+          "ef8f7b0f5a6788acafe9467bae6d28302d642280c9165dc7bcb2f6b35b0832e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zarpop.ir",
+        "keys": [
+          "2e832b2afbf2067247b3f94809c44a90b004972e716eb6437c9f64c5ae0d6a2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "track.mailerlite.com",
+        "keys": [
+          "da84b4f7f2df5adfc37e935eaa01dd2d78946cdf12e7010d7871b5a4192db49b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "system-notify.app",
+        "keys": [
+          "cfa8f7bdfc65268132aaf1c1d1b5f270269732c295239e512af6eac331808178"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "web.webpushs.com",
+        "keys": [
+          "99a2f6242a1513ed4ff01efb04acaae2ad8c4d1aa5cf0b6f148060524b65febf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.asiatech.ir",
+        "keys": [
+          "7567cd846970078882e2a2b76fb0b15ab771d7dcb5d96c539fca668f4d4c9b97"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dsp.aparat.com",
+        "keys": [
+          "db6b68c40efcf4fc81e771cd787a40a183324851b048b8f74bf80b9f63b54484"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.asset.aparat.com",
+        "keys": [
+          "e8137892d80d8e45419921847ef77ff8b749b611453bcbcc63efb08325abcae4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "metrix.behtarino.com",
+        "keys": [
+          "fd1ad76146cbde3368535f4244a7e228fe7c2eefa8ec02328e0fc3095cce599c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "apm.bama.ir",
+        "keys": [
+          "67b5f341c6e3e414b55f20eadbfe962af97323f8cb22c0a908d93ff6c5b51b58"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.cafebazaar.org",
+        "keys": [
+          "940cc16ad16ac68a3efedc016ade0f484533185dbd28e76655fcad70f43b86ea"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "my-pu.sh",
+        "keys": [
+          "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "puuush.me",
+        "keys": [
+          "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hutvtpbhvmae.com",
+        "keys": [
+          "2007203fcf91a51aad771421659f2b988a3c531fd5ece7babe14ce2d5241f839"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lnremmfpc.com",
+        "keys": [
+          "dfe9b9d16266f823cdc606656fe64a06fb7fac50a07fe3fac7b3ffa107643811"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.digikala.com",
+        "keys": [
+          "a3365a9ac18257fd5374b9f463853477188023482364e8cc8547e6b0a783f3da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "new-sentry.digikala.com",
+        "keys": [
+          "1dbd9352dedfab9b1ec23507f2ba77c43b2dba4a1748078cc395586d46a12db0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.hostiran.net",
+        "keys": [
+          "cf0b2e9a3e4a4024c1bc82b7a9a20796451df1f5b7f5d16025f37252d2f734ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ipsite.ir",
+        "keys": [
+          "ded252557e35caaef55cc957e8c7cfd67b59ad0376707074d4a2945a0a616ca9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.irancell.ir",
+        "keys": [
+          "f310047312c43237bbda1a385298452c0271e48bcdd98d92ac82e7386363b1e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "apptracking.irancell.ir",
+        "keys": [
+          "e3e3ea831b08461f80b61eb1295070e6c052bc54839cdab86966e5297d32f04d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.alibaba.ir",
+        "keys": [
+          "83dde48134d3696bd7dc831f724a007a18311f2dfe766ca06c38b08f37c3ab59"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "logapi.karbord.io",
+        "keys": [
+          "c021f3c39450d689a6898fbf42fb700dec93264ac2ce1c766c7a5970135e4e2c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mediawach.com",
+        "keys": [
+          "7f383f24beba90f21b3831575838c67a514239ae508a9cc613240b8479252b11"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "counter.mahanmusic.net",
+        "keys": [
+          "040ad7ef8e9c87fc42912dfbceded936128169aaa2233734aa8532eee404a4be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytic.magland.ir",
+        "keys": [
+          "700e54c1db85239a7a158c53e3d48916de1a763cddf03709d0833358e27f100b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.malltina.com",
+        "keys": [
+          "47ad38fe3bee503346d535689871a32dc81c10fe181bffb8f9101da7119f8a46"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.malltina.com",
+        "keys": [
+          "aee79c67e492e835758a827917e8d2582b308c7c1826da0bd6c1880a044cd63c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "oscaranimation.in",
+        "keys": [
+          "8cea01ee41fd70ad6c914450bf437260a5c3341e49cd487994240916b9a50c5b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.namava.ir",
+        "keys": [
+          "79334780a9034d15ca1dbcb21243c1728f4fba48f47e3a0c86cedf6743266098"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.plaza.ir",
+        "keys": [
+          "9763a64216393e4b39fb8da8e4e147fec508741804ade600a6bca79c0ce56bb4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.querastaff.ir",
+        "keys": [
+          "2f7b9007698a42db9b29c013c75903776e50e2944c8151f9a71041a8de581fd9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.reymit.ir",
+        "keys": [
+          "06b39528d1bc0b07e18e0e167c26bcac882a3c31edf0839a8ce3235f1d3caf06"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.eirib.ir",
+        "keys": [
+          "a146528f831a0347fbcc4ba84715a724772946aef20c99671920d7747af409c5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statistics.iriborg.ir",
+        "keys": [
+          "6e950639bccf95b9ad995cf038766486c260c7004353016f355dd4e95052fc5c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "errortracking.snapp.site",
+        "keys": [
+          "f70731bfff3db97237262745121bc1293aed4044edf505ddb23f1c7e909f1456"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.technews-iran.com",
+        "keys": [
+          "09a55a287b3a9828779c35040faadd81337a5318779f3800aae4aea6f3c7ff90"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adengine.telewebion.com",
+        "keys": [
+          "9b7b5700f3298cf1088733f86a0fd878f96b1fb95463b30cff268692e24f0db6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.telewebion.com",
+        "keys": [
+          "b243487149c1254ab233b62e324cf165fa061ae07eaa1b38cbcf984bd633befd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hadeseh.simra.cloud",
+        "keys": [
+          "4656a1e270a64906f33df0886f64df8d65e017cbca11acd98a2ba0ab85003d49"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.jeldnews.com",
+        "keys": [
+          "36dba584d97808682e5f41e6c7d7f01d50823999df19e3218426799ada81c420"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "excoino.com",
+        "keys": [
+          "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancloudmining.com",
+        "keys": [
+          "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "axotrade.com",
+        "keys": [
+          "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yoozbit.com",
+        "keys": [
+          "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nokontoken.com",
+        "keys": [
+          "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryana.io",
+        "keys": [
+          "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryacoin.io",
+        "keys": [
+          "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryastake.io",
+        "keys": [
+          "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cryptoland.com",
+        "keys": [
+          "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bridge.link",
+        "keys": [
+          "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mtabdil.com",
+        "keys": [
+          "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mttcoin.com",
+        "keys": [
+          "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unique.finance",
+        "keys": [
+          "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "treenvest.com",
+        "keys": [
+          "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "artanlife.club",
+        "keys": [
+          "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tastenfts.com",
+        "keys": [
+          "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bemchain.io",
+        "keys": [
+          "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "emway.ir",
+        "keys": [
+          "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "defigroups.com",
+        "keys": [
+          "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leumia.io",
+        "keys": [
+          "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aitrades.com",
+        "keys": [
+          "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "propertiq.io",
+        "keys": [
+          "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixbcoin.com",
+        "keys": [
+          "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixb.exchange",
+        "keys": [
+          "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "synchrobit.io",
+        "keys": [
+          "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arongroups.co",
+        "keys": [
+          "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "persia.exchange",
+        "keys": [
+          "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "guhtoken.org",
+        "keys": [
+          "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "orbitnetwork.net",
+        "keys": [
+          "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kingmoney.io",
+        "keys": [
+          "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "utbyte.io",
+        "keys": [
+          "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quahl.com",
+        "keys": [
+          "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gpm.ltd",
+        "keys": [
+          "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dagcoin.org",
+        "keys": [
+          "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "coinwallet.biz",
+        "keys": [
+          "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "soodland.com",
+        "keys": [
+          "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "minepi.com",
+        "keys": [
+          "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancoinmine.com",
+        "keys": [
+          "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laqira.io",
+        "keys": [
+          "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "waykingroup.com",
+        "keys": [
+          "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bnbmatrix.io",
+        "keys": [
+          "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartgalaxy.finance",
+        "keys": [
+          "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bahatoken.site",
+        "keys": [
+          "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shamining.com",
+        "keys": [
+          "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccnnetwork.co",
+        "keys": [
+          "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wintap.io",
+        "keys": [
+          "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "frzss.com",
+        "keys": [
+          "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hoho.mobi",
+        "keys": [
+          "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unitedsolarinfinity.com",
+        "keys": [
+          "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mogo-crypto.net",
+        "keys": [
+          "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tinancefa.org",
+        "keys": [
+          "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chancx.io",
+        "keys": [
+          "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "falixa.com",
+        "keys": [
+          "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "izonekala.com",
+        "keys": [
+          "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laxsson.com",
+        "keys": [
+          "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tradergpt.ai",
+        "keys": [
+          "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mat-pnu.ir",
+        "keys": [
+          "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "androidupdate.download",
+        "keys": [
+          "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "159.100.22.89",
+        "keys": [
+          "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ewpb.site",
+        "keys": [
+          "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "najva.com",
+        "keys": [
+          "867c9f9548a432de9e90e14ed9f1f25c34b499beaf397846bf0e3a1a8f0104f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sorenad.com",
+        "keys": [
+          "0c12e9d97abf214b81baee9cc34281acff3860952a9f274f5825a23c94a109c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "on-click.ir",
+        "keys": [
+          "a6bc3150d7f65e3d705e8f4078d11ffc8fecd8fcf047ac700902c2d34ec07b0a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onclick.ir",
+        "keys": [
+          "a418f4a8b502da1ff3f91aed59b37ec246b38cae5a805b41ed202f19dcc1a1d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yektabanner.com",
+        "keys": [
+          "6a58233fbeb357384ee0eae8e78fa8e63610fcdb99457103f557fea814d75176"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arvanvads.ir",
+        "keys": [
+          "f54c7173a82aa86641df67c1f4430afe6613032468ae5bb3ffc0cb97c8934a4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adengine.telewebion.ir",
+        "keys": [
+          "f5ba93253ca4b6f6b70e54aea4b6b4a9be0376874aee96f0420ca748e92bef12"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsc.beytoote.com",
+        "keys": [
+          "54edad258556859da4d43c1086ae2face95dd5b9b3cde4cf4dbdfefad2d16522"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ovrjkuavda.com",
+        "keys": [
+          "8c58687c3e70256a2e2c49a10e44969e2246140094c1e32e8835b1c0d9740044"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jtoaxlbas.com",
+        "keys": [
+          "22bce5256b6ae60468b9b4046a743dfd63fba1fc0359ef7a617612feaebb3c8a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analyticsdaily.ir",
+        "keys": [
+          "93139f76039e0431d73c425c7be609a142f837aad1111c312ffffac40b310513"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kntr.ir",
+        "keys": [
+          "12d593093d8fe83a9d51f62f86265d734d44aabc6b6f4367778e3eee4c8610e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aflo.ir",
+        "keys": [
+          "fe8953a0c4b51438f8a216956d15e5a16d616a7f49df8336f093f6e680413cf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.sabaidea.cloud",
+        "keys": [
+          "44082e1ed24663d943c134d4ca1dcfe3c9fe35c973f73a412ced5b0f4db82e67"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry01.theforge.ir",
+        "keys": [
+          "3abd1dbc1bf717d4025e8a5760f8b085bfc99ab47207e5b2e84a05188adc0cca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.zoomit.ir",
+        "keys": [
+          "f16b2e07b2bed8bc0cf6d2ad1a57d9cb0b11390c352649ffdf59b9922aca24de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.qalam.group",
+        "keys": [
+          "017858dd96296dc17db3f2f3cc39dff611c98785c09242079cc701abb5f8629d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hadeseh.telewebion.com",
+        "keys": [
+          "f1c59b173ea5a7b9442de2356abc9940fa8a972bda7566c473adee5eeb3e6c61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.alaatv.com",
+        "keys": [
+          "f1460a4dc2cb7a8351e219e106b000aa227e8ddb6821a4323dbf9eee0533859d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.divar.cloud",
+        "keys": [
+          "0635be4fbeaed3edee8125c9c021cb6ea2090cfa9b0a154634f403451a7bbb80"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.mci.dev",
+        "keys": [
+          "89f74ca4b16c1fdfec09eed6e850d81f3e4a20d31c9849c43e4f0fb9f9520df2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.football360.ir",
+        "keys": [
+          "f3eb372030cc297638778f9c06d52d763a5900c9f3afed95dab5576e9f7f7350"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "analytics.bertina.ir",
+        "keys": [
+          "c639e7c5f7bd11b527bc595ef857501a80fb8820576b51b172195f2281481e3f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sentry.bale.sh",
+        "keys": [
+          "f61e05ed385250aa1dd2c53184220bba50d28fab74269575fc6465a18f0640d4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "log.ahlolbait.com",
+        "keys": [
+          "000bd8f5e15170c5798cc3411cef5ff73e76baf5aab0e25b6144bad57afc9128"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "matomo.parto.media",
+        "keys": [
+          "3157a239cbceebc4b115f84ec1500c93f806f8ac36cf2f33fec43c6f35b56804"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alast.group",
+        "keys": [
+          "17ce69c7cf6c4fa0bd210c6c15fa58432150395b24e07fa271b9caa470a12bea"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||c.filimium.com/meta/affiliate"
+    },
+    "_sourceKeys": [
+      "2641fe80e566da6aee348db980d93393e2d9b3a853c2b96a53834e172b7f85a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||10.10.34."
+    },
+    "_sourceKeys": [
+      "4616d6f067b5b670dd811906eedad64e000b097c0e8099ed976d4c1b8845e96c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||github.com/rcycc/-"
+    },
+    "_sourceKeys": [
+      "dc1752ad3dee5fdf95b8571c53f6d722532e099dcc92659ad78c8832aabe2966"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.me/bitbod_trading_club^"
+    },
+    "_sourceKeys": [
+      "581493fe66eb0fe084ff571503b0edbfcabfb7ab91fe96fe02897a4e657c3f85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "excoino.com",
+        "irancloudmining.com",
+        "axotrade.com",
+        "yoozbit.com",
+        "nokontoken.com",
+        "aryana.io",
+        "aryacoin.io",
+        "aryastake.io",
+        "cryptoland.com",
+        "bridge.link",
+        "mtabdil.com",
+        "mttcoin.com",
+        "unique.finance",
+        "treenvest.com",
+        "artanlife.club",
+        "tastenfts.com",
+        "bemchain.io",
+        "emway.ir",
+        "defigroups.com",
+        "leumia.io",
+        "aitrades.com",
+        "propertiq.io",
+        "bixbcoin.com",
+        "bixb.exchange",
+        "synchrobit.io",
+        "arongroups.co",
+        "persia.exchange",
+        "guhtoken.org",
+        "orbitnetwork.net",
+        "kingmoney.io",
+        "utbyte.io",
+        "quahl.com",
+        "gpm.ltd",
+        "dagcoin.org",
+        "coinwallet.biz",
+        "soodland.com",
+        "minepi.com",
+        "irancoinmine.com",
+        "laqira.io",
+        "waykingroup.com",
+        "bnbmatrix.io",
+        "smartgalaxy.finance",
+        "bahatoken.site",
+        "shamining.com",
+        "ccnnetwork.co",
+        "wintap.io",
+        "frzss.com",
+        "hoho.mobi",
+        "unitedsolarinfinity.com",
+        "mogo-crypto.net",
+        "tinancefa.org",
+        "chancx.io",
+        "falixa.com",
+        "izonekala.com",
+        "laxsson.com",
+        "tradergpt.ai",
+        "mat-pnu.ir",
+        "androidupdate.download",
+        "159.100.22.89",
+        "ewpb.site"
+      ]
+    },
+    "_sourceKeys": [
+      "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102",
+      "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f",
+      "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f",
+      "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463",
+      "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84",
+      "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683",
+      "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56",
+      "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9",
+      "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777",
+      "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04",
+      "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9",
+      "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a",
+      "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7",
+      "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047",
+      "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26",
+      "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963",
+      "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42",
+      "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78",
+      "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5",
+      "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858",
+      "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e",
+      "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d",
+      "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549",
+      "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8",
+      "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7",
+      "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8",
+      "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9",
+      "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd",
+      "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7",
+      "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b",
+      "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785",
+      "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7",
+      "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7",
+      "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18",
+      "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de",
+      "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d",
+      "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852",
+      "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9",
+      "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce",
+      "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026",
+      "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd",
+      "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d",
+      "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad",
+      "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47",
+      "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341",
+      "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6",
+      "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62",
+      "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86",
+      "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2",
+      "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd",
+      "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2",
+      "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3",
+      "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4",
+      "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02",
+      "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886",
+      "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c",
+      "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041",
+      "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8",
+      "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399",
+      "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "excoino.com",
+        "keys": [
+          "b8731febf99684b2bf7213a81b8cb8e255a264786c23c8368dedcad86f104102"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancloudmining.com",
+        "keys": [
+          "f7949873f74fe89b260f8ce0f5038c71856b6434b19595670e55240aa087981f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "axotrade.com",
+        "keys": [
+          "3003b2d76633be83f5c5f17b2babd7247b2fed908649ec325e6a61314ae8f99f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yoozbit.com",
+        "keys": [
+          "58431f2b608f33b06d7b7ee997a55e7098635d2f06b2a8f80c54a3829e5f4463"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nokontoken.com",
+        "keys": [
+          "53d0e94ab6d201a8543f85aaf1c5dd64486c42f3be6fe509f86dbb511e4a6f84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryana.io",
+        "keys": [
+          "2cb4307b2db1126c34ec2724b0715a943968b60c02a43b1a6bb672a97c43f683"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryacoin.io",
+        "keys": [
+          "5caa0b27f514aa2f976f8ef56eb1ea9e263b41ab459c9e919c5ef11707caed56"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aryastake.io",
+        "keys": [
+          "2c35788c0c16d165e6fa5d8fc30b4e80d0cbcdada682f491b41ae30c8f9cd6e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cryptoland.com",
+        "keys": [
+          "ae49628a48031fdefbbe5fe89798fb1cd3453452b2f0d0d2241987405ccce777"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bridge.link",
+        "keys": [
+          "ada6887cc5424f67788f31c002e8f7b70ad13e50feb49e9a326056adf1022e04"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mtabdil.com",
+        "keys": [
+          "4e754c60cfc55940ff5a1f920b89be8352f8c9a183fa4728333f3901c14087c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mttcoin.com",
+        "keys": [
+          "26eb49af5fc7ec35e0d4fe60ed3438d308c9994cfc2c5eb17cd14b7de010301a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unique.finance",
+        "keys": [
+          "ceb4cf2cab3e38d2b6ea37c2a0f188866e3f4cf3c2c720e5cd6794818f8be1f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "treenvest.com",
+        "keys": [
+          "d7c385fd17f982c95bdf37f6b6af8cc7ab504e0c39d897076e9ae033a94ce047"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "artanlife.club",
+        "keys": [
+          "7a6bb614d671ae2b1feb6787f3ddfc1ebde9eedc3e6e63a991a9906a2c1e4c26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tastenfts.com",
+        "keys": [
+          "59e2ab036104c12a49bb961d0242fd8ecbb6b8fa68fd6a0dc16b9d196ff30963"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bemchain.io",
+        "keys": [
+          "ff446c85b3088465dcfc546df27b9c51bc8d85d5597a45c569224280b3c46c42"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "emway.ir",
+        "keys": [
+          "1879700ad5f6aa5da8f5ef11aa5c50ba0943aa450388601fe98cd0a7a8213a78"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "defigroups.com",
+        "keys": [
+          "48c9d45505af72c59a3937be7f7644431536ac455ddfb227885612605d42e8a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "leumia.io",
+        "keys": [
+          "f78349c8ebffe0a4237400caac1b6b980f5e197aeb9308bf122f986db252f858"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aitrades.com",
+        "keys": [
+          "815cf0c1534c895a014244943d726eb86b5ad73e2fc70f128624a5f328d5273e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "propertiq.io",
+        "keys": [
+          "a41bbc63802a46a912aa4f747978e0ce7ce47e21214ac3959085d12745ccf80d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixbcoin.com",
+        "keys": [
+          "23995dbb3cfceeb979d2933da71f0ec7bdec11245718b5dac389e2fffc3ea549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bixb.exchange",
+        "keys": [
+          "84d0dedb926ec1c5fd5474cab0cac744be9352e76c3bbabdb70daf7163ec09c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "synchrobit.io",
+        "keys": [
+          "e82c42cefabb9dfdbd0c4a76c4207ed1eaec4b889e85442837f4d35ba19801f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arongroups.co",
+        "keys": [
+          "7d70eab19f5bb61b2de61ad744a15817c2e3fcd8c652fdd04981fd4b47d946d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "persia.exchange",
+        "keys": [
+          "efae9e95ea949ad5ce54046f2e7d630edcbb4202877eb30ff8de613dec82d4f9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "guhtoken.org",
+        "keys": [
+          "724fa324abec0132d91dcc3c3cdb6efc1242b260918c455bd8203132521df3dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "orbitnetwork.net",
+        "keys": [
+          "9d1fc6e4c7c05b19da56dafa31204c1d01a73a048cf05fe224b8072ce86a0fd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kingmoney.io",
+        "keys": [
+          "03f0e79d0e746168f23daef011df0cf92bb3ba08f3e196303d3bf87af675d59b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "utbyte.io",
+        "keys": [
+          "a266d39850e93ec26e74d7dff5742fb8d020b4f47f59966c3d4b16da612ee785"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quahl.com",
+        "keys": [
+          "4dc21d41a21f56b354a57f03a7e915f9ce91c3fa0f147cc71e7be048df3531b7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gpm.ltd",
+        "keys": [
+          "ee44e097b1ac6d03ce50f82671d1706c60d2ecd5d9d89c2638c09aea628114e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dagcoin.org",
+        "keys": [
+          "380ed15e39fbc7895600e290f652d9769a1abc3d1d2e7174ad56935fe44feb18"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "coinwallet.biz",
+        "keys": [
+          "dabe83dc0d712e3c84118d532df989ce5c5899a644273488f0ddf5091730e5de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "soodland.com",
+        "keys": [
+          "1ce302653424fe5279a82c6dfc7f52cca526af5b86ead296d4e43e6752c51e3d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "minepi.com",
+        "keys": [
+          "de38fe30e32e1c6640771f6e3809676e02a74ad35efea90bd13684b366d61852"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "irancoinmine.com",
+        "keys": [
+          "a8ba74fc37e70595cc108d4bfe318cd327447cc31c13b299964860cd28f1dbe9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laqira.io",
+        "keys": [
+          "296eeba5951c6e60a3f923538c9d637b9abfe814700f96ff1600e453150de2ce"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "waykingroup.com",
+        "keys": [
+          "ca57363edf4e6247eea31e4f2283b41227cde8471cda277a5846ea1c14452026"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bnbmatrix.io",
+        "keys": [
+          "17ab50eedf37699f071fb28a5fa6613a611c7f2b396c3fc3344982f3e3e8c0dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smartgalaxy.finance",
+        "keys": [
+          "5aba719d7390e58548a64461951257ea5fbdef3aedd1f8d3458cb20989e8c59d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bahatoken.site",
+        "keys": [
+          "a7c20f2f509fc157d62e1eb47f1f8d52eb39f78f775aa62932f9220f7b6ff8ad"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shamining.com",
+        "keys": [
+          "bd3fd4960c0ae347cee7d70d8485f1b3d2a91d10047673c2548b428d1bd41d47"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccnnetwork.co",
+        "keys": [
+          "4a7fcd7944aec94b0f856d6440c14f39e6320cf774fa4ebb7ed52d1627bbc341"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wintap.io",
+        "keys": [
+          "661afa37ce6bbaf75d851bfdde9628a6dffd908e9a0ef992a25cce4739db47d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "frzss.com",
+        "keys": [
+          "624408416de68f22135ddedece5d507a49530144ceca75d0aa61b427cfefde62"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hoho.mobi",
+        "keys": [
+          "97a9be39baf27f66074da9a4269a47d55513d2ab442ec7215e5f3c092df65b86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unitedsolarinfinity.com",
+        "keys": [
+          "56eafaa57e25290c28ae58ead8d0ec0dd17299568ea41f3e7a0eb4cad75fded2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mogo-crypto.net",
+        "keys": [
+          "bceefb7e11049efbee3cf13f0a48c7639b35e06001339b2a8c1599e3c0ea6fcd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tinancefa.org",
+        "keys": [
+          "c04e457af4f3acfcdf4a138969c29895f8cce33908361aa2299e5443dd6125a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chancx.io",
+        "keys": [
+          "93da8f73aa064c6a32a5dfc809c1d2c263e1e065e9213d0c40925906170e46d3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "falixa.com",
+        "keys": [
+          "593e4efc3ab1f3ae78a582092308dad64cb8aee81ba0b247dfb8da75fff58bf4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "izonekala.com",
+        "keys": [
+          "0cb5d5353147efe15758e482bd58260d0bd5421b83c488ac05efab967bc4ac02"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "laxsson.com",
+        "keys": [
+          "058c8e5955b1a4ec747ac7e340c100421d900e4253a8ad15c0a458ae4c46d886"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tradergpt.ai",
+        "keys": [
+          "623db1e1522ac598576672329a7bf70b71b9498615e38fb30f04b21bd45a049c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mat-pnu.ir",
+        "keys": [
+          "0870ee7d89a773bfbe418456bd8495148302b9331951fafa190c6b159c3d5041"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "androidupdate.download",
+        "keys": [
+          "6ff912b2ca627e32f98f609b5cf3ec02d77e69b41a69dc71e15de5c59c5a13f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "159.100.22.89",
+        "keys": [
+          "ee41bb06bb0f33292a24ba2f244de48ccdcabfe993f3ac3759569687073be399"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ewpb.site",
+        "keys": [
+          "aaf0a42ddbc3137dcb7771fc3482cc1a351a402890ad27a7cedbbfd12bfa3c56"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  }
+]

@@ -1,0 +1,3054 @@
+[
+  {
+    "condition": {
+      "urlFilter": ".com/bannery/"
+    },
+    "_sourceKeys": [
+      "7431631bc383b3e46d28d713c847038844b0f5f4ce230ee0d6b8e67461eefd87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": ".cz/ads/"
+    },
+    "_sourceKeys": [
+      "5e075a19495b0d5d5c0dc60174087df59453d5ba62a3ffbae38d9c7c223180fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": ".cz/ban/"
+    },
+    "_sourceKeys": [
+      "c477091c48795bff5ca51974dd9fbd668f0b91645817425b9aa8240c3147abde"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": ".cz/banners/"
+    },
+    "_sourceKeys": [
+      "eed948dc323051c4b81885febb0784013ec0d9a5952bd7b9abfb647a9ce60b31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": ".cz/bannery_"
+    },
+    "_sourceKeys": [
+      "c23619971ec08492eed5414dd44896e08b0ba9c48b9c5793b977b84370662e83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": ".cz/img/banner"
+    },
+    "_sourceKeys": [
+      "967b69b949a63505f8161e87997e0557ab7d9a8d45ca4d7dcdf9d88c8d1a3a31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": ".etargetnet."
+    },
+    "_sourceKeys": [
+      "8547f7652218ae25cde94bdfbf0a8925da60e38061e290c1470dd42e80b148de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": ".sk/img/banner"
+    },
+    "_sourceKeys": [
+      "e82a6d13084ee69a463a80406893f812c23dd3dc7f7908231c90d85b2549c344"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/amalker/pos/mag_ads.js"
+    },
+    "_sourceKeys": [
+      "8810b6ad4e98a23da8f00156d7fac32834c638f206692581e0f68adee5a86574"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "/cron.php?rand="
+    },
+    "_sourceKeys": [
+      "e2642cc1aef22a7dda59b1aa15b3b0e14a4df2758dbb5241ab14e7433584fe6a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "/emonitor."
+    },
+    "_sourceKeys": [
+      "662ac64f4ac41f9deb519ad1c44c8313723f59a9b88444777352e6677e701ef5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "/komercni-sdeleni/"
+    },
+    "_sourceKeys": [
+      "b3096910a0d232a51a8b1b8c31a6128cace1d983cb6b75baef0a31c1c2b5eae4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "/push-ads."
+    },
+    "_sourceKeys": [
+      "39f579bc22a9b2e9c6f2cd3a15df3a0e9040d972d97eac298c8c9e7529a5ac75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "/reklama_"
+    },
+    "_sourceKeys": [
+      "fe957542f16db82cbf2ab86e476df610214607db49b4ed04cd6ccc517d8400e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "/reklamne-"
+    },
+    "_sourceKeys": [
+      "c00bba0f79f6f69bb49ecc69d768a2e27312b15b630dab504a37db87b96ecef8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": ".war-forum.net/images/sh/"
+    },
+    "_sourceKeys": [
+      "468fa07b7e2487b44a0481f171c4a5c2f930b43d917982b433082f614c9e807d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.im.cz/ad/gemius.js"
+    },
+    "_sourceKeys": [
+      "c148abb8835e7fae466c4ba835fcfd2bad95f1d2ac9bbf85d7303977fb3d685a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "||alkoholik.cz/zavislost/images/banners/"
+    },
+    "_sourceKeys": [
+      "f3dbb24f9bbb373bf09821a5e83f9bab3e959b7c9566e0adbab9d2b0e29e853e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "||bcastgw.livebox.cz/ta3_vod_com/"
+    },
+    "_sourceKeys": [
+      "c41f65cc79b292d6dac47ac2ca5d5f8111f649da4b8272761aca531d4ff83581"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdr.cz/sites/default/files/_cdr_branding/branding.jpg"
+    },
+    "_sourceKeys": [
+      "d26d45831d4480a827eb1063375c502fa225a0a0e42030b87186f83aa1ffcf05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "||cviceni-doma.cz/images/*banner"
+    },
+    "_sourceKeys": [
+      "960f83fc5fef8634ceb7c0d21ce35610a65670f7051478a78a12e85325324675"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "||diit.cz/sites/default/files/_cdr_branding/branding.jpg"
+    },
+    "_sourceKeys": [
+      "eb3c18ef77e5f22e5dd14929b3ad66622ba2297d667259a25f61a3e11bc22b69"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "||digitalnitelevize.cz/obrazky/reklamni_odkazy/"
+    },
+    "_sourceKeys": [
+      "a16e2b10c49c9d57f6aaf52775101b43ccab7ede3e85aea90c0ec75ae2d32fa1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "||espoluprace.cz/affiliate/"
+    },
+    "_sourceKeys": [
+      "507fa8731c05b9d80ec3b8f01f06aea69edc46e661e52e39d77759e247f64725"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "||fdb.cz/ad/"
+    },
+    "_sourceKeys": [
+      "8c210cec08e960e0c71df6ab22636891560ce7129c142c5a63f05b501c73f671"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "||filmporno.cz/media/banners/"
+    },
+    "_sourceKeys": [
+      "4a1877f9fab96e6c4373da52272a7492bd516eac0b9a3948f0072868b0e36d33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "||hcdukla.cz/adds/"
+    },
+    "_sourceKeys": [
+      "16ee8c18b41e522d0ba1a1889456ecac96086f3f19dc05fbe5a69dbee214d9e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "||hcmotor.cz/adds/"
+    },
+    "_sourceKeys": [
+      "41f572a3802e56df3458f25016965665305658c318876ed926eee2918869ab45"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "||hcorli.cz/img/hokejcz/banner_hokejcz.png"
+    },
+    "_sourceKeys": [
+      "cdcdd54fce447d242e7bd3b8be6251c6627f1d689c2de00628d07ece57bf5406"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "||hd-forum.cz/images/banner/"
+    },
+    "_sourceKeys": [
+      "d4451cf0a28bbd46c30e03c82d7e3a2fe924e59c0a85b552e33788dc2c9c9836"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||hd-forum.cz/images/sberbank.jpg"
+    },
+    "_sourceKeys": [
+      "6e34cdaeaeb418e1434346175a5ed7ecd0460542763ee7bae37629d4d413d137"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||heureka.cz/direct/bannery/"
+    },
+    "_sourceKeys": [
+      "7d38c8b8b3547a81c3f21fff3b4f21bba254b4a9f65848def32f8c90dca13ce4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||horoskopy.cz/*/*.js"
+    },
+    "_sourceKeys": [
+      "bc1b6a260ad097e123b5f62cb7d8cc34546f2508ba5f7d06466fe3fde1d1beda"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||im9.cz/*aukro"
+    },
+    "_sourceKeys": [
+      "75ab7f9c015d5b2f812a926f3067f3c512ee1264dd90c9649cc79289ed486578"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.cdnprg.webtea.cz/web/pozadi_webu_mc.jpg"
+    },
+    "_sourceKeys": [
+      "9f2763bb58b2aab384bc2d5b136ab6ae77c31502fa1b1bae80e6f91b830efeab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||jiskra-benesov.cz/images/branding/"
+    },
+    "_sourceKeys": [
+      "b897a70ce43ac1ad846123c035a3af8b35695ae6eb1afc69734c773b88e719c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||jiskra-benesov.cz/webloader/jsloader-*.js"
+    },
+    "_sourceKeys": [
+      "082903008ab76cf700a09ae0d06bf8d11af4bb5565a2a516ded0ed36aab20276"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||js.tipcars.com/js/*/_view/amalker/amalker.js"
+    },
+    "_sourceKeys": [
+      "097e88452ec480555214023d30f40ae4b3f9671c8df44abb051914bf0308c46e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||kurzy.cz/e/adv?"
+    },
+    "_sourceKeys": [
+      "c69fe08e9ae2e3fc6abbe0a79dfe6ff2ad91ee2ef396b2813415403e6f96fb90"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.kurzy.cz/og"
+    },
+    "_sourceKeys": [
+      "3154ba5d804a7023e73b1e9e1552483349fb12c02561966416c409f6a63665e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||kurzy.cz/l/s_back.js"
+    },
+    "_sourceKeys": [
+      "bfe7704b253fb44a1e48c5caa54917955e3536d6dbad7796d50cc374d28f2f22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.kurzy.cz/block/"
+    },
+    "_sourceKeys": [
+      "152b01752e24098bcd1efe05b2c28ce425c63fe5663869f46e3ae3d5eff92fb4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||lamer.cz/images/bg*.jpg"
+    },
+    "_sourceKeys": [
+      "e5f26241ae2af098798adc0c7ac1effb5c00a8398fd9b2ed879f54f8ea82c3f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||letemsvetemapplem.eu/*/alzafeed_cached_js.php"
+    },
+    "_sourceKeys": [
+      "4373bef52e8f8a2d22aab9281e1696b10aebd25b52a1a5214f9a4d932b5d8f35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||lphard.cz/images/banners/"
+    },
+    "_sourceKeys": [
+      "52d002d68e80f17a7d86e131fce795d0b72030609d859a4437b42a365541a341"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||mamincinyrecepty.cz/images/banner"
+    },
+    "_sourceKeys": [
+      "b567e2d70a069d7f53832f67e9029dfd7aa3b9e7232cafafa20c9b09391b0710"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||mrk.cz/images/inz/"
+    },
+    "_sourceKeys": [
+      "52deaf2e634d2c4032542b70ed647e90b047ee762893620968b4e698a202f8e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||pornuj.cz/files/ntva.php"
+    },
+    "_sourceKeys": [
+      "a05602911b33eb4b031fcfb57b626ac1ac90a1588d756b03b293efd5272422b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||presentation.lmc.cz/aliance/"
+    },
+    "_sourceKeys": [
+      "c88f19ed57c2d648a628b42a49ec6f0d64d2cacc22e6d01222d09e05ba334618"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||prvnizpravy.cz/repository/banner"
+    },
+    "_sourceKeys": [
+      "82a3e8af25ba921287015d48bc368f1d98cbc5b131480418f6a23543d237b831"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||romea.cz/images/servis/banner"
+    },
+    "_sourceKeys": [
+      "e5c3ab3bea0bb3da7a89c0b84a10584a8cb767bdddd7bc855ada790099d72e3e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||ronnie.cz/cache/bannery/"
+    },
+    "_sourceKeys": [
+      "823a9854f55305b0863e1f187b8470aa576eb67bd2185d2f031655c2329bb0e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||sauto.cz/*ssp*.js"
+    },
+    "_sourceKeys": [
+      "7b595b2362868ef3536ea72ab99bc2e54a88bef5677e8bfebda8226516bd8a1d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||sauto.cz/*w9ub*pkp*gre*.js"
+    },
+    "_sourceKeys": [
+      "e808626f9a6e9be866fb605f4e58febc6a1c80a82ee6dca3c44e6a4603692eff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||sauto.cz/*/v1/xhr"
+    },
+    "_sourceKeys": [
+      "2f5635044e5f67c87eb22f1a96cb92872b43063a0d2d67d3b6e4f1ed5ef5ac5f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||sbazar.cz/*/v1/xhr"
+    },
+    "_sourceKeys": [
+      "b457c1306a09e1c63c424401eb46b478232b037d82dc2755319413608dd9cc85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||sktorrent.eu/torrent/interstitial.js"
+    },
+    "_sourceKeys": [
+      "fc725643f9658296189d0698408bf9a6248b7de5c666019212006b7f6326aaa7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||stobklub.cz/images/banners/maintop.jpg"
+    },
+    "_sourceKeys": [
+      "c1b6c5f7eef5fb3035ad9734f01447fd850540eedb9f62d5784b244a1096a95a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "titulky.com/mybanal/"
+    },
+    "_sourceKeys": [
+      "5bcf37ac9e5a9ba39ec9f138b61d9a7187f15d615e52312666a4631c0ae93667"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||uschovna.cz/branding"
+    },
+    "_sourceKeys": [
+      "60aa414e87c191401711a80ccfbffbac3bdc65b8e52492416676224d3503b1d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "warcenter.cz/interstitial_fs.js"
+    },
+    "_sourceKeys": [
+      "319e7b4cbf2ae14d0976dd7c7c0b5cb3d7931c3e50a8151df028e76b9a5022fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||warforum.xyz/ads.js"
+    },
+    "_sourceKeys": [
+      "c6176d75435c5efdd97c66ae36b80f0b4d72a735088c6853d7e267a9263079a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||wesa.cz/banner/"
+    },
+    "_sourceKeys": [
+      "f06cc2d1d80eab920ffcca494f841f0804af7fcbdeb402bbba6ef83619813556"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-content-copy-protection/assets/js/script.min.js",
+      "initiatorDomains": [
+        "anglictina-maturita.cz",
+        "biologie-chemie.cz",
+        "ekonomie-ucetnictvi.cz",
+        "rozbor-dila.cz",
+        "rozbor-dila.eu",
+        "rozborknihy.cz",
+        "studijni-svet.cz"
+      ]
+    },
+    "_sourceKeys": [
+      "4c43934dabbb0f2679864eda7a1b5dae6a29ab1977925a9fab1efb58aec86afd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-content-copy-protection/assets/css/style.min.css",
+      "initiatorDomains": [
+        "anglictina-maturita.cz",
+        "biologie-chemie.cz",
+        "ekonomie-ucetnictvi.cz",
+        "rozbor-dila.cz",
+        "rozbor-dila.eu",
+        "rozborknihy.cz",
+        "studijni-svet.cz"
+      ]
+    },
+    "_sourceKeys": [
+      "59428357a4142d80ec1b386a695772596f73cb4d67e871f8a46a354871508a63"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||zkouknito.cz/js/js.htmlad.js"
+    },
+    "_sourceKeys": [
+      "ef3d03b9ba9cd7a01885390286ed6376bb224f6cf646092f4f77b71f81524b07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||zvukarina.cz/forum/images/ostatni/"
+    },
+    "_sourceKeys": [
+      "faf7427e507cb5cc80ae9c41e6ec9140bdf625b43071239be7b47a5bd08ef893"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||autobazar.eu/__branding/"
+    },
+    "_sourceKeys": [
+      "5554fa724e3115dc462488d5dd6ac85a988538e2cd534aa30eac0b704af33c9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||bmwklub.sk/images/banners/"
+    },
+    "_sourceKeys": [
+      "71cba1e5affac3f2a0bab7c777279daa167cd1a860b9ec1b6b0de21cc694f8a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||flirtkontakt.sk/previews/banner*.jpg"
+    },
+    "_sourceKeys": [
+      "bc1b8f1fe213bf4208645a0b61ef5c4d422bbceb56fdb577ec1ea5085e31337e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||fony.sk/content/banners/"
+    },
+    "_sourceKeys": [
+      "c870b3ba8acf61d2f61b699aa1caf330c918e66c02dfcb579976c3e0ace98594"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||hojko.com/images/banner*.gif"
+    },
+    "_sourceKeys": [
+      "788890914e9a4f76f34484cc5a15750e674fa809c8fc794cc3e9efe6ec1eb617"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.zoznam.sk/adimages/"
+    },
+    "_sourceKeys": [
+      "1a0d858ea822835ad5b6832d7c89039d1e0793b6f2a37ad5560fb974bda726bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||mhdba.eu/banerova-reklama-animacia.gif"
+    },
+    "_sourceKeys": [
+      "7d25ef35896a1eea222ad3f36d8de6caa428056ea62aa070cc1bb0f602d97a2c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||michalovskespravy.sk/files/a57xq6rhr5uuzzyf.gif"
+    },
+    "_sourceKeys": [
+      "7389e378c154a847b1cf6402921ccbd6d46ba2dc41b65541af568bbd5b2800f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||mojanitra.sk/banery/"
+    },
+    "_sourceKeys": [
+      "05ab480ff04a95d0fa46f9a0dc2c3f361a858d80f36546e5d1f54e6efa7e7dd2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||mojanitra.sk//images/banery/"
+    },
+    "_sourceKeys": [
+      "cc1fcf6456db3bcf68d0c19215eac7e4967674483a01271778e2d5f70715dfa0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||ourphorum.com/images/banner"
+    },
+    "_sourceKeys": [
+      "464d3748f3e615e48ebe0c0bd5c538caa499aae0365504fbb59344f4d8c0347b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||pricemania.sk/pictures/banners/"
+    },
+    "_sourceKeys": [
+      "e315315e1a913ac4eedaa42e8a0e49e05e68e0b2714441e6c6d1f88b8bba47b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||pricemania.sk/pictures/campaigns/"
+    },
+    "_sourceKeys": [
+      "3b4f15ae9abb43ba024d09fc26b9c15c0b415db66768d2845808cd737d1b467a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "programujte.com/img/pozadi_2024.jpg"
+    },
+    "_sourceKeys": [
+      "c167a1b08679cbff6eadb7da1a8f532b3a1529539f45747b7b32ea08312bd9a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||radia.sk/scripts/ads.js"
+    },
+    "_sourceKeys": [
+      "cfe396f6cf94b023cb129322f7cb75b2795c1826c1308cffb922674b8f8d5c32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||recycle.zoznam.sk/get.fcgi"
+    },
+    "_sourceKeys": [
+      "a689e5f76154c8bc60e4fedc4a2d7a7a87bea0286d4deeebb7b43b1df6f4c71d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||recycle-static.zoznam.sk/*.mp4"
+    },
+    "_sourceKeys": [
+      "aaec6930306c5d443390d2eea270c4c872b6ccae4911736cc741a2b4cea3bf87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||rtvs.sk/bs/xml/vast.xml"
+    },
+    "_sourceKeys": [
+      "066369ed6bd046dd203f41d598abb7f82796cfc36b3904fb1408544c949c1ea2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||rtvs.sk/bs/xml/vmap.xml"
+    },
+    "_sourceKeys": [
+      "d68d8836c0802f9c4fd61c2a6093e3d39636e2437e8a1a9f1bc5db5df0c31d97"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||sector.sk/a/"
+    },
+    "_sourceKeys": [
+      "789ad54fa5d895b8ad82635735c6d95450f0336d040c67f5ddc98ba1e399cd15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||ta3.com/api/v1/livebox/video/"
+    },
+    "_sourceKeys": [
+      "9c0a381ab26e6672b22cd3ed0159a2bda8369cd9bd3b325df3f7f1dad1b7a248"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||zn.sk/galeria/"
+    },
+    "_sourceKeys": [
+      "81f08c8f88d0bec32720147bc5613eaf9c7e535920eee466ca11b8871383974a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "a.blesk.cz",
+        "a.centrum.cz",
+        "a.csfd.cz",
+        "a.denik.cz",
+        "api-exponea.o2.cz",
+        "bannery.ccb.cz",
+        "bannery.navratdoreality.cz",
+        "c.seznam.cz",
+        "cdn.cpex.cz",
+        "liveagent.mobilbonus.cz",
+        "report.seznamzpravy.cz",
+        "report.sport.cz",
+        "ssp.seznam.cz",
+        "stat.novinky.cz",
+        "stat.super.cz",
+        "tracker.cncenter.cz",
+        "videoad.cz",
+        "0af2a962b0102942d9a7df351b20be55.com",
+        "adb.azet.sk",
+        "api-exponea.o2.sk",
+        "bannersector.sector.sk",
+        "image.sector.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "76098f658b4988471cdbafb4713e4f7df334c9380cb024fc7d41e56710108237",
+      "f8497fec3f9ca68fd55da9c01d5133ed89d17a09d3ccf622a46702236d58d1d2",
+      "a7de0309d10c7931d6572ab4399932aca7a8011c1a461650924dee2d3d206465",
+      "e0ec650c366b1300ad07de4c2e8f0f3cfff08a5095cb6e9e1a449a9778f95481",
+      "a5950a17ddb0b8440796d6c9370064530b1e0a9382374964c43dcb91477c66f7",
+      "c22fde7853e9f4240631d9d42fbfeb5d4c646c0a32cc166066c537c70671058a",
+      "88e2204f34b4d055576813b233151299d554abfdc7cbb1f5ce8bec820dc9d26b",
+      "84916efa0e2d6445a68f0caf2fdc2c405f37607279ee793286ce34237bfbfb60",
+      "25ae2c0cd0017feeaa2dd5edc0444a2c28c6f0f5ad195884a91c6ac31ca9a0df",
+      "8a591c25205862fb8e30a5393a2cc2f8415e33fd0ef91ab027defb11e598dafe",
+      "c790baa5db40cc87af53138a4a8681a717f2f945b8663327403af2b0cd444ca9",
+      "f87bbdeb6def9be2213c016cc82ac196230d954b6d28f945c2dd76c6c22dbcbb",
+      "f1819a40ba8b1744f3a83a2afe213da08a89d2b81ae5407a71d85e0e31cb7470",
+      "18073f827bf70a485778394cbfb76d287a99a149206ceafffca9a00ea68229cf",
+      "e01f5fcc69a55c842167a651b8ef690c88aab511e1f2538ed816326fd859abfb",
+      "f9751203380b9348302f9d1306c7ed929ac8beb58fceab02e4d62ff8ef7389b1",
+      "6a873c61cfe62d9c31aeffca917754c74eadfd5e188efd9d6e05cb05b068787e",
+      "8520c04c7b4abc21ab7e7bcc642636d3c29b46b244af54abc3755baffa6cd4b6",
+      "32f17eb9498fef38b0d11f6736abf19903238043bdb02eed7f868e78a2395451",
+      "c47a7e55fe78df4f2ad8d674875e59447ea56e923fe03035a535543418cd8160",
+      "c0c0758faa8ceb47ffca89897ebf989587aedc03bffb6d9037153ec1310f5514",
+      "c2efa44138ef06a57b9bcdac3ede3c3c26df16c52df21a86541d08247ca08f31"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "a.blesk.cz",
+        "keys": [
+          "76098f658b4988471cdbafb4713e4f7df334c9380cb024fc7d41e56710108237"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.centrum.cz",
+        "keys": [
+          "f8497fec3f9ca68fd55da9c01d5133ed89d17a09d3ccf622a46702236d58d1d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.csfd.cz",
+        "keys": [
+          "a7de0309d10c7931d6572ab4399932aca7a8011c1a461650924dee2d3d206465"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.denik.cz",
+        "keys": [
+          "e0ec650c366b1300ad07de4c2e8f0f3cfff08a5095cb6e9e1a449a9778f95481"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api-exponea.o2.cz",
+        "keys": [
+          "a5950a17ddb0b8440796d6c9370064530b1e0a9382374964c43dcb91477c66f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannery.ccb.cz",
+        "keys": [
+          "c22fde7853e9f4240631d9d42fbfeb5d4c646c0a32cc166066c537c70671058a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannery.navratdoreality.cz",
+        "keys": [
+          "88e2204f34b4d055576813b233151299d554abfdc7cbb1f5ce8bec820dc9d26b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "c.seznam.cz",
+        "keys": [
+          "84916efa0e2d6445a68f0caf2fdc2c405f37607279ee793286ce34237bfbfb60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.cpex.cz",
+        "keys": [
+          "25ae2c0cd0017feeaa2dd5edc0444a2c28c6f0f5ad195884a91c6ac31ca9a0df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "liveagent.mobilbonus.cz",
+        "keys": [
+          "8a591c25205862fb8e30a5393a2cc2f8415e33fd0ef91ab027defb11e598dafe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "report.seznamzpravy.cz",
+        "keys": [
+          "c790baa5db40cc87af53138a4a8681a717f2f945b8663327403af2b0cd444ca9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "report.sport.cz",
+        "keys": [
+          "f87bbdeb6def9be2213c016cc82ac196230d954b6d28f945c2dd76c6c22dbcbb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ssp.seznam.cz",
+        "keys": [
+          "f1819a40ba8b1744f3a83a2afe213da08a89d2b81ae5407a71d85e0e31cb7470"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.novinky.cz",
+        "keys": [
+          "18073f827bf70a485778394cbfb76d287a99a149206ceafffca9a00ea68229cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "stat.super.cz",
+        "keys": [
+          "e01f5fcc69a55c842167a651b8ef690c88aab511e1f2538ed816326fd859abfb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracker.cncenter.cz",
+        "keys": [
+          "f9751203380b9348302f9d1306c7ed929ac8beb58fceab02e4d62ff8ef7389b1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "videoad.cz",
+        "keys": [
+          "6a873c61cfe62d9c31aeffca917754c74eadfd5e188efd9d6e05cb05b068787e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "0af2a962b0102942d9a7df351b20be55.com",
+        "keys": [
+          "8520c04c7b4abc21ab7e7bcc642636d3c29b46b244af54abc3755baffa6cd4b6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adb.azet.sk",
+        "keys": [
+          "32f17eb9498fef38b0d11f6736abf19903238043bdb02eed7f868e78a2395451"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api-exponea.o2.sk",
+        "keys": [
+          "c47a7e55fe78df4f2ad8d674875e59447ea56e923fe03035a535543418cd8160"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannersector.sector.sk",
+        "keys": [
+          "c0c0758faa8ceb47ffca89897ebf989587aedc03bffb6d9037153ec1310f5514"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "image.sector.sk",
+        "keys": [
+          "c2efa44138ef06a57b9bcdac3ede3c3c26df16c52df21a86541d08247ca08f31"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||1.im.cz/ad/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "11a8079147b0d7b848b76cde8db15df1557b2bd73ef72297fdf20549ae9fdaa8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||vascak.cz/data/img/adblock.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7a9407f60a52f76cc2f1cc49d8f5140581fe6e498d32d8a62d48d4d2e5f50649"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||1gr.cz/js/uni/oldback/logo.png",
+      "initiatorDomains": [
+        "idnes.cz"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f415c1ac0023cdb1b960113b4289dee925bb48d1fd889d2999e3175bc28351e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||drbna.cz/templates/drbna-2019/modal/modal.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "af25bcb6bcf092f4e64e0eaa895ddbf3d6ae4c0e18f5018b057bf14ea8c01613"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||rfapi.digicon.cz/img/listovacky-cross/enigmaplus.cz.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "55173953766ada85d242ca4a717bc980f2928398777b5e2691edafc12584368e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||sauto.cz/*bkeaw9ubgf*.",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "bbe8319e54781d81389ce787a72d72527710938b6a98ff0429ddad17f00643ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||funnyburger.sk/js/anti-theft-system.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5297146828571a48f5c2e1f2909f363209b536e8a3b47b54a99052db05905721"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||kosicak.sk/push.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cdb0353ef2a7e6c384ebeffdc3a22e01c14c0aa6f934718728f56a91405de3ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||waaw.*/js/script_33.10.js?16",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "3f875e0932bea7ee4fab2e1c166257c5856c76b90e4c1af6e710391dd9277eea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "sauto.cz"
+      ],
+      "regexFilter": "s[-_]*s[-_]*p[-_]*\\.[-_]*j[-_]*s",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e96962b6f8a439a31185f5af84eab755bc80a2f4263c77aafcf928c40417cb91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.dopc.cz/adb",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "2ce85f5dbc1a5f5b716cdc4d3bd65193a3242c0119d176222b90f6fe483a5ffc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||mediatn.cms.nova.cz/robots.txt",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "353abda189011882a547f373611b66941ed8669231fc905572d009e380bec6de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "motorkari.cz"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "484dbefd82d17e3e467be8c0eeac50a333fb2c0274365ceef6538c399175b96a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "motorkari.cz",
+        "keys": [
+          "484dbefd82d17e3e467be8c0eeac50a333fb2c0274365ceef6538c399175b96a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||radia.sk/_uputavky/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "353bd68b1d41c7c676d540cd76e74c710c86894500e286a5f8932e29d56d88f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": ".livebox.cz/ta3_vod_com",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f651d944be9d0b64b5ff4e918b762bb99762e7a45e7ba9c5152409cd15ac8a4c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||graphics.stdout.cz/b:commercial",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f7445d43ee7a6eb8b3a6917cba7165fa6fc5c2f4e82e88c117c19cb177900294"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||im9.cz/*/vyrobce/*background",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7720377b0c28a72468809497f51866863b898b6ae1e9b3b49f3d7677c7ae0fda"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/adela-hb-platform.appspot.com/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6f034d8bb895aef43dcd4830df11663fb8bc5db51bf9b3f68f5de154ce462144"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "garaz.tv"
+      ],
+      "urlFilter": "||firebasestorage.googleapis.com/v0/b/tivio-dev.appspot.com/*vast*.xml",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f2d386b119ccea8286a4163178d6b4af961e98f80986b9e2fade6f4e241f8ca9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||kariera.zoznam.sk/?page=banner",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b5a9139ef31739df0c142e820ae2de02ad20ea5251277e29752031b62a164899"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||login.dognet.sk/accounts/default1",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "255172164f104515bf5e6f93da3196acd26edc8cac224fe9a7808b2a62086b42"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "predpredaj.zoznam.sk"
+      ],
+      "initiatorDomains": [
+        "cas.sk"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c2b3acc531cb4f4009f0713e473f7ee697835b3e1e3a03183238321eca897676"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/tivio-production.appspot.com/ads/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f6f27efe65390e815fc3f13c851d3f5093006063a1f648aa96210e5dcf8bec7f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||ticketportal.sk/carousels^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "bd3959070a6add90782c0d96f8b7e624475078b784e7f9ebaaf2818a60b25459"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "001shop.cz",
+        "10.im.cz",
+        "ad.autobazar.cz",
+        "ad.citynet.cz",
+        "ad.czechia.com",
+        "ad.eva.cz",
+        "ad.seznam.cz",
+        "ad.surtep.cz",
+        "ad1.kde.cz",
+        "adexpert.cz",
+        "adform.net",
+        "ads.cars.cz",
+        "ads.esports.cz",
+        "adverts.cz",
+        "automodul.cz",
+        "ban.tipsport.cz",
+        "banan.cz",
+        "banner.ifortuna.cz",
+        "banners.onebit.cz",
+        "chrek.stdout.cz",
+        "d.vvbox.cz",
+        "d.wedosas.net",
+        "data.itiscali.cz",
+        "decp.cmscore.cz",
+        "dev.youcan.cz",
+        "dot.idot.cz",
+        "ecigareta.eu",
+        "ehub.cz",
+        "fastshare.cloud",
+        "fastshare.cz",
+        "heureka.cz",
+        "ibillboard.com",
+        "idvert.cz",
+        "imedia.cz",
+        "intext.billboard.cz",
+        "intext.lookit.cz",
+        "intext.wdt.cz",
+        "megadarky.cz",
+        "mer.stdout.cz",
+        "n.hyperinzerce.cz",
+        "netadvert.cz",
+        "out-ng.sklik.cz",
+        "out.sklik.cz",
+        "performax.cz",
+        "pizzamodena.cz",
+        "productads.cz",
+        "r.i0.cz",
+        "r2b2.cz",
+        "reklamy.s3.amazonaws.com",
+        "rival.cz",
+        "screechingstove.com",
+        "sda.online-systemy.cz",
+        "sda.un-42.com",
+        "titulky.com",
+        "trackad.cz",
+        "viadata.store",
+        "xzone.cz",
+        "zombiezone.cz",
+        "zumail.cz",
+        "ban.tipsport.sk",
+        "heureka.sk",
+        "imr.sk",
+        "inclick.sk",
+        "inres.uspech.sk",
+        "netsuccess.sk",
+        "partner.mrtns.eu",
+        "pohodo.sk",
+        "productads.sk",
+        "recycle-static.zoznam.sk",
+        "robene.sk",
+        "turbo.web2media.sk",
+        "zachej.sk",
+        "a.cele.cz",
+        "mrezadosa.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7b04d0033ea1b312664939931a7018e07e62ddc56541c594ba42122dac01a361",
+      "eb1288c42a73ddb3d75cb1be845c727837536614a943c0eb9c8438bbf110156a",
+      "e2650ed6e9291bb26dd4d33bb21f545646afe15a694761645e6cf48f4c359c30",
+      "1c3c1f9c6551e83e8bce633733337cb10c349ec1a5c868336cb6b53f0f2041e1",
+      "fab72b76fd9695705cdf27aa262ccc14137e2fdce1953c7f6ad32de47cc68f5d",
+      "248d37c0c7317bd5e2b4f017942da1e8af154eb282df1bfab9246e8750c54acb",
+      "10afb03336d917e566d46e233e88197147845e7ad3038fef78111396e2fb8443",
+      "a67418c33d9726523130b48917919b5ad4726af583e5ec871c70da8e9bc661b9",
+      "98fef6e4095684d5e303bddc4f87c9a775479cfb037ad7051fa4e77a4770fe05",
+      "b5cff0f6dc2faba22cc2b43479e433e16f4c912535eed6d909e7296cbd4c216b",
+      "c7bbc70bb73ef11a5423defdc05302b016d8fb216e24bca3af6828ba4a617112",
+      "fcdb234cae3f87d9ac2fae0168fc9fddf3e4c72cc2a1819ddd5c56b8b6ed6813",
+      "740b611270565cf5cfef88c51d7eb9ef6c5f1870f5fff299ab3fba64da2b8e2c",
+      "112a8ff85289ac3f143322b0940701f746bf39cf35697f6d67d140f530c7fafd",
+      "4a12805b4fb0939d7f3a5f82e5a22405bea5cdeae66e7238e3b8208fe0aa3e63",
+      "310db92feb0c2dcd2d47217db5bd16bb76695505fbad1e1a7a5a71e6b3e15167",
+      "8f26e0b8b37c3bb003c01f370a08fd0fe161040b63aabb57f1c4e04ccc579a77",
+      "8f04720b310e32711fb3932f8383b95d001e2a02bfaa3388387075a984e5eebc",
+      "a8be57fc368cbf089e7835a502f0407f39e20296b35c9720119a18cc6e6b0e2a",
+      "54b2774ff7d07733243e17ea58294718e0d40deaf5ef56e16838c529d5612df2",
+      "ed1b03abfe407a19ecb21dfb4c653f01c20cfca644ae87c7cb839bd514aedb77",
+      "35f5e1af189320b4e69e30a437db9ee94775524063547d52a50f9e2a1c53d4f6",
+      "1b9f8909197c8ad12b276e212c36eec2c7f93bce9df41c4309a6275e2cd7a99b",
+      "276472d12bfe7f3fdc21558984d1fdc8bb114d2b1c310e0ba00b5cc6d098fb25",
+      "73d5c83e64caf442fc50b95f63a96bf539d4b0beb9b4ea85aaf39e8254b644da",
+      "a025f8b68127433de8e902ed8e7dce5988373d4656a07f17fab0e78378dc4394",
+      "16ff3f2e1973786a120c6e5f878227fa0fd689f60cee7672ecc667362b045969",
+      "d59acb7fed67993a10858c404ef897fbb42fe5c99d3d0a87f9b47c6b1f7d1da0",
+      "ff0f28764ea322050e2a1c6fcc7633c5a020493fb02419a8721410fa216ba6bd",
+      "8bdd7f57cb264d9837821e7b5e330f05b19777e90f72c900261f37a49221d775",
+      "b51d7596418bb74cfdf9f97659655ede046f1afafa37b7989de46892b5c68b51",
+      "443fc68a3043c464ada36f6c76c405e709fde440b1c2ce46eac92f683e17899e",
+      "8e0ce5435067beba07dfab804027fcecf760f26b62c43fa3e2768e511f83929c",
+      "4d00e4a88e775273fd90a2a1beed49fd63467a2dfd369bc8f4e981ad5f992fb9",
+      "90b39cab9dca82eb1b7132830306c053f90ce49cd646b1b09facc7cdef8d489b",
+      "0e58eb1d91c16fb2fb86a7c01e4fc887ccb45430ce3e754451386b909b73d3b0",
+      "6b53464dce4dac7f4a819837cc3c04008b6790d9991c8b7180e85913ba1e16fc",
+      "8916a9dcca7046c999c2bc6474c75d640810e37383ac7a8fc85e3231feb66a15",
+      "22a2789339661a9043bcb24dbd3bab04e71496160f1e4ddfe14c788788a8cbcb",
+      "607ed043331f239714f3e6c0113b963064139a940d1162ba388f6e8c86337ba7",
+      "21c35bbc07f78764fbddbd1403f7080547d3bcbfe16a630553156400b806f938",
+      "95c12233bb4b1797fa261e41c261e1184d958bc8e0e46bc25bb21c4f9b479dda",
+      "2dc6b718a3d174c569b9082ab695020cdd538feb2d41d06028b86e8244a4d8d5",
+      "ad3a704b13339884c9e1aaa1970468eee44cbd4247b0280040b39211994c0c71",
+      "10b4d6fc720425c759a5da14b97e620bb45744bb7e7a0807f06311d32483ab8b",
+      "1693ccf88fd1c106deefa5c3b6475c70207a4b0d2f781dfac57727ceda6ea58c",
+      "01892aac1d2b1332a86668440db9bf82cfef2f73395210a1598799af1d759a52",
+      "c9ae0a6d0130f722ed64a32f0dfe07792bd5ea2b8505f69ba36d61a160d1b054",
+      "77177d2f36d1ed1e8a976a0c34aef5857e26a33c8c685670b231a9a56fec4046",
+      "887537302914bb0b57cef0a36b150c397f565b90dd296675c173117e8dcce381",
+      "eb75cbd202e0954b27fa12aa89fa130d68fa1308e210ec97e3e06c85d8daf88e",
+      "44fb6fcb9d2091f5a6de6fb799e83511776ca42e0ce9dbe78e58f460445992ef",
+      "53d9814eb1bde31d09b82ca646cebaf88a1fafc5f80ce56d16ddf1c39ef78182",
+      "2ae8017ec15f5f2732d1e91e74341e83ae0fcc34d0921642bfff0f60e019bbd0",
+      "5ce1ff7a5a557a84a1de80aedfd07568a67a0ef1bce298ebd289aa804e30e21d",
+      "6ec0663955aca4cd6408bcb032ba088ce03d5a6598c879554d68c0c1ffd14b7b",
+      "49204b7e5f5a5b904d5a3f8831386dd1b2f6ff71f9bea653db3cad4796bde9b9",
+      "970a0675ba22c1c2b45c138994e4bd10dff8ed99d7a999bf21bb17aaa8ba4941",
+      "1da238e1900afaea5d17ab43a6b310f1a9acadb1b047140a8da43e1d3088e80c",
+      "6db748a7da7955bd2f73817902e8f993fe7d09f744298f963d13a1bd5a8d3295",
+      "b31fffd00c705dec93ed9ac3b35bd689fad07e4bbff7c93fce7caf6844f83759",
+      "aaa3f3347df84daadc2dfb3d4bd3fb21bb328bac55d26311e4269c849cb2baed",
+      "b3fbc755fbd5948fa74f54807d8dd6ed3af1ef805815602231c000bc2a8dc9bc",
+      "34a793aeff2a2ca3ec04d3bd3d1d8c569bc4819091f8eb0d80b1be63a292930e",
+      "d26017441914d4d9a172e1664996e6ecdaf226fe4a9ca29586a6b4c94ac8a30d",
+      "911279bf5843334212cd6021d26b6457ebf30c5735fbb3346b7d796e0390fefd",
+      "0d8ffb9fabcf54afb54b3979a9fccf28dd1b0c8fae7b4b2b7fbf95851cafe319",
+      "022f2de1bf1b6a9493eb9d559389d57871659b605258399997b605e456a31f17",
+      "941114d3c0d64dfbf49111bffa6ee65c7044b8faecd2ca1de82ef586c309c696",
+      "2a355a141a5c5cc7f70439393a83023ca1ef01dc7cd283739effdf31ed0c1bfb",
+      "5b2b2be3c4db04b19cbc78e55293dd50889705f2ef8134aa0e373d1c323c02a2",
+      "b7482ab07a3844c27992ec9d8015bb09e9f542a4660a9e3e683d18d6f5170b45",
+      "88e2a69d4fae31d2deaa2ce1c08eb7fb1d8f5e6f18d806ceeaf4f1d09d5ba9c1",
+      "acc0a82e99a61c8f0416b00ec895b1dc8abc197a215c29fd51d121a740e5e01c"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "001shop.cz",
+        "keys": [
+          "7b04d0033ea1b312664939931a7018e07e62ddc56541c594ba42122dac01a361"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "10.im.cz",
+        "keys": [
+          "eb1288c42a73ddb3d75cb1be845c727837536614a943c0eb9c8438bbf110156a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.autobazar.cz",
+        "keys": [
+          "e2650ed6e9291bb26dd4d33bb21f545646afe15a694761645e6cf48f4c359c30"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.citynet.cz",
+        "keys": [
+          "1c3c1f9c6551e83e8bce633733337cb10c349ec1a5c868336cb6b53f0f2041e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.czechia.com",
+        "keys": [
+          "fab72b76fd9695705cdf27aa262ccc14137e2fdce1953c7f6ad32de47cc68f5d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.eva.cz",
+        "keys": [
+          "248d37c0c7317bd5e2b4f017942da1e8af154eb282df1bfab9246e8750c54acb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.seznam.cz",
+        "keys": [
+          "10afb03336d917e566d46e233e88197147845e7ad3038fef78111396e2fb8443"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.surtep.cz",
+        "keys": [
+          "a67418c33d9726523130b48917919b5ad4726af583e5ec871c70da8e9bc661b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad1.kde.cz",
+        "keys": [
+          "98fef6e4095684d5e303bddc4f87c9a775479cfb037ad7051fa4e77a4770fe05"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adexpert.cz",
+        "keys": [
+          "b5cff0f6dc2faba22cc2b43479e433e16f4c912535eed6d909e7296cbd4c216b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adform.net",
+        "keys": [
+          "c7bbc70bb73ef11a5423defdc05302b016d8fb216e24bca3af6828ba4a617112"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.cars.cz",
+        "keys": [
+          "fcdb234cae3f87d9ac2fae0168fc9fddf3e4c72cc2a1819ddd5c56b8b6ed6813"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.esports.cz",
+        "keys": [
+          "740b611270565cf5cfef88c51d7eb9ef6c5f1870f5fff299ab3fba64da2b8e2c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adverts.cz",
+        "keys": [
+          "112a8ff85289ac3f143322b0940701f746bf39cf35697f6d67d140f530c7fafd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "automodul.cz",
+        "keys": [
+          "4a12805b4fb0939d7f3a5f82e5a22405bea5cdeae66e7238e3b8208fe0aa3e63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ban.tipsport.cz",
+        "keys": [
+          "310db92feb0c2dcd2d47217db5bd16bb76695505fbad1e1a7a5a71e6b3e15167"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banan.cz",
+        "keys": [
+          "8f26e0b8b37c3bb003c01f370a08fd0fe161040b63aabb57f1c4e04ccc579a77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.ifortuna.cz",
+        "keys": [
+          "8f04720b310e32711fb3932f8383b95d001e2a02bfaa3388387075a984e5eebc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.onebit.cz",
+        "keys": [
+          "a8be57fc368cbf089e7835a502f0407f39e20296b35c9720119a18cc6e6b0e2a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chrek.stdout.cz",
+        "keys": [
+          "54b2774ff7d07733243e17ea58294718e0d40deaf5ef56e16838c529d5612df2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d.vvbox.cz",
+        "keys": [
+          "ed1b03abfe407a19ecb21dfb4c653f01c20cfca644ae87c7cb839bd514aedb77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d.wedosas.net",
+        "keys": [
+          "35f5e1af189320b4e69e30a437db9ee94775524063547d52a50f9e2a1c53d4f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "data.itiscali.cz",
+        "keys": [
+          "1b9f8909197c8ad12b276e212c36eec2c7f93bce9df41c4309a6275e2cd7a99b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "decp.cmscore.cz",
+        "keys": [
+          "276472d12bfe7f3fdc21558984d1fdc8bb114d2b1c310e0ba00b5cc6d098fb25"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dev.youcan.cz",
+        "keys": [
+          "73d5c83e64caf442fc50b95f63a96bf539d4b0beb9b4ea85aaf39e8254b644da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dot.idot.cz",
+        "keys": [
+          "a025f8b68127433de8e902ed8e7dce5988373d4656a07f17fab0e78378dc4394"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ecigareta.eu",
+        "keys": [
+          "16ff3f2e1973786a120c6e5f878227fa0fd689f60cee7672ecc667362b045969"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ehub.cz",
+        "keys": [
+          "d59acb7fed67993a10858c404ef897fbb42fe5c99d3d0a87f9b47c6b1f7d1da0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastshare.cloud",
+        "keys": [
+          "ff0f28764ea322050e2a1c6fcc7633c5a020493fb02419a8721410fa216ba6bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastshare.cz",
+        "keys": [
+          "8bdd7f57cb264d9837821e7b5e330f05b19777e90f72c900261f37a49221d775"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "heureka.cz",
+        "keys": [
+          "b51d7596418bb74cfdf9f97659655ede046f1afafa37b7989de46892b5c68b51"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ibillboard.com",
+        "keys": [
+          "443fc68a3043c464ada36f6c76c405e709fde440b1c2ce46eac92f683e17899e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "idvert.cz",
+        "keys": [
+          "8e0ce5435067beba07dfab804027fcecf760f26b62c43fa3e2768e511f83929c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "imedia.cz",
+        "keys": [
+          "4d00e4a88e775273fd90a2a1beed49fd63467a2dfd369bc8f4e981ad5f992fb9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "intext.billboard.cz",
+        "keys": [
+          "90b39cab9dca82eb1b7132830306c053f90ce49cd646b1b09facc7cdef8d489b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "intext.lookit.cz",
+        "keys": [
+          "0e58eb1d91c16fb2fb86a7c01e4fc887ccb45430ce3e754451386b909b73d3b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "intext.wdt.cz",
+        "keys": [
+          "6b53464dce4dac7f4a819837cc3c04008b6790d9991c8b7180e85913ba1e16fc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "megadarky.cz",
+        "keys": [
+          "8916a9dcca7046c999c2bc6474c75d640810e37383ac7a8fc85e3231feb66a15"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mer.stdout.cz",
+        "keys": [
+          "22a2789339661a9043bcb24dbd3bab04e71496160f1e4ddfe14c788788a8cbcb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "n.hyperinzerce.cz",
+        "keys": [
+          "607ed043331f239714f3e6c0113b963064139a940d1162ba388f6e8c86337ba7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netadvert.cz",
+        "keys": [
+          "21c35bbc07f78764fbddbd1403f7080547d3bcbfe16a630553156400b806f938"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "out-ng.sklik.cz",
+        "keys": [
+          "95c12233bb4b1797fa261e41c261e1184d958bc8e0e46bc25bb21c4f9b479dda"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "out.sklik.cz",
+        "keys": [
+          "2dc6b718a3d174c569b9082ab695020cdd538feb2d41d06028b86e8244a4d8d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "performax.cz",
+        "keys": [
+          "ad3a704b13339884c9e1aaa1970468eee44cbd4247b0280040b39211994c0c71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pizzamodena.cz",
+        "keys": [
+          "10b4d6fc720425c759a5da14b97e620bb45744bb7e7a0807f06311d32483ab8b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "productads.cz",
+        "keys": [
+          "1693ccf88fd1c106deefa5c3b6475c70207a4b0d2f781dfac57727ceda6ea58c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "r.i0.cz",
+        "keys": [
+          "01892aac1d2b1332a86668440db9bf82cfef2f73395210a1598799af1d759a52"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "r2b2.cz",
+        "keys": [
+          "c9ae0a6d0130f722ed64a32f0dfe07792bd5ea2b8505f69ba36d61a160d1b054"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reklamy.s3.amazonaws.com",
+        "keys": [
+          "77177d2f36d1ed1e8a976a0c34aef5857e26a33c8c685670b231a9a56fec4046"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rival.cz",
+        "keys": [
+          "887537302914bb0b57cef0a36b150c397f565b90dd296675c173117e8dcce381"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "screechingstove.com",
+        "keys": [
+          "eb75cbd202e0954b27fa12aa89fa130d68fa1308e210ec97e3e06c85d8daf88e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sda.online-systemy.cz",
+        "keys": [
+          "44fb6fcb9d2091f5a6de6fb799e83511776ca42e0ce9dbe78e58f460445992ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sda.un-42.com",
+        "keys": [
+          "53d9814eb1bde31d09b82ca646cebaf88a1fafc5f80ce56d16ddf1c39ef78182"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "titulky.com",
+        "keys": [
+          "2ae8017ec15f5f2732d1e91e74341e83ae0fcc34d0921642bfff0f60e019bbd0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackad.cz",
+        "keys": [
+          "5ce1ff7a5a557a84a1de80aedfd07568a67a0ef1bce298ebd289aa804e30e21d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "viadata.store",
+        "keys": [
+          "6ec0663955aca4cd6408bcb032ba088ce03d5a6598c879554d68c0c1ffd14b7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xzone.cz",
+        "keys": [
+          "49204b7e5f5a5b904d5a3f8831386dd1b2f6ff71f9bea653db3cad4796bde9b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zombiezone.cz",
+        "keys": [
+          "970a0675ba22c1c2b45c138994e4bd10dff8ed99d7a999bf21bb17aaa8ba4941"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zumail.cz",
+        "keys": [
+          "1da238e1900afaea5d17ab43a6b310f1a9acadb1b047140a8da43e1d3088e80c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ban.tipsport.sk",
+        "keys": [
+          "6db748a7da7955bd2f73817902e8f993fe7d09f744298f963d13a1bd5a8d3295"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "heureka.sk",
+        "keys": [
+          "b31fffd00c705dec93ed9ac3b35bd689fad07e4bbff7c93fce7caf6844f83759"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "imr.sk",
+        "keys": [
+          "aaa3f3347df84daadc2dfb3d4bd3fb21bb328bac55d26311e4269c849cb2baed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inclick.sk",
+        "keys": [
+          "b3fbc755fbd5948fa74f54807d8dd6ed3af1ef805815602231c000bc2a8dc9bc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inres.uspech.sk",
+        "keys": [
+          "34a793aeff2a2ca3ec04d3bd3d1d8c569bc4819091f8eb0d80b1be63a292930e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netsuccess.sk",
+        "keys": [
+          "d26017441914d4d9a172e1664996e6ecdaf226fe4a9ca29586a6b4c94ac8a30d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partner.mrtns.eu",
+        "keys": [
+          "911279bf5843334212cd6021d26b6457ebf30c5735fbb3346b7d796e0390fefd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pohodo.sk",
+        "keys": [
+          "0d8ffb9fabcf54afb54b3979a9fccf28dd1b0c8fae7b4b2b7fbf95851cafe319"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "productads.sk",
+        "keys": [
+          "022f2de1bf1b6a9493eb9d559389d57871659b605258399997b605e456a31f17"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "recycle-static.zoznam.sk",
+        "keys": [
+          "941114d3c0d64dfbf49111bffa6ee65c7044b8faecd2ca1de82ef586c309c696"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "robene.sk",
+        "keys": [
+          "2a355a141a5c5cc7f70439393a83023ca1ef01dc7cd283739effdf31ed0c1bfb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "turbo.web2media.sk",
+        "keys": [
+          "5b2b2be3c4db04b19cbc78e55293dd50889705f2ef8134aa0e373d1c323c02a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zachej.sk",
+        "keys": [
+          "b7482ab07a3844c27992ec9d8015bb09e9f542a4660a9e3e683d18d6f5170b45"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.cele.cz",
+        "keys": [
+          "88e2a69d4fae31d2deaa2ce1c08eb7fb1d8f5e6f18d806ceeaf4f1d09d5ba9c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mrezadosa.com",
+        "keys": [
+          "acc0a82e99a61c8f0416b00ec895b1dc8abc197a215c29fd51d121a740e5e01c"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "img.kurzy.cz/ban/ad_ads_advert_advertisement_adform_pub_300x250.png"
+    },
+    "_sourceKeys": [
+      "c100269da03e0cea06718294013e70fd4afe7c4fa2ac7971d11d943a6d4fb98c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "-reklama.cz"
+    },
+    "_sourceKeys": [
+      "0d4b5ecf1e09f80d0a2778bcd33776720aa70f18cffd98e19ef0084857d93c82"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "cdn.cpex.cz/cmp/v2/cpex-cmp.min.js",
+      "initiatorDomains": [
+        "hnonline.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "43c1aa7370528fc5c860347d6db757edbd9a5387c7c2e7f0ad389776cb9da5c9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "cdn.cxense.com/cx.cce.js",
+      "initiatorDomains": [
+        "hnonline.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "f1510b52e8183d4f8a6855ccc11eb703739b6e6c40b31cf8fc81ea6fa9f3d082"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "cdn.cxense.com/cx.js",
+      "initiatorDomains": [
+        "hnonline.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "72d9f62c920f7e642d5f6336ff0da07e9b700c899d777343a40fcae718cdb10e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "api.cxense.com/public/widget/data",
+      "initiatorDomains": [
+        "hnonline.sk"
+      ]
+    },
+    "_sourceKeys": [
+      "6ce4a4dcd26a531e4838be963ce281e1074d72c470751b27e80be2cc23f8fea7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||heureka.*/crossdomain.xml"
+    },
+    "_sourceKeys": [
+      "5ca919272e478ae316f2807cb58ec66ccd8fbafe2236208504e8d6f239757211"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||heureka.*/direct/vyvoj-cen/"
+    },
+    "_sourceKeys": [
+      "e146e905e21276a87327fbb84a162ff032a619b228e7da3dbaa01c2c77dd4045"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||heureka.*/ocm/sdk.js"
+    },
+    "_sourceKeys": [
+      "6de8e1e1efe75417e0aaaacaf60ee18774a37505578cabc3b60a07bfcbe8f733"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||iboys.cz/advert-list.php"
+    },
+    "_sourceKeys": [
+      "606451fc1df7f30172dee39f8a56d4644cdc626cc3b5f46874b87b5e6b4f3463"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.cz.prg.cmestatic.com/static/cz/shared/js/advert.js",
+      "initiatorDomains": [
+        "nova.cz"
+      ]
+    },
+    "_sourceKeys": [
+      "8e7997d406ae3dfdcecf5f877d41f9a2557905ed2d5c7231a8dc7701e96c3ff9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||ads.eduself.sk/_prebid.js"
+    },
+    "_sourceKeys": [
+      "3a138a1540675d522352e9042e65b0f6689d3191f276d0882845f2b91865ee64"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||sledujserialy.to/theme/js/ads.js"
+    },
+    "_sourceKeys": [
+      "3b9db18439ced31055dc740c3c4cc0db1e0f9479d52d35cd76b12f951dc70ce6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||opti.cz/wp-content/uploads/*/reklama_*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5054d23b234ff5cfff2263f0251c3521acbc04be2f40b98b2cc4380e2d7f66bc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||optika-opti.cz/wp-content/uploads/*/reklama_*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8de2fd38afa64f1af767ec01de94ac47887d514f4e51351b436bb52844a106cc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||decko.ceskatelevize.cz/cms/layouts/js/analytics.js",
+      "initiatorDomains": [
+        "decko.ceskatelevize.cz"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f2a5d8beed2930736a37d634fe7a3b46e0e05b173510c7b22aa0588d699a1111"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||netusers.cz/js/",
+      "initiatorDomains": [
+        "titulky.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e5276b103113ac01852c5d511308531c640ea97ac65282d83ccd0ea4b4d0de5c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.youradio.cz/v2/ads/preroll",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "015270b0d73f3408796059de8ccc29da5496134909aed33ed1d75057c99d46b3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": ".png",
+      "initiatorDomains": [
+        "firmy.cz",
+        "garaz.cz",
+        "novinky.cz",
+        "sbazar.cz",
+        "seznam.cz",
+        "seznamzpravy.cz",
+        "sport.cz",
+        "stream.cz",
+        "super.cz"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "987fa4d8b9d6da4a70731e4aee5ce8ba80e74d1d13a165afb5ff9620fed4327d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||admedia.joj.sk/outstream/embed?iframe",
+      "initiatorDomains": [
+        "sport.aktuality.sk"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "eb1da3cb408b643a41daca76777cdca87f6ca318ba6c43a47855e5b05b67b40e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 136
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.top-reklama.sk"
+      ],
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "54200e71d014df9871c238477545f4c2de71adbdb912e19afd343606b7286c4b"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "www.top-reklama.sk",
+        "keys": [
+          "54200e71d014df9871c238477545f4c2de71adbdb912e19afd343606b7286c4b"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||eduself.sk/public/js/prebid-ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "35a1ec9243b82a68ea10d81325c81b441b9e8ce77486292cc19d15562989175d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 138
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "2x2.png",
+    "condition": {
+      "requestDomains": [
+        "doubleclick.net"
+      ],
+      "initiatorDomains": [
+        "renault-club.cz"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c9d9dd44dbd65c27f05206bfb0ecef5b568fae32b4e3f42df2da9fb2663ca8c3"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/2x2.png"
+      }
+    },
+    "priority": 11,
+    "id": 139
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.js",
+    "condition": {
+      "urlFilter": "||trackad.cz/adtrack.php",
+      "initiatorDomains": [
+        "nova.cz"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a7a42ddec378e63e0880015da91957135eeec0ac0aadd8068d80a6fd0aa992a1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 140
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-0.1s.mp3",
+    "condition": {
+      "urlFilter": "||media.actve.net/sads/",
+      "initiatorDomains": [
+        "youradio.cz"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "d6d8d587d9de0e6ef60ef5e5128300f4449033dc1a6841ba877af8884c85d0f1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 141
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-1s.mp4",
+    "condition": {
+      "urlFilter": "||redirector.gvt1.com/videoplayback/id/",
+      "initiatorDomains": [
+        "youradio.cz"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "4a404150f8a0ab1d47ffb90822ef703b31707ed05e12bb5ef2b2b8953e1f6d85"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-1s.mp4"
+      }
+    },
+    "priority": 11,
+    "id": 142
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "1x1.gif",
+    "condition": {
+      "requestDomains": [
+        "r.i0.cz"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0db6c95814d5651b5a53c1e03160a01c165941f5730e683c79f69038bdccf104"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/1x1.gif"
+      }
+    },
+    "priority": 11,
+    "id": 143
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "child-src *",
+    "condition": {
+      "requestDomains": [
+        "echo24.cz"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "43a4c09df00460563693f45c4c0a66f21691ad32b0c2fc4cda9b030e97982b6e"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "child-src *"
+        }
+      ]
+    },
+    "id": 144
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "child-src *",
+    "condition": {
+      "requestDomains": [
+        "idos.idnes.cz"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "1ec34ec70ce24e63a34db5f2522bebee5fbc574e2f482af127f8cd1be4c864c6"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "child-src *"
+        }
+      ]
+    },
+    "id": 145
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "child-src *",
+    "condition": {
+      "requestDomains": [
+        "echo24.cz"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "43a4c09df00460563693f45c4c0a66f21691ad32b0c2fc4cda9b030e97982b6e"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "child-src *"
+        }
+      ]
+    },
+    "id": 146
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "csp",
+    "__modifierValue": "child-src *",
+    "condition": {
+      "requestDomains": [
+        "idos.idnes.cz"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "1ec34ec70ce24e63a34db5f2522bebee5fbc574e2f482af127f8cd1be4c864c6"
+    ],
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "content-security-policy",
+          "operation": "append",
+          "value": "child-src *"
+        }
+      ]
+    },
+    "id": 147
+  }
+]

@@ -1,0 +1,1131 @@
+{
+  "extName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro",
+    "description": "extension name."
+  },
+  "extShortDesc": {
+    "message": "一個無須授權的內容封鎖器。安裝後即可立即封鎖廣告、追蹤器、挖礦程式等等。",
+    "description": "this will be in the Chrome web store: must be 132 characters or less"
+  },
+  "perRulesetStats": {
+    "message": "{{ruleCount}} 條規則，由 {{filterCount}} 條網路過濾規則轉換而來",
+    "description": "Appears aside each filter list in the _3rd-party filters_ pane"
+  },
+  "dashboardName": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro — 控制台",
+    "description": "English: ShieldBlock - Ad & Tracker Blocker Pro — Dashboard"
+  },
+  "settingsPageName": {
+    "message": "設定",
+    "description": "appears as tab name in dashboard"
+  },
+  "customFiltersPageName": {
+    "message": "自訂篩選規則",
+    "description": "appears as tab name in dashboard"
+  },
+  "developPageName": {
+    "message": "開發",
+    "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu"
+  },
+  "aboutPageName": {
+    "message": "關於",
+    "description": "appears as tab name in dashboard"
+  },
+  "aboutPrivacyPolicy": {
+    "message": "隱私權政策",
+    "description": "Link to privacy policy on GitHub (English)"
+  },
+  "aboutDocumentation": {
+    "message": "文件",
+    "description": "Link to documentation in About pane"
+  },
+  "popupFilteringModeLabel": {
+    "message": "此網站的篩選設定",
+    "description": "Label in the popup panel for the current filtering mode"
+  },
+  "popupLocalToolsLabel": {
+    "message": "在此網站上",
+    "description": "Label in the popup panel for the local tools section"
+  },
+  "popupTipReport": {
+    "message": "回報此網站的問題",
+    "description": "Tooltip used for the 'chat' icon in the panel"
+  },
+  "popupTipDashboard": {
+    "message": "開啟控制台",
+    "description": "English: Click to open the dashboard"
+  },
+  "popupMoreButton": {
+    "message": "更多",
+    "description": "Label to be used to show popup panel sections"
+  },
+  "popupLessButton": {
+    "message": "更少",
+    "description": "Label to be used to hide popup panel sections"
+  },
+  "3pGroupDefault": {
+    "message": "預設",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAds": {
+    "message": "廣告",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupPrivacy": {
+    "message": "隱私",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMalware": {
+    "message": "惡意軟體防護與安全性",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupAnnoyances": {
+    "message": "嫌惡元素",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupMisc": {
+    "message": "其他",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupRegions": {
+    "message": "地區及語言",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "3pGroupImported": {
+    "message": "已導入的清單",
+    "description": "Header for a ruleset section in 'Filter lists pane'"
+  },
+  "customListImportLabel": {
+    "message": "添加過濾清單……",
+    "description": "Text label heading the import area of custom filter lists"
+  },
+  "customListImportPlaceholder": {
+    "message": "要添加的過濾清單url",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "customListImportUserScriptsInfo": {
+    "message": "若要套用從匯入清單中的樣式或小令稿過濾規則，您必須授予 ShieldBlock - Ad & Tracker Blocker Pro 執行使用者命令稿的權限。",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "memoryProfileSectionLabel": {
+    "message": "記憶體設定檔",
+    "description": "Heading for the memory optimization controls"
+  },
+  "memoryProfileSelectLabel": {
+    "message": "記憶體設定檔",
+    "description": "Accessible label for the memory profile selector"
+  },
+  "memoryProfileDescription": {
+    "message": "控制編譯並行數與快取預算。低記憶體模式旨在不停用已啟用篩選器的情況下降低尖峰記憶體用量。",
+    "description": "Description of the memory profile setting"
+  },
+  "memoryProfileAuto": {
+    "message": "自動",
+    "description": "Automatically selected memory profile"
+  },
+  "memoryProfileBalanced": {
+    "message": "平衡",
+    "description": "Balanced memory profile"
+  },
+  "memoryProfileLow": {
+    "message": "低記憶體",
+    "description": "Low-memory profile"
+  },
+  "memoryProfileEffective": {
+    "message": "目前生效的設定檔：$1",
+    "description": "Currently effective memory profile"
+  },
+  "memoryProfileStorageMetrics": {
+    "message": "本機快取/儲存空間用量（非即時記憶體）：本機 $1，工作階段 $2。",
+    "description": "Local extension storage size metrics"
+  },
+  "memoryProfileUnavailable": {
+    "message": "無法使用",
+    "description": "Metric is unavailable in this browser"
+  },
+  "memoryProfileRefresh": {
+    "message": "重新整理指標",
+    "description": "Refresh local memory/storage metrics"
+  },
+  "memoryProfileCleanup": {
+    "message": "清理孤立快取",
+    "description": "Remove unused compiled list caches"
+  },
+  "memoryProfileCleanupDone": {
+    "message": "清理完成；已移除 $1 個孤立快取項目。",
+    "description": "Memory cleanup result"
+  },
+  "memoryProfileCleanupUnavailable": {
+    "message": "此 Chrome 版本可以回報總儲存空間，但無法列舉孤立快取索引鍵（清理功能需要 Chrome 130 或更新版本）。",
+    "description": "Memory cleanup API unavailable"
+  },
+  "memoryProfileError": {
+    "message": "無法更新記憶體設定檔。",
+    "description": "Memory profile operation error"
+  },
+  "filterStoreTitle": {
+    "message": "篩選器商店（Power 版）",
+    "description": "Heading for the curated and custom filter repository browser"
+  },
+  "filterStoreCategoryLabel": {
+    "message": "篩選器商店類別",
+    "description": "Accessible label for the Filter Store category selector"
+  },
+  "filterStoreLanguageLabel": {
+    "message": "篩選器商店語言",
+    "description": "Accessible label for the Filter Store language selector"
+  },
+  "filterStoreProfileLabel": {
+    "message": "篩選器商店資源設定檔",
+    "description": "Accessible label for the Filter Store resource profile selector"
+  },
+  "filterStoreDescription": {
+    "message": "瀏覽經驗證及社群提供的篩選資料。目錄絕不提供可執行的擴充功能程式碼；匯入的清單會由 ShieldBlock - Ad & Tracker Blocker Pro 剖析並編譯成 MV3 規則。",
+    "description": "Filter Store security summary"
+  },
+  "filterStoreSearchPlaceholder": {
+    "message": "搜尋篩選清單",
+    "description": "Filter Store search field placeholder"
+  },
+  "filterStoreAllCategories": {
+    "message": "所有類別",
+    "description": "Filter Store category filter"
+  },
+  "filterStoreAllLanguages": {
+    "message": "所有語言",
+    "description": "Filter Store language filter"
+  },
+  "filterStoreAllProfiles": {
+    "message": "所有設定檔",
+    "description": "Filter Store resource profile filter"
+  },
+  "filterStoreGlobal": {
+    "message": "全域",
+    "description": "A filter list intended for all languages"
+  },
+  "filterStoreStaticSlots": {
+    "message": "靜態規則集插槽",
+    "description": "MV3 static ruleset quota unit"
+  },
+  "filterStoreDynamicRules": {
+    "message": "動態規則",
+    "description": "MV3 dynamic rule quota unit"
+  },
+  "filterStoreRegexRules": {
+    "message": "規則運算式規則",
+    "description": "MV3 regular expression rule quota unit"
+  },
+  "filterStoreUnknownCosts": {
+    "message": "$1 個匯入清單的規則成本未知",
+    "description": "Filter Store unknown quota-cost notice"
+  },
+  "filterStoreStaticCost": {
+    "message": "$1 個靜態插槽，$2 條封裝規則",
+    "description": "Estimated cost of a packaged filter list"
+  },
+  "filterStoreDynamicCost": {
+    "message": "最多 $1 條動態規則 / $2 條規則運算式規則",
+    "description": "Estimated cost of an imported filter list"
+  },
+  "filterStoreVerified": {
+    "message": "已驗證",
+    "description": "Trust badge for a reviewed catalog entry"
+  },
+  "filterStoreCommunity": {
+    "message": "社群",
+    "description": "Trust badge for a user-provided catalog entry"
+  },
+  "filterStoreHomepage": {
+    "message": "首頁",
+    "description": "Link to a filter list homepage"
+  },
+  "filterStoreEnable": {
+    "message": "啟用",
+    "description": "Enable a Filter Store entry"
+  },
+  "filterStoreDisable": {
+    "message": "停用",
+    "description": "Disable a Filter Store entry"
+  },
+  "filterStoreNoResults": {
+    "message": "沒有相符的篩選清單。",
+    "description": "Empty Filter Store search result"
+  },
+  "filterStoreResultsLimited": {
+    "message": "正在顯示前 $1 個結果，共 $2 個。請縮小搜尋範圍以查看其餘結果。",
+    "description": "Filter Store rendering limit notice"
+  },
+  "filterStoreBundles": {
+    "message": "套裝組合",
+    "description": "Filter Store bundle section heading"
+  },
+  "filterStoreBundleEnabled": {
+    "message": "套裝組合已啟用",
+    "description": "Filter Store bundle state"
+  },
+  "filterStoreEnableBundle": {
+    "message": "啟用套裝組合",
+    "description": "Enable all entries in a Filter Store bundle"
+  },
+  "filterStoreRepositories": {
+    "message": "自訂存放庫",
+    "description": "Filter Store custom repository section"
+  },
+  "filterStoreRepositoryWarning": {
+    "message": "僅新增您控制或信任的 HTTPS JSON 目錄。自訂存放庫一律顯示為「社群」，即使其宣稱擁有更高的信任層級。",
+    "description": "Security warning for custom Filter Store repositories"
+  },
+  "filterStoreRepositoryPlaceholder": {
+    "message": "catalog.json 的 HTTPS URL",
+    "description": "Custom Filter Store repository URL placeholder"
+  },
+  "filterStoreAddRepository": {
+    "message": "新增存放庫",
+    "description": "Add a custom Filter Store repository"
+  },
+  "filterStoreRemoveRepository": {
+    "message": "移除",
+    "description": "Remove a custom Filter Store repository"
+  },
+  "filterStoreRepositoryFailed": {
+    "message": "無法載入存放庫：$1",
+    "description": "Custom repository load error"
+  },
+  "filterStoreQuotaExceeded": {
+    "message": "此選擇將超出 MV3 規則集配額。",
+    "description": "Filter Store MV3 quota error"
+  },
+  "filterStoreCommunityConfirm": {
+    "message": "此社群存放庫未經 ShieldBlock - Ad & Tracker Blocker Pro 驗證。是否匯入其篩選資料？",
+    "description": "Confirmation before enabling a custom repository entry"
+  },
+  "filterStoreVerifying": {
+    "message": "正在驗證 $1…",
+    "description": "Filter data integrity check status"
+  },
+  "filterStoreDisabledStatus": {
+    "message": "已停用 $1。",
+    "description": "Filter Store disabled status"
+  },
+  "filterStoreEnabledStatus": {
+    "message": "已啟用 $1。",
+    "description": "Filter Store enabled status"
+  },
+  "filterStoreActivationWarnings": {
+    "message": "已啟用，同時略過 $1 條與 Chrome 不相容的規則運算式規則。",
+    "description": "Filter Store partial compatibility warning"
+  },
+  "filterStoreBundleStatus": {
+    "message": "已啟用套裝組合：$1。",
+    "description": "Filter Store bundle enabled status"
+  },
+  "filterStoreInvalidRepository": {
+    "message": "請輸入有效的 HTTPS 目錄 URL。",
+    "description": "Custom Filter Store repository validation error"
+  },
+  "filterStoreRepositoryAdded": {
+    "message": "已新增存放庫。",
+    "description": "Custom Filter Store repository added status"
+  },
+  "filterStoreRepositoryRemoved": {
+    "message": "已移除存放庫。其中已啟用的清單仍可在「匯入的清單」中使用。",
+    "description": "Custom Filter Store repository removed status"
+  },
+  "customFiltersImportExportLabel": {
+    "message": "匯入 / 匯出",
+    "description": "Text label heading the import/export area of custom filters"
+  },
+  "customFiltersImportTextareaPlaceholder": {
+    "message": "在這裡貼上要新增的元素隱藏篩選規則",
+    "description": "Placeholder text which describes the purpose of the textarea widget"
+  },
+  "userScriptsInfo": {
+    "message": "請開啟瀏覽器的擴充功能頁面（Chrome 中輸入 chrome://extensions，Firefox 中輸入 about:addons），開啟 ShieldBlock - Ad & Tracker Blocker Pro 的詳細資料，並啟用允許使用者腳本（亦稱為『未經驗證的第三方腳本』）。",
+    "description": "A notice to inform user on how to enable 'user scripts' permission"
+  },
+  "aboutChangelog": {
+    "message": "變更日誌",
+    "description": ""
+  },
+  "aboutCode": {
+    "message": "原始碼（GPLv3）",
+    "description": "English: Source code (GPLv3)"
+  },
+  "aboutContributors": {
+    "message": "貢獻者",
+    "description": "English: Contributors"
+  },
+  "aboutSourceCode": {
+    "message": "原始碼",
+    "description": "Link text to source code repo"
+  },
+  "aboutTranslations": {
+    "message": "翻譯",
+    "description": "Link text to translations repo"
+  },
+  "aboutFilterLists": {
+    "message": "過濾規則清單",
+    "description": "Link text to uBO's own filter lists repo"
+  },
+  "aboutDependencies": {
+    "message": "外部依存套件（相容 GPLv3）：",
+    "description": "Shown in the About pane"
+  },
+  "supportS6H": {
+    "message": "回報過濾規則問題",
+    "description": "Header of 'Report a filter issue' section in Support pane"
+  },
+  "supportS3P1": {
+    "message": "將特定網站的過濾器問題回報至 <span data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\"><code>uBlockOrigin/uAssets</code> 議題追蹤器</span>。<u>需要 GitHub 帳號。</u>.",
+    "description": "First paragraph of 'Filter issues' section in Support pane"
+  },
+  "supportS5H": {
+    "message": "疑難排解資訊",
+    "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page"
+  },
+  "supportS6P1S1": {
+    "message": "為避免增加志願者的負擔，請先確認此問題是否已被回報過。<b>請注意：</b>點選按鈕會將本頁的來源傳送到 GitHub。",
+    "description": "A paragraph in the filter issue reporter section"
+  },
+  "supportFindSpecificButton": {
+    "message": "尋找類似報告",
+    "description": "A clickable link in the filter issue reporter section"
+  },
+  "supportS6URL": {
+    "message": "網址：",
+    "description": "Label for the URL of the page"
+  },
+  "supportS6Select1": {
+    "message": "網頁……",
+    "description": "Label for widget to select type of issue"
+  },
+  "supportS6Select1Option0": {
+    "message": "-- 選擇一項 --",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option1": {
+    "message": "會顯示廣告或廣告殘留物",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option2": {
+    "message": "有覆蓋層或其他干擾",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option3": {
+    "message": "偵測到 ShieldBlock - Ad & Tracker Blocker Pro",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option4": {
+    "message": "有隱私相關問題",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option5": {
+    "message": "在 ShieldBlock - Ad & Tracker Blocker Pro 啟用時運作異常",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option6": {
+    "message": "開啟不需要的分頁或視窗",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Select1Option7": {
+    "message": "導向惡意軟體、釣魚網站",
+    "description": "An entry in the widget used to select the type of issue"
+  },
+  "supportS6Checkbox1": {
+    "message": "將網頁標記為「NSFW」（<a href=\"https://wikipedia.org/wiki/Not_safe_for_work\">「工作場所不宜」</a>）",
+    "description": "A checkbox to use for NSFW sites"
+  },
+  "supportReportSpecificButton": {
+    "message": "建立新報告",
+    "description": "Text for button which opens an external web page in Support pane"
+  },
+  "defaultFilteringModeSectionLabel": {
+    "message": "預設過濾模式",
+    "description": "The header text for the default filtering mode section"
+  },
+  "defaultFilteringModeDescription": {
+    "message": "預設過濾模式將被每個網站的過濾模式覆寫。你可以根據情況，調整該網站的過濾模式，以選擇最適合的模式。每種模式都有其優缺點。",
+    "description": "This describes the default filtering mode setting"
+  },
+  "filteringMode0Name": {
+    "message": "不過濾",
+    "description": "Name of blocking mode 0"
+  },
+  "filteringMode1Name": {
+    "message": "基礎",
+    "description": "Name of blocking mode 1"
+  },
+  "filteringMode2Name": {
+    "message": "最佳",
+    "description": "Name of blocking mode 2"
+  },
+  "filteringMode3Name": {
+    "message": "完整",
+    "description": "Name of blocking mode 3"
+  },
+  "basicFilteringModeDescription": {
+    "message": "來自選定過濾條件清單的基礎網路過濾功能。",
+    "description": "This describes the 'basic' filtering mode"
+  },
+  "optimalFilteringModeDescription": {
+    "message": "進階的網路過濾功能，結合選定過濾清單中的特定延伸過濾功能。 \n\n需要授予讀取和修改所有網站資料的廣泛權限。",
+    "description": "This describes the 'optimal' filtering mode"
+  },
+  "completeFilteringModeDescription": {
+    "message": "進階網路過濾功能，加上選定過濾清單中的特定與通用延伸過濾功能。\n\n需要授予讀取和修改所有網站資料的廣泛權限。\n\n通用延伸過濾功能可能會導致較高的網頁資源使用量。",
+    "description": "This describes the 'complete' filtering mode"
+  },
+  "noFilteringModeDescription": {
+    "message": "白名單",
+    "description": "A short description for the editable field which lists trusted sites"
+  },
+  "noFilteringModePlaceholder": {
+    "message": "[僅主機名稱]\nexample.com\ngames.example\n...",
+    "description": "Default text for in edit field"
+  },
+  "behaviorSectionLabel": {
+    "message": "行為",
+    "description": "The header text for the 'Behavior' section"
+  },
+  "privacyHardeningSectionLabel": {
+    "message": "選用的瀏覽器隱私強化",
+    "description": "Header for the optional Chrome privacy controls"
+  },
+  "privacyHardeningDescription": {
+    "message": "這些控制項只會在您授予選用權限後變更 Chrome 的隱私設定。關閉控制項會將該設定的控制權交還給 Chrome。",
+    "description": "Explains the optional privacy permission and reversible controls"
+  },
+  "privacyPermissionButton": {
+    "message": "啟用隱私控制項…",
+    "description": "Button which requests the optional privacy permission"
+  },
+  "privacyPermissionDenied": {
+    "message": "未授予選用的隱私權限。",
+    "description": "Shown when the user declines the optional privacy permission"
+  },
+  "privacySettingUpdateFailed": {
+    "message": "Chrome 無法更新一或多個隱私設定。",
+    "description": "Shown when a requested Chrome privacy setting change fails"
+  },
+  "privacyDisableHyperlinkAuditing": {
+    "message": "停用超連結稽核 ping",
+    "description": "Privacy setting label"
+  },
+  "privacyDisableNetworkPrediction": {
+    "message": "停用 Chrome 網路預測",
+    "description": "Privacy setting label"
+  },
+  "privacyProtectWebRTC": {
+    "message": "阻止 WebRTC 使用未經 Proxy 的 UDP",
+    "description": "Privacy setting label"
+  },
+  "privacyDisableAdApis": {
+    "message": "停用 Chrome Privacy Sandbox 廣告 API",
+    "description": "Privacy setting label"
+  },
+  "privacySettingNotControllable": {
+    "message": "此設定由 Chrome 政策或其他擴充功能控制。",
+    "description": "Privacy setting is managed elsewhere"
+  },
+  "autoReloadLabel": {
+    "message": "變更過濾模式時自動重新載入",
+    "description": "Label for a checkbox in the options page"
+  },
+  "showBlockedCountLabel": {
+    "message": "在工具列圖示上顯示已封鎖請求的數量。",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLabel": {
+    "message": "啟用嚴格阻擋",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enableStrictBlockLegend": {
+    "message": "前往潛在不良網站的導航將被阻止，您可以選擇是否繼續前往。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "enablePopupBlockLabel": {
+    "message": "啟用彈出式視窗封鎖",
+    "description": "Label for a checkbox in the options page"
+  },
+  "enablePopupBlockLegend": {
+    "message": "啟用後，符合的篩選規則將自動關閉網站所建立的不需要的瀏覽器分頁。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "popupPolicyLabel": {
+    "message": "此主機名稱的彈出式視窗策略"
+  },
+  "popupPolicyDefault": {
+    "message": "預設（智慧型）"
+  },
+  "popupPolicyAllow": {
+    "message": "允許"
+  },
+  "popupPolicySmart": {
+    "message": "智慧型"
+  },
+  "popupPolicyStrict": {
+    "message": "嚴格"
+  },
+  "popupPolicyDescription": {
+    "message": "僅適用於此主機。過濾清單規則與受信任網站設定仍然生效。嚴格模式需要可信任的操作以及直接相關的主機名稱。"
+  },
+  "sandboxEditorLabel": {
+    "message": "篩選規則建立沙盒",
+    "description": "Header for filter-creation section in the dashboard"
+  },
+  "sandboxEditorUserScriptsInfo": {
+    "message": "若要在沙盒中套用外觀或小令稿過濾規則，您必須授予 ShieldBlock - Ad & Tracker Blocker Pro 執行使用者命令稿的權限。",
+    "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'"
+  },
+  "developerModeLabel": {
+    "message": "開發人員模式",
+    "description": "Label for a checkbox in the options page"
+  },
+  "developerModeLegend": {
+    "message": "啟用適合技術使用者使用的功能。",
+    "description": "Short description for a checkbox in the options page"
+  },
+  "settingsBackupRestoreLabel": {
+    "message": "備份",
+    "description": "The header text for the back up/restore section"
+  },
+  "settingsBackupRestoreSummary": {
+    "message": "將你的自訂設定備份到檔案，或從檔案還原你的自訂設定。",
+    "description": "A summary description of the back up/restore section."
+  },
+  "settingsBackupRestoreLegend": {
+    "message": "還原將覆寫你目前所有的自訂設定。",
+    "description": "Important information about the back up/restore section."
+  },
+  "findListsPlaceholder": {
+    "message": "尋找清單",
+    "description": "Placeholder for the input field used to find lists"
+  },
+  "strictblockTitle": {
+    "message": "已封鎖頁面",
+    "description": "Web page title for the strict-blocked page"
+  },
+  "strictblockSentence1": {
+    "message": "ShieldBlock - Ad & Tracker Blocker Pro 已防止下列頁面載入：",
+    "description": "Sentence used in the strict-blocked page"
+  },
+  "strictblockReasonSentence1": {
+    "message": "由於符合 {{listname}} 中的過濾規則，此頁面已被封鎖。",
+    "description": "Text informing about what is causing the page to be blocked"
+  },
+  "strictblockRedirectSentence1": {
+    "message": "被阻擋的頁面想要重定向到另一個網站。如果您選擇繼續，將直接導航至：{{url}}",
+    "description": "Text warning about an incoming redirect"
+  },
+  "strictblockNoParamsPrompt": {
+    "message": "不帶參數",
+    "description": "Label to be used for the parameter-less URL"
+  },
+  "strictblockBack": {
+    "message": "返回",
+    "description": "A button to go back to the previous web page"
+  },
+  "strictblockClose": {
+    "message": "關閉此視窗",
+    "description": "A button to close the current tab"
+  },
+  "strictblockDontWarn": {
+    "message": "不再就此網站警告我",
+    "description": "Label for checkbox in document-blocked page"
+  },
+  "strictblockProceed": {
+    "message": "繼續",
+    "description": "A button to navigate to the blocked page"
+  },
+  "zapperTipEnter": {
+    "message": "移除元素",
+    "description": "Tooltip for the button used to enter zapper mode"
+  },
+  "zapperTipQuit": {
+    "message": "離開元素臨時移除模式",
+    "description": "Tooltip for the button used to exit zapper mode"
+  },
+  "pickerTipEnter": {
+    "message": "建立自訂過濾器",
+    "description": "Label for the menu entry to create cosmetic filters"
+  },
+  "unpickerTipEnter": {
+    "message": "移除自訂過濾器",
+    "description": "Label for the menu entry to delete cosmetic filters"
+  },
+  "developDropdownLabel": {
+    "message": "檢視：",
+    "description": "A label of a dropdown list"
+  },
+  "developOptionFilteringModeDetails": {
+    "message": "過濾模式詳細資訊",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionCustomDnrRules": {
+    "message": "自訂 DNR 規則",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionDnrRulesOf": {
+    "message": "DNR 規則…",
+    "description": "A section header in a dropdown list"
+  },
+  "developOptionDynamicRuleset": {
+    "message": "動態規則集",
+    "description": "An option in a dropdown list"
+  },
+  "developOptionSessionRuleset": {
+    "message": "工作階段規則集",
+    "description": "An option in a dropdown list"
+  },
+  "saveButton": {
+    "message": "儲存",
+    "description": "Text for buttons used to save changes"
+  },
+  "revertButton": {
+    "message": "還原",
+    "description": "Text for buttons used to revert changes"
+  },
+  "addButton": {
+    "message": "新增",
+    "description": "Text for buttons used to add content"
+  },
+  "importAndAppendButton": {
+    "message": "匯入並加入…",
+    "description": "Text for buttons used to import and append content"
+  },
+  "exportButton": {
+    "message": "匯出…",
+    "description": "Text for buttons used to export content"
+  },
+  "backupButton": {
+    "message": "備份…",
+    "description": "Text for buttons used to back up content"
+  },
+  "restoreButton": {
+    "message": "還原…",
+    "description": "Text for buttons used to restore content"
+  },
+  "resetToDefaultButton": {
+    "message": "重設為預設設定……",
+    "description": "Text for buttons used to reset configurations to default"
+  },
+  "resetToDefaultConfirm": {
+    "message": "所有自訂設定都將被移除。您確定要重設為預設值嗎？",
+    "description": "Message asking user to confirm reset to default settings"
+  },
+  "dnrRulesWarning": {
+    "message": "切勿新增來自不受信任來源的內容",
+    "description": "Short description of the DNR rules editor pane"
+  },
+  "dnrRulesCountInfo": {
+    "message": "已登錄規則數：{count}",
+    "description": "Short sentence to report the number of currently registered DNR rules"
+  },
+  "pickerSliderLabel": {
+    "message": "移動滑桿以選取最合適的規則",
+    "description": "Label to describe the purpose of the slider"
+  },
+  "pickerPick": {
+    "message": "挑選",
+    "description": "Text for the button to re-enter element-picking mode"
+  },
+  "pickerPreview": {
+    "message": "預覽",
+    "description": "Text for the button to activate preview mode"
+  },
+  "pickerCreate": {
+    "message": "建立",
+    "description": "Text for the button to create the filter"
+  },
+  "unpickerUsage": {
+    "message": "選取下方的過濾器，以突顯網頁中符合條件的元素。按一下回收桶可移除過濾器。",
+    "description": "Summary description on how to use the tool to remove custom filters"
+  },
+  "myFiltersPageName": {
+    "message": "我的篩選器"
+  },
+  "siteRulesPageName": {
+    "message": "網站規則"
+  },
+  "diagnosticsPageName": {
+    "message": "診斷"
+  },
+  "advancedPageName": {
+    "message": "進階"
+  },
+  "powerConsoleTitle": {
+    "message": "Power 控制台"
+  },
+  "powerConsoleDescription": {
+    "message": "採用原版風格控制，並提供 Plus+ 設定檔、外觀、網站規則、智慧彈出視窗防護、效能及執行階段診斷。"
+  },
+  "powerSettingsLoadFailed": {
+    "message": "無法載入 Power 設定。"
+  },
+  "protectionProfilesTitle": {
+    "message": "防護設定檔"
+  },
+  "protectionProfilesDescription": {
+    "message": "套用一組完整且可還原的設定，或繼續逐項調整下方選項。"
+  },
+  "protectionProfileBaseline": {
+    "message": "基礎"
+  },
+  "protectionProfileBaselineDescription": {
+    "message": "基本網路過濾；彈出視窗防護保持啟用。"
+  },
+  "protectionProfileBalanced": {
+    "message": "平衡"
+  },
+  "protectionProfileBalancedDescription": {
+    "message": "進階篩選、嚴格導覽封鎖及自動記憶體選擇。"
+  },
+  "protectionProfileMaximum": {
+    "message": "最高"
+  },
+  "protectionProfileMaximumDescription": {
+    "message": "完整延伸篩選、嚴格導覽及平衡效能預算。"
+  },
+  "protectionProfileLowMemory": {
+    "message": "低記憶體"
+  },
+  "protectionProfileLowMemoryDescription": {
+    "message": "為低階裝置提供循序編譯及較小快取的進階防護。"
+  },
+  "protectionProfileApply": {
+    "message": "套用設定檔"
+  },
+  "protectionProfileApplying": {
+    "message": "正在套用防護設定檔…"
+  },
+  "protectionProfileApplied": {
+    "message": "已套用防護設定檔。"
+  },
+  "protectionProfileApplyFailed": {
+    "message": "無法套用防護設定檔。"
+  },
+  "protectionProfilePermissionDenied": {
+    "message": "此設定檔需要廣泛網站存取權，但尚未取得權限。"
+  },
+  "protectionProfileActive": {
+    "message": "目前：$1"
+  },
+  "protectionProfileCustomActive": {
+    "message": "目前：自訂設定"
+  },
+  "appearanceSettingsTitle": {
+    "message": "外觀與介面"
+  },
+  "appearanceSettingsDescription": {
+    "message": "選擇主題、強調色、資訊密度及彈出面板配置。"
+  },
+  "appearanceThemeLabel": {
+    "message": "主題"
+  },
+  "appearanceThemeAuto": {
+    "message": "跟隨系統"
+  },
+  "appearanceThemeLight": {
+    "message": "淺色"
+  },
+  "appearanceThemeDark": {
+    "message": "深色"
+  },
+  "appearanceAccentLabel": {
+    "message": "強調色"
+  },
+  "appearanceAccentCrimson": {
+    "message": "緋紅"
+  },
+  "appearanceAccentBlue": {
+    "message": "藍色"
+  },
+  "appearanceAccentEmerald": {
+    "message": "翠綠"
+  },
+  "appearanceAccentViolet": {
+    "message": "紫色"
+  },
+  "appearanceDensityLabel": {
+    "message": "密度"
+  },
+  "appearanceDensityComfortable": {
+    "message": "舒適"
+  },
+  "appearanceDensityCompact": {
+    "message": "精簡"
+  },
+  "appearancePopupLayoutLabel": {
+    "message": "彈出面板配置"
+  },
+  "appearancePopupPower": {
+    "message": "Power（完整控制）"
+  },
+  "appearancePopupCompact": {
+    "message": "精簡"
+  },
+  "appearanceSettingsSaved": {
+    "message": "介面設定已儲存。"
+  },
+  "appearanceSettingsSaveFailed": {
+    "message": "無法儲存介面設定。"
+  },
+  "siteRulesTitle": {
+    "message": "依網站控制"
+  },
+  "siteRulesDescription": {
+    "message": "不必編輯內部儲存空間，即可管理信任網站、篩選層級及智慧彈出視窗政策。"
+  },
+  "popupPolicyManagerTitle": {
+    "message": "彈出視窗政策規則"
+  },
+  "popupPolicyManagerDescription": {
+    "message": "為智慧彈出視窗引擎設定精確主機例外。已編譯的篩選器清單規則仍具有優先權。"
+  },
+  "popupPolicyHostnameLabel": {
+    "message": "主機名稱"
+  },
+  "popupPolicyHostnamePlaceholder": {
+    "message": "example.com"
+  },
+  "popupPolicyModeLabel": {
+    "message": "政策"
+  },
+  "popupPolicyActionsLabel": {
+    "message": "動作"
+  },
+  "popupPolicyAdd": {
+    "message": "新增規則"
+  },
+  "popupPolicyRemove": {
+    "message": "移除"
+  },
+  "popupPolicyEmpty": {
+    "message": "沒有依網站設定的彈出視窗政策。"
+  },
+  "popupPolicySaved": {
+    "message": "彈出視窗政策已儲存。"
+  },
+  "popupPolicyRemoved": {
+    "message": "彈出視窗政策已移除。"
+  },
+  "popupPolicySaveFailed": {
+    "message": "無法儲存彈出視窗政策。"
+  },
+  "popupPolicyInvalidHostname": {
+    "message": "請輸入有效的主機名稱，例如 example.com。"
+  },
+  "filteringSiteRulesTitle": {
+    "message": "依網站設定篩選層級"
+  },
+  "filteringSiteRulesDescription": {
+    "message": "每行一個主機名稱。「不篩選」即信任網站清單；同一主機名稱只能出現在一個層級。"
+  },
+  "saveSiteRules": {
+    "message": "儲存網站規則"
+  },
+  "siteRulesSaved": {
+    "message": "網站規則已儲存。"
+  },
+  "siteRulesInvalid": {
+    "message": "網站規則包含無效或重複的主機名稱。"
+  },
+  "siteRulesLoadFailed": {
+    "message": "無法載入網站規則。"
+  },
+  "diagnosticsTitle": {
+    "message": "執行階段診斷"
+  },
+  "diagnosticsDescription": {
+    "message": "檢查實際 MV3 引擎、瀏覽器能力、配額上限、記憶體預算及最近的彈出視窗判定。"
+  },
+  "diagnosticsRefresh": {
+    "message": "重新整理診斷"
+  },
+  "diagnosticsLoadFailed": {
+    "message": "無法載入執行階段診斷。"
+  },
+  "runtimeCapabilitiesTitle": {
+    "message": "執行階段能力"
+  },
+  "diagnosticsNetworkEngine": {
+    "message": "網路引擎"
+  },
+  "diagnosticsInstallType": {
+    "message": "安裝類型"
+  },
+  "diagnosticsPopupObservation": {
+    "message": "智慧彈出視窗觀察"
+  },
+  "diagnosticsUserScripts": {
+    "message": "使用者指令碼篩選器"
+  },
+  "diagnosticsOffscreenCompiler": {
+    "message": "離屏編譯器"
+  },
+  "diagnosticsStaticRules": {
+    "message": "可用靜態規則"
+  },
+  "diagnosticsDynamicRules": {
+    "message": "動態規則上限"
+  },
+  "diagnosticsSessionRules": {
+    "message": "工作階段規則上限"
+  },
+  "diagnosticsRegexRules": {
+    "message": "正規表示式規則上限"
+  },
+  "diagnosticsAvailable": {
+    "message": "可用"
+  },
+  "diagnosticsUnavailable": {
+    "message": "不可用"
+  },
+  "performanceDetailsTitle": {
+    "message": "目前效能預算"
+  },
+  "performanceSelectedProfile": {
+    "message": "所選設定檔"
+  },
+  "performanceEffectiveProfile": {
+    "message": "實際設定檔"
+  },
+  "performanceDeviceMemory": {
+    "message": "偵測到的裝置記憶體"
+  },
+  "performanceCompileConcurrency": {
+    "message": "匯入編譯並行數"
+  },
+  "performanceCacheEntries": {
+    "message": "CSS 快取項目"
+  },
+  "performanceCacheHighWatermark": {
+    "message": "CSS 快取高水位"
+  },
+  "performancePruneInterval": {
+    "message": "快取清理間隔"
+  },
+  "performanceMinutes": {
+    "message": "$1 分鐘"
+  },
+  "performanceRetainMetadata": {
+    "message": "保留指令碼中繼資料"
+  },
+  "popupDiagnosticsTitle": {
+    "message": "最近的彈出視窗判定"
+  },
+  "popupDiagnosticsDescription": {
+    "message": "僅限本機且有上限的判定記錄，不會保留 URL、路徑、查詢或認證資料。"
+  },
+  "popupDiagnosticsClear": {
+    "message": "清除歷程"
+  },
+  "popupDiagnosticsCleared": {
+    "message": "彈出視窗判定歷程已清除。"
+  },
+  "popupDiagnosticsClearFailed": {
+    "message": "無法清除彈出視窗判定歷程。"
+  },
+  "popupDiagnosticsEmpty": {
+    "message": "本次瀏覽器工作階段尚無彈出視窗判定。"
+  },
+  "diagnosticTime": {
+    "message": "時間"
+  },
+  "diagnosticAction": {
+    "message": "動作"
+  },
+  "diagnosticSource": {
+    "message": "來源"
+  },
+  "diagnosticTarget": {
+    "message": "目標"
+  },
+  "diagnosticReason": {
+    "message": "原因"
+  },
+  "popupUnavailable": {
+    "message": "此頁面無法使用防護功能"
+  },
+  "popupCapabilityUnavailable": {
+    "message": "無法使用"
+  },
+  "popupLoadFailed": {
+    "message": "無法載入防護設定。請重試。"
+  },
+  "popupParentScope": {
+    "message": "此網站繼承了上層網站的規則。請先在「網站規則」中變更上層網站的規則。"
+  },
+  "popupActionFailed": {
+    "message": "無法儲存此變更。請重試。"
+  },
+  "popupToolFailed": {
+    "message": "無法在目前頁面開啟此工具。"
+  },
+  "popupPermissionDenied": {
+    "message": "未獲准存取此網站。防護設定保持不變。"
+  },
+  "popupPermissionFailed": {
+    "message": "無法要求此網站的存取權限。"
+  },
+  "popupReloadFailed": {
+    "message": "無法重新載入此頁面。"
+  },
+  "popupRetry": {
+    "message": "重試"
+  },
+  "popupMore": {
+    "message": "展開"
+  },
+  "popupLess": {
+    "message": "收合"
+  },
+  "popupPowerEdition": {
+    "message": "Power 版"
+  },
+  "popupPowerToggle": {
+    "message": "切換此網站的防護"
+  },
+  "popupReloadPage": {
+    "message": "重新載入此頁面"
+  },
+  "popupProtectionOn": {
+    "message": "防護已開啟"
+  },
+  "popupProtectionOff": {
+    "message": "防護已關閉"
+  },
+  "popupCapabilitySummary": {
+    "message": "防護能力摘要"
+  },
+  "popupCapabilityNetwork": {
+    "message": "網路篩選"
+  },
+  "popupCapabilityExtended": {
+    "message": "延伸篩選"
+  },
+  "popupCapabilityPopups": {
+    "message": "智慧彈出視窗"
+  },
+  "popupCapabilityLists": {
+    "message": "已啟用清單"
+  },
+  "popupCapabilityActive": {
+    "message": "運作中"
+  },
+  "popupCapabilityInactive": {
+    "message": "未運作"
+  },
+  "popupSiteControls": {
+    "message": "網站控制"
+  },
+  "popupQuickTools": {
+    "message": "快速工具"
+  },
+  "popupMatchedRules": {
+    "message": "最近符合的規則"
+  },
+  "popupRecentBlocks": {
+    "message": "近期在此網站上封鎖了 $1 個彈出式視窗"
+  }
+}

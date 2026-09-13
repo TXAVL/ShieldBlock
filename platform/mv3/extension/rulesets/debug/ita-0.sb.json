@@ -1,0 +1,260 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "ad-hub.it",
+        "blendee.com",
+        "rtbuzz.net",
+        "shoppydoo.com",
+        "ad.citynews.it",
+        "adsystem.pages.dev",
+        "adtech.vivimedia.it",
+        "advx.esprimo.com",
+        "affiliatetxt.nextmediaweb.com",
+        "bannerpress.bps.plap.it",
+        "d1yhzddoi8ev99.cloudfront.net",
+        "d2moz0h55szev9.cloudfront.net",
+        "digitaladv.despar.it",
+        "limone.iltrovatore.it",
+        "middycdn-a.akamaihd.net",
+        "roi.ediscom.it",
+        "tdn.da-services.ch",
+        "unifiedads.magellanotech.it",
+        "vzbl.eu",
+        "widgets.shop.moda.it",
+        "adserver.ilgazzettinovesuviano.com",
+        "adv-img.edilportale.com",
+        "banner.moscarossa.biz",
+        "bn.radiogold.it",
+        "loader.oraridiapertura24.it",
+        "plx.mrpornogratis.it",
+        "plx.pornototale.com"
+      ]
+    },
+    "_sourceKeys": [
+      "ca90a1f4f1dae0147910271ee345f229cb67baef3bee81a222c03e1ee11770cc",
+      "c13c20b3115bb0a09d4198c2be061e67f4300241f282754d6f8bfd7413d349f7",
+      "785dc1495bd2198b902af276fcb517668f3b9d7e11205e8d8d10e71ec9ad8767",
+      "2dfdcad3155fee56c7f7135d49143127b935df8b05321f797349550cd61107a5",
+      "abed3c678adaee4bb323905f5d5af48039d68adda3fc2171983e58390cc17c48",
+      "5cf319505167843102f39b933fee985d3b37ee778d1df220d5b8522634ec866d",
+      "ae99ec55d4d7b1c5f7e71c0872c9535a8a5cb2ef214ed0af8753ee53cc80047f",
+      "c6b8a7d17580809ab0bbc6bec41cf462a007f9d49a087f1664053645cee58f89",
+      "1bd59a519018fe2303346c06a8ba300e671b0e264c25c30808a9fe0a74273740",
+      "28634565e50b1c7788723d5b7f0c60dbdc95a092889121c50be54b699cd789d1",
+      "4d98b17471dcca0dd9fc852542dfa310ab7101945a98401f6f2333b4a7993a91",
+      "83cf273ce8842ff7f4b710ee948640273f71592d7df90351481a4534ea692631",
+      "49f7d50ba26f896e0a05e0738794545afface0e066841a085acae41ec36bd60c",
+      "6d08dc0ef03b5e5f0e931b8aec10a955719e65df409b13018df17a950c4c3dc0",
+      "1711d3e5c681d1e2dd950f76ba0b291ac3d7b140af8bc47d2fb8bc048362beb7",
+      "87aa44c79b6bdfeff8f22fdb397b77e16a3dd200953af7fdd57fba43b93c334f",
+      "da90c1b3184c7321dda5767c6d664be78020a8c4aabee1c21e0a012cff156edf",
+      "d4e6eddfdc0493636734d7e37353423985c95a6c414ca63c2842d2e223f40c5f",
+      "f374744f851433176f36485d181624b8cf5cf8ebba754feb1dd6b566c18b6936",
+      "04da4b7d22b7da3ae4d80ca3b28161cbb17d2179856936e2c2708dd951a01be1",
+      "ffbeb9674f179e60e29368473de1126b381486a081c7dcdd37951fecff23a638",
+      "9f00845c7d3ac176628adde5b72566fb3aaa93b15a15830f0bfd4de14e9964dd",
+      "87b0829c225dd6d4fc1e39ae1e3dd086cf47a2b468802883d724baf751caab99",
+      "881953e1685a90edb7f2986d94e4fb14f3d9bb69e10cb819f108c5b724035965",
+      "f4b643164d97caa3d53df29ebdad1a52d5345af4af3c781f0a13561e37ccc949",
+      "f3e5dfd80095f304020684bdc67a4e533046e632b005a8141cf72f0f56a43c7a",
+      "8f6c20f39bc88eaaff9dd6aa2c9662b265f910b2d2052021d0d880e8a4f3e6db"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad-hub.it",
+        "keys": [
+          "ca90a1f4f1dae0147910271ee345f229cb67baef3bee81a222c03e1ee11770cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "blendee.com",
+        "keys": [
+          "c13c20b3115bb0a09d4198c2be061e67f4300241f282754d6f8bfd7413d349f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rtbuzz.net",
+        "keys": [
+          "785dc1495bd2198b902af276fcb517668f3b9d7e11205e8d8d10e71ec9ad8767"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shoppydoo.com",
+        "keys": [
+          "2dfdcad3155fee56c7f7135d49143127b935df8b05321f797349550cd61107a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.citynews.it",
+        "keys": [
+          "abed3c678adaee4bb323905f5d5af48039d68adda3fc2171983e58390cc17c48"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsystem.pages.dev",
+        "keys": [
+          "5cf319505167843102f39b933fee985d3b37ee778d1df220d5b8522634ec866d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adtech.vivimedia.it",
+        "keys": [
+          "ae99ec55d4d7b1c5f7e71c0872c9535a8a5cb2ef214ed0af8753ee53cc80047f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "advx.esprimo.com",
+        "keys": [
+          "c6b8a7d17580809ab0bbc6bec41cf462a007f9d49a087f1664053645cee58f89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliatetxt.nextmediaweb.com",
+        "keys": [
+          "1bd59a519018fe2303346c06a8ba300e671b0e264c25c30808a9fe0a74273740"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bannerpress.bps.plap.it",
+        "keys": [
+          "28634565e50b1c7788723d5b7f0c60dbdc95a092889121c50be54b699cd789d1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d1yhzddoi8ev99.cloudfront.net",
+        "keys": [
+          "4d98b17471dcca0dd9fc852542dfa310ab7101945a98401f6f2333b4a7993a91"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d2moz0h55szev9.cloudfront.net",
+        "keys": [
+          "83cf273ce8842ff7f4b710ee948640273f71592d7df90351481a4534ea692631"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "digitaladv.despar.it",
+        "keys": [
+          "49f7d50ba26f896e0a05e0738794545afface0e066841a085acae41ec36bd60c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "limone.iltrovatore.it",
+        "keys": [
+          "6d08dc0ef03b5e5f0e931b8aec10a955719e65df409b13018df17a950c4c3dc0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "middycdn-a.akamaihd.net",
+        "keys": [
+          "1711d3e5c681d1e2dd950f76ba0b291ac3d7b140af8bc47d2fb8bc048362beb7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "roi.ediscom.it",
+        "keys": [
+          "87aa44c79b6bdfeff8f22fdb397b77e16a3dd200953af7fdd57fba43b93c334f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tdn.da-services.ch",
+        "keys": [
+          "da90c1b3184c7321dda5767c6d664be78020a8c4aabee1c21e0a012cff156edf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unifiedads.magellanotech.it",
+        "keys": [
+          "d4e6eddfdc0493636734d7e37353423985c95a6c414ca63c2842d2e223f40c5f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vzbl.eu",
+        "keys": [
+          "f374744f851433176f36485d181624b8cf5cf8ebba754feb1dd6b566c18b6936"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.shop.moda.it",
+        "keys": [
+          "04da4b7d22b7da3ae4d80ca3b28161cbb17d2179856936e2c2708dd951a01be1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserver.ilgazzettinovesuviano.com",
+        "keys": [
+          "ffbeb9674f179e60e29368473de1126b381486a081c7dcdd37951fecff23a638"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adv-img.edilportale.com",
+        "keys": [
+          "9f00845c7d3ac176628adde5b72566fb3aaa93b15a15830f0bfd4de14e9964dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.moscarossa.biz",
+        "keys": [
+          "87b0829c225dd6d4fc1e39ae1e3dd086cf47a2b468802883d724baf751caab99"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bn.radiogold.it",
+        "keys": [
+          "881953e1685a90edb7f2986d94e4fb14f3d9bb69e10cb819f108c5b724035965"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.oraridiapertura24.it",
+        "keys": [
+          "f4b643164d97caa3d53df29ebdad1a52d5345af4af3c781f0a13561e37ccc949"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plx.mrpornogratis.it",
+        "keys": [
+          "f3e5dfd80095f304020684bdc67a4e533046e632b005a8141cf72f0f56a43c7a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plx.pornototale.com",
+        "keys": [
+          "8f6c20f39bc88eaaff9dd6aa2c9662b265f910b2d2052021d0d880e8a4f3e6db"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 932
+  }
+]

@@ -1,0 +1,1637 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "analytics-consent-manager.azureedge.net",
+        "api.consentjs.datagrail.io",
+        "appconsent.io",
+        "cc.anytrack.de",
+        "ccpa-script.psg.nexstardigital.net",
+        "ccpa.sp-prod.net",
+        "cmp.datasign.co",
+        "cmp.gemius.com",
+        "cmp.setupcmp.com",
+        "consent.dadoslegais.com",
+        "consent.digiapi.com",
+        "consent.nitrocnct.com",
+        "consent.preference-center.com",
+        "consent.prointernet.com",
+        "consent.standardadmin.org",
+        "cookie-bar.conversionbear.com",
+        "cookie.consents.app",
+        "cookie.pearshealthcyber.com",
+        "cookieapi.incomit.dk",
+        "cookieapi2.incomit.dk",
+        "cookiemanager.onm.de",
+        "cookies.innershed.co.uk",
+        "cookiesregister.deltacommerce.com",
+        "crta.and.co.uk",
+        "d2eucw4fxv7nil.cloudfront.net",
+        "gdpr-settings.s3.amazonaws.com",
+        "gdpr.studybreakmedia.com",
+        "macaron-cookie-data.decms.eu",
+        "messaging.sourcepoint.com",
+        "optanon.blob.core.windows.net",
+        "plugin.management",
+        "privacy-api-eu1.clym.io",
+        "privacy-cdn.sixfifty.com",
+        "ressource.gdpr-banner.awsmpsa.com",
+        "smarteucookiebanner.upsell-apps.com",
+        "sync-transcend-cdn.com",
+        "truyoproductionuscdn.truyo.com",
+        "widgets.openli.com",
+        "banner.cookiescan.com",
+        "cb-mms.carbuyer.co.uk",
+        "cdntranscend.eventbrite.com",
+        "cmp-static.nature.com",
+        "cmp.cdn.thesun.co.uk",
+        "cmp.cdn.thesun.ie",
+        "cmp.courrierinternational.com",
+        "cmp.finn.no",
+        "cmp.gearupbooster.com",
+        "cmp.graziadaily.co.uk",
+        "cmp.huffingtonpost.fr",
+        "cmp.infopro-digital.com",
+        "cmp.lavie.fr",
+        "cmp.lemonde.fr",
+        "cmp.lepoint.fr",
+        "cmp.meteored.com",
+        "cmp.nature.com",
+        "cmp.netzwelt.de",
+        "cmp.nouvelobs.com",
+        "cmp.onepeloton.com",
+        "cmp.osano.com",
+        "cmp.parkers.co.uk",
+        "cmp.playpilot.com",
+        "cmp.railmagazine.com",
+        "cmp.springer.com",
+        "cmp.springernature.com",
+        "cmp.telerama.fr",
+        "cmp.uniconsent.com",
+        "cmpv2.pcworld.com",
+        "consent-manager.thenextweb.com",
+        "consent.23g.io",
+        "consent.canalboat.co.uk",
+        "consent.cmp.oath.com",
+        "consent.lifetouch.com",
+        "consent.nationalworld.com",
+        "consent.pdf24.org",
+        "consent.shutterfly.com",
+        "consent.stuff.tv",
+        "consent.thecountrysmallholder.com",
+        "consent.thegreatoutdoorsmag.com",
+        "consent.wegotthiscovered.com",
+        "conso.gransnet.com",
+        "cookie-consent.festo.com",
+        "cookie.marsus.digital",
+        "cookiebot.inkarnate.com",
+        "cookies.giphy.com",
+        "cookies.lmt.lv",
+        "cp.insideevs.com",
+        "cscript-cdn-irl.abb.com",
+        "fuse.forbes.com",
+        "gdpr-api.sharethis.com",
+        "gdpr.internetbrands.com",
+        "mms.cmpsky.com",
+        "privacy.claytonhomes.com",
+        "privacy.fcbcookies.cat",
+        "privacypolicy.trgr.be",
+        "sm-sp.followfollow.com",
+        "sourcepoint-mms.aetv.com",
+        "sourcepoint-mms.history.com",
+        "sourcepoint-mms.mylifetime.com",
+        "sourcepoint.avclub.com",
+        "sourcepoint.deadspin.com",
+        "sourcepoint.jalopnik.com",
+        "sourcepoint.theonion.com",
+        "sourcepoint.theroot.com",
+        "transcendcdn.eventbrite.com",
+        "vg247-uk.vg247.com",
+        "hc.bonprix.hu",
+        "hc.bonprix.ro",
+        "hc.bonprix.sk",
+        "fundingchoicesmessages.google.com",
+        "9jdq2a.poco.de",
+        "cc.diewebsitemacherei.de",
+        "cc.labu24.de",
+        "cc.mpa-web.de",
+        "ccm1.dlr.de",
+        "cmp.eick.it",
+        "cmp.pcwelt.de",
+        "cmp.wetteronline.de",
+        "consens.conlabz.de",
+        "consent-wrapper.jameda.de",
+        "consent.berliner-kurier.de",
+        "consent.werner-mertz.de",
+        "consent2.rheinische-anzeigenblaetter.de",
+        "consenttool.haendlerbund.de",
+        "cookiebanner.gepruefter-webshop.de",
+        "cookies.ptj.de",
+        "cookies.tanke-guenstig.de",
+        "cp.staedte-info.net",
+        "fc.vodafone.de",
+        "up-cookiemon.wavecdn.net",
+        "cmp.histoire-et-civilisations.com",
+        "consent.prismamedia.com",
+        "consentement.ouest-france.fr",
+        "cookies.leadplace.fr",
+        "privacy.footmercato.net",
+        "privacy.francoisesaget.com",
+        "privacy.heidi.news",
+        "privacy.letemps.ch",
+        "privacy.luxair.lu",
+        "cookie-consent.etisalat.ae",
+        "cmp.vizus.cz",
+        "consent.t-mobile.cz",
+        "consent.triad.sk",
+        "cookies.giant.cz",
+        "kbyqzt.xxxlutz.cz",
+        "me9ddf.moebelix.cz",
+        "cmp.deondernemer.nl",
+        "cookie.vrt.be",
+        "cookie.wieni.be",
+        "cookies.jeugdjournaal.nl",
+        "cookies.nos.nl",
+        "cookies.ster.nl",
+        "voorkeuren.tvgids.nl",
+        "cmp.tori.fi",
+        "cmp.soundis.gr",
+        "tp.triple.co.il",
+        "ccm19.mindpark.at",
+        "consent.gardena.net",
+        "cookie.aerostatonet.it",
+        "cookies.ae-webdesign.com",
+        "cookies.bakehouse.at",
+        "cookies.gardena.net",
+        "cookiescript.cloud.provincia.tn.it",
+        "privacyportal.fatergroup.com",
+        "widget.brand-fresh.it",
+        "cmp.impress.co.jp",
+        "gdpr.api.bcdn.jp",
+        "gdpr.laxd.com",
+        "consensu.infor.pl",
+        "cookie.gazeta.pl",
+        "cookies.fakt.pl",
+        "cookies.forbes.pl",
+        "rodo.agora.pl",
+        "zgody.infor.pl",
+        "cookies.doutoresdaweb.com.br",
+        "cookies.leavening.com",
+        "mfegestaocookies.cloud.itau.com.br",
+        "cookies.teraz.sk",
+        "cookies.unidadeditorial.es",
+        "consent.dermogrup.com",
+        "consent.themeteocompany.com"
+      ]
+    },
+    "_sourceKeys": [
+      "256fc8ec951f84a6a5ccc46cb60fcc929b8ca18aaebf3236adb7abe975656e60",
+      "cf97a92ccab1a884ae2d62822e106dce6e9680841992d17e0cae2999064356c0",
+      "ae396a7eead04b31d793adeb1f72a54fcdc26cf79ebf5e78169555170f4d6fd0",
+      "3d728d8708409401aca975388b0eb73f74fa7cc47eb30ea0d1c8458568956281",
+      "662d5c69d1b9277d0352d379ba003c68e67dc8c55d5e00870728c13a20d9f9e1",
+      "142f66da6e6eedbe0d68a70318b623c2f17f214c96312475ed67f619d3f6d7f1",
+      "c67c06030f6a266e1eb4cc529addcc560f6af9c0c4fc20e5a2200413b7a28f71",
+      "a0feaab7c360246294d8213d5ad844ca3683348ee6f3090a200134149229d1b3",
+      "7c5a68b3dbf49f5f0f44afe32ac265d5e24e5a2c4ea057b448b433dd8ddc860d",
+      "34d4c65aaaf0befc83669dde089316a07197ca7374ec80323aee75ea6840f5bf",
+      "a0856f031b156813c0ee41ab527c356a7c10a70a08109bfd7e43d4db6b8fdebe",
+      "2cc95475158aae6e4f412005900362f28f2643cbd04e2b86af34c93541a83ba9",
+      "517a1a6c34aba65299c83f82aa23030aa6892e194d0229ef6dd7fe1f82c25d4f",
+      "0bc9e5a4ab66d64deb97c968ab95e0573b60c6d8a478dcf92b75aa1563f5a339",
+      "d2d689520b716c1b49423ded3388a06f9b7c1b9b34afdf88c2db651b0536e3b8",
+      "11935a4f04621933872263c13f931cdac43f3db58cab399073df27d171f2ba35",
+      "c56d1239cfea86e228dbbd6cc55a09977f52fdde4ce499410771eac5bd81d090",
+      "e0c8df226f98d5f020541e6a5aebc7d10b7c4a80abef9f9742dea120f2534c60",
+      "7ebb62445843ba4a100be94ff3e8f3afb395c1e152d4e6c4e77cb03bc2275234",
+      "dabe427627b3e455240507e1377b5d79e58d5e0f3809d17653d85f094e5781c6",
+      "bd71a0eeb9b81aab64eef96cc4b41579c932e889bf2a4a3d20e96b7b393212b8",
+      "de0e5b04aaeeff43ac50ac17ce13b623b1d7cf5de65ad914402e2f22c30c2a77",
+      "b41e681fe15a3b212615d51336d6e1a5f366494986008da0343dccef7380950d",
+      "5b203df2ff6f132e220a52337c298b18e0f18ad017e0c6fb74a09f0ddaa9100d",
+      "7efc6abdd5fbba9a78c6ec575294609ae73f5ff39d45b9adc105a4948486469d",
+      "e55d21ec026ff3ef639af4d62b6ef6eedf63ab5265b100226e173ee7cb14f1ab",
+      "29ae6420757594f636732c289fb26914156b9f3d2e7c90491a53e71729b08b5e",
+      "f92dc803cfb6c2b42080388fe243438ad69e45e88d8467ab6eee1ae2a3e66669",
+      "bb130097ba19e2971928781fd2206a4ea48bb9b0117f9755e9836b4cbdf4c217",
+      "b1901a783b9b8798690360c0d5a8c07a6a885b3e046e2bcf9ec73d0875f6da26",
+      "d13a7d857ea35a3724840612d288c3534e1b74fae83ecfed82980540cd5add73",
+      "80c505ddd2b77d940069932eefc3387394889a7599b2c711e4647a58293ff1af",
+      "399a0d3b5f60312762d3ad0f4a168f7c207d5d642db2d8914084eeccad6ccef1",
+      "30927777821cfe4372b35590fd4770cb8699d3c20dbfb1e538998ddf89ad7d5f",
+      "30ace6868b39da8bfe7a9a4f2a02ffc7c499050082d62ed7a8507e4e73e54f92",
+      "87b517454f3a5dcc2e0e647768d0aa18ea4aaa1b1a71ea8671face13c196ff4d",
+      "7385fe1012d78f1e3f58154222b6d479654ce470113d01596044f6db155e014e",
+      "093a183e94a2a432c0ab55b6ff3315988f16be8cd0d25b05a9c65b041eed13f6",
+      "ab3de4f1c62a9e5a9b1639f315763444041575dae9a030a1ebdb73b87a9b4836",
+      "127552f5e5d2fb5e7d349e19c2f4b848b9fe2e1731778a0aea7003b845aeb282",
+      "b2a48da98d054254aff294858148fd74f7f9260057543aa80ee5fc2e77acefc3",
+      "eb18844abd142f080f1da3cb34769339b1cb38f518d6a5c36bc100f2a55b15e2",
+      "dccfc50e21c57bc716fee306a61da99adeb7eb7ce3bb3eb903b9c6d07fcdde81",
+      "7621bf876e48dd2907bf9b98796c6a9d4ad59fd057f2326c50e24677a52c57e9",
+      "aeb0e99eb8520faa3825ca668b217fe267af992c1fd42cee4e17cbdceb6cb83d",
+      "8da23a9d6d00ba3473c441db1ec4e4373c0ad620c56dbf41edfce1db5e1978d5",
+      "d3bef166a222a4823c2180c1dab7d7cba8fb3fb0815adb72f698a740898921a9",
+      "57516addb33a6c2444934c1f27cd2b1f0cd7c57233e27b4b3acd52a277363949",
+      "6248807e23a4722156d1c1a2cd589064a4586fe8b189d74aaf8866229e6ab4fe",
+      "93bc4275cee8fe7f3c430324511fd19e638572ad29b426638419428cd4ab5d4f",
+      "7790f588c7c5235e8acf858d26a8df98431dc04a903f7a21f929286862aea93f",
+      "f46fa0534f0d673a1613fe280da80ebd5a9e626db679f7cf537384e4917df2da",
+      "95905bf82cd3b48c0f0ca3fcab97fc9b2496fa4548a0bbb44326c0f6bc4f754e",
+      "f2f4d86b3a03047bf6cd5637ecc882b4ea33e9c85466639174b9f1f54b25b9c3",
+      "4a726bae3fbf1348a0405d6a0551aa8ef1855d314318901ac3ff9c078b31ad8d",
+      "b1653a653a642c7879c111c543745febf60dfa7e561a9da9580ed66c2d72c9d6",
+      "e58c77c7cd010ebe59a95d526349355f76e923178ebc91fd69ecfa71d18d9212",
+      "5079b0a1a0207b33c0a18d20c79163b2b5174b03932b4a38501fa8047696c17a",
+      "b4c1f39eed4095304f0cddef284831afcf195712de865be392536feedfc09625",
+      "fe2b1c90e584b221943d812e07478b2490c67a78ae18f59371819f2abab3b2be",
+      "cb2905da03678c780e9f6e213eeb382ba6f0219eeb0fab85bbd2fcdb99f4a76b",
+      "572b7cad1c7cf70947aca02ec9c25a95b95eb2f758f2a0c2233d14f193635bd8",
+      "c8444155f56667957ead26a965e5d6d98d0844661479119fc254e926e4f6fd55",
+      "b9d710649d34c522c06753d40151afdbf4734be85169a32fe7367d1b9b30cda9",
+      "e4a2a4c243d838a6d5d543770afa817ec79d9873689e4c7cd54229b63be06a9d",
+      "8d46a8b3bca243e654d8bcd1ee9faf53ab05c6972c50f0457ca3460ac0ea2c83",
+      "022405438c66a0f462f8934687dd2a1152a6b9ed683f4e2056675a659ce510fe",
+      "58ca93928834e9b06f934b236fb358f3ef95c901f149924ba3069a0de1908ea8",
+      "1c15877aa990b0e8e8aea131435bbd189ff74fa10d589e5a850c042e31159bd2",
+      "6c6597da8f90d04acea3f5d6097f5652e9f0525d8e16d3f444dd62c535051b52",
+      "f40a524f9a6ec0e124edf248b7f084fb1626e910acd8b1148abf06f94df78e65",
+      "90c0008fc8af90049009e005de2ba24ebac46ce69d64ee2e781598a76f5d469f",
+      "6a7c8b62e95d81fda629eaa63dd631784a61f4d025fa0abee10154b04ab539cb",
+      "a4a8d6dcae7d30455596bedc65d450435839ee46f187947fbbff9459f7da5807",
+      "f700ee424c4a87626a3e70c5c7ec72df3453545d02ff261b1076a440725b16e1",
+      "ebbd857a9df5f263223b834a649751b74aee5f8f45a3a35cc1e2d5ec4fbc1a8a",
+      "3fffb26247bbc234f07849d7ebf0bd8344aabb9dd5ad05619a43e3e3de004eeb",
+      "8a297b0e559ba0092ae58003b2ed697e40baef910d0073160330206f8b44aaf8",
+      "6dfd56ce26835c31456e6f7cad9a43097cc6abfd6387d4d9c28ccacaf22c5ecd",
+      "dc545c26dc6816e1773a087d99d1c58feef784c6c82ab5e40334336d8865ed60",
+      "1df310a78244b2038e1a99d7ac8d12fd3d41654e3bd0f801ea036697e8b0094c",
+      "6723d8d8a5c42905a9612d3e471d11b8d7a7dc3057cf9ec8d8c30a6d53880ceb",
+      "648c6f7272b4c7ea5b323bf74a1c9c10ab06753f9895f7b74b756b34ba3f9dae",
+      "318a86fbbc582eeb8b82af714d827c3441fefe823198fe2bcf38fc1bfa424515",
+      "558a78eaf2b9d760fc0634d5d8459b29958a216e72e1f25177516b90c126a5dc",
+      "fd7733a088b3e7faf9faa75de6acd6cfeff73c22e698c18d5733ef172de4772f",
+      "db09e61a63e3d9ea743006d7e907dbf2a5ab8bec7924ae949459c5be9bbad895",
+      "417f96df2ba177d876abcbe28492762630383dc1f95d907fc27b4bec1b5fbb24",
+      "0ed2fbf99d282dda0126657e744c94081c48cad7068778d3cde31758c4061832",
+      "10922c6f11379b492db187e464618e3204d851f5fe9c424b5fd7833dae03aa7b",
+      "3952253abd7115c256b6f54f4c56577d2b3ce1f94718ba05e4caae4f63787b40",
+      "c6a17caee13990212129680308e5d162b68e48be767b30702c68ad7641adcb6c",
+      "c6cd7b85d811547a26455987a5df582f15c2302d8b0cc20a3be3a076337b04c7",
+      "0c24c269b2f070516ad3831c648e72804feda11f300df008fb22891e79d2630a",
+      "f7632844e930078209557f27deb699b114c400dcb64c9d3a46b8e1b7656e688f",
+      "16ad55b3b564deb877c661b5a70fa6bf8e2aea7af744efaf9c54f4c52ba9248a",
+      "1aec5470fab5d4446fa4ca0539c7984398771c65bc1f5ad7694e83ec52e1d033",
+      "fcd50283b3f2d8f4a587ecea40e6162e085b33044c1cfdc5d52fc2e5b3066f8a",
+      "7a8bca6e64d8fb58db86c7b7f3128032b33be20b9e98c33cb348fe780ba3b674",
+      "1ca66d673c3be19453362b37b01b5ed59315d14673ed52b5e8873aff459e0826",
+      "e3fc49446c0e265a4d87d169f76d04b56a7495369ddcdb47e431366170899739",
+      "3cc7ec182c69f59b20f457813ea33818588bba5ef57ddee3ccbbb802f9f03079",
+      "d56b164a0dfed2c2c2b67aa8399c717116172278ebbefb0abb5cf339b3e906ee",
+      "661907fc23cb4fd951cd99b9eb26dbc551e59b23bc7fb21c92af8ee534594c48",
+      "b077b22989ac16b97faafd8a5367c44d19711a5be23d0425a827d66c937f1277",
+      "2af8b0f596c9129a9435addc4847a1c6f4e8e236332de6049e64f14911aac756",
+      "3fcfc25dad1d63fa68a5efeb63b414ed306f3700716379d21546b891546a3f82",
+      "2e374ec835c22e59b449c6cfcc4940de420690105e7a022c9c42cf272648e095",
+      "4c55e186a21eecbafebfb32d0f08879328013221240d1737dc3e64af4cc0e924",
+      "420b55b5e9d020fae19c741587d1af89c4906f116b0af1b41a1375f6dc13072f",
+      "12be4248f00720276fbee177acd4731c831933fd76e2894865beab019e864f0c",
+      "5749681f657cf1f4bbac54c7332f6f6cf5d160d33b9a7e083965af7dab42a0ac",
+      "7ad79ed5eb25d2ab2c38b862ca9e0fc5ded95d7e65c79be9818ff734eed53702",
+      "0e127f51e13e6f39bdf11fe3e8fc36da1a38c94782992b71f7e40fe2981ccac4",
+      "292a6bc9a06ffcb024176cdb0d7599f30ade662f201913e052b627ee92030b5a",
+      "0df8b160887e36cfef2a88211e014cd58613a626b30e853521f6ea608dc5447e",
+      "f8ecd17b3dc47e33fe093982a7cc4d8d7fdaaae82fb27d22c0a9851125134174",
+      "2c10a1658e9492e764e9faa536dc48d36cd420181681ed8b12ec773aeb1c0659",
+      "9171e342ca5229740e55a8d2ec75d4bf1a7429313ac5ab03177702cf18389258",
+      "14e739f0ff9e7c589dbe9bb75e9dfcd91d3a3f1220e7f43c509c7049ae880a9d",
+      "5dac37d2be05a46ae3a9b430b34581bb33017b4ea54ffb2c072a4af2fb8e7f56",
+      "9293e2a1c51cb645fdc7d0566160c73c567c18fa42cdea1e84d218f26d1d4972",
+      "5375a30470d45f329f84b4df1f995c8fe8ded0e7e302e48381fe7a066f1946c4",
+      "4f3c1437780e5c8df57ba95eb019dab0818c1d006b0be1992bb6736d3f7f9fe5",
+      "c526bc3014aa03207d4247ff4e86a951452d298034f4dbdb1bb995ac67fe55f2",
+      "6258542507b87c4f4c22aa44444d6728b2aaf84946c68a1adddca1aae3d24185",
+      "3363d9aae6bc3bcc342cdb0b908a6eede25e5805e9954bfa2399903f9e1c25cd",
+      "b3b98899b587508fda10ef516ef53ed1912f64f5b2e0f8d0cb9e1c54b3ee45a8",
+      "177480a1f3243bf284415a75e70206b90f9db93077b6b1df9a2bd46be1fdf281",
+      "e9202390961fd1c5dfb374d5cece18f728f086a7550331607ef47eb3f525f00f",
+      "66170a25158e16f1195d28c416d3bf587a5749cf76be0a75dd265cf2f2f800b1",
+      "aa5ae8fd91e48fcf81ea37aaad2e914bd08e5a01d12eb56caca993b45a09504b",
+      "98cd821922e0c7cf5812c26465ac15a354128bbc5ca1328242c83e98a30bca4b",
+      "4a482b346d4b01fa271de78382df4be080ea0b8e4d0df22490006579ad9a2f7d",
+      "665b3c7b945f0cfa87b5d69bf4cfd6c26f1d944e1a37d020a858d6c4d3d974a6",
+      "e810e385980d888bd6891cc9db4d15c62abe8af4cc8812c5c9f0ff571477dcc6",
+      "2eddabc4310415dd26d9964b137f003a3ac48072dfe238940a152ab77e210883",
+      "fc08eafde39e2418cf024932f40b2e8605147aefcd6e9208e7d9e17ccbd20f1f",
+      "bbf165da940eb3f3316b77f574c5ef0c4a2fc927f35cf2085e12519cdb57bc5b",
+      "8197aed5c39cb34a3cf662bd94488d859f34bd457c4f92e7ab6cc1af1b5aeaa0",
+      "a15368486f08d0bcb633138b1b23803341d2f7872a7574ba27dcf01619b2cda5",
+      "7ca9bcef8342a255c544cf8a4d3efe10b84971601ce7a734f0223f7f1e072b6b",
+      "d7626973c3df6c2be4770055597a9f7255e8b1d2110b628df460aec3440d8359",
+      "51b4d7582f771a047ef601b489672ef6b64b58e551b5bf19f97f874dcaeeb03b",
+      "4edbbee9e3559d952a7774bfadee75dd86b41d9ea450ce1ece2380edd0647605",
+      "5ba816109bf39864020deabcc2dfbe2aba6ef5c93c057b3a6b2f554013bfe713",
+      "ddf526f766a3a36e050ee04d7e6042dd1aa35623eb8ecd3db71dd9d434b6ffd8",
+      "8d26a1681738bf98949274a40eda506a01f310629349e533c7d12055ededa25f",
+      "5c509e653e77a77b5a151929164f36b97caeb7c6b5ba920e0c8e1b9def6f2e25",
+      "c105435da85652acdd52f2150a0ccffab2ebba3d64705f203606f3fa29eec4b8",
+      "d6c1162b102d472474499858e3f58bdca0550fb3f80df745588d657c989ae8f6",
+      "a566966ea62d7ff32b4a257d495c7b27c0f8f099ec7b47bc2389527c1afe781e",
+      "4fe13cc6a3abb4958f71f342d13ff1d94e2baad23a0867c06bc6b7f02f0ce7dc",
+      "6b9376e482f387c6396baeeaac5dc0c53614cd39ca8569acffdd60492d0aba44",
+      "bf4e8d333e71653c61e247cc1b91d8f487173b40d43a1d413cd594010b7cb0a5",
+      "a4b9c5719582f4e5543211651f3b7c078e7a5dd26ed5b7a2089e93c40d7fe072",
+      "ad76ae4bdcad946dec94bf3d7d851d7b56fa8dbbad004edf2c1c46a0749cf190",
+      "1a8450ef522491e893f25e9f785cdb81f3b467ca9f8c84637f9921b9e16c4e48",
+      "21b8b6e4fdffdc8fadee1216461b10db44e2710c91d6a46bf671a483b350f0ef",
+      "bbbb83edcb17416969e617899a9812e5ddc4c29533ee35b566adc9a86435cc66",
+      "c760fe27ef32991e8bb726be510a21e79812dd2d323c4a4e97c3c7240e69a173",
+      "7435b0dc8be7bd67eafbe49667548e9744058ed07ff451444d74ae955fb03709",
+      "f3a634f42015693eee780a4077c1d0f2620cafd0d5eb9ef5f1a3fec14e7ff16d",
+      "04a7f0883fefce965c2f5e7016dc35bfa79aa3f8fd5cda7c34262155f43b7bc2",
+      "158bc5ad9878e5b4e6a3c510d463e78c6b225f8870029ecc81e491be730f59a0",
+      "7c6c32f5f669c9e4bd23f97b11f8642debdc0874cbed4fef073cb6dfd8a3c816",
+      "da9b31dfed2d71f28d40d802898cea8c598ab15b48580bd86cb756bb632148d3",
+      "43b808ba2d504ed856405d5dd2c1640721162ca968adc35ebe9196271b943300",
+      "32aaf7f1b97c3a1021776beb9417ee674c55a4e3a8167f329c1298d25334c8bb",
+      "7ad91ff0bd0a628ca8a50fd56563a7eafb53ec7ddf25d42fa721c9297345a40d",
+      "2bbc5f2a14acfacee554855df710b90544444fbf230518cb5b3fe71f5855a9c7",
+      "139f95d23319e64c8018a90e2f19c853124151c8ed51703db60fbf87d24638b6",
+      "eff4e3bba05dbebae1b9252b571f676457346f0dd531f3861031c3d5fc9643eb",
+      "445b8eb44dd1254066270d824a36ecca3d0bc95dc206af7af33a7934f0572c86",
+      "59d04f507aabfc8ed376276fe352f08a709013a93892c803acd039a2dd7fe415",
+      "1f320f76ae734ddc4b6a09afd02702985cd8e54cc14ecd603b789828953f21b2",
+      "e3f4c574d825ea0f69d115e3edfe0eac12fcfb6aaea46cb15ffb52c56afd1f28",
+      "e764cf4535972fd809db440e18cba3b3586b3d80bba69509e0294e0cf1b6d2da",
+      "7c7eab406703dd5598925210c347120ccd73a7107eef2149415108ee48b7182d",
+      "d1b2095e3913e21a1b932808db9d042a32002fb876003d814a3dc1fc24eae85a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "analytics-consent-manager.azureedge.net",
+        "keys": [
+          "256fc8ec951f84a6a5ccc46cb60fcc929b8ca18aaebf3236adb7abe975656e60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "api.consentjs.datagrail.io",
+        "keys": [
+          "cf97a92ccab1a884ae2d62822e106dce6e9680841992d17e0cae2999064356c0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "appconsent.io",
+        "keys": [
+          "ae396a7eead04b31d793adeb1f72a54fcdc26cf79ebf5e78169555170f4d6fd0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cc.anytrack.de",
+        "keys": [
+          "3d728d8708409401aca975388b0eb73f74fa7cc47eb30ea0d1c8458568956281"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccpa-script.psg.nexstardigital.net",
+        "keys": [
+          "662d5c69d1b9277d0352d379ba003c68e67dc8c55d5e00870728c13a20d9f9e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccpa.sp-prod.net",
+        "keys": [
+          "142f66da6e6eedbe0d68a70318b623c2f17f214c96312475ed67f619d3f6d7f1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.datasign.co",
+        "keys": [
+          "c67c06030f6a266e1eb4cc529addcc560f6af9c0c4fc20e5a2200413b7a28f71"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.gemius.com",
+        "keys": [
+          "a0feaab7c360246294d8213d5ad844ca3683348ee6f3090a200134149229d1b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.setupcmp.com",
+        "keys": [
+          "7c5a68b3dbf49f5f0f44afe32ac265d5e24e5a2c4ea057b448b433dd8ddc860d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.dadoslegais.com",
+        "keys": [
+          "34d4c65aaaf0befc83669dde089316a07197ca7374ec80323aee75ea6840f5bf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.digiapi.com",
+        "keys": [
+          "a0856f031b156813c0ee41ab527c356a7c10a70a08109bfd7e43d4db6b8fdebe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.nitrocnct.com",
+        "keys": [
+          "2cc95475158aae6e4f412005900362f28f2643cbd04e2b86af34c93541a83ba9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.preference-center.com",
+        "keys": [
+          "517a1a6c34aba65299c83f82aa23030aa6892e194d0229ef6dd7fe1f82c25d4f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.prointernet.com",
+        "keys": [
+          "0bc9e5a4ab66d64deb97c968ab95e0573b60c6d8a478dcf92b75aa1563f5a339"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.standardadmin.org",
+        "keys": [
+          "d2d689520b716c1b49423ded3388a06f9b7c1b9b34afdf88c2db651b0536e3b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie-bar.conversionbear.com",
+        "keys": [
+          "11935a4f04621933872263c13f931cdac43f3db58cab399073df27d171f2ba35"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.consents.app",
+        "keys": [
+          "c56d1239cfea86e228dbbd6cc55a09977f52fdde4ce499410771eac5bd81d090"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.pearshealthcyber.com",
+        "keys": [
+          "e0c8df226f98d5f020541e6a5aebc7d10b7c4a80abef9f9742dea120f2534c60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookieapi.incomit.dk",
+        "keys": [
+          "7ebb62445843ba4a100be94ff3e8f3afb395c1e152d4e6c4e77cb03bc2275234"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookieapi2.incomit.dk",
+        "keys": [
+          "dabe427627b3e455240507e1377b5d79e58d5e0f3809d17653d85f094e5781c6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookiemanager.onm.de",
+        "keys": [
+          "bd71a0eeb9b81aab64eef96cc4b41579c932e889bf2a4a3d20e96b7b393212b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.innershed.co.uk",
+        "keys": [
+          "de0e5b04aaeeff43ac50ac17ce13b623b1d7cf5de65ad914402e2f22c30c2a77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookiesregister.deltacommerce.com",
+        "keys": [
+          "b41e681fe15a3b212615d51336d6e1a5f366494986008da0343dccef7380950d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crta.and.co.uk",
+        "keys": [
+          "5b203df2ff6f132e220a52337c298b18e0f18ad017e0c6fb74a09f0ddaa9100d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "d2eucw4fxv7nil.cloudfront.net",
+        "keys": [
+          "7efc6abdd5fbba9a78c6ec575294609ae73f5ff39d45b9adc105a4948486469d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr-settings.s3.amazonaws.com",
+        "keys": [
+          "e55d21ec026ff3ef639af4d62b6ef6eedf63ab5265b100226e173ee7cb14f1ab"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr.studybreakmedia.com",
+        "keys": [
+          "29ae6420757594f636732c289fb26914156b9f3d2e7c90491a53e71729b08b5e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "macaron-cookie-data.decms.eu",
+        "keys": [
+          "f92dc803cfb6c2b42080388fe243438ad69e45e88d8467ab6eee1ae2a3e66669"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "messaging.sourcepoint.com",
+        "keys": [
+          "bb130097ba19e2971928781fd2206a4ea48bb9b0117f9755e9836b4cbdf4c217"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "optanon.blob.core.windows.net",
+        "keys": [
+          "b1901a783b9b8798690360c0d5a8c07a6a885b3e046e2bcf9ec73d0875f6da26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plugin.management",
+        "keys": [
+          "d13a7d857ea35a3724840612d288c3534e1b74fae83ecfed82980540cd5add73"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy-api-eu1.clym.io",
+        "keys": [
+          "80c505ddd2b77d940069932eefc3387394889a7599b2c711e4647a58293ff1af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy-cdn.sixfifty.com",
+        "keys": [
+          "399a0d3b5f60312762d3ad0f4a168f7c207d5d642db2d8914084eeccad6ccef1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ressource.gdpr-banner.awsmpsa.com",
+        "keys": [
+          "30927777821cfe4372b35590fd4770cb8699d3c20dbfb1e538998ddf89ad7d5f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smarteucookiebanner.upsell-apps.com",
+        "keys": [
+          "30ace6868b39da8bfe7a9a4f2a02ffc7c499050082d62ed7a8507e4e73e54f92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sync-transcend-cdn.com",
+        "keys": [
+          "87b517454f3a5dcc2e0e647768d0aa18ea4aaa1b1a71ea8671face13c196ff4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "truyoproductionuscdn.truyo.com",
+        "keys": [
+          "7385fe1012d78f1e3f58154222b6d479654ce470113d01596044f6db155e014e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.openli.com",
+        "keys": [
+          "093a183e94a2a432c0ab55b6ff3315988f16be8cd0d25b05a9c65b041eed13f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.cookiescan.com",
+        "keys": [
+          "ab3de4f1c62a9e5a9b1639f315763444041575dae9a030a1ebdb73b87a9b4836"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cb-mms.carbuyer.co.uk",
+        "keys": [
+          "127552f5e5d2fb5e7d349e19c2f4b848b9fe2e1731778a0aea7003b845aeb282"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdntranscend.eventbrite.com",
+        "keys": [
+          "b2a48da98d054254aff294858148fd74f7f9260057543aa80ee5fc2e77acefc3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp-static.nature.com",
+        "keys": [
+          "eb18844abd142f080f1da3cb34769339b1cb38f518d6a5c36bc100f2a55b15e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.cdn.thesun.co.uk",
+        "keys": [
+          "dccfc50e21c57bc716fee306a61da99adeb7eb7ce3bb3eb903b9c6d07fcdde81"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.cdn.thesun.ie",
+        "keys": [
+          "7621bf876e48dd2907bf9b98796c6a9d4ad59fd057f2326c50e24677a52c57e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.courrierinternational.com",
+        "keys": [
+          "aeb0e99eb8520faa3825ca668b217fe267af992c1fd42cee4e17cbdceb6cb83d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.finn.no",
+        "keys": [
+          "8da23a9d6d00ba3473c441db1ec4e4373c0ad620c56dbf41edfce1db5e1978d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.gearupbooster.com",
+        "keys": [
+          "d3bef166a222a4823c2180c1dab7d7cba8fb3fb0815adb72f698a740898921a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.graziadaily.co.uk",
+        "keys": [
+          "57516addb33a6c2444934c1f27cd2b1f0cd7c57233e27b4b3acd52a277363949"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.huffingtonpost.fr",
+        "keys": [
+          "6248807e23a4722156d1c1a2cd589064a4586fe8b189d74aaf8866229e6ab4fe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.infopro-digital.com",
+        "keys": [
+          "93bc4275cee8fe7f3c430324511fd19e638572ad29b426638419428cd4ab5d4f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.lavie.fr",
+        "keys": [
+          "7790f588c7c5235e8acf858d26a8df98431dc04a903f7a21f929286862aea93f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.lemonde.fr",
+        "keys": [
+          "f46fa0534f0d673a1613fe280da80ebd5a9e626db679f7cf537384e4917df2da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.lepoint.fr",
+        "keys": [
+          "95905bf82cd3b48c0f0ca3fcab97fc9b2496fa4548a0bbb44326c0f6bc4f754e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.meteored.com",
+        "keys": [
+          "f2f4d86b3a03047bf6cd5637ecc882b4ea33e9c85466639174b9f1f54b25b9c3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.nature.com",
+        "keys": [
+          "4a726bae3fbf1348a0405d6a0551aa8ef1855d314318901ac3ff9c078b31ad8d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.netzwelt.de",
+        "keys": [
+          "b1653a653a642c7879c111c543745febf60dfa7e561a9da9580ed66c2d72c9d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.nouvelobs.com",
+        "keys": [
+          "e58c77c7cd010ebe59a95d526349355f76e923178ebc91fd69ecfa71d18d9212"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.onepeloton.com",
+        "keys": [
+          "5079b0a1a0207b33c0a18d20c79163b2b5174b03932b4a38501fa8047696c17a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.osano.com",
+        "keys": [
+          "b4c1f39eed4095304f0cddef284831afcf195712de865be392536feedfc09625"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.parkers.co.uk",
+        "keys": [
+          "fe2b1c90e584b221943d812e07478b2490c67a78ae18f59371819f2abab3b2be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.playpilot.com",
+        "keys": [
+          "cb2905da03678c780e9f6e213eeb382ba6f0219eeb0fab85bbd2fcdb99f4a76b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.railmagazine.com",
+        "keys": [
+          "572b7cad1c7cf70947aca02ec9c25a95b95eb2f758f2a0c2233d14f193635bd8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.springer.com",
+        "keys": [
+          "c8444155f56667957ead26a965e5d6d98d0844661479119fc254e926e4f6fd55"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.springernature.com",
+        "keys": [
+          "b9d710649d34c522c06753d40151afdbf4734be85169a32fe7367d1b9b30cda9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.telerama.fr",
+        "keys": [
+          "e4a2a4c243d838a6d5d543770afa817ec79d9873689e4c7cd54229b63be06a9d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.uniconsent.com",
+        "keys": [
+          "8d46a8b3bca243e654d8bcd1ee9faf53ab05c6972c50f0457ca3460ac0ea2c83"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmpv2.pcworld.com",
+        "keys": [
+          "022405438c66a0f462f8934687dd2a1152a6b9ed683f4e2056675a659ce510fe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent-manager.thenextweb.com",
+        "keys": [
+          "58ca93928834e9b06f934b236fb358f3ef95c901f149924ba3069a0de1908ea8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.23g.io",
+        "keys": [
+          "1c15877aa990b0e8e8aea131435bbd189ff74fa10d589e5a850c042e31159bd2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.canalboat.co.uk",
+        "keys": [
+          "6c6597da8f90d04acea3f5d6097f5652e9f0525d8e16d3f444dd62c535051b52"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.cmp.oath.com",
+        "keys": [
+          "f40a524f9a6ec0e124edf248b7f084fb1626e910acd8b1148abf06f94df78e65"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.lifetouch.com",
+        "keys": [
+          "90c0008fc8af90049009e005de2ba24ebac46ce69d64ee2e781598a76f5d469f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.nationalworld.com",
+        "keys": [
+          "6a7c8b62e95d81fda629eaa63dd631784a61f4d025fa0abee10154b04ab539cb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.pdf24.org",
+        "keys": [
+          "a4a8d6dcae7d30455596bedc65d450435839ee46f187947fbbff9459f7da5807"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.shutterfly.com",
+        "keys": [
+          "f700ee424c4a87626a3e70c5c7ec72df3453545d02ff261b1076a440725b16e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.stuff.tv",
+        "keys": [
+          "ebbd857a9df5f263223b834a649751b74aee5f8f45a3a35cc1e2d5ec4fbc1a8a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.thecountrysmallholder.com",
+        "keys": [
+          "3fffb26247bbc234f07849d7ebf0bd8344aabb9dd5ad05619a43e3e3de004eeb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.thegreatoutdoorsmag.com",
+        "keys": [
+          "8a297b0e559ba0092ae58003b2ed697e40baef910d0073160330206f8b44aaf8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.wegotthiscovered.com",
+        "keys": [
+          "6dfd56ce26835c31456e6f7cad9a43097cc6abfd6387d4d9c28ccacaf22c5ecd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "conso.gransnet.com",
+        "keys": [
+          "dc545c26dc6816e1773a087d99d1c58feef784c6c82ab5e40334336d8865ed60"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie-consent.festo.com",
+        "keys": [
+          "1df310a78244b2038e1a99d7ac8d12fd3d41654e3bd0f801ea036697e8b0094c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.marsus.digital",
+        "keys": [
+          "6723d8d8a5c42905a9612d3e471d11b8d7a7dc3057cf9ec8d8c30a6d53880ceb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookiebot.inkarnate.com",
+        "keys": [
+          "648c6f7272b4c7ea5b323bf74a1c9c10ab06753f9895f7b74b756b34ba3f9dae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.giphy.com",
+        "keys": [
+          "318a86fbbc582eeb8b82af714d827c3441fefe823198fe2bcf38fc1bfa424515"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.lmt.lv",
+        "keys": [
+          "558a78eaf2b9d760fc0634d5d8459b29958a216e72e1f25177516b90c126a5dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cp.insideevs.com",
+        "keys": [
+          "fd7733a088b3e7faf9faa75de6acd6cfeff73c22e698c18d5733ef172de4772f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cscript-cdn-irl.abb.com",
+        "keys": [
+          "db09e61a63e3d9ea743006d7e907dbf2a5ab8bec7924ae949459c5be9bbad895"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fuse.forbes.com",
+        "keys": [
+          "417f96df2ba177d876abcbe28492762630383dc1f95d907fc27b4bec1b5fbb24"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr-api.sharethis.com",
+        "keys": [
+          "0ed2fbf99d282dda0126657e744c94081c48cad7068778d3cde31758c4061832"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr.internetbrands.com",
+        "keys": [
+          "10922c6f11379b492db187e464618e3204d851f5fe9c424b5fd7833dae03aa7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mms.cmpsky.com",
+        "keys": [
+          "3952253abd7115c256b6f54f4c56577d2b3ce1f94718ba05e4caae4f63787b40"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.claytonhomes.com",
+        "keys": [
+          "c6a17caee13990212129680308e5d162b68e48be767b30702c68ad7641adcb6c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.fcbcookies.cat",
+        "keys": [
+          "c6cd7b85d811547a26455987a5df582f15c2302d8b0cc20a3be3a076337b04c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacypolicy.trgr.be",
+        "keys": [
+          "0c24c269b2f070516ad3831c648e72804feda11f300df008fb22891e79d2630a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sm-sp.followfollow.com",
+        "keys": [
+          "f7632844e930078209557f27deb699b114c400dcb64c9d3a46b8e1b7656e688f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint-mms.aetv.com",
+        "keys": [
+          "16ad55b3b564deb877c661b5a70fa6bf8e2aea7af744efaf9c54f4c52ba9248a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint-mms.history.com",
+        "keys": [
+          "1aec5470fab5d4446fa4ca0539c7984398771c65bc1f5ad7694e83ec52e1d033"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint-mms.mylifetime.com",
+        "keys": [
+          "fcd50283b3f2d8f4a587ecea40e6162e085b33044c1cfdc5d52fc2e5b3066f8a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint.avclub.com",
+        "keys": [
+          "7a8bca6e64d8fb58db86c7b7f3128032b33be20b9e98c33cb348fe780ba3b674"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint.deadspin.com",
+        "keys": [
+          "1ca66d673c3be19453362b37b01b5ed59315d14673ed52b5e8873aff459e0826"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint.jalopnik.com",
+        "keys": [
+          "e3fc49446c0e265a4d87d169f76d04b56a7495369ddcdb47e431366170899739"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint.theonion.com",
+        "keys": [
+          "3cc7ec182c69f59b20f457813ea33818588bba5ef57ddee3ccbbb802f9f03079"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sourcepoint.theroot.com",
+        "keys": [
+          "d56b164a0dfed2c2c2b67aa8399c717116172278ebbefb0abb5cf339b3e906ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "transcendcdn.eventbrite.com",
+        "keys": [
+          "661907fc23cb4fd951cd99b9eb26dbc551e59b23bc7fb21c92af8ee534594c48"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vg247-uk.vg247.com",
+        "keys": [
+          "b077b22989ac16b97faafd8a5367c44d19711a5be23d0425a827d66c937f1277"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hc.bonprix.hu",
+        "keys": [
+          "2af8b0f596c9129a9435addc4847a1c6f4e8e236332de6049e64f14911aac756"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hc.bonprix.ro",
+        "keys": [
+          "3fcfc25dad1d63fa68a5efeb63b414ed306f3700716379d21546b891546a3f82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hc.bonprix.sk",
+        "keys": [
+          "2e374ec835c22e59b449c6cfcc4940de420690105e7a022c9c42cf272648e095"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fundingchoicesmessages.google.com",
+        "keys": [
+          "4c55e186a21eecbafebfb32d0f08879328013221240d1737dc3e64af4cc0e924"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "9jdq2a.poco.de",
+        "keys": [
+          "420b55b5e9d020fae19c741587d1af89c4906f116b0af1b41a1375f6dc13072f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cc.diewebsitemacherei.de",
+        "keys": [
+          "12be4248f00720276fbee177acd4731c831933fd76e2894865beab019e864f0c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cc.labu24.de",
+        "keys": [
+          "5749681f657cf1f4bbac54c7332f6f6cf5d160d33b9a7e083965af7dab42a0ac"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cc.mpa-web.de",
+        "keys": [
+          "7ad79ed5eb25d2ab2c38b862ca9e0fc5ded95d7e65c79be9818ff734eed53702"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccm1.dlr.de",
+        "keys": [
+          "0e127f51e13e6f39bdf11fe3e8fc36da1a38c94782992b71f7e40fe2981ccac4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.eick.it",
+        "keys": [
+          "292a6bc9a06ffcb024176cdb0d7599f30ade662f201913e052b627ee92030b5a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.pcwelt.de",
+        "keys": [
+          "0df8b160887e36cfef2a88211e014cd58613a626b30e853521f6ea608dc5447e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.wetteronline.de",
+        "keys": [
+          "f8ecd17b3dc47e33fe093982a7cc4d8d7fdaaae82fb27d22c0a9851125134174"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consens.conlabz.de",
+        "keys": [
+          "2c10a1658e9492e764e9faa536dc48d36cd420181681ed8b12ec773aeb1c0659"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent-wrapper.jameda.de",
+        "keys": [
+          "9171e342ca5229740e55a8d2ec75d4bf1a7429313ac5ab03177702cf18389258"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.berliner-kurier.de",
+        "keys": [
+          "14e739f0ff9e7c589dbe9bb75e9dfcd91d3a3f1220e7f43c509c7049ae880a9d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.werner-mertz.de",
+        "keys": [
+          "5dac37d2be05a46ae3a9b430b34581bb33017b4ea54ffb2c072a4af2fb8e7f56"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent2.rheinische-anzeigenblaetter.de",
+        "keys": [
+          "9293e2a1c51cb645fdc7d0566160c73c567c18fa42cdea1e84d218f26d1d4972"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consenttool.haendlerbund.de",
+        "keys": [
+          "5375a30470d45f329f84b4df1f995c8fe8ded0e7e302e48381fe7a066f1946c4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookiebanner.gepruefter-webshop.de",
+        "keys": [
+          "4f3c1437780e5c8df57ba95eb019dab0818c1d006b0be1992bb6736d3f7f9fe5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.ptj.de",
+        "keys": [
+          "c526bc3014aa03207d4247ff4e86a951452d298034f4dbdb1bb995ac67fe55f2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.tanke-guenstig.de",
+        "keys": [
+          "6258542507b87c4f4c22aa44444d6728b2aaf84946c68a1adddca1aae3d24185"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cp.staedte-info.net",
+        "keys": [
+          "3363d9aae6bc3bcc342cdb0b908a6eede25e5805e9954bfa2399903f9e1c25cd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fc.vodafone.de",
+        "keys": [
+          "b3b98899b587508fda10ef516ef53ed1912f64f5b2e0f8d0cb9e1c54b3ee45a8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "up-cookiemon.wavecdn.net",
+        "keys": [
+          "177480a1f3243bf284415a75e70206b90f9db93077b6b1df9a2bd46be1fdf281"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.histoire-et-civilisations.com",
+        "keys": [
+          "e9202390961fd1c5dfb374d5cece18f728f086a7550331607ef47eb3f525f00f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.prismamedia.com",
+        "keys": [
+          "66170a25158e16f1195d28c416d3bf587a5749cf76be0a75dd265cf2f2f800b1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consentement.ouest-france.fr",
+        "keys": [
+          "aa5ae8fd91e48fcf81ea37aaad2e914bd08e5a01d12eb56caca993b45a09504b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.leadplace.fr",
+        "keys": [
+          "98cd821922e0c7cf5812c26465ac15a354128bbc5ca1328242c83e98a30bca4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.footmercato.net",
+        "keys": [
+          "4a482b346d4b01fa271de78382df4be080ea0b8e4d0df22490006579ad9a2f7d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.francoisesaget.com",
+        "keys": [
+          "665b3c7b945f0cfa87b5d69bf4cfd6c26f1d944e1a37d020a858d6c4d3d974a6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.heidi.news",
+        "keys": [
+          "e810e385980d888bd6891cc9db4d15c62abe8af4cc8812c5c9f0ff571477dcc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.letemps.ch",
+        "keys": [
+          "2eddabc4310415dd26d9964b137f003a3ac48072dfe238940a152ab77e210883"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacy.luxair.lu",
+        "keys": [
+          "fc08eafde39e2418cf024932f40b2e8605147aefcd6e9208e7d9e17ccbd20f1f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie-consent.etisalat.ae",
+        "keys": [
+          "bbf165da940eb3f3316b77f574c5ef0c4a2fc927f35cf2085e12519cdb57bc5b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.vizus.cz",
+        "keys": [
+          "8197aed5c39cb34a3cf662bd94488d859f34bd457c4f92e7ab6cc1af1b5aeaa0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.t-mobile.cz",
+        "keys": [
+          "a15368486f08d0bcb633138b1b23803341d2f7872a7574ba27dcf01619b2cda5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.triad.sk",
+        "keys": [
+          "7ca9bcef8342a255c544cf8a4d3efe10b84971601ce7a734f0223f7f1e072b6b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.giant.cz",
+        "keys": [
+          "d7626973c3df6c2be4770055597a9f7255e8b1d2110b628df460aec3440d8359"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kbyqzt.xxxlutz.cz",
+        "keys": [
+          "51b4d7582f771a047ef601b489672ef6b64b58e551b5bf19f97f874dcaeeb03b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "me9ddf.moebelix.cz",
+        "keys": [
+          "4edbbee9e3559d952a7774bfadee75dd86b41d9ea450ce1ece2380edd0647605"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.deondernemer.nl",
+        "keys": [
+          "5ba816109bf39864020deabcc2dfbe2aba6ef5c93c057b3a6b2f554013bfe713"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.vrt.be",
+        "keys": [
+          "ddf526f766a3a36e050ee04d7e6042dd1aa35623eb8ecd3db71dd9d434b6ffd8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.wieni.be",
+        "keys": [
+          "8d26a1681738bf98949274a40eda506a01f310629349e533c7d12055ededa25f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.jeugdjournaal.nl",
+        "keys": [
+          "5c509e653e77a77b5a151929164f36b97caeb7c6b5ba920e0c8e1b9def6f2e25"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.nos.nl",
+        "keys": [
+          "c105435da85652acdd52f2150a0ccffab2ebba3d64705f203606f3fa29eec4b8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.ster.nl",
+        "keys": [
+          "d6c1162b102d472474499858e3f58bdca0550fb3f80df745588d657c989ae8f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "voorkeuren.tvgids.nl",
+        "keys": [
+          "a566966ea62d7ff32b4a257d495c7b27c0f8f099ec7b47bc2389527c1afe781e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.tori.fi",
+        "keys": [
+          "4fe13cc6a3abb4958f71f342d13ff1d94e2baad23a0867c06bc6b7f02f0ce7dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.soundis.gr",
+        "keys": [
+          "6b9376e482f387c6396baeeaac5dc0c53614cd39ca8569acffdd60492d0aba44"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tp.triple.co.il",
+        "keys": [
+          "bf4e8d333e71653c61e247cc1b91d8f487173b40d43a1d413cd594010b7cb0a5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ccm19.mindpark.at",
+        "keys": [
+          "a4b9c5719582f4e5543211651f3b7c078e7a5dd26ed5b7a2089e93c40d7fe072"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.gardena.net",
+        "keys": [
+          "ad76ae4bdcad946dec94bf3d7d851d7b56fa8dbbad004edf2c1c46a0749cf190"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.aerostatonet.it",
+        "keys": [
+          "1a8450ef522491e893f25e9f785cdb81f3b467ca9f8c84637f9921b9e16c4e48"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.ae-webdesign.com",
+        "keys": [
+          "21b8b6e4fdffdc8fadee1216461b10db44e2710c91d6a46bf671a483b350f0ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.bakehouse.at",
+        "keys": [
+          "bbbb83edcb17416969e617899a9812e5ddc4c29533ee35b566adc9a86435cc66"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.gardena.net",
+        "keys": [
+          "c760fe27ef32991e8bb726be510a21e79812dd2d323c4a4e97c3c7240e69a173"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookiescript.cloud.provincia.tn.it",
+        "keys": [
+          "7435b0dc8be7bd67eafbe49667548e9744058ed07ff451444d74ae955fb03709"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "privacyportal.fatergroup.com",
+        "keys": [
+          "f3a634f42015693eee780a4077c1d0f2620cafd0d5eb9ef5f1a3fec14e7ff16d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.brand-fresh.it",
+        "keys": [
+          "04a7f0883fefce965c2f5e7016dc35bfa79aa3f8fd5cda7c34262155f43b7bc2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cmp.impress.co.jp",
+        "keys": [
+          "158bc5ad9878e5b4e6a3c510d463e78c6b225f8870029ecc81e491be730f59a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr.api.bcdn.jp",
+        "keys": [
+          "7c6c32f5f669c9e4bd23f97b11f8642debdc0874cbed4fef073cb6dfd8a3c816"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gdpr.laxd.com",
+        "keys": [
+          "da9b31dfed2d71f28d40d802898cea8c598ab15b48580bd86cb756bb632148d3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consensu.infor.pl",
+        "keys": [
+          "43b808ba2d504ed856405d5dd2c1640721162ca968adc35ebe9196271b943300"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookie.gazeta.pl",
+        "keys": [
+          "32aaf7f1b97c3a1021776beb9417ee674c55a4e3a8167f329c1298d25334c8bb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.fakt.pl",
+        "keys": [
+          "7ad91ff0bd0a628ca8a50fd56563a7eafb53ec7ddf25d42fa721c9297345a40d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.forbes.pl",
+        "keys": [
+          "2bbc5f2a14acfacee554855df710b90544444fbf230518cb5b3fe71f5855a9c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rodo.agora.pl",
+        "keys": [
+          "139f95d23319e64c8018a90e2f19c853124151c8ed51703db60fbf87d24638b6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zgody.infor.pl",
+        "keys": [
+          "eff4e3bba05dbebae1b9252b571f676457346f0dd531f3861031c3d5fc9643eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.doutoresdaweb.com.br",
+        "keys": [
+          "445b8eb44dd1254066270d824a36ecca3d0bc95dc206af7af33a7934f0572c86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.leavening.com",
+        "keys": [
+          "59d04f507aabfc8ed376276fe352f08a709013a93892c803acd039a2dd7fe415"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mfegestaocookies.cloud.itau.com.br",
+        "keys": [
+          "1f320f76ae734ddc4b6a09afd02702985cd8e54cc14ecd603b789828953f21b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.teraz.sk",
+        "keys": [
+          "e3f4c574d825ea0f69d115e3edfe0eac12fcfb6aaea46cb15ffb52c56afd1f28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cookies.unidadeditorial.es",
+        "keys": [
+          "e764cf4535972fd809db440e18cba3b3586b3d80bba69509e0294e0cf1b6d2da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.dermogrup.com",
+        "keys": [
+          "7c7eab406703dd5598925210c347120ccd73a7107eef2149415108ee48b7182d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "consent.themeteocompany.com",
+        "keys": [
+          "d1b2095e3913e21a1b932808db9d042a32002fb876003d814a3dc1fc24eae85a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1301
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/tt/ttfc.html?sc="
+    },
+    "_sourceKeys": [
+      "3722694591bd27846687fb4866873317194d589103bf8500d69f74d6e5674a75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5572
+  },
+  {
+    "condition": {
+      "urlFilter": "/ts/ttfc.html?sc="
+    },
+    "_sourceKeys": [
+      "6419bd709b22cd74377cfca840080d0b80aa8f3cebd951fedef497f26068f031"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5573
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/stat-qq.html?*&click_url_final="
+    },
+    "_sourceKeys": [
+      "2ebd73caf5a655b4a3414e68b1c38b57cf68180e5a1200221d4320761d4fb077"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5574
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tw.jav321.com"
+      ],
+      "initiatorDomains": [
+        "ucptt.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e5004cdfe6dec0c60be636c6f4a0c0ef4ea8e0792c20da544ec3efd120e7f8d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5575
+  },
+  {
+    "condition": {
+      "regexFilter": "^https:\\/\\/[a-z0-9]+\\.[a-z0-9]+\\.[a-z]{2,3}:\\d{1,6}\\/[a-z]{1,3}\\/\\d+\\?is_not="
+    },
+    "_sourceKeys": [
+      "3196584f706cf5dce36ff249c884300e84f9828886ba1db7b07b1b2d9d6b7924"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5576
+  },
+  {
+    "condition": {
+      "urlFilter": "/htmm/20*.php"
+    },
+    "_sourceKeys": [
+      "125f1e1a2c261ac71c66c79ce7c2a2f6de606495e369ce87ed7d5c500ff99565"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5577
+  },
+  {
+    "condition": {
+      "urlFilter": "/portalwlanad/pages/"
+    },
+    "_sourceKeys": [
+      "19d65669917c194415eb5616dae4ccbe867d245790360a0d054419740647c61b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5578
+  },
+  {
+    "condition": {
+      "urlFilter": ":701/gd_xueersi/"
+    },
+    "_sourceKeys": [
+      "b09da027c0c62730c74aefa75f94e6ef2b7e4d52e62c75c0c5b97a9ef82b5bc3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5579
+  },
+  {
+    "condition": {
+      "urlFilter": "||76fengyun.com/vip.php"
+    },
+    "_sourceKeys": [
+      "be71b6c68948f44ffa09439378db4d2e73b33c7a9c38da53ce57288be44a886a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5580
+  },
+  {
+    "condition": {
+      "urlFilter": "||baidu.com/adrc."
+    },
+    "_sourceKeys": [
+      "87cdbf3915d81ca5a6a3d9766da58fa3e02138758b5bdb32ca23b7feb0a4037c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5581
+  },
+  {
+    "condition": {
+      "urlFilter": "||baidu.com/baidu.php?url="
+    },
+    "_sourceKeys": [
+      "f2da1b5fab56d5c45e1f6e59a9b66448e315797923fbc96096a8ea9b89f3a6c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5582
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "click.taobao.com"
+      ],
+      "initiatorDomains": [
+        "steamcn.com"
+      ]
+    },
+    "_sourceKeys": [
+      "a25b6094e79091dc80dd28782f59c7a03713b83024d0394fb76d9c3d539a2b79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5583
+  },
+  {
+    "condition": {
+      "urlFilter": "||ctfile.com/popjump.php?"
+    },
+    "_sourceKeys": [
+      "e87029c1187b40cd36c5e626c70bfbe9b9293c415167a2aa38c42d786a2cb923"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5584
+  },
+  {
+    "condition": {
+      "urlFilter": "||duoyi.com/welcome/"
+    },
+    "_sourceKeys": [
+      "dbc93a49c4349a74f2b8dda0ef420740553ea027e3e3881da295bb8cb5fb3ff0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5585
+  },
+  {
+    "condition": {
+      "urlFilter": "||flash.cn/success/"
+    },
+    "_sourceKeys": [
+      "13892e010dc88e7891d6d54080736f407c4c9f5bf5dd97ef9bfc3625581691b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5586
+  },
+  {
+    "condition": {
+      "urlFilter": "||gd.189.cn*/push/"
+    },
+    "_sourceKeys": [
+      "b22e16e49f6202cee1af4cb6499f92bba44c46a89fc39f7333e6cc0b610adcd4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5587
+  },
+  {
+    "condition": {
+      "urlFilter": "||greenet.cn^*_popu_"
+    },
+    "_sourceKeys": [
+      "7cf071c910fc1bd5be5563060127e49ccb86ceadd5fa7c9c945d8e34ba9007d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5588
+  },
+  {
+    "condition": {
+      "urlFilter": "||hinet.net/product/promotion/"
+    },
+    "_sourceKeys": [
+      "0e07ae579ffff025fb661138fb5b1f6768a80301dd8261d6ba4edb75a2c313b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5589
+  },
+  {
+    "condition": {
+      "urlFilter": "||huancaicp.com/?pid="
+    },
+    "_sourceKeys": [
+      "84b5b6a1b06fde15cc8c69c94c85c10d25c26d87daca1a064c3df9985f7ee408"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5590
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "img999.com"
+      ],
+      "initiatorDomains": [
+        "tt1069.com"
+      ]
+    },
+    "_sourceKeys": [
+      "ac4c9fc60e2765acaca0ad1d5afbbb432037f620ad890416c7a317e12d679824"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5591
+  },
+  {
+    "condition": {
+      "urlFilter": "||iqiyi.com/track"
+    },
+    "_sourceKeys": [
+      "76d1a775db35240062055caacba7ad6f842e73e93b8f4faa87bdc5da7f7a4120"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5592
+  },
+  {
+    "condition": {
+      "urlFilter": "||jjwxc.net/jjad*.html"
+    },
+    "_sourceKeys": [
+      "d9cce75986c02e270d2c3a2fa867e8473a4b333d27b669c9677b73bf4d18ffd9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5593
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "kfc.com.cn"
+      ],
+      "initiatorDomains": [
+        "iqiyi.com"
+      ]
+    },
+    "_sourceKeys": [
+      "8caa2ba321872ab678aed5e108e6165f1f05522f123c60891446676d5121286f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5594
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "puma.com"
+      ],
+      "initiatorDomains": [
+        "hupu.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bb9055ec0144dff232fb5ea25479d7accca9742dca9cfbb567197b931f9a3ce0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5595
+  },
+  {
+    "condition": {
+      "urlFilter": "||sohu.com/i/?pvid="
+    },
+    "_sourceKeys": [
+      "0a88586270c4f2066a4406ca96ad366dee9cb560b7fcbbff9b9711c902047512"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5596
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "taobao.com"
+      ],
+      "initiatorDomains": [
+        "52movieba.com",
+        "btee.net",
+        "ck180.net",
+        "friok.com",
+        "iqiyi.com"
+      ]
+    },
+    "_sourceKeys": [
+      "9156111fbf3a351f047e310efe0f7735f8c94adba91af27c1f95d88d262da14d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5597
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tmall.com"
+      ],
+      "initiatorDomains": [
+        "eyusky.net",
+        "iqiyi.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d23329a256de4bbde229c9492d70ab0100c4752e0b98b40310d20b48c3f03c88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5598
+  },
+  {
+    "condition": {
+      "urlFilter": "||yy18.info^*thanks"
+    },
+    "_sourceKeys": [
+      "02156e48ea3e884c368d72df86cc637ada2d52b875847c2157d4c00ba8725175"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5599
+  },
+  {
+    "condition": {
+      "urlFilter": "||dlkoo.cc/down/*.htm"
+    },
+    "_sourceKeys": [
+      "228ae9fb5f02769741650866d0b624c8f102ba40d66804ca8b5a63402cd20281"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5600
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "taobao.com"
+      ],
+      "initiatorDomains": [
+        "dlkoo.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "c0e5078206afe1cd7545784551e849850f1c95ef7098ee7c4ef09c6e9fa5a2bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5601
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "taobao.com"
+      ],
+      "initiatorDomains": [
+        "dlkoo.com"
+      ]
+    },
+    "_sourceKeys": [
+      "046ecbe0a26340844622cdc4f2fe001611b89ad96bb11755d852bc271f219d71"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5602
+  },
+  {
+    "condition": {
+      "urlFilter": "?key=",
+      "initiatorDomains": [
+        "verystream.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bcfdb8527e7cc8716062b7bf30299095f817113ede0c13783f096818afb5cfa2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5603
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hsvtdj.top",
+        "88p2p.com",
+        "aiwanma99.com",
+        "c.admaster.com.cn",
+        "kuheju.com",
+        "22588888.com",
+        "2481e.com",
+        "693836.com",
+        "a1714.com",
+        "baidu-jxf.co",
+        "e5yx.com",
+        "h6295.com",
+        "lady177.com",
+        "magnetdog.net",
+        "pv4b.com",
+        "sa669.com",
+        "xdh0808.com",
+        "yunsennet.com"
+      ]
+    },
+    "_sourceKeys": [
+      "b2fa14018fbb3b9bdc65fbe2a245a1d9bfb38feb9597055003168523edb3d369",
+      "6b0719a2116e16fb5f7d0bcaf3cf5184740180a4bcd24b654c0237c5fa978a33",
+      "6661fc1d91f91e5a5995e1f7750b17fd913e4ab01122203788bf9eade5d14e88",
+      "c3669eda46d7e76f87f1792253989ccf85b5286300d151ec873b4d0f3073429e",
+      "d4757cfb463ef1f7f90ad9baff90fdf5a54e303b12269f5902455144ca2e5678",
+      "15d4c5d43352930dcbeb7ad626f30b108d1e6ef33181fc8352438bbc06593b7f",
+      "9c861b31554408254c91d8bb1e3215c8f0beace2468bcad8f859aafe4fe55c43",
+      "e1e4b00baee09a03db704f62daf87c1bd0b1b74dda7551e4ad60a444ae0cad7b",
+      "dc977990aa47af5f409679defd78200842d92104bf32099363dcc6ae80f756f2",
+      "d01ad8632e28dfeed18631d1efb81117affac8dde84c5335f17ee8edb76d846b",
+      "a4d100e65b7f8563b5959422c06eabf0dee2759650b7527efbad25f209173b61",
+      "bb29c572848f5c6d69fa62c844c77dbf47f9ee91bb7b8b0b94063224a0c1d59c",
+      "a37f9566683710e77a77cde28affc577b21454a324e343197a869e3f9edc6841",
+      "96bbeec0f0dc5d6b2bd721b4b6005b0b3e795fa1b8cfb1229bc27a1e64aaaab8",
+      "18d8502b5b68611982534fab5c958e0057883ce1c88b09498ce9f5ce54ba6734",
+      "aedf137ff60820a1d31c22a692a1962bdd5b7cfd6078f67643c049e5d091e552",
+      "14bc4a70f6262c2780413cfb9539c8a8e37dbabe92df5457ccdee41d3036b61e",
+      "cd128acd2606c5e772e61d28416d4b0b2cced6375d2a398730ae5a08f01d7442"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "hsvtdj.top",
+        "keys": [
+          "b2fa14018fbb3b9bdc65fbe2a245a1d9bfb38feb9597055003168523edb3d369"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "88p2p.com",
+        "keys": [
+          "6b0719a2116e16fb5f7d0bcaf3cf5184740180a4bcd24b654c0237c5fa978a33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aiwanma99.com",
+        "keys": [
+          "6661fc1d91f91e5a5995e1f7750b17fd913e4ab01122203788bf9eade5d14e88"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "c.admaster.com.cn",
+        "keys": [
+          "c3669eda46d7e76f87f1792253989ccf85b5286300d151ec873b4d0f3073429e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kuheju.com",
+        "keys": [
+          "d4757cfb463ef1f7f90ad9baff90fdf5a54e303b12269f5902455144ca2e5678"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "22588888.com",
+        "keys": [
+          "15d4c5d43352930dcbeb7ad626f30b108d1e6ef33181fc8352438bbc06593b7f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "2481e.com",
+        "keys": [
+          "9c861b31554408254c91d8bb1e3215c8f0beace2468bcad8f859aafe4fe55c43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "693836.com",
+        "keys": [
+          "e1e4b00baee09a03db704f62daf87c1bd0b1b74dda7551e4ad60a444ae0cad7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a1714.com",
+        "keys": [
+          "dc977990aa47af5f409679defd78200842d92104bf32099363dcc6ae80f756f2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "baidu-jxf.co",
+        "keys": [
+          "d01ad8632e28dfeed18631d1efb81117affac8dde84c5335f17ee8edb76d846b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "e5yx.com",
+        "keys": [
+          "a4d100e65b7f8563b5959422c06eabf0dee2759650b7527efbad25f209173b61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "h6295.com",
+        "keys": [
+          "bb29c572848f5c6d69fa62c844c77dbf47f9ee91bb7b8b0b94063224a0c1d59c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lady177.com",
+        "keys": [
+          "a37f9566683710e77a77cde28affc577b21454a324e343197a869e3f9edc6841"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "magnetdog.net",
+        "keys": [
+          "96bbeec0f0dc5d6b2bd721b4b6005b0b3e795fa1b8cfb1229bc27a1e64aaaab8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pv4b.com",
+        "keys": [
+          "18d8502b5b68611982534fab5c958e0057883ce1c88b09498ce9f5ce54ba6734"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sa669.com",
+        "keys": [
+          "aedf137ff60820a1d31c22a692a1962bdd5b7cfd6078f67643c049e5d091e552"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xdh0808.com",
+        "keys": [
+          "14bc4a70f6262c2780413cfb9539c8a8e37dbabe92df5457ccdee41d3036b61e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yunsennet.com",
+        "keys": [
+          "cd128acd2606c5e772e61d28416d4b0b2cced6375d2a398730ae5a08f01d7442"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5604
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "76fengyun.com",
+        "avsdown.com",
+        "downdv.com",
+        "downdvs.com",
+        "downhhh.com",
+        "imedown.info",
+        "jandown.com",
+        "mimima.com",
+        "mnks.jxedt.com",
+        "rmdown.com",
+        "soyunpan.com",
+        "xmflv.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "dc97872082064261daf3a93866782c83441ce699807f13b15bbdce3b897d3002",
+      "6ec834feaf03febae190dadabd65f939aaa4b2221def211986cfb9b76960abf2",
+      "617dc1b82de2ec29b3802846a500fe6b381052e2e766e2662374f07bf9611b9c",
+      "f3d04e8f759b18507002bed8e2fd63b9a110bc1cdb1254e86fac8e5c6916ddcb",
+      "8aa1b9876b458789d5084e3fdc0c525c3c59c1ec99813dc021853d9c987d19c2",
+      "2e8984ccdd55cae1b93a98af659771aa6299567c75b35c4e6bd7f3373e960930",
+      "cc8a80adeb0d264a658ac7efbd6c27a154ee9e8a50067aba61794e1d822e97fd",
+      "226e7959aa0f02b2d4a5acad55798e1485ce017ce71dc0c208f10c3fb1f69e87",
+      "5d98a8e54134b84b03af7456c46465b675d3049c1d77eb7de4fe9fc044c397da",
+      "62b6b4839a5cb7d50e93643739bcb6f420db41521a744ebbae063ef7e2d82560",
+      "df0e08ae63d66092cfbd7bd592bb0eb1a1de26d6b9c6cdb5b1e0e7358c6bf77f",
+      "3c8292f594467d26625e205dc87dabe532ed5b7ce832502be203be209b0fc4db"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "76fengyun.com",
+        "keys": [
+          "dc97872082064261daf3a93866782c83441ce699807f13b15bbdce3b897d3002"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "avsdown.com",
+        "keys": [
+          "6ec834feaf03febae190dadabd65f939aaa4b2221def211986cfb9b76960abf2"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "downdv.com",
+        "keys": [
+          "617dc1b82de2ec29b3802846a500fe6b381052e2e766e2662374f07bf9611b9c"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "downdvs.com",
+        "keys": [
+          "f3d04e8f759b18507002bed8e2fd63b9a110bc1cdb1254e86fac8e5c6916ddcb"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "downhhh.com",
+        "keys": [
+          "8aa1b9876b458789d5084e3fdc0c525c3c59c1ec99813dc021853d9c987d19c2"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "imedown.info",
+        "keys": [
+          "2e8984ccdd55cae1b93a98af659771aa6299567c75b35c4e6bd7f3373e960930"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "jandown.com",
+        "keys": [
+          "cc8a80adeb0d264a658ac7efbd6c27a154ee9e8a50067aba61794e1d822e97fd"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "mimima.com",
+        "keys": [
+          "226e7959aa0f02b2d4a5acad55798e1485ce017ce71dc0c208f10c3fb1f69e87"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "mnks.jxedt.com",
+        "keys": [
+          "5d98a8e54134b84b03af7456c46465b675d3049c1d77eb7de4fe9fc044c397da"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "rmdown.com",
+        "keys": [
+          "62b6b4839a5cb7d50e93643739bcb6f420db41521a744ebbae063ef7e2d82560"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "soyunpan.com",
+        "keys": [
+          "df0e08ae63d66092cfbd7bd592bb0eb1a1de26d6b9c6cdb5b1e0e7358c6bf77f"
+        ]
+      },
+      {
+        "property": "initiatorDomains",
+        "hostname": "xmflv.com",
+        "keys": [
+          "3c8292f594467d26625e205dc87dabe532ed5b7ce832502be203be209b0fc4db"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5820
+  },
+  {
+    "condition": {
+      "urlFilter": ".189.gd^*.html?p=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "596f023d7b620e1005aaf6c79231e1d894ed5ad3c54e1d333013023dc1f28301"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5821
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/?aff=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b7531452bb3a09f774b8ba289356e134d94ba150d507ea4cd1a61fdf53e6b243"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5822
+  },
+  {
+    "condition": {
+      "urlFilter": ".com/?intr=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9534bb950724957029b9587c2b2aff1f0a6daae2c6a95ad05017b2dc806a8079"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5823
+  },
+  {
+    "condition": {
+      "urlFilter": "/badwebremindpage.aspx?param=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "fd9bcaa39e75dbf7e1cc59c4ad21e665574f408b905e4b775568497ff4bbde4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5824
+  },
+  {
+    "condition": {
+      "urlFilter": "/hndxweb/push",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "109ee4eff839234a49fe500ceabef61784e4d19ce19938e5d6c3ae2f33e038cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5825
+  },
+  {
+    "condition": {
+      "urlFilter": "/indexpc.html?agent=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "62f477fdd8c5343857f1915f8aa7c81caa3ff8d5bb4b985c9f0ea65b502d7dcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5826
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushportal/pushportalserver",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "dc85ab75fc564ff1b0a4a3eb77425b123b10956a12266e1abf56f470bc10d131"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5827
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushstart.aspx?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f82f2f5ae4318d7923d1ae912e80ca4868235b3a3f21499e1343432687dfdf8b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5828
+  },
+  {
+    "condition": {
+      "urlFilter": "/pushstart.html?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c8c187445dc58329bd963db715ace6f4b9be51bbb4b40ac284026004f2f005d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5829
+  },
+  {
+    "condition": {
+      "urlFilter": "/tanchuan.htm",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "905c6cdd5526eeb5ac6d70759b493e37a7c8e2af2564887cd3a86d71f39ccc6f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5830
+  },
+  {
+    "condition": {
+      "urlFilter": "||1024wanzhai.",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "bb253bd06f4abdcfbdc5fc29dddfeb97b04004633a599e4d83c4bf5e0e00fc4a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5831
+  },
+  {
+    "condition": {
+      "urlFilter": "||189.cn/actpush/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2ba39eddf3888c347feca8286abf9ae5acbcd2946680bce99930dbaa0af003d1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5832
+  },
+  {
+    "condition": {
+      "urlFilter": "||gd.189.cn/ad/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8a387c005ffa19e89a43db8b42acb4ccb60c1d79c4836e6b7b97c134c1b79d2d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5833
+  },
+  {
+    "condition": {
+      "urlFilter": "||gd.189.cn/gz/promotion/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a961c8ca2e7addbcad7d4efeb2677d9bc522e87caff7a0a3eaf88bbe86082515"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5834
+  },
+  {
+    "condition": {
+      "urlFilter": "||gd.189.cn^*.htm?sp=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0809b1c4dd9e060b7e752c0e50723fac745921049e5ccb5d148709701acc5016"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5835
+  },
+  {
+    "condition": {
+      "urlFilter": "||gd.ct10000.com^*/push/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "13fe1a43e5a0d5bf7ca9cdbb8b46787c6230b3c1509a8748a829bfcbd9178d0c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5836
+  },
+  {
+    "condition": {
+      "urlFilter": "||vnet.cn^*.html?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "111dd6e25068ad654e4431211149a1c8017465289919096958de268de17deb2f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5837
+  },
+  {
+    "condition": {
+      "urlFilter": "/cpro.",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "98e919506482f290b897cf8e028273ed7f4107dc07fd1c8c13a689d746a445b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5838
+  },
+  {
+    "condition": {
+      "urlFilter": "||haoxianggou.xyz/?from=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "336ae6aaf26ad011ea5ea1f88a527904e6ca539ed4dd9ac14675d7fbf1e8ed7b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5839
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "380.tw",
+        "52av.be",
+        "1024mzs.pw",
+        "5lu8.com",
+        "b477.life",
+        "csaimall.com",
+        "downmn.com",
+        "downmz.com",
+        "elsbfby.com",
+        "mm786.com",
+        "todayapp.tv",
+        "u26u.com",
+        "wy213.com",
+        "xiyouence.com",
+        "27gh.cc"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8ab8e720bfae962ec78175524500c5f98bfbdf59aeabdcee967e2e925f7277c8",
+      "7d2debe769a4baa6c02656d10cd34e256abdf407cbaace72d55b654fb30206fc",
+      "afffb259ca1e09cda8dbb9ed3a3993ea997aecdff69404e608205de133142301",
+      "5fcf29ea9fe956fd36223cf464d30a8349db045c2079c30e47ce5443a9895986",
+      "5e184e9a6833760b669c3a4fbe190f27a536893b52823426243f7c7d15816c47",
+      "34c4b13f7ec7d5893a5b11081d131f91565dbc6dc923d937b0c55ea55fe01972",
+      "e554214718978f4d26444a2d7fc36cd2bee182b07bb187859aeb564a95c4a464",
+      "0387e0c028d67a03f2106d0fffbfcfb1898c494a5e0024f1dd1cfb734832f3d0",
+      "01d344ea8b39a95ff6bbbf30544ef31ce7e4a6b451e223d0d1c44283fd39b8b0",
+      "21e151e01eb5d87faf9df1c9cbef5246a4a67eab7d954520b0c2663c48b4c2c9",
+      "7b8da111f2dca17ace4c08f2dad33f1267c09072203cc31e4fc7a77ddcd8996c",
+      "68a764484a19d4a1a9fffed35581d17c1b9a4224be91fd161f75ce378de3b6d7",
+      "efdb25e22bccd14ced2f9d08949cba573318e251832e7bfb49b37aa1f073e276",
+      "1317912be36adc601de102652f0952dab6b20a9ed4ce74d3b61a92780927485b",
+      "5d2c87c8a23dc18c99efbda0677df32e1a3caa69726272c6be7632d519e1f6ed"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "380.tw",
+        "keys": [
+          "8ab8e720bfae962ec78175524500c5f98bfbdf59aeabdcee967e2e925f7277c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "52av.be",
+        "keys": [
+          "7d2debe769a4baa6c02656d10cd34e256abdf407cbaace72d55b654fb30206fc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "1024mzs.pw",
+        "keys": [
+          "afffb259ca1e09cda8dbb9ed3a3993ea997aecdff69404e608205de133142301"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "5lu8.com",
+        "keys": [
+          "5fcf29ea9fe956fd36223cf464d30a8349db045c2079c30e47ce5443a9895986"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "b477.life",
+        "keys": [
+          "5e184e9a6833760b669c3a4fbe190f27a536893b52823426243f7c7d15816c47"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "csaimall.com",
+        "keys": [
+          "34c4b13f7ec7d5893a5b11081d131f91565dbc6dc923d937b0c55ea55fe01972"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "downmn.com",
+        "keys": [
+          "e554214718978f4d26444a2d7fc36cd2bee182b07bb187859aeb564a95c4a464"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "downmz.com",
+        "keys": [
+          "0387e0c028d67a03f2106d0fffbfcfb1898c494a5e0024f1dd1cfb734832f3d0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "elsbfby.com",
+        "keys": [
+          "01d344ea8b39a95ff6bbbf30544ef31ce7e4a6b451e223d0d1c44283fd39b8b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mm786.com",
+        "keys": [
+          "21e151e01eb5d87faf9df1c9cbef5246a4a67eab7d954520b0c2663c48b4c2c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "todayapp.tv",
+        "keys": [
+          "7b8da111f2dca17ace4c08f2dad33f1267c09072203cc31e4fc7a77ddcd8996c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "u26u.com",
+        "keys": [
+          "68a764484a19d4a1a9fffed35581d17c1b9a4224be91fd161f75ce378de3b6d7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wy213.com",
+        "keys": [
+          "efdb25e22bccd14ced2f9d08949cba573318e251832e7bfb49b37aa1f073e276"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xiyouence.com",
+        "keys": [
+          "1317912be36adc601de102652f0952dab6b20a9ed4ce74d3b61a92780927485b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "27gh.cc",
+        "keys": [
+          "5d2c87c8a23dc18c99efbda0677df32e1a3caa69726272c6be7632d519e1f6ed"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5840
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net/ddm/trackclk/",
+      "initiatorDomains": [
+        "hongkongcard.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bec7a153350b89b9c38c2679bc39572c8df1c6551814186be5fb50767aba04d5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6651
+  },
+  {
+    "condition": {
+      "urlFilter": "||serving-sys.com/serving/adserver.bs?",
+      "initiatorDomains": [
+        "hongkongcard.com"
+      ]
+    },
+    "_sourceKeys": [
+      "bac9c336587f6d22b50c8f4eda3d2fbc94194f26392205cb4c862949e7bdeb08"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6652
+  },
+  {
+    "condition": {
+      "urlFilter": "||dlkoo.cc/down/*/*.htm"
+    },
+    "_sourceKeys": [
+      "f09c09e0f99543f44c063993fc803d120bd817c56634016c560d1867235fe9ae"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 6653
+  }
+]

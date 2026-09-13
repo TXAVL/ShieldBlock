@@ -1,0 +1,62 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "com.nxtras.banner.imagerotator",
+        "a.actualno.com",
+        "adsy.mail.bg",
+        "b.grabo.bg",
+        "profitshare.bg"
+      ]
+    },
+    "_sourceKeys": [
+      "812a1e7d32f5cc49c81fc5372687d0022797a6a64ecd59ca6d5f26b73666a7e9",
+      "da86ef8aa1966d381796ca060050f9fb6b2dc68debd486bd00e3f8a47c292075",
+      "c751b487264a62a81604be45c109eb39871be7c33d3f5e3d398067b1761e7111",
+      "8af652cfae2958929dc2ef3cf0e68b53ff57cc641c6c0859a4f346196770a4a9",
+      "32f94758ed78f058770ffc49e8f0f0f8f5923cd0939f5c5ff01f0b738400927a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "com.nxtras.banner.imagerotator",
+        "keys": [
+          "812a1e7d32f5cc49c81fc5372687d0022797a6a64ecd59ca6d5f26b73666a7e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.actualno.com",
+        "keys": [
+          "da86ef8aa1966d381796ca060050f9fb6b2dc68debd486bd00e3f8a47c292075"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsy.mail.bg",
+        "keys": [
+          "c751b487264a62a81604be45c109eb39871be7c33d3f5e3d398067b1761e7111"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "b.grabo.bg",
+        "keys": [
+          "8af652cfae2958929dc2ef3cf0e68b53ff57cc641c6c0859a4f346196770a4a9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "profitshare.bg",
+        "keys": [
+          "32f94758ed78f058770ffc49e8f0f0f8f5923cd0939f5c5ff01f0b738400927a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 678
+  }
+]

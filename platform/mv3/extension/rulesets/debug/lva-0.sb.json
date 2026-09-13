@@ -1,0 +1,107 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "admp-tc.delfi.lv",
+        "banners.zl.lv",
+        "ecompics.power.oho.lv",
+        "r.inbox.lv",
+        "a.draugiem.lv",
+        "b.itvnet.lv",
+        "h.itvnet.lv",
+        "promo.boomtime.lv",
+        "rembi.lv",
+        "w.ifrype.com"
+      ]
+    },
+    "_sourceKeys": [
+      "355485ccaf53b952a6f433023f6ae960d4ab6f1af36f0e261a72c70c432a4b86",
+      "7366fc209bfcbd9a86e66a9139400a28930715112a1a476e502b0eeeb714360b",
+      "8c0b1ef1fde534823c9eec347914f724fd78154c09e270f958ffa82ee45fa45f",
+      "f5f1831c4cdbba1d509d67c117aabc635f016f8a199d044831514d36230c1db0",
+      "d9b6b30b8c4373c784e1e7e44dd6cf117cf7e92b48ebef3ed2067b1382a70c7b",
+      "32f20381a735e8fa130fe60f45e299af30edcb497f271b4db025f255fbb81c4d",
+      "8cafc1797bc578e664288cfed19875fb3e5119b0faa5616a0a85f680ddbfa033",
+      "bd9312b4b3a1aa79d9e2da19a63099db1bdee79143672605d7c8780f1c6e1a76",
+      "57824f28267aab936f5e55a9a6346080acabbb1ce55c68e85393234fe85db061",
+      "f6fe51271416f742518435a70d06e7daac4bf50867fb22bb16d251f4adfebadd"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "admp-tc.delfi.lv",
+        "keys": [
+          "355485ccaf53b952a6f433023f6ae960d4ab6f1af36f0e261a72c70c432a4b86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.zl.lv",
+        "keys": [
+          "7366fc209bfcbd9a86e66a9139400a28930715112a1a476e502b0eeeb714360b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ecompics.power.oho.lv",
+        "keys": [
+          "8c0b1ef1fde534823c9eec347914f724fd78154c09e270f958ffa82ee45fa45f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "r.inbox.lv",
+        "keys": [
+          "f5f1831c4cdbba1d509d67c117aabc635f016f8a199d044831514d36230c1db0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.draugiem.lv",
+        "keys": [
+          "d9b6b30b8c4373c784e1e7e44dd6cf117cf7e92b48ebef3ed2067b1382a70c7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "b.itvnet.lv",
+        "keys": [
+          "32f20381a735e8fa130fe60f45e299af30edcb497f271b4db025f255fbb81c4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "h.itvnet.lv",
+        "keys": [
+          "8cafc1797bc578e664288cfed19875fb3e5119b0faa5616a0a85f680ddbfa033"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "promo.boomtime.lv",
+        "keys": [
+          "bd9312b4b3a1aa79d9e2da19a63099db1bdee79143672605d7c8780f1c6e1a76"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rembi.lv",
+        "keys": [
+          "57824f28267aab936f5e55a9a6346080acabbb1ce55c68e85393234fe85db061"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "w.ifrype.com",
+        "keys": [
+          "f6fe51271416f742518435a70d06e7daac4bf50867fb22bb16d251f4adfebadd"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  }
+]

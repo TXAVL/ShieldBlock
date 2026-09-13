@@ -1,0 +1,991 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "cgames.de",
+        "delmovip.com",
+        "wixnm.com",
+        "xtreff69.com",
+        "gg-bet.de",
+        "ggbetcasino.de",
+        "landing.sexkiste.com",
+        "pre.xlust24.com",
+        "probefahrt.gratis",
+        "putenbrust.net",
+        "smsdate.com",
+        "start.sexpartnercommunity.com",
+        "vulkanbet.pro",
+        "vulkanbetting.biz",
+        "vulkanvegas-de.com",
+        "vulkanvegascasino.at"
+      ]
+    },
+    "_sourceKeys": [
+      "c9a2756a36615157120c10243dc5f742f433bbde6792f337ef61e04585e358ef",
+      "a30843a342b79e1d945c94868be9cda4a68c9cd276107827240509dac8a2ead7",
+      "8a1ee6e5d7024e44d89e8f5d07a5e2e353d99c7a6d4d2089b50c693732bbfea5",
+      "559703298c03349f4086b80b8c911d28c46ab0aef418e104c2c2b110de1d6deb",
+      "f318f00ec63f0e5ba4441cb378c7c9a7d334a522f3c29b4e8f3d85fb49df0a25",
+      "a5d0591d46147559b60e5232af5eb4554d7bd526a365248a7b55eb954a03dad0",
+      "56b3d9cbf22be303b1d1254193d99eb5b5f61999d1b825874ba3aa19c295b504",
+      "f64c51c45543d2068951bc06396b2eb586d61e2041f9f49be85104b0a4837e2c",
+      "26ad4c61ff7b51366b6064f15dd1d4b283c25a6e84c197fe527def8534ed48fb",
+      "aeb28ae7cc0efe3113bb1a2d657334cadd6ea11a7424eeedc9bea4cf327a8490",
+      "375857510e41b99d09f87bb2c44fabbe9fae1378ba56dfb2883b9cb6fcabba86",
+      "fd8d97899c41380cd574c20c85448904267e5dfe1903fbc51666d2b2abd4107b",
+      "919b7ebaa677c171c90319baafb60b2f6e876dda5d5bda1a5960c165699bbd14",
+      "3d170d0f44463d241da9d6cceae63e951faa171b06b2e1d5ee1cb32dc8fd1239",
+      "4e96db5d4946cbd6eb9557bd72d00e8e64e3419b0b104a06d19eafde828770eb",
+      "f102698c8ced1e489680cf6439cfe71df69cb5420afbe4af955d9cb2603f9b4f"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "cgames.de",
+        "keys": [
+          "c9a2756a36615157120c10243dc5f742f433bbde6792f337ef61e04585e358ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "delmovip.com",
+        "keys": [
+          "a30843a342b79e1d945c94868be9cda4a68c9cd276107827240509dac8a2ead7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wixnm.com",
+        "keys": [
+          "8a1ee6e5d7024e44d89e8f5d07a5e2e353d99c7a6d4d2089b50c693732bbfea5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xtreff69.com",
+        "keys": [
+          "559703298c03349f4086b80b8c911d28c46ab0aef418e104c2c2b110de1d6deb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gg-bet.de",
+        "keys": [
+          "f318f00ec63f0e5ba4441cb378c7c9a7d334a522f3c29b4e8f3d85fb49df0a25"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ggbetcasino.de",
+        "keys": [
+          "a5d0591d46147559b60e5232af5eb4554d7bd526a365248a7b55eb954a03dad0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "landing.sexkiste.com",
+        "keys": [
+          "56b3d9cbf22be303b1d1254193d99eb5b5f61999d1b825874ba3aa19c295b504"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pre.xlust24.com",
+        "keys": [
+          "f64c51c45543d2068951bc06396b2eb586d61e2041f9f49be85104b0a4837e2c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "probefahrt.gratis",
+        "keys": [
+          "26ad4c61ff7b51366b6064f15dd1d4b283c25a6e84c197fe527def8534ed48fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "putenbrust.net",
+        "keys": [
+          "aeb28ae7cc0efe3113bb1a2d657334cadd6ea11a7424eeedc9bea4cf327a8490"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "smsdate.com",
+        "keys": [
+          "375857510e41b99d09f87bb2c44fabbe9fae1378ba56dfb2883b9cb6fcabba86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "start.sexpartnercommunity.com",
+        "keys": [
+          "fd8d97899c41380cd574c20c85448904267e5dfe1903fbc51666d2b2abd4107b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vulkanbet.pro",
+        "keys": [
+          "919b7ebaa677c171c90319baafb60b2f6e876dda5d5bda1a5960c165699bbd14"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vulkanbetting.biz",
+        "keys": [
+          "3d170d0f44463d241da9d6cceae63e951faa171b06b2e1d5ee1cb32dc8fd1239"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vulkanvegas-de.com",
+        "keys": [
+          "4e96db5d4946cbd6eb9557bd72d00e8e64e3419b0b104a06d19eafde828770eb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "vulkanvegascasino.at",
+        "keys": [
+          "f102698c8ced1e489680cf6439cfe71df69cb5420afbe4af955d9cb2603f9b4f"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1624
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adfarm1.adition.com"
+      ],
+      "initiatorDomains": [
+        "web.de"
+      ]
+    },
+    "_sourceKeys": [
+      "71496981b3e7a1fb20fb569c000040f93eac27a42ee58c1e786c52feed228ccb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1625
+  },
+  {
+    "condition": {
+      "urlFilter": "||allround-pc.com^*.php?*="
+    },
+    "_sourceKeys": [
+      "a7b19ee83735e0a442e9736308a45fa3ff159b23088e2fc7ad3e41d2099d4209"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1626
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ddownload.com"
+      ],
+      "initiatorDomains": [
+        "ddl-warez.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "c31c2e8578b1ca15e818782f446ff4e12389826e5164299fe25aac3f8ea97ad6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1627
+  },
+  {
+    "condition": {
+      "urlFilter": "||escaria.com/public/static/teaser/?"
+    },
+    "_sourceKeys": [
+      "73d9d0f7d402b1d88a324e7347716cf1d751ea51c7c76cfd28fe3dbd3dbb8724"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1628
+  },
+  {
+    "condition": {
+      "urlFilter": "||ilove.de^*/landing_pages/"
+    },
+    "_sourceKeys": [
+      "dec4ae56b32d6ec7d923ef12b03eaa6b167567d6d89b05f9d9105b74b255723c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1629
+  },
+  {
+    "condition": {
+      "urlFilter": "||ishelminger.de/ad/"
+    },
+    "_sourceKeys": [
+      "b45fa40d340cd778c59155fce49c9c76ccb9a44a05efb35f98084648ada1d194"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1630
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "katfile.com"
+      ],
+      "initiatorDomains": [
+        "ddl-warez.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "b93b48aa8ec5e7238b3957b7582b15922723563b707e614d6af56cbc262fc5fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1631
+  },
+  {
+    "condition": {
+      "urlFilter": "||o2-freikarte.de/affiliate/"
+    },
+    "_sourceKeys": [
+      "9f97fc55caaca07992da035a9d0fbfb5312a56f25ade547a653d4e899d493d65"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1632
+  },
+  {
+    "condition": {
+      "urlFilter": "||pre.xkontakt18.com/campaign?"
+    },
+    "_sourceKeys": [
+      "1fa15638270124931700e6cc68d7febf7eacfabf35e767271309bd3c3b467801"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1633
+  },
+  {
+    "condition": {
+      "urlFilter": "||sunmaker.com/?a_aid="
+    },
+    "_sourceKeys": [
+      "3ff5d9c2bf9377e0d562ec12f2e1905817cc05d6252b4c1394aa1c1bd714a6dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1634
+  },
+  {
+    "condition": {
+      "urlFilter": "||taps.io^*/sms?__ref="
+    },
+    "_sourceKeys": [
+      "5e35a7fa6aecac7edd506bec51158a0a1fe5902365a896c324d50fc0fc2a513b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1635
+  },
+  {
+    "condition": {
+      "urlFilter": "||tuneclub.de^*/lp.pl?"
+    },
+    "_sourceKeys": [
+      "5899f4527e31e740042e71fca5d862bdfbc919906a166c6b5d024def79149c24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1636
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "190.115.18.20",
+        "aniworld.to",
+        "canna-power.to",
+        "canna.to",
+        "kinoger.com",
+        "kinoger.to",
+        "serien.cam",
+        "serienstream.to"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(jpg|jpeg|gif|png|php|svg|ico|js|txt|css)"
+    },
+    "_sourceKeys": [
+      "380e59cad2a4dfe6c49edf8feb76fd79a3324fb0c25fb4962e272a14b2eb994a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1637
+  },
+  {
+    "condition": {
+      "urlFilter": "/lp/chip-",
+      "initiatorDomains": [
+        "chip.de"
+      ]
+    },
+    "_sourceKeys": [
+      "bac983405a4616b6ae1c8eca3b6a9329573d89238d3a66cecdf92180037b2e93"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1638
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hilfreich.de"
+      ],
+      "urlFilter": "^utm_medium=popunder^"
+    },
+    "_sourceKeys": [
+      "6e9abaefeb2800f722c0e40f4f8978ecc1110e874e188d31adae6216a2c4e722"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1639
+  },
+  {
+    "condition": {
+      "urlFilter": "||count.shopping.t-online.de/re?id=",
+      "initiatorDomains": [
+        "t-online.de"
+      ]
+    },
+    "_sourceKeys": [
+      "c4785c0437bad20ed46d4548e2bc5b5a901ea4c2508382ece74effbb12b80d81"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1640
+  },
+  {
+    "condition": {
+      "urlFilter": "||data-load.me/partner/"
+    },
+    "_sourceKeys": [
+      "3513776f6465da14f72a7364aaa2ef1e9cb1de634aced48b9ddc537e6d084370"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1641
+  },
+  {
+    "condition": {
+      "urlFilter": "||ddownload.com/free",
+      "initiatorDomains": [
+        "ibooks.to"
+      ]
+    },
+    "_sourceKeys": [
+      "9de328ca7344f4a450c21ca3f524337fac90339f6daa0a86d2caee51b507e9ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1642
+  },
+  {
+    "condition": {
+      "urlFilter": "||delamar.de/out/"
+    },
+    "_sourceKeys": [
+      "941f4ac158263901ad8946d2e9348418d96453b16f5919de8ee104a2146efb11"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1643
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "eishockey-online.news"
+      ],
+      "initiatorDomains": [
+        "eishockey-online.com"
+      ]
+    },
+    "_sourceKeys": [
+      "cd071ece7f5986960311bcefd1c89aba13698234abe132342ed7882d6a0ee353"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1644
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "linux-magazin.de"
+      ],
+      "urlFilter": "||linux-magazin.de/wp-content/uploads/*#"
+    },
+    "_sourceKeys": [
+      "13eb218b081ecd823ace1135b5d86a5444300b4590a3eca7d7c7cc114c06d076"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1645
+  },
+  {
+    "condition": {
+      "urlFilter": "||sexei.net/go.html"
+    },
+    "_sourceKeys": [
+      "4bdbbae05d5fe3f6e880933d07a630d15ed522004041e7112faf76e45a9be3bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1646
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "warez.cx"
+      ],
+      "initiatorDomains": [
+        "ibooks.to"
+      ]
+    },
+    "_sourceKeys": [
+      "7e8f3e4d7f7a059eacad1342b23d46d6d0785ffd01b60ef90dea3ed09fbdca16"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1647
+  },
+  {
+    "condition": {
+      "urlFilter": "?popup:msp_",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a236937578300ecbcb1f54aa51b154fb8a19e0559e8085c91b3b9935e4a9c2d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1784
+  },
+  {
+    "condition": {
+      "urlFilter": "||1und1.de/?__reuse=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e83c9cd9d2e948e799fe4e68734c22ce29a587098d14002e963c81e1773aba91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1785
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigpoint.com^*?aid=*&aig=*&aip=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8b15349b26ea06b59ff620d1eb09c7dae260715455764618f682db74b813a08c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1786
+  },
+  {
+    "condition": {
+      "urlFilter": "||china-gadgets.de^*&utm_medium=popdown&",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "07426758a94b03f8c1c38209d1fc5cd2fcd3fd03ac262dc6be9ab70e02f9c40a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1787
+  },
+  {
+    "condition": {
+      "urlFilter": "||dealdoktor.de^*&utm_medium=popdown&",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f19932bcbcf1a31f12f775855a181678d0cf19b5aa1b5e35614b2fb5ac634078"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1788
+  },
+  {
+    "condition": {
+      "urlFilter": "||lp.amateurcommunity.com/index.php?cp=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "793a186c0bb0c0942e779d78fdbac7af660dfbefc43689e1a71eab8c7b99ebec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1789
+  },
+  {
+    "condition": {
+      "urlFilter": "||lustagenten.de/?w=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "54600e47799b8bbc18cf8bfa2c0a47e78d46d31e6798bcdeb90d7e5ed1f3d55e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1790
+  },
+  {
+    "condition": {
+      "urlFilter": "||sau-billig.net/?log=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5b7f97067d6b14e668a2cca05d5e2e2c75dd3574de92565d4679773006b60a9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1791
+  },
+  {
+    "condition": {
+      "urlFilter": "||tagoria.net/?ref=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e16e8ec2b7385df51f87a74f8d979bf2967fabe2fab7e53775221b8239e666e1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1792
+  },
+  {
+    "condition": {
+      "urlFilter": "||teufelchens.xxx/trade_in/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "39137f9b898ff5b621c6432a074b4185d7c776b90769fca3c841f02204b6f9b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1793
+  },
+  {
+    "condition": {
+      "urlFilter": "||vavoo.tv/promo/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "17159e060e068a6c88bab3a6cfda2c8cad64b3b599cad2be411c0507c56288fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1794
+  },
+  {
+    "condition": {
+      "urlFilter": "||vidonna.de/pop.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "63b4bbf0b434bd4c2d3c63a109be6c1f8c54ed6f16b26a13970d8ed0442fd6b9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1795
+  },
+  {
+    "condition": {
+      "urlFilter": "||vodafone.de^*&tsid=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9604458c3a94c76abf37be02fe2492c7ce2a49c9802f3e5a9e0530ec210bee46"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1796
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.de.doubleclick.net",
+        "adperform.de",
+        "adshot.de",
+        "arminius.io",
+        "gamigoads.com",
+        "jinkads.com",
+        "trafficfabrik.com",
+        "websc.org",
+        "amateurseite.com",
+        "boerse.today",
+        "ext.amateurcommunity.com",
+        "ext.amateurcommunity.de",
+        "tracking.s24.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "15dbf0e2152d4cc0018cf8bf3ca1d8d97e9b9bd3fc1746b79543ae80449f32cf",
+      "349ca7f97e0daa7486d710bc34fc0473f9d9c21449a9a9e006c754d3eacb1d03",
+      "53e49a384bb1d699391e17073f58fdb1a413dc5596264612aa930ae0bfcf00e8",
+      "1954e9d65b94985012ec4eccf87819976c2704dea8c39f0627ed2821803fe3f2",
+      "125c9b847b6e36e513c6d92c99ca547f6b238be29d959fd39df38a734c24dbc4",
+      "01ded8299c5f094a76815b0f48a305e9725e32c4ec0ceed929dd021e1c091172",
+      "3142fa21d4a5f31f8446663f00ca6532b07e37e340e1028ddadb34e37a7540f3",
+      "7898378ac3316d5207aba2d3be74fc9a8b857ed10c26738c791304e8e8a10fd3",
+      "b72be08c78da0435e60a260a771b748b182986206b9a67898fb7165ca0f7f057",
+      "77c83d0cfc852d7fbd6e41e13df6d4642ac8539ccfcb336496524d867f7098a3",
+      "844dfcee7466575da8dd7abedd2952e218e9c47ffe6cbff1a47a8f61caec2e38",
+      "beb3d8699f848a8c803941266e9078582145806d803897e57df60710306e5644",
+      "374ae08eb8ebc25414b224897711031deae04396ac8b328332cb5c02ff22191a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad.de.doubleclick.net",
+        "keys": [
+          "15dbf0e2152d4cc0018cf8bf3ca1d8d97e9b9bd3fc1746b79543ae80449f32cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adperform.de",
+        "keys": [
+          "349ca7f97e0daa7486d710bc34fc0473f9d9c21449a9a9e006c754d3eacb1d03"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adshot.de",
+        "keys": [
+          "53e49a384bb1d699391e17073f58fdb1a413dc5596264612aa930ae0bfcf00e8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "arminius.io",
+        "keys": [
+          "1954e9d65b94985012ec4eccf87819976c2704dea8c39f0627ed2821803fe3f2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gamigoads.com",
+        "keys": [
+          "125c9b847b6e36e513c6d92c99ca547f6b238be29d959fd39df38a734c24dbc4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jinkads.com",
+        "keys": [
+          "01ded8299c5f094a76815b0f48a305e9725e32c4ec0ceed929dd021e1c091172"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafficfabrik.com",
+        "keys": [
+          "3142fa21d4a5f31f8446663f00ca6532b07e37e340e1028ddadb34e37a7540f3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "websc.org",
+        "keys": [
+          "7898378ac3316d5207aba2d3be74fc9a8b857ed10c26738c791304e8e8a10fd3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "amateurseite.com",
+        "keys": [
+          "b72be08c78da0435e60a260a771b748b182986206b9a67898fb7165ca0f7f057"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "boerse.today",
+        "keys": [
+          "77c83d0cfc852d7fbd6e41e13df6d4642ac8539ccfcb336496524d867f7098a3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ext.amateurcommunity.com",
+        "keys": [
+          "844dfcee7466575da8dd7abedd2952e218e9c47ffe6cbff1a47a8f61caec2e38"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ext.amateurcommunity.de",
+        "keys": [
+          "beb3d8699f848a8c803941266e9078582145806d803897e57df60710306e5644"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.s24.com",
+        "keys": [
+          "374ae08eb8ebc25414b224897711031deae04396ac8b328332cb5c02ff22191a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1797
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/pcs/",
+      "initiatorDomains": [
+        "motorradonline.de"
+      ]
+    },
+    "_sourceKeys": [
+      "99750a2e8d00a69696518a51d61592b5c125b42b0e6e206575458551ee10e2d9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1918
+  },
+  {
+    "condition": {
+      "urlFilter": "||adspirit.de/adclick.php",
+      "initiatorDomains": [
+        "jetzt.de",
+        "sueddeutsche.de"
+      ]
+    },
+    "_sourceKeys": [
+      "d04ad00b16f1d5ff2d0aa84820930f2a020beb5c080277baf5053a2167a5f9b6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1919
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "board.canna.tf"
+      ],
+      "initiatorDomains": [
+        "canna-power.to",
+        "canna.to"
+      ]
+    },
+    "_sourceKeys": [
+      "2334f938f4d6910c33aa94d59bc4cebb3d55c351abb84aa3fa4313dee9622989"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1920
+  },
+  {
+    "condition": {
+      "urlFilter": "||canna-power.to/links.php?action=",
+      "initiatorDomains": [
+        "canna-power.to"
+      ]
+    },
+    "_sourceKeys": [
+      "bcdb02207fb0e0dfec118b630b42837bdc8cf682943a2ea7a125be663e72d127"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1921
+  },
+  {
+    "condition": {
+      "urlFilter": "||canna.to/links.php?action=",
+      "initiatorDomains": [
+        "canna.to"
+      ]
+    },
+    "_sourceKeys": [
+      "03ab9bb185bfe49877f82993d0aa614e862c61def86abd07c6cd32529b00282c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1922
+  },
+  {
+    "condition": {
+      "urlFilter": "||doubleclick.net/ddm/",
+      "initiatorDomains": [
+        "11freunde.de"
+      ]
+    },
+    "_sourceKeys": [
+      "1da9a0e05bbb3539d95d48fb1219a78d37da9a8609aa226e7d1eabe9e6b7c5da"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1923
+  },
+  {
+    "condition": {
+      "urlFilter": "||g.doubleclick.net/pcs/",
+      "initiatorDomains": [
+        "auto-motor-und-sport.de"
+      ]
+    },
+    "_sourceKeys": [
+      "7173a052804ed61934ae179187db03a4713f1bd682ec2350e2a4829cfbae0c66"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1924
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "g.doubleclick.net"
+      ],
+      "initiatorDomains": [
+        "11freunde.de"
+      ]
+    },
+    "_sourceKeys": [
+      "e2bc96e81f071671c551b74447d546ceda4d847f8b7f2ae092a5354fb3423135"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1925
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.adcell.com/click.php?",
+      "initiatorDomains": [
+        "comicschau.de"
+      ]
+    },
+    "_sourceKeys": [
+      "10ba29309c9da0366bd7b05947fad88ea58705243792bed81af22529e9c7836d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1926
+  },
+  {
+    "condition": {
+      "urlFilter": "||t.adcell.com/p/click?",
+      "initiatorDomains": [
+        "jerseypoint.de"
+      ]
+    },
+    "_sourceKeys": [
+      "20a2a6059fa229e9ec40c5dc0d7ced893333995b02b34844a0d8cdec2b1868f1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1927
+  }
+]

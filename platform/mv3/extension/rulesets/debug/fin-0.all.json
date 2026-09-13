@@ -1,0 +1,3611 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/bannercounter.php"
+    },
+    "_sourceKeys": [
+      "51599f8aaa3b309100ab47deb4836e4e2f7ce3352aaacf01c36127b62caa3b9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "/js/spring.js"
+    },
+    "_sourceKeys": [
+      "fd343f05e1bb3191a6bb2efa5afb4148d4efd1e1d329ecbb3b810ca1c6ee8b2b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/karuselli/js/agadcarousel"
+    },
+    "_sourceKeys": [
+      "d64cb3f69bb61da6a49c2fe62fd8305d3ed4dda66bc6a640d4e11fa936741be2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainokset."
+    },
+    "_sourceKeys": [
+      "197c30ecfb1a22c6d09a65cb9142fb6fb744ed5c35d1a7aa578469a61ef53b87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainokset/"
+    },
+    "_sourceKeys": [
+      "83997b5f8206c3f916b823ce9f668f731fe6cce9c806eef362f9e7587e46de6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainokset_"
+    },
+    "_sourceKeys": [
+      "181324e5455f0e685074c0d0952a72c225f7d94c03de21d6dc4d387732d2f519"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainos.",
+      "excludedInitiatorDomains": [
+        "mainos.lol"
+      ]
+    },
+    "_sourceKeys": [
+      "8b42162495491849b35c994f6a4b7e95f2385cc2195f1f6c495061a51e2080de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainos/"
+    },
+    "_sourceKeys": [
+      "40a2944e90a733904ddb89412931d5fcf694ae1a46e6ab071eb2ac1caa8c42a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainos_"
+    },
+    "_sourceKeys": [
+      "eb024ad7b58a1608a8ebcaa260764f33c68c7374fdfd34521eb5001dc6745d6d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbanneri."
+    },
+    "_sourceKeys": [
+      "841df7b1f30565076f8d80ef5b0e8edec83c42d07a9ab38de68091e5724bc1ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbanneri/"
+    },
+    "_sourceKeys": [
+      "bf52825ebc87ece64b1a33f556950d7dbd51c5c7af8fe9e0864178cd1cbc3c0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbanneri_"
+    },
+    "_sourceKeys": [
+      "93b8ed78282907e4de42d62880ddd148c101de986bf5e49dda15e1458154b108"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbannerit."
+    },
+    "_sourceKeys": [
+      "0720c79760f07075a343a883a174278df7f6af117417dfdf6986a03b46a719f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbannerit/"
+    },
+    "_sourceKeys": [
+      "d6209261d0f9096766a8119acd3082dbd939518f14a94f899d42583c592c6485"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosbannerit_"
+    },
+    "_sourceKeys": [
+      "9e6c48e390d21e0fd4fbe6d133fde81b39858f5eadeecebd5df170ac2c718660"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainoskaruselli."
+    },
+    "_sourceKeys": [
+      "bbabe838220a3834213516e4834419da5ef9ba70fb794ab9d9a0c632dafc9bfd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainoskaruselli/"
+    },
+    "_sourceKeys": [
+      "592353de8b2bacb79c75df4fcac11eea5615b9aa6b5d9d5700356dc25f05fa61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainoskaruselli_yli"
+    },
+    "_sourceKeys": [
+      "1c2b1d24e9a93bcf328a5dd72342e4adf89fc49bfbf5cd0745453f53dd9f6f0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "/sponsorit."
+    },
+    "_sourceKeys": [
+      "b86f352e41d24a5d5761bf35a3b17c14a3973ba6bc6d72a21540102c1d3c31aa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "/sponsorit/"
+    },
+    "_sourceKeys": [
+      "9d2d283a6a5ce642d1c010dabc609bfddfb3a667af04e85b52c4ff197ec95a71"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "/sponsorit_"
+    },
+    "_sourceKeys": [
+      "ceac5466efa5e448c0e3de09b70acc9438a28aa697c08008468b90bd577383c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyokumppanit."
+    },
+    "_sourceKeys": [
+      "a7f155e86cef45c812014e074b9589997ac989f4eb0bdc004bec59e6fa0a2de0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyokumppanit/"
+    },
+    "_sourceKeys": [
+      "d7fc7d0383afbb436aa9fb4596d0cf4336591c1de7605f913aa3719686bbcf83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyokumppanit_"
+    },
+    "_sourceKeys": [
+      "1d7c2f29a4fff1b98cec81c1b7c1dcc8f98c4baec6043745d7eb76c24319d3cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyossa."
+    },
+    "_sourceKeys": [
+      "5c9a5d554133310db7af329fb09c4d6cb80d6910ac55544c44f9371753f3ec85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyossa/"
+    },
+    "_sourceKeys": [
+      "421d2b1f868b1f6ad737a4961115cf49d1ab1efb94a65b912ae316d2160e3e12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "/yhteistyossa_"
+    },
+    "_sourceKeys": [
+      "a34527d6e82b222a726d407624231177d6d113a713456281f11d8276d2671b64"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "_mainos."
+    },
+    "_sourceKeys": [
+      "47c36ad9ca91937e8e662a85f08ab6d1a43b5a4698d8d7195dc8125a6ea17d84"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "_mainosnappi."
+    },
+    "_sourceKeys": [
+      "29a3996489039a8be78c20f0d696b2820b0cf8cb570216d1ceb8016f526ef820"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/neoproxy.dll",
+      "initiatorDomains": [
+        "pkank.fi",
+        "sv24.fi",
+        "ulvilanseutu.fi",
+        "uutisrauma.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "92a2bbfdd23b2832858e01579284f862e3bb1f2b4469dc5555ee3d8a0e44aa32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "gamereactor.fi"
+      ],
+      "urlFilter": "/prerolls/*.mp4"
+    },
+    "_sourceKeys": [
+      "85869f01e23abf0d43a833f02ef210e4af61423656b505f7080d26e35e85bdbc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/uploads/pum/",
+      "initiatorDomains": [
+        "futisfani.com",
+        "kiekkofani.com",
+        "penkkiurheilu.com",
+        "uutisankka.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e2b26baf97f4458c859a061c7a753727cbfd2c6ca82aefcd847d3f6fa225a7bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||deals.innocode.no/api/public/v1/widgets",
+      "initiatorDomains": [
+        "aland.com",
+        "alandstidningen.ax",
+        "enontekionsanomat.fi",
+        "inarilainen.fi",
+        "kainuunsanomat.fi",
+        "kittilalehti.fi",
+        "kotilappi.fi",
+        "kuhmolainen.fi",
+        "levinyt.fi",
+        "luoteis-lappi.fi",
+        "saariselansanomat.fi",
+        "sompio.fi",
+        "sotkamolehti.fi",
+        "ylakainuu.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "748f9bdd6e3d0385a243d522489e08efe404c438369a735c101ccbf4d38c8177"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaksplus.fi/upotukset/hintaopas^"
+    },
+    "_sourceKeys": [
+      "8647df90de36a3283883603f9915252cc5c9a72269ee0c0c1689ea62c83631fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||kotiliesi.fi/upotukset/hintaopas/",
+      "initiatorDomains": [
+        "tekniikanmaailma.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "14d40c59b96e4bbbfb87ee8f06919ef304c637e774ebd4644bd9ebd3f21a17e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "lbaanijakuva.fi"
+      ],
+      "urlFilter": "||lbaanijakuva.fi/test/*?template=prisjakt"
+    },
+    "_sourceKeys": [
+      "9d010f8134633b33643bf69cf9ba24f9d746747c01802f5dcd1b1db7b8531c33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "matkaendurot.net"
+      ],
+      "urlFilter": "||matkaendurot.net/images/*banner"
+    },
+    "_sourceKeys": [
+      "18fe8941546b40070d8331096f331c7eae449fed735624a0f06bfb95de87e533"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||seksitreffit.fi/banners/",
+      "initiatorDomains": [
+        "seksitreffit.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "92dcc0edfffdeb8feb8ff31d355f2d2b8523de8bc1f3c0ff5c428da97ebaae26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||stadissa.fi/ads/slider-scripts/",
+      "initiatorDomains": [
+        "stadissa.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "26adbf4119cb552848fad73e8596f013af959c2c10a460f658e25772f883129d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "moottori.fi"
+      ],
+      "urlFilter": "||tori.fi/*banner"
+    },
+    "_sourceKeys": [
+      "943de2dca758c2064938f4f6e5f522ed8d2ac9388ef416148c5eb35b438c7d54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||dwk14raokkwxv.cloudfront.net/sanomafi/media/*.mp4"
+    },
+    "_sourceKeys": [
+      "9c5f42169876be1d7a2f226f9cbff2419c1c0e4a617159c6a4d63ea9300affb2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/creatives/assets/",
+      "initiatorDomains": [
+        "mtv.fi",
+        "mtvuutiset.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "29e1b2d4ead7210be96e055ceb9a9175114d6d37af993c01fe8b48723a89c5c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "/mainosmokkula/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f30812828c360e5f5ad2ed58d25922e9c7205b285ca1197a2f53304c7bfb6634"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "futisfani.com",
+        "kiekkofani.com",
+        "omalahio.fi",
+        "penkkiurheilu.com",
+        "uutisankka.com"
+      ],
+      "urlFilter": "/*-mainos-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8c52bab0701370541def1ef643fd87bd6730bcea23076257700f64428b88cda9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "/a-ylabannerit",
+      "initiatorDomains": [
+        "apteekkari.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "47b1ecd1049ed735b7c6c2e36c531faa96ab6e46f6d61356504d975e7da531d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "/b-suurbannerit-uutisvirrassa",
+      "initiatorDomains": [
+        "apteekkari.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "83bf410e4b643591556f90c8966e41e1cdc77dd6690dec980155da9e918057c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "io-tech.fi"
+      ],
+      "regexFilter": "io-tech\\.fi\\/.*\\/[0-9a-f]{32}\\.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4666dfbde8a87eb63923976a956b4e2962964b5ad4fd2ac6406906ba1906d3a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "alibi.fi",
+        "hymy.fi"
+      ],
+      "urlFilter": "/wp-content/uploads/*/hymyalibi*_300x300_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bc6e1784ee19794ebea3d8dbd72f9b995d05f49f3d7fccc05a3af4fcb203f76d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||aamuset.fi/content/app/img/latkaliiga_banneri.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "00cebe91907a3f10c75e44f586acc983b0bc37fdaae48765bbebba36793e2016"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||alibi.fi/wp-content/uploads/2018/03/al_sivupalkin_myyntiviesti2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b8401b3be74faab2cf9d3dfe01d2e96e528d86edd76f8781d08bdc815e9f7503"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||bittiraha.fi/app/themes/bittiraha-theme/assets/images/bittiraha_coinmotion_banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "864d3743c87efc0a8a2b370e0fa3a7d56cc08987746ca70fd0f5f35825317fc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||bittiraha.fi/app/uploads/*/bittimaatti*_banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "6c3b3d8e69d275dea1b793eeb174d0d1161f9fd200e944bd8e9dc860fa03931f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||blogit.fi/ext/",
+      "initiatorDomains": [
+        "blogit.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "509ecfd9167c9ef07768baeac651345a0ca8fe945d17fdd60d84c8731c23dede"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||caravan-lehti.fi/media/carado-matkailuauto.",
+      "initiatorDomains": [
+        "caravan-lehti.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "592c0c319a0607d43823393dd6707fe52a66ef6c4963777f644f36be327616e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "superpesis.fi"
+      ],
+      "urlFilter": "||datocms-assets.com/*banneri",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "177b929b94abd5c073af3e542bef100975c1de88f3497377aadf5901de24f6ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "superpesis.fi"
+      ],
+      "urlFilter": "||datocms-assets.com/*980x400",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0fa190bd437804a545c3ec13764ac5901e71189401fc43f16c1e1b217abb9d5e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "superpesis.fi"
+      ],
+      "urlFilter": "||datocms-assets.com/*600x600",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "62235504ae07881ecbd41cf3148014e44fee4f0a8cda6099740738ffb38f0806"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "urbaanisanakirja.com"
+      ],
+      "urlFilter": "||dropbox.com/*usbanner.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a65e4bd9fb5d42a52f93778940e0e8a7c520c8e0fd5ed5908dcdad44f75b0c5d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "elmotv.com"
+      ],
+      "urlFilter": "||elmotv.com/wp-content/uploads/*/stake-banneri-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1b098701d9ffd49876764cfbfbd1cfbe9e1af3ec89d816cb5defba043439b267"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||etn.fi//images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2bbb33979432692389c9b4f4f65d84716bc0a9ff6a65711c3882d7c5fd50e708"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||etn.fi/images/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a55aef00e1bf8e1511b7318401feabb185a3d221fe5c0431fef917959205d6d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||hifimaailma.fi/neodirect/static/*/karuselli",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c3527a62299c0d412671e015fe3c3e76266760815f65c59ca19d024a2d5750ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||hymy.fi/wp-content/uploads/2018/03/hy_sivupalkin_myyntiviesti2.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5e45af01b389884125151f100d0c5b40b8c131f2698d3ab5345df77d712870c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||hymy.fi/wp-content/uploads/2022/11/nicorette_hymy.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ce0002180e5bfce9a3a2cd219fc39b58a96b708c9ea0dadae4a71791c851aca0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||hymy.fi/wp-content/uploads/2023/05/nicorette2023_4_300x300.jpg",
+      "initiatorDomains": [
+        "hymy.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7c633ebaea6409a68d80004e4496efc14478f79e28fd93c3056017aab576f2e8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||ig.fi/bannerit/koronabanneri.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3ad8b38b058090f4926acbf322dd5123c97d69781efbb9237d7dd73890b2cbdd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||io-tech.fi/images/*_290x290px.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "11c122f71532d4284abcb4fdac9c37eaee0ac6b80af00adec790deb8808b1dd8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||is.fi/kampanjat/taloussanomat/startel_600x300px.jpg",
+      "initiatorDomains": [
+        "is.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bdc8845e5029ea0546e2f4cf46dc6b81445fe8197c6eb71bea922604130c39e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||juomaposti.fi/wp-content/uploads/*/paraatibanner-mobiili.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5e222eccfc9044d781dff4b85294e5b6d0de0ac5662d09059083507c045db046"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaasujalka.fi/assets/banners/",
+      "initiatorDomains": [
+        "kaasujalka.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8bb2e8c860ff1c0af5dc52b8bcd5c3892cf3fc97b69c9bdf6d8f04dc1ae02228"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||karjalainen.fi/images/banners/kiinnostuitko",
+      "initiatorDomains": [
+        "karjalainen.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fae3ea774af8a23a3dbf99a34d6c3b089b72dd429fe36240f9fc191c60f11df6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||keskustelu.pakkotoisto.com/bannerit/",
+      "initiatorDomains": [
+        "keskustelu.pakkotoisto.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "875255f733c7ef8565ad032e90d1016282d8a03549ad21b7ca83e68738dbc458"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kinuskikissa.fi"
+      ],
+      "urlFilter": "||kinuskikissa.fi/wp-content/uploads/*kumppani_*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2e8aa3d83050dc4f8d0ff789d01e23bb75d7f1f4072c6f22b3292632fe73205a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "kiuruvesilehti.fi"
+      ],
+      "urlFilter": "||kiuruvesilehti.fi/wp-content/uploads/*kampanja_banneri.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9092488140fb0b19a1484cd419c9fd1f674592e351d22b64d5c41fea764e5804"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "koeajolle.com"
+      ],
+      "urlFilter": "||koeajolle.com/wp-content/uploads/*/blue-billboard-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0ab24951c07458cc31c13efa942143dc957f4c5e95176c3051bfb1cbf1bf937f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "koeajolle.com"
+      ],
+      "urlFilter": "||koeajolle.com/wp-content/uploads/*/blue-rect-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5eb4fa94b7a4309c9c45450c50bde53046403358880cc575ddc74406ad76d401"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "koeajolle.com"
+      ],
+      "urlFilter": "||koeajolle.com/wp-content/uploads/*/pop-vakuutus-alennuskoodi.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8bc55ee2c7030b53186e51cea437131ade7c4b971d67dde0ddc35016eeaa512c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "laitilansanomat.fi"
+      ],
+      "urlFilter": "||laitilansanomat.fi^*/gallery/mainos*/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4870cb6a4e157dc1040cd6831f1ed0b5d73d6b47c7a354f66f2ead53da1aff7c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.power-cdn.net/images/pages/orderpage/*-power-huippudiili-*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "03adfa7151d840acd2938ad52cadb7befba9204c265311cbddcf2fea69bf7f09"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||media.toimitilat.kauppalehti.fi/image.aspx?f=/banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "82e9ca0a77238dae1b17af4a494dfe12bf70de75469d31c0eb381e0bf7054f32"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "||mvlehti.net/image/adv.jpg",
+      "initiatorDomains": [
+        "mvlehti.net"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "8c9db2db62459c0ca4299625ab8027441774292c97114351bae59a116fceb744"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||mvlehti.net/uploads/2021/06/halvinlaina-otsikko.jpg",
+      "initiatorDomains": [
+        "mvlehti.net"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "95ff1a78847cbba5d6609c818f8b1f76485257cc32fd01fe95e8652120ec21d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||no-cache.hubspot.com/cta/",
+      "initiatorDomains": [
+        "sijoittaja.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "df58bc090b8a6adcd9382822ac9c074d8439648bccf9a4b62bd5b66a41d77bbf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "projektiuutiset.fi"
+      ],
+      "urlFilter": "||projektiuutiset.fi/*banner",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "21fd256b0abc9bbf8d9025cfee8fdd404eb7190b3daa5c2b10e8c800e5f19399"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "rakentaja.fi"
+      ],
+      "urlFilter": "||rakentaja.fi/kuvat/esitykset/bannerit/*_keittiomaailma-schibsted-*-kampanja",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e59aa4baef1b5af7b757417d3269ccb6927d3d995b47745c1deaabcf2babdc35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "retkilehti.fi"
+      ],
+      "urlFilter": "||retkilehti.fi^*/calazo_banner_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "08e23b782298d12087d32d7cc5a57da452aa92af3469e27afcd81dd88b9f427b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "riistalehti.fi"
+      ],
+      "urlFilter": "||riistalehti.fi^*/haix-nature-camo-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "914351e9c01504949ac8ec6a23bcde298e2be32aac73132b940f1578e2eb78ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "riistalehti.fi"
+      ],
+      "urlFilter": "||riistalehti.fi^*_banner_retki_nature_camo_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ccbfeda60565016721f7be6c0a141b90c1bbc608232b7ba30ec3415e4270c8fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*-980-200.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7863447b6a53733498867173209cbdfcf91ef7cab552a3c4b6b5e7ac0cabacab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*-desktop.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "28bcb8aafd34e9d27e13c2c20c46212c26ef13c5e509b79ab2d8933023ebf38b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d55a7421e810e6e8e9ee4f10a0d663a28f45f00aceae24c31ec90d88b72649fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "890053f462818ed5af4a7e0d5669032fee1d67bd51203ae408b65cd44503b4e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*_900.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a89a54d9d691997e96d1b223ea40070b9a43b57043ea3e7d906f703c5f8ff9bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*_980x200.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cdfb944fe651208510a63a46bc29da282ac97ba1c803b4a4c26beafebd16bcbf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "stadissa.fi"
+      ],
+      "urlFilter": "||stadissa.fi/images/stadissa/ads/*_desk.jpg",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "60003ac503b7b9a0f37b61b50b3a027e52e966bffe9823bef5b6bc487d0fa270"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||storage.googleapis.com/mcanism-prod/advert/",
+      "initiatorDomains": [
+        "ykkoslohja.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "491e09a43a4deafcc7a0c7a4bf853ec82c904a8b4ed7c637792f50438f9b63a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||testeri.fi/inc/museokortti.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "25259e3ce62c58927650f0c1c478c831f04d88890e51f46732da6cf9b1e81493"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "tiketti.fi"
+      ],
+      "urlFilter": "||tiketti.fi/tiedostot/*/tiketti*_paraati_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "092ea3d3d1e549edc7a65d394a114801c3d4b3fbb4207df11a99b23bed9befac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||tohtorille.fi/content/img/op-banners/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1afc43f330c4a73581b26b809d2cfe4e27a44d6d4c5b88c4d432cfe6c7543d5f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||totalvene.fi/images/banners/",
+      "initiatorDomains": [
+        "totalvene.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "bbff8f86006b5e3c0da4a5dde74993dd2eb220f552c48028349c79b8c9136780"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||urbaanisanakirja.com/static/img/portsaad.png",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "e2738203c8b41e60b4bdaa5be2444fdbdbc5e80d906f9c292442a722c5b96683"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||ykkoslohja.fi/wp-content/uploads/*/ksupermarket",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "39da2d47b67abd57bb69a5d3c3da32878310493d1044e67f09dd7511a46fda37"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||ykkoslohja.fi/wp-content/uploads/*/lainaaverkossa",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ee30fa19a8efef3239476c77ce9459d81758f252cafdad4058004d9b3123bf7f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "/macro.adnami.io",
+      "initiatorDomains": [
+        "futisfani.com",
+        "kiekkofani.com",
+        "penkkiurheilu.com",
+        "uutisankka.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "9694c12986dd863461cb6552d50c84cfece969ab1aad843c956cde6a0bd8b736"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "episodi.fi",
+        "rumba.fi",
+        "tilt.fi"
+      ],
+      "urlFilter": "/pop_media_*_fi_inarticle",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7a31a72149dc7db8809fc8f2addf5bebfa0918a32e9ca472e4ff1bd3e1ea2902"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||aff.carvertical.com/sdk.js",
+      "initiatorDomains": [
+        "koeajolle.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "02222dce8ca958e55a26101d4120e379ff08d58e5a8af3b886cc6c5fe52553d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "aamuposti.fi",
+        "helsinginuutiset.fi",
+        "karkkilalainen.fi",
+        "keski-uusimaa.fi",
+        "lansi-uusimaa.fi",
+        "lansivayla.fi",
+        "lappeenrannanuutiset.fi",
+        "lopenlehti.fi",
+        "loviisansanomat.fi",
+        "mantsalanuutiset.fi",
+        "nurmijarvenuutiset.fi",
+        "pyhtaanlehti.fi",
+        "sipoonsanomat.fi",
+        "tamperelainen.fi",
+        "turkulainen.fi",
+        "uusimaa.fi",
+        "vantaansanomat.fi",
+        "vihdinuutiset.fi"
+      ],
+      "urlFilter": "||ap-online.media.fi/scripts/eneo*.dll",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2310ab77e2c32932ee4809c070b8a6010cce72233f181498e9f0284f8e458dbe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||apps.sandviks.com/apix?x-method=elementservice.selectadvertiserelement",
+      "initiatorDomains": [
+        "vau.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c97a3dce6631fa88132a738de9c6a1b4d711dad8c347badbc0c06e5ddbc4349d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.bluebillywig.com/apps/player/",
+      "initiatorDomains": [
+        "gekkonen.net",
+        "hevosurheilu.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "131ad046de6b351d71714dec027a1476ea786acff73492a1380d909e84c1fe9d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/poppartners/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7659328630749d8636a53724e8b997cd82d02602df1fc56e6430ddb5b1e18bb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fundingchoicesmessages.google.com"
+      ],
+      "initiatorDomains": [
+        "telsu.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "420438df11eaaf8113accab3907d833c53cc4d03611340b3d1dcfeb70a4d3973"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "gamereactor.fi"
+      ],
+      "urlFilter": "||gamereactor.fi^*/videojs.ads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "137ec103901f0aecef8338ca80d79b0a6542fabd9aadd086bbf41994fcac6042"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||kuvake.net/js/bannerloader.js",
+      "initiatorDomains": [
+        "kuvake.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cfdf97cb7cbc36425070f29ed0c01eab7c930ca0d7db636eb85c8eb3d83ae642"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||menyt.azurewebsites.net/public/js/omamainos-widget",
+      "initiatorDomains": [
+        "akaanseutu.fi",
+        "lvs.fi",
+        "orivedensanomat.fi",
+        "radiosun.fi",
+        "shl.fi",
+        "ylojarvenuutiset.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d10d408750f8a93b702d0149e9d5ff2f263862c4a51332babdfb082ba45b5788"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "noste-cdn.relevant-digital.com"
+      ],
+      "initiatorDomains": [
+        "elmotv.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8bc92efdc2395c7bc3336b351359be1004702c6b2c813e0872de52cf881d0436"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyt.tassa.fi/ctxwidget/ipctxwidget.js",
+      "initiatorDomains": [
+        "ilkkapohjalainen.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a3895632d3e41bb28d8378c26448e54a3bf983c69a9e54545dc897aa1d3716a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||otavamedia.fi/ad/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ceb3b59a016f54aed152a346eec8958aee36652f0ea459d51f5a8576f1025e7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "proshop.fi"
+      ],
+      "urlFilter": "||proshop.fi/content/*/leadfamly.bundle.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7c4ab25d48fe5ea52b40f2014839ef9e064044e040551f218c2d8bcfd6bd12e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||script.ilcdn.fi/etua-lainalaskuri/etua-lainalaskuri.min.js",
+      "initiatorDomains": [
+        "iltalehti.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "272a6263986815c40c337b58702bc6b368bb1110829d724cc843bc5693376e7b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "scripts.claspo.io"
+      ],
+      "initiatorDomains": [
+        "huuto.net"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5d5a6847b057b6dd8340c5969a06970c2ae4b1679270b608d51c287aed83c887"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "seksitreffit.fi"
+      ],
+      "urlFilter": "||seksitreffit.fi/*popunder.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b774b956a485c0082e7e03442826b417c658fb4b453bd2aaef8d08d3a59d9a05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||sf.nm-ovp.nelonenmedia.fi/player/games/ruutu-player-loader.js",
+      "initiatorDomains": [
+        "10kysymysta.fi",
+        "alypaa.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d28d515a22c6da53713116d8fc24506066f292a9a18f371e54979af7bf7e6552"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||ts.fi/adframe.js",
+      "initiatorDomains": [
+        "ts.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "195723f0706deb70a27bdc25c229c5adfeaad60b48b40e22651371e5a801c1bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||vauva.fi/modules/custom/vauva_cts/modules/vauva_cts_native/js/vauva_cts_native.js",
+      "initiatorDomains": [
+        "vauva.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "c47204070a514edf91910f8ec5b23191065c15710a4d5a6954114941923351b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vertaa.fi"
+      ],
+      "urlFilter": "||vertaa.fi^*/showads.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "41c9688faade6366629e75b793d2f22825a123e14e5319c4a43c78a136cf34cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "/common-column-ads",
+      "initiatorDomains": [
+        "seutumajakka.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "baf4ee58cee0a803e6c036d885eea9be2c1d52d419345a30538647a72eeab576"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaksplus.fi/wp-json/feeds/ad-feed",
+      "initiatorDomains": [
+        "keskustelu.kaksplus.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "1cad3e5ca1b0752445357cdc4776ec7f3af842471474e35170da460e3b7a2739"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||kotikarjala.fi/eneo?tem=ndap_ilmoitus&",
+      "initiatorDomains": [
+        "kotikarjala.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "fe5cfe7448726b2600d563d045419826c0faf93596b92c671a37a173f77b5e35"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||kuljetusnet.fi^*&task=trackevent&box",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "5d68c64911b9cf1b4d5c1f2cbf22d876fbaeffce980655081a28a4537f4d8ca1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||pelikone.fi/provider/media?gid=",
+      "initiatorDomains": [
+        "pelikone.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "fbfaba4b347a108a5516e8a4718cf12136f457ff2e4eb4be9bb32e441ebd49c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||feed.autotalli.com/bannerdata/html/*.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "00f7ada281c902cecd410a03f374fe106090086771e04ec5e8c5acf54f9edf74"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||feed.etuovi.com/etuovi/html/*.html",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "3d86f7ed9527a13af8a0680cf14462805bbb958ce38c8d54b489a1609024bb49"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||hintaseuranta.fi/*/tripsteri_boxes/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "c4e6c8f50f8d1a0a241f2f7d88ae86d57510a910655fca25a4c540ad8686c22f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||kalastuslehti.fi/?_dnid=",
+      "initiatorDomains": [
+        "kalastuslehti.fi"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d9895b00306b901b35b8eee6e89d5b504cc41728f4ac8adb3b0782ab52f4d621"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||kampanjat.is.fi/alennuskoodit-promo/index.html",
+      "initiatorDomains": [
+        "is.fi"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "32e770ac0fb0bfb6f84dc8ca51f8ba87e36969a1765a79148fd4d2c82ddb6ba8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ampparit.com"
+      ],
+      "urlFilter": "||nettiauto.com/en/ampparitbanner*.php",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "bca6e6c73db325fcfa4982534c4e0a680f64868ad40ef56a079119ad6c406ff9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||testeri.fi/ext_telsu",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "8f765c8df854f8a68ed18610f37b29814cdf2c8b746b3d5aee6400bce1498836"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||vg.is.fi/autotie-is-*/",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "92ba7660a7f392489aa1708d8d9c7bbaa3a2398fb0f19a2e0762d645e1d47768"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "recommendations.asunnot.oikotie.fi"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "e166f1ce712cc2f8b5af228185eb65725a4eb87f78a4eba03c6b914e122fdb96"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "recommendations.asunnot.oikotie.fi",
+        "keys": [
+          "e166f1ce712cc2f8b5af228185eb65725a4eb87f78a4eba03c6b914e122fdb96"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "futisfani.com",
+        "kiekkofani.com",
+        "penkkiurheilu.com",
+        "uutisankka.com"
+      ],
+      "urlFilter": "_300x300_*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "56577c5269a619030af88dab2713ca9d43451bebd080f5250f893bf022eadde6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||totalvene.fi/images/banners/",
+      "initiatorDomains": [
+        "totalvene.fi"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "bbff8f86006b5e3c0da4a5dde74993dd2eb220f552c48028349c79b8c9136780"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||com-wakedynamite-production-publish.s3.amazonaws.com/publish/",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "cec40cdfc0844893b1b85b62d7307d830fd9ec7d3bb156276b9f02a4ce8665d3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "bacb74f8d7304d1ca14724e0ec7162f8dc015c4bade4fc58f23f1ea0d1c555fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "freewheel-jitt.sanoma.fi"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "38cf1b017072cbc19e16fd7adca88668360e90e600c1f86c29464ba51eda333d"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "freewheel-jitt.sanoma.fi",
+        "keys": [
+          "38cf1b017072cbc19e16fd7adca88668360e90e600c1f86c29464ba51eda333d"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "regexFilter": "https:\\/\\/[www]{3}\\.v{0}t{1}f{0}e{1}f{0}l{1}f{0}s{1}f{0}g{0}u{1}\\.fi\\/[\\w]{3}\\?[\\d]{8}\\+[\\d]",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "4bbe38132098fc20e920fa691323baa9af9447e8c865f82a8463e3ead34f367a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "regexFilter": "https:\\/\\/[www]{3}\\.v{0}t{1}f{0}e{1}f{0}l{1}f{0}s{1}f{0}g{0}u{1}\\.fi\\/[\\w]{9}-[\\w]{7}\\?[\\w]{4}\\+[\\w]{6}\\+[\\w]{9}\\+[\\w]{4}\\+[\\w]{5}\\+[\\w%\\d]{19}",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "f9f1d9c6c6faea52f3a9178c2c393ace73b2c14b989e326cb3ae71370d54b65c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ad.citycdn.fi",
+        "ad.ilcdn.fi",
+        "adsdk.bing.net",
+        "affiliate.guts.com",
+        "auto1.fi",
+        "celtra.com",
+        "expekt.com",
+        "hintaopas.fi",
+        "honestpartners.com",
+        "improveads.fi",
+        "kake.fi",
+        "nayadaya.com",
+        "rantapallo.fi",
+        "revimages.motouutiset.fi",
+        "visx.net"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "16f3cbce19671bbd40e80910984f7daff42ab4719f6f6727ed96f78cc67d109a",
+      "9db086b4e05fd2bda4a17b18d9ba55f6827bd1ddb91f427e731baf025bd0ea92",
+      "4090154de5a13b0b2fb1df13292d89840f7a2bdfe7c8560031200d154c4165f4",
+      "c1a46a565ea56e22ba35ddfb27b3e1769dd2542aeb7f24ed49cab5bd1aad4bf6",
+      "25d9b0968a2b1b168b8a6e8b503580ce89d6ae54a517a1450d785aa28974725a",
+      "ffcb6d2b3f1e8bf8988d961af5a085b6efe6e48f9d406d8822db4be257b7267c",
+      "677c03b5d5947f1add59353a0b803ff8411f5e393c07f0174eb2fa137013a9e7",
+      "4902083c116c075fe2c341577e34e0718ab006e5ba12a9f638aa69e4f903e76a",
+      "8820569afeb6055608f875ee402ed6a08b4af2b324a9c3c27b93d19c31baa37d",
+      "fea2204d4d0865f6694cf47473388906c343ee396f71f444c5aa21cd5c4f526a",
+      "72b012b53eefc8eb98302612c76377a9caf925abe1eeb0833c5ee8495427523b",
+      "f914bde76503ea8ebbca4db25973937f446539cfd4b55a3fa400959cfdff2a5c",
+      "12785ad75c7158a6105c46ea9bdaec202920aaf3321f8a2abe7dfa020cefa591",
+      "aec6a423f04531dfde52b61c6c0fcde4d5d72acc56e9ed5b4b53054f217abf13",
+      "bf52ed7059415796f58026b2e9a51a8b595046de97ccaeadf8d7c4f8134cff70"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ad.citycdn.fi",
+        "keys": [
+          "16f3cbce19671bbd40e80910984f7daff42ab4719f6f6727ed96f78cc67d109a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.ilcdn.fi",
+        "keys": [
+          "9db086b4e05fd2bda4a17b18d9ba55f6827bd1ddb91f427e731baf025bd0ea92"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsdk.bing.net",
+        "keys": [
+          "4090154de5a13b0b2fb1df13292d89840f7a2bdfe7c8560031200d154c4165f4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "affiliate.guts.com",
+        "keys": [
+          "c1a46a565ea56e22ba35ddfb27b3e1769dd2542aeb7f24ed49cab5bd1aad4bf6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "auto1.fi",
+        "keys": [
+          "25d9b0968a2b1b168b8a6e8b503580ce89d6ae54a517a1450d785aa28974725a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "celtra.com",
+        "keys": [
+          "ffcb6d2b3f1e8bf8988d961af5a085b6efe6e48f9d406d8822db4be257b7267c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "expekt.com",
+        "keys": [
+          "677c03b5d5947f1add59353a0b803ff8411f5e393c07f0174eb2fa137013a9e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hintaopas.fi",
+        "keys": [
+          "4902083c116c075fe2c341577e34e0718ab006e5ba12a9f638aa69e4f903e76a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "honestpartners.com",
+        "keys": [
+          "8820569afeb6055608f875ee402ed6a08b4af2b324a9c3c27b93d19c31baa37d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "improveads.fi",
+        "keys": [
+          "fea2204d4d0865f6694cf47473388906c343ee396f71f444c5aa21cd5c4f526a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kake.fi",
+        "keys": [
+          "72b012b53eefc8eb98302612c76377a9caf925abe1eeb0833c5ee8495427523b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nayadaya.com",
+        "keys": [
+          "f914bde76503ea8ebbca4db25973937f446539cfd4b55a3fa400959cfdff2a5c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rantapallo.fi",
+        "keys": [
+          "12785ad75c7158a6105c46ea9bdaec202920aaf3321f8a2abe7dfa020cefa591"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "revimages.motouutiset.fi",
+        "keys": [
+          "aec6a423f04531dfde52b61c6c0fcde4d5d72acc56e9ed5b4b53054f217abf13"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "visx.net",
+        "keys": [
+          "bf52ed7059415796f58026b2e9a51a8b595046de97ccaeadf8d7c4f8134cff70"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||cloudfront.net/images/backgroundimages/backgroundimage^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2dc2fc5bdd333dc58843bb2b72c0a15c83e6c9d7797069a8dbeeb19179ee3931"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "c1.hinta.fi",
+        "nostemedia.bbvms.com",
+        "strongbox.nostemedia.fi"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "5773b9d4daf559f43dc3718410b7cf7725996bd0cc3293552a830fe7a6bfb8a1",
+      "87a02dcac8c5f7ba2746d4e283c7776da05f8e24bdf86fbb1ba512005e0fed61",
+      "38a71cc5d9ca5299a2a333914e17876723a6b892ceb3d2d42df05604e8dc1b6f"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "c1.hinta.fi",
+        "keys": [
+          "5773b9d4daf559f43dc3718410b7cf7725996bd0cc3293552a830fe7a6bfb8a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "nostemedia.bbvms.com",
+        "keys": [
+          "87a02dcac8c5f7ba2746d4e283c7776da05f8e24bdf86fbb1ba512005e0fed61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "strongbox.nostemedia.fi",
+        "keys": [
+          "38a71cc5d9ca5299a2a333914e17876723a6b892ceb3d2d42df05604e8dc1b6f"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "etuovi.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "e64fbc34262585272d6cb007c306ad5f13d7267d9442998748fe60633c80e041"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "etuovi.com",
+        "keys": [
+          "e64fbc34262585272d6cb007c306ad5f13d7267d9442998748fe60633c80e041"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||fi-mtv3.videoplaza.tv/proxy/distributor",
+      "initiatorDomains": [
+        "mtv.fi",
+        "mtvuutiset.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "96effeaaea9f06399bced4f066ea31e0bd97059b4eacf8c1afe6e3399ed608d7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 151
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "salesforceliveagent.com"
+      ],
+      "initiatorDomains": [
+        "oma.posti.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "d2d2608cf7c36325ed538fe494cc334145a53e594f75e322c1d44f9087869fcb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 152
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "service.force.com"
+      ],
+      "initiatorDomains": [
+        "oma.posti.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "1aa1ecf744403ea4e1ffa3a47a7b2244bcbb1c54ea77ae374e39d0b015195827"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 153
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "salesforceliveagent.com"
+      ],
+      "initiatorDomains": [
+        "service.force.com"
+      ]
+    },
+    "_sourceKeys": [
+      "889cbaad3795de677275b6cb4c951e9bf9ebcbd15ae0d9effcb5d65182948bdb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||tags.tiqcdn.com/utag/sanoma-fi/*/utag.js"
+    },
+    "_sourceKeys": [
+      "70e214d9521e1d64c6ffe360f5f96ffc277bfc3244cd438aad3e9916c4d6225b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "pohjanmaanhyvinvointi.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "aa6312613548f9cafd655432872cf74d38740bf8fe83813eaf6a46e4840a4f1f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 156
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "teliafi-chat.lekane.net"
+      ]
+    },
+    "_sourceKeys": [
+      "7d9dac74c7d65bbb921f238dcf40acd0168595fa1cf7d79cd1877e87b78763fb"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "teliafi-chat.lekane.net",
+        "keys": [
+          "7d9dac74c7d65bbb921f238dcf40acd0168595fa1cf7d79cd1877e87b78763fb"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "/media/banners/",
+      "initiatorDomains": [
+        "www.netrauta.fi"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "10d62e439f812b3cb5d13e8dfedc9a6e3d62b4ce33c2235f166b909caefe5ed9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 158
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "conductrics.com"
+      ],
+      "initiatorDomains": [
+        "elisa.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "552797b755f5f7744f2be99a0aa90829d58e520966d67b0a74f7cd6c70935aa2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js",
+      "initiatorDomains": [
+        "arvopaperi.fi",
+        "kauppalehti.fi",
+        "mikrobitti.fi",
+        "talouselama.fi",
+        "tekniikkatalous.fi",
+        "tivi.fi",
+        "uusisuomi.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7b1c4109b869be7c0b24c40699a95e2cee099f50375b5c535d995b463c301a0c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 160
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adobedtm.com"
+      ],
+      "initiatorDomains": [
+        "verkkopalvelu.turva.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "71c8d7caabf47bc65e6bf248b25cc04f11a8747707a4d4f347c42421c2c0691f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 161
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "telsu.fi"
+      ],
+      "urlFilter": "||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "1c85354e2b04db3fa62e7ca240d05513c028f79868164416e4e7b9d808b9d683"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||srk.fi/*/cookielaw.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b58e86f821e8a44d4e4a79d0bbb85a1ccf26afa42195144e9fc6740f42a03cd3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "/eu_cookie_compliance.min.js",
+      "initiatorDomains": [
+        "www.tek.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "481ee3162095986f77feb037acee128752e4317ebc48143c944206510db74ffe"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "sanavelho.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "00331947e345dcf40e84882771e1f4ec9078ecdf3582e3120de67763c5a3d24c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 165
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mtv.fi",
+        "mtvuutiset.fi"
+      ],
+      "urlFilter": "||fwmrm.net/ad/g/*mtv",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "cd27dd8c0bf385a139679f0f1c8b2a4f782044d404e8ce9bd6ee0d0e50e08661"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||adserve.adcoin.com/display/ad_block/",
+      "initiatorDomains": [
+        "verkkouutiset.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "77254dad5853c194fe949412ed7158e93f3ad5846d3dde89dd47f7b2aef5a013"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||sf.nm-ovp.nelonenmedia.fi/logger/logger-ini.json",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "cd87b011d309514435085bb2079d6e027eb1ff7c73f28462a630cd84812f409e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||power.fi/umbraco/api/tracking/trackorder",
+      "initiatorDomains": [
+        "power.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "90fb049fcf8142648097461874b66b4b00f77ab9ff0d71ee15fcdcc3aa727b21"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||publish.ne.cision.com/",
+      "initiatorDomains": [
+        "elisa.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "c87b043943a462990ff048f3e13d755eff1fd5b9135377fbebfa82bafdebe634"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||seiska.b-cdn.net/mainos.mp4",
+      "initiatorDomains": [
+        "seiska.fi"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "4723007f16e9f32b04172bea9b06661344fd63a72e7e1cd86702cb1c1d301c77"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 171
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "hintaseuranta.fi"
+      ],
+      "urlFilter": "||track.adform.net^*https://kauppa.dna.fi/tuote/",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "_sourceKeys": [
+      "8264ee25c7ec961b2882fb00e4a13b2c371311a9ee8b9379b532a2b02d02b96f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 172
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "track.adform.net"
+      ],
+      "urlFilter": "||track.adform.net/*dna.fi/",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a70b7bf22b77b48880ee446d57f4481281d2ea70221fae41acf6cfb4d33e8da1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 173
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "clk.tradedoubler.com"
+      ],
+      "urlFilter": "||clk.tradedoubler.com/click*cdon.fi",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "8213857fd2cefe0b52618c2472f3045705ef5c7f0c0bc41ae6d430ff52694ddb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 174
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "ad.doubleclick.net"
+      ],
+      "urlFilter": "||ad.doubleclick.net/ddm/clk/*coolshop.fi/tuote/",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "02dec781633043061b281f093f2801786acb4742a8b1df6e97ca42cd7bb27b35"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 175
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "click.redditmail.com"
+      ],
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "ff7215bbe8d19cbcca127ca5bb44b1a3dd59ed1c02240334e544d5a4be7a711f"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "click.redditmail.com",
+        "keys": [
+          "ff7215bbe8d19cbcca127ca5bb44b1a3dd59ed1c02240334e544d5a4be7a711f"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||googletagmanager.com/gtm.js?",
+      "initiatorDomains": [
+        "elisa.fi"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9823878cff46013032dc47ee033de6b553ff6afc49cef9482972427e77e48ce5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 177
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mtv.fi",
+        "mtvuutiset.fi"
+      ],
+      "urlFilter": "||fi-mtv3.videoplaza.tv/proxy/distributor/*&xpb=1",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "__important": true,
+    "_sourceKeys": [
+      "20ad45b7e6338455e80c794d520df689e440e52beb2bbd4b8b23fe989648b7c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 40,
+    "id": 178
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-js",
+    "condition": {
+      "urlFilter": "||adsdk.bing.net/ast/ast.js",
+      "initiatorDomains": [
+        "iltalehti.fi"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d6cb601b9865d971e9f5d453680c3a49da41167de5e0203d42ef53cbcc60703f"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 179
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop.txt",
+    "condition": {
+      "urlFilter": "||adservice.google.com/adsid/integrator.js",
+      "initiatorDomains": [
+        "telsu.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "b85a9f1135ff24c00a492e4c4f48d62af3163053045a3b4071e2b10a71e0fd00"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 180
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "nooptext",
+    "condition": {
+      "requestDomains": [
+        "doubleclick.net"
+      ],
+      "initiatorDomains": [
+        "puhekupla.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "cf24ebf1ea1b7c4642ab23f697e12e4348ecedbcb5f37c730a490bf2dfa01e43"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.txt"
+      }
+    },
+    "priority": 11,
+    "id": 181
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-js",
+    "condition": {
+      "requestDomains": [
+        "adform.net"
+      ],
+      "initiatorDomains": [
+        "telsu.fi"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "a30946ca6d6b449b79935ae836bc9f80e3c27d56764d7888d108000c57fb687d"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 182
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-js",
+    "condition": {
+      "initiatorDomains": [
+        "imasdk.googleapis.com"
+      ],
+      "urlFilter": "||pubads.g.doubleclick.net/gampad/ads?*sanavelho",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "92f3991882f93298c6ce3f3c7a2c947c5c364c585af11edd8379af93e3e237b1"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop.js"
+      }
+    },
+    "priority": 11,
+    "id": 183
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noop-0.1s.mp3",
+    "condition": {
+      "initiatorDomains": [
+        "mtv.fi",
+        "mtvuutiset.fi"
+      ],
+      "urlFilter": "||cloudfront.net/creatives/assets/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "248e8b08efbb2606d319f8d1d044d59e77a5191153d7f7a9d186718271be285d"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 184
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-mp3",
+    "condition": {
+      "initiatorDomains": [
+        "totalvene.fi"
+      ],
+      "urlFilter": "/adverts/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "aaa7dcdd6ea05dc8607480e5a9a91344b3f8d3da22d498642431f97cbe8c8897"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 185
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-mp3",
+    "condition": {
+      "requestDomains": [
+        "freewheel-jitt.sanoma.fi"
+      ],
+      "initiatorDomains": [
+        "ruutu.fi"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "967e541a87592a2ee47ec525dc8d8e058a36eaca696b050577db4b19f0cf6fcf"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 186
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-mp3",
+    "condition": {
+      "initiatorDomains": [
+        "ruutu.fi",
+        "supla.fi"
+      ],
+      "urlFilter": "||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "74bc2cb4deff6166035d3ae1e00d26523ae1a96416be3276616cd4b0af92c91c"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 187
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "abp-resource:blank-mp3",
+    "condition": {
+      "requestDomains": [
+        "sanoma-prod.integration-x.com"
+      ],
+      "initiatorDomains": [
+        "ruutu.fi"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "89d9dc1c4ee370d7fb5f6601371bfd40c87755012b6e1c431f2c16f0a4b97926"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 188
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "removeparam",
+    "__modifierValue": "caid",
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/g/1*^caid=",
+      "resourceTypes": [
+        "image",
+        "main_frame",
+        "sub_frame",
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "cecc6304f51f21bd80fcc6f110f8262c3ad8cf3d3e99c89bf9d9aadabe81e19f"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "transform": {
+          "queryTransform": {
+            "removeParams": [
+              "caid"
+            ]
+          }
+        }
+      }
+    },
+    "id": 189
+  }
+]

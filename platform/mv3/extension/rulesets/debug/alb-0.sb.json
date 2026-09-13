@@ -1,0 +1,26 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "gjc.gjirafa.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d20360545111db1030b22447945d6dc5f580682a7058f0d89e606825325e67be"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "gjc.gjirafa.com",
+        "keys": [
+          "d20360545111db1030b22447945d6dc5f580682a7058f0d89e606825325e67be"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  }
+]

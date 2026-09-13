@@ -1,0 +1,7 @@
+*.bak
+*.pem
+__pycache__/
+node_modules/
+/dist/
+/tmp/
+.DS_Store

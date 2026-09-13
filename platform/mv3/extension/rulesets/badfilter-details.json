@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "rulesets": {
+    "adguard-mobile": {
+      "digest": "aa715a631f4c0283eba464068ad01732cde9c103bbb3d750b755d47f64395065",
+      "badfilterKeys": []
+    },
+    "adguard-spyware-url": {
+      "digest": "bd468746f917dda784d7462344ddc243b5057c0b797447083d4db71a1c8ece0e",
+      "badfilterKeys": []
+    },
+    "alb-0": {
+      "digest": "23830fbb5876fced790be57fad33af7b7fed93ad050ff1c9a6e770525f3f14e3",
+      "badfilterKeys": []
+    },
+    "annoyances-ai": {
+      "digest": "74d271d5eb1d84b91edfbb54fe6f44792bd2834953b0c4de3e4449a27875f9d4",
+      "badfilterKeys": []
+    },
+    "annoyances-cookies": {
+      "digest": "c131c7df144a4bdabdf3acc469fe64d82019d432558ba05800c73230813301b4",
+      "badfilterKeys": []
+    },
+    "annoyances-notifications": {
+      "digest": "7abb6249048864e1528c861c2b5bffd4beeb7570371f39caa7c50d74d41399bb",
+      "badfilterKeys": []
+    },
+    "annoyances-others": {
+      "digest": "d13d653e4f089a2b500d7fa930280be64ae84a46484f50a939589a06b587cd0a",
+      "badfilterKeys": []
+    },
+    "annoyances-overlays": {
+      "digest": "b9432887e6bfa9ff96b337e6948f714c7af02aa0e890f494c286a42dc2393543",
+      "badfilterKeys": []
+    },
+    "annoyances-social": {
+      "digest": "e1f8117a3745f18f65fc5245e6ed786b7778537d9d242a4805f3c7ede808208a",
+      "badfilterKeys": []
+    },
+    "annoyances-widgets": {
+      "digest": "51057c22ce4d48b13c39ec25ba00a94541874c143ea52f59346f2a4301d8bbf1",
+      "badfilterKeys": []
+    },
+    "ara-0": {
+      "digest": "c9eef3d257fd0a116838c4e64f2d1f8f1460ad58574ff25d82fd4f7c8f914b39",
+      "badfilterKeys": []
+    },
+    "bgr-0": {
+      "digest": "cf056b7519fedd9ea8041fcfa4e691a8caa88d3efe11fe2994b157425a11905a",
+      "badfilterKeys": []
+    },
+    "block-lan": {
+      "digest": "695a97a2d5e2344d3abc7aabae8197edc74f2a9836fe2b8819ddbca9ce392243",
+      "badfilterKeys": []
+    },
+    "chn-0": {
+      "digest": "c4df213a0ad3bb50a91562dc3e604541775dbc5235fbaf287aa4d0b0d88c7b17",
+      "badfilterKeys": []
+    },
+    "cze-0": {
+      "digest": "01d1d0311404f4c56ffa78740875c2c9f546ff19729629b3db8807bebb8ed992",
+      "badfilterKeys": []
+    },
+    "deu-0": {
+      "digest": "d8bc1b178547cdd358fc17da0f2717bc20f027eda35d6f11baecbf6b65ae2d97",
+      "badfilterKeys": []
+    },
+    "easylist": {
+      "digest": "659ba76907553f60dc6cab115b2cf0756c49f1ed50426ad89de542522bc4560f",
+      "badfilterKeys": []
+    },
+    "easyprivacy": {
+      "digest": "e0e366e6536089238582313b904731ea760585dfea2543fd6b1f8df7364f4c2e",
+      "badfilterKeys": []
+    },
+    "est-0": {
+      "digest": "640ade6eca3af507d192ff16cd9353343a62db09223a912db522daf043ff976b",
+      "badfilterKeys": []
+    },
+    "fin-0": {
+      "digest": "cb8b75b04052e3e18b0d31a53e666f936d607314b1c96d06e18895fe0389bc73",
+      "badfilterKeys": []
+    },
+    "fra-0": {
+      "digest": "adebca38c381fe87361d8a59768708871d691d62904981ed3a14fbdf57bad933",
+      "badfilterKeys": []
+    },
+    "grc-0": {
+      "digest": "3ef5e073816cbef5497f56410e0f32c3f0609f530f9b5e1d6a6f82ffc9ba1ca9",
+      "badfilterKeys": []
+    },
+    "hrv-0": {
+      "digest": "120121e45f35fe21c93d4d275d823e40d9fff07d22bf1f2b8252950a3d22fb0d",
+      "badfilterKeys": []
+    },
+    "hun-0": {
+      "digest": "bab2bbb8168b7a0ef1ad9140d89a6428474578ff5d2a8f2ed389d91fa4e134d2",
+      "badfilterKeys": []
+    },
+    "idn-0": {
+      "digest": "5f30d5029cda8324643ed216ae06f5a79bc078693aa68cdf52b49c0ef014b843",
+      "badfilterKeys": []
+    },
+    "ind-0": {
+      "digest": "79bd990eb6541ae8e7551158db324bf223ab1950df0b760df59a6fe7fb179dc8",
+      "badfilterKeys": []
+    },
+    "irn-0": {
+      "digest": "2c0e0421b76f47cedade2be6b7cf3030bf80bd2abf12d245a5b728a0ad225fc4",
+      "badfilterKeys": []
+    },
+    "isl-0": {
+      "digest": "24b3dfcbaa7ec8ee0701a52398477375d90f5c5a20bf1b3af954edc3ab914429",
+      "badfilterKeys": []
+    },
+    "isr-0": {
+      "digest": "e860cc44ab6f5efd89fd1e54810dd73827e8fb3755008e271e9ae236f711d263",
+      "badfilterKeys": []
+    },
+    "ita-0": {
+      "digest": "214a6357b02990e6b791660c7f30670c34d66cc584bbdeba967b67e9db4e8929",
+      "badfilterKeys": []
+    },
+    "jpn-1": {
+      "digest": "a1fbe8eca136e18ebf3f4996c05a917c84aac0f2b9e97ad85896950c9668930c",
+      "badfilterKeys": []
+    },
+    "kor-1": {
+      "digest": "a57255ecdfcac2329086b7a9a019a8ae5eee23ef5c92ed22d88a7f0ebf5d87df",
+      "badfilterKeys": []
+    },
+    "ltu-0": {
+      "digest": "86c16797f9748d72c8f7a650d28366cf4e67e7b770bc6b425cb6a0aba98fb82e",
+      "badfilterKeys": []
+    },
+    "lva-0": {
+      "digest": "94e029ca9a68f1a572db1ac39997b572a4e9288dee017ac51e1802d3661cd50a",
+      "badfilterKeys": []
+    },
+    "mkd-0": {
+      "digest": "740cf1049d59d742fe70f6533bdbe5f4c926eae7fb3f43b2a93cdcd5d2d4aa6f",
+      "badfilterKeys": []
+    },
+    "nld-0": {
+      "digest": "aa1a826b14d0fbec0dc0ce5294ca76fbbc6ec197132f5ad50148223f6a8a7bb6",
+      "badfilterKeys": []
+    },
+    "nor-0": {
+      "digest": "669b4fe71f524fad38bb46ba029f7ce29fca07d8f7d4a43b5c41972675db977e",
+      "badfilterKeys": []
+    },
+    "pgl": {
+      "digest": "0cfa72cb5c4d153fe010d22c5384b493faea22fd5248173b03de515881586c17",
+      "badfilterKeys": []
+    },
+    "pol-0": {
+      "digest": "ed7de5bde0cef7a7515d3fda6fd75ac0709685e4fa97cdfd8a932cbe54e64c47",
+      "badfilterKeys": []
+    },
+    "pol-3": {
+      "digest": "9b44009b83a99051d8e40221f02fc53c4d08837e7a40d55a2c556c843c4e3f10",
+      "badfilterKeys": []
+    },
+    "rou-1": {
+      "digest": "f555cfcfcae9e806dc8ad637acbc3d31d2faff3d960af13178a9382a9c1587f2",
+      "badfilterKeys": []
+    },
+    "ublock-badware": {
+      "digest": "805772685ec1c45095ce4330116f26f8b99db30a354e24fa6c4ae90b55deb381",
+      "badfilterKeys": []
+    },
+    "ublock-experimental": {
+      "digest": "2ba33ca0557f1bb5b7ba88d67f9d0093c7185a36ec51fe2b7bd9372d3e001d6d",
+      "badfilterKeys": []
+    },
+    "ublock-filters": {
+      "digest": "5ae4f1d6b5ef74626e8ccec2e6b14512fcfe746c97cdc8dced16edfc6aa47b99",
+      "badfilterKeys": []
+    },
+    "urlhaus-full": {
+      "digest": "6c77bc1378f172b3a41c1126e4f47356cf8c70486a43eaeb3bbe10f85f11887c",
+      "badfilterKeys": []
+    },
+    "ubol-tests": {
+      "digest": "bb13adf082b7998847d821909618d0a12aafd970e9331d7e331e0d6b7aa4010c",
+      "badfilterKeys": []
+    },
+    "rus-0": {
+      "digest": "b9dd525a450773743ccefdc3513d060cfc6b210bff2ab1c0e4226df8e406da20",
+      "badfilterKeys": []
+    },
+    "rus-1": {
+      "digest": "9da83343414b3269181452dd423471b81fab2046763c335ab6602fd853c745e5",
+      "badfilterKeys": []
+    },
+    "spa-0": {
+      "digest": "cfb6a843ffd1a1d6d653a0f733582d6cc98447ff895355e0460c09628d4a4703",
+      "badfilterKeys": []
+    },
+    "spa-1": {
+      "digest": "856827585d22f216bc10bd2429c4f556302a6018101ebe7377943f29a953f8c6",
+      "badfilterKeys": []
+    },
+    "svn-0": {
+      "digest": "222ce9bd04f5954cdb7783a74159a74752a67da0feb82cd8f4501b5e65894ce3",
+      "badfilterKeys": []
+    },
+    "swe-1": {
+      "digest": "20042c4ac796684025f4bbdb449caaa6201d156bda76f4456b1bbd7b96500fce",
+      "badfilterKeys": []
+    },
+    "tha-0": {
+      "digest": "4728f3a2a29b0c4c0960f45d4f6a1523fa101c65e34be99e637f9144fe8a1c24",
+      "badfilterKeys": []
+    },
+    "tur-0": {
+      "digest": "79f9e1d1eb702ab88da8834b5577661401bee54409ea1860ae6547043508ac94",
+      "badfilterKeys": []
+    },
+    "ukr-0": {
+      "digest": "d1211319a8774809cf99d617e21ae82ecad896dc14a267625197ab8e91b09a54",
+      "badfilterKeys": []
+    },
+    "vie-1": {
+      "digest": "3636dd4688454c31db5450aa7c7da81dd376713f60774167f9d0e01eb7156095",
+      "badfilterKeys": []
+    }
+  }
+}

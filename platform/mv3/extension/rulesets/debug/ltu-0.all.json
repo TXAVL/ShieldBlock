@@ -1,0 +1,7624 @@
+[
+  {
+    "condition": {
+      "urlFilter": "-baneris-"
+    },
+    "_sourceKeys": [
+      "da9c5788fff2ff0a99f560d6a04e202a1be4512e1a1434a531d6c4387d950c53"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": ".altero-banner-2_top"
+    },
+    "_sourceKeys": [
+      "ce466a47cff73b096743d9b9b77cce93f528b779fd6196d1e0709a2f0b33b176"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "/baneriai^",
+      "excludedInitiatorDomains": [
+        "pigubeakcijos.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "1d8ba6d6f852ee89d312dee9233639d48b17850d6038e0669fbb1583224f4c3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "/baneris."
+    },
+    "_sourceKeys": [
+      "bb5370d32b785831fbf73aafdea60e7329c275c3e1631d3c667730c2da3c104a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "/baneris_"
+    },
+    "_sourceKeys": [
+      "5739ca0b5d8a619ba86f17292dda88e8d78d05f1c284d4b7b1e63ee817b86390"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "/baneriukai/"
+    },
+    "_sourceKeys": [
+      "c7ac8e722ffa92762fda0b943ea73a42dc28f5512c34eb3fb1542199f7dab255"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "/baneriukas/"
+    },
+    "_sourceKeys": [
+      "b5b0013364d1618804c2a7c987de21351a709a67c4176906b36a7230aa4b38f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "/popbox.js"
+    },
+    "_sourceKeys": [
+      "e9693c252f1e1bc28db279b0aa4d7396d4fa49a43af28bf285b4e174ed0cfcf5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "/skydeliai/"
+    },
+    "_sourceKeys": [
+      "7eca9324dcbcfdc9d3c9ce1348c767aa6e195429361c4c060bb7146748c27853"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/images/banners^",
+      "excludedInitiatorDomains": [
+        "procolor.lt",
+        "rde.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "4e4d60fef4ffbc0754a0c58f5c873c2d144a939586352ba3ff4116d461c19aac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/reklamos^"
+    },
+    "_sourceKeys": [
+      "3cc15821bbd5aae3c28e12ed32c2690b4d40ddc0b8c401b6a335aad38dabce8d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/banners^",
+      "excludedInitiatorDomains": [
+        "barbora.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "e3e518fe2b09b505746d40e1ccc8bbe356ed0c73e177977b2bda56210bc8aa87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/uploads/banners^"
+    },
+    "_sourceKeys": [
+      "4933fb0a75d48e160fdb3d7aff6c3f90708ba5d9e808710826d1a280fd738926"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/banner^"
+    },
+    "_sourceKeys": [
+      "7445febdfb33a0364109fc6ba43bc43f1fea095d8f9e19e65f5e17c1d4676d05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/resources/_banners^"
+    },
+    "_sourceKeys": [
+      "1fd5af3a483d369b771118464357d3eef1f6ed967d1be2d65d63c144abd27654"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "peacto.com"
+      ],
+      "initiatorDomains": [
+        "filmux.to"
+      ]
+    },
+    "_sourceKeys": [
+      "b5b8caed463776c87eaf4a183c309a84da3047377c17f8fdc61aa6b12641b7ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "freewheel-mtgx-tv.akamaized.net"
+      ],
+      "initiatorDomains": [
+        "tv3.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "3b83295e26e69b560fa5e9241069e5b8e05036dca04f293f7ae53a2df55a480a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "/script/suv4.js"
+    },
+    "_sourceKeys": [
+      "d535e6ad1221b7695535b534e28fbf21ff282924b5df401303fdb01e20994a06"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/banners/",
+      "initiatorDomains": [
+        "dumblas.com",
+        "onlyoffice.com",
+        "viskasvestuvems.eu"
+      ]
+    },
+    "_sourceKeys": [
+      "d3060cc3bcdee32468d308f35156384283c95f546eaa3dc8a65575f0ea2b0d4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "/lt/davise/",
+      "initiatorDomains": [
+        "torrent.ai",
+        "torrent.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "0e36fe762a824fd02640f739090711c720947073d295ee5510d0c051fb06272c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "/out_data/banners/",
+      "initiatorDomains": [
+        "ekstremalas.lt",
+        "samata.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "87b849ac42f2e4b3755056edfcd452c74199ee4c6f165f4f4e4502c0378ce56f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/infoblocks",
+      "initiatorDomains": [
+        "autoplius.lt",
+        "cvmarket.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "86132e7de01cddd65c92087703a7dd7e687c8533df86af0e0ff3eca79bf99656"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/static/images/banner"
+    },
+    "_sourceKeys": [
+      "a1602da3915349a69b42de0937c8e4261eba9ef61cabf984b72233465acd3125"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": ".lt/uploads/img/banners/",
+      "initiatorDomains": [
+        "medguru.lt",
+        "sveikas.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "5982d42998f876c1f42680de968ce3893d3b8f693d88e6073fd8fe2123b078e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "/ads.php",
+      "initiatorDomains": [
+        "bigbolz.com",
+        "iwant.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "d59cc80ffd03a2c2a8d58cc54e4cbbe9d06acf530ff390aaa41cf695cb74e36f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner-job-ads^",
+      "initiatorDomains": [
+        "www.15min.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "d4d0d5de62cf7a3b7ec992bea10681262716c88f463bf229ec828bb9f1f24067"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": "/emp_sugedo_210x105.gif^",
+      "initiatorDomains": [
+        "emp.lt",
+        "viko.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "ba811307b04c66e6f0cd0cda3b763e001f89e0173204a7744b11ab71d2c69220"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": "/newsfeed/?p=",
+      "initiatorDomains": [
+        "delfi.lt",
+        "tavovaikas.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "9fb9c69ed29e35afdcc2175060577fe18196671c0658223626ec13899ca96e4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "/newsfeed_v2/?p=",
+      "initiatorDomains": [
+        "manonamai.lt",
+        "perpasauli.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "068f94ea704682df3e928aac512041761450ffd637fd6f7f80c4a45772c935fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/oc-content/themes^",
+      "initiatorDomains": [
+        "suvalkai.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "79a8ab73ebceb6ef06fd25bf82ae71f6dcc79105160d637dfd7e81cd1f73c53a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "||1551.lt/images/banner"
+    },
+    "_sourceKeys": [
+      "dbd9407dad301ecfea7aed1b83786a6a728fde974d9961993821196d8b03dc4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "||15minlt.adocean.pl/files/x/*.mp4"
+    },
+    "_sourceKeys": [
+      "571fc666d78c06704d51176e35fa003dccea3a45bd23e46fe2e666788699e31d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "||alio.lt/infoblock1200x250a.html"
+    },
+    "_sourceKeys": [
+      "7999d6afb61fb837a4475bc15d16911ce398b8da264c9bbe095c6465ad99f938"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "||alio.lt/positionpages"
+    },
+    "_sourceKeys": [
+      "9608367887555c67ee5957f7db852dd2a899356de2044b9b6cabf2ed17545594"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "||alio.lt/pospages.html?position=titulinis_carusele_"
+    },
+    "_sourceKeys": [
+      "d4321a8a4ec2e083515614ebe90c5d70494daa860c5c4ce6d967ced882af9b0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "||alytausgidas.lt/media/_banners/"
+    },
+    "_sourceKeys": [
+      "47370e553c10b6a2c391e8f0a11d3592ce57cfcb510bf033735721afa7a29f38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "||apievestuves.lt/m/ads"
+    },
+    "_sourceKeys": [
+      "9978a4a47d3a4973bb5d965284e16a0e0d21711daad48324be84e022dca1c97b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "||audifanai.com/images/bap.jpg"
+    },
+    "_sourceKeys": [
+      "6ec6503eee423812b0900319bb2dbd0d3fc10b35638dc08b3687812485434775"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "||audifanai.com/images/draugai/"
+    },
+    "_sourceKeys": [
+      "f064c36e6a97020d546f78c89476a2577a4b9ae094ea7f269247d4f18102f767"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "||aukse.ucoz.com/8ea7f19510a7.gif"
+    },
+    "_sourceKeys": [
+      "e2255ec18673ee64a8adb60dd644948c5c9a462a71531a1eb2cf249ff88a9988"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "||aukse.ucoz.com/aurelialogo.jpg"
+    },
+    "_sourceKeys": [
+      "d736b31eaab29f7df22c6e2356bfa45e86e0a17a2135d5fce38732ad368ea047"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "||aukse.ucoz.com/editalogo.jpg"
+    },
+    "_sourceKeys": [
+      "4fbf50b4167e4a945deb6cb1a137b6fb535b0a8b15794a41c34de9b6279936ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "||aukse.ucoz.com/lilijos_logo.jpg"
+    },
+    "_sourceKeys": [
+      "85c7344076bf6f010e4432d30ceb43be7626a685c7b2c7d1515a39dac2ed83bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "||aukse.ucoz.com/sokiu_bunkeris.png"
+    },
+    "_sourceKeys": [
+      "bdc864e8808afb300ae43549f9f4b33721927b23d302641b461f22e99849c8fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "||auto-loads.lt/media/uploads/banners/"
+    },
+    "_sourceKeys": [
+      "bca8fbe6aa182a23a6dfb3394fe38757dbd929ed2c915741ba73d2b63933289a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "||autobilis.lt/assets/images/lizingas.jpg"
+    },
+    "_sourceKeys": [
+      "936cd08594005d7cd53df5125a337388b892f5ffdec91fbb348556ff9f7e6a96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "||autoplius-static.dgn.lt/static/images/desktop/placement/luminor/luminor_ap_2048.jpg"
+    },
+    "_sourceKeys": [
+      "7df80d225d20cfcd8dfcfd9ebf490f17059ad97d2f84fe922d4c5a898afcea39"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "||b.inbox.lt/b/"
+    },
+    "_sourceKeys": [
+      "197c87c6116bcbd20648845a3c98cb3b01d798baeb0182e6bcb288d4a7405f79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "||basketnews.lt/config/basketnews.lt/files/3/2323.gif"
+    },
+    "_sourceKeys": [
+      "07e11f76b263e078b402e1426cab9ae095458be1d80906888ad4ae2925486644"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "||basketnews.lt/config/basketnews.lt/themes/ads_"
+    },
+    "_sourceKeys": [
+      "228e19b909f047623c9e3d2a4a07b52fbcca5d11d103845601c940d33ea7a85a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "||basketnews.lt/config/basketnews.lt/themes/banners/olybet_"
+    },
+    "_sourceKeys": [
+      "90608d317c70f1045ee1596aeb94988a72e20fee577a295cde9b3285fb43f034"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "||basketzone.lt/images/stories/wfotkes/musu_statymai.jpg"
+    },
+    "_sourceKeys": [
+      "2fa9d5caabe173bb29be27eb0d7fa3ef7a3a4b3e8d39c39721fd2a59d8d43ac6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "||basketzone.lt/images/stories/wfotkes/statymai_blue_500x60.gif"
+    },
+    "_sourceKeys": [
+      "9aafdebc64890a8d7d9dcced0911bf52a5f1b7507b4462273bde8371abd04e1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "||basset-hound.lt/uploads/basset_banner.gif"
+    },
+    "_sourceKeys": [
+      "dde3f4925e3bdaf373993af0af404b4cd7b2ffe69473b7e752247529e82aa06b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "||beligu.lt/images/longavit.jpg"
+    },
+    "_sourceKeys": [
+      "36457d2b45c508dd8ff7f10f64017cc3420f7ca84df7718ef26ed405329dc31c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigbenas.lt/wp-content/uploads/2017/03/banner-1.jpg"
+    },
+    "_sourceKeys": [
+      "0e1249b2fd69802546769fbc7e6b5b306bbec28a9724e6cc9d8daf949500f2c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "||bigbenas.lt/wp-content/uploads/2017/10/study-in-london-1024x189-px.gif"
+    },
+    "_sourceKeys": [
+      "0429903503a24ef0750c2c646cf9200b86a25133bdf557b280b68b5be68890bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "||ccg.lv/ads/"
+    },
+    "_sourceKeys": [
+      "246fe8bc27c894e9a04c92598a39a798b61af03060ad95b48a4c4e2141c18160"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "||ccic.lt/get.php?i."
+    },
+    "_sourceKeys": [
+      "1b8875543a446bf822ec67be28495ce0987f94d5932d0f3fa2c5cf4ac70e502c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.gsmarena.com/vv/assets8/js/"
+    },
+    "_sourceKeys": [
+      "094feff990fec60f319a01a207e3397ba431af5ab12bbf85d8b0a67a5f7cfeb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "||church.lt/t/files/u5/kiekvienamstudentui.gif"
+    },
+    "_sourceKeys": [
+      "653e5a57c1966f58eaf45badbfda5afacd56ea3f414afa435736919d9a9e2c88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "||church.lt/t/files/u5/rlc_banner1.gif"
+    },
+    "_sourceKeys": [
+      "418103c7c79dd82c1c67ee28bfc6d84a1e01bdc218f2f2511e592a89c0d71a72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "||credit24.lt/paskolos.html?transid="
+    },
+    "_sourceKeys": [
+      "2cb60225f4307331aca7965beda7f4a91f5cd7b4383467b8aaa6511df6903ea3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "||cvzona.lt/dienalt_adv.php"
+    },
+    "_sourceKeys": [
+      "06cedb06747c29af1de9e55bbc412038c112da079ea8630ed915c33c14084cb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "||dazasvydis.lt/images/laz_ban.gif"
+    },
+    "_sourceKeys": [
+      "b5884c55a2ff01ae9dc8396fe5bf17a4b62f99d7bd3717c0c4cf4c3acd5aae81"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "||dazasvydis.lt/images/lazertag_ban-ani.gif"
+    },
+    "_sourceKeys": [
+      "bcdfec663dcc1652c9e1619fdff9eeabf4c1231e04265171e9aa08a00bce4f1d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/apps/banners"
+    },
+    "_sourceKeys": [
+      "f8249254fe2bf51151fb932cd33679e66338f34459eaf019d2a63222efb8b2f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/b?region="
+    },
+    "_sourceKeys": [
+      "13b1352c3275a0d2502b00a7eb2994de17331bbf0f8da48e238a5305cd794c85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/c/ib/"
+    },
+    "_sourceKeys": [
+      "8aa0d7b153b9356f7b6ceb7581e643b3e2e2d8fc94f64095cbd606217a597d21"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/files/*.mp4"
+    },
+    "_sourceKeys": [
+      "833db0be917c7fab8d9295c27ec1ff4053461741f369a3190f82933283178663"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/misc/ebooks.php"
+    },
+    "_sourceKeys": [
+      "9b81f602a698834d9bed6ecb0bd76d73c45f84e545ae2f2b840c9cb51a24c71c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/misc/export/aovp.php"
+    },
+    "_sourceKeys": [
+      "c7590465d279c1de10b93d9ba41d92873159d71998146455c5e7726e8d24e24d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/video/sporto-tv/widgets/250px/"
+    },
+    "_sourceKeys": [
+      "4343170d7524b7a1ddddbc28195628f52ecd18d22e1c11fd9635c24a6eba9a26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "||delfi.lt/video/sporto-tv/widgets/728px/images/hermis.jpg"
+    },
+    "_sourceKeys": [
+      "cb5aaae05fddeda5443de4b1d964e264d350f0c8296cd891e89a5cc0c18c4d0f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcdn.lt/images/hntis/",
+      "initiatorDomains": [
+        "delfi.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "61ad2e157f2acca5d12767cefaaebeed6959269d00e600da763bc5b8a0a1f6fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "||depiliacija.eu/wp-content/uploads/2011/12/fotoepiliacija-namuose.png"
+    },
+    "_sourceKeys": [
+      "427fd2e8170ad1c3004ac65c33116ef8eedb55f442911706944724273bb18642"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "||depiliacija.eu/wp-content/uploads/2012/06/fotoepiliatorius-silkn-flashngo.png"
+    },
+    "_sourceKeys": [
+      "e74068c99f4a35d8409b9572addb5e370b04b41e6de515f1557e506a9b1291f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "||depiliacija.eu/wp-content/uploads/2013/09/hf-depiliacija-baneris180x500.jpg"
+    },
+    "_sourceKeys": [
+      "1303cc51cba0e97b49de75787681fcaf31b9ddb59a85e0d708c2d1e35863e358"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "||dgn.lt/static/5/paskolos-v2.html"
+    },
+    "_sourceKeys": [
+      "81f2bd750e90728da4536248962f774a2935614a97e32b860f07bc3cda9a71ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "||dgn.lt/static/nqs/5/banner"
+    },
+    "_sourceKeys": [
+      "a33e982488644a4a3637ccc6f319878187c898d14daefff86ecc9210855859fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dgn.lt"
+      ],
+      "initiatorDomains": [
+        "15min.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "316cbfe0a82edf27d7e2502831f465cdefa21fa95543b0cec939a236e4440e54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "||diena.lt/sites/default/files/forma/cikaga.gif"
+    },
+    "_sourceKeys": [
+      "9eb996ae47f4ca6f563a4729412a8b2c22042d02334539f41f95efc033cd349e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "||diena.lt/sites/default/files/forma/izel-3.gif"
+    },
+    "_sourceKeys": [
+      "f3c3af5504bb1751d01636a4b816fcee73d5f58eba679e93fe62bf77209cfe47"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "||diena.lt/sites/default/files/vilniausdiena/vartotoju%20zona/diena_admin/giberta_darbo_0.jpg"
+    },
+    "_sourceKeys": [
+      "440cd5919ea6945a1e13328270473ecb2762a91fa48a1b34c7ff522a5958c618"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "||diena.lt/sites/default/files/vilniausdiena/vartotoju%20zona/diena_admin/giberta_darbo_1.jpg"
+    },
+    "_sourceKeys": [
+      "c884b49d793cf81cce0bed377e13fcf2acc2a1e1985eb14ef0eec7c068a50c41"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "||dienosakcijos.lt/static/banners/"
+    },
+    "_sourceKeys": [
+      "47ea184023ea862b66caff2aa2c7e0529c4b9e4b25fc7d4239a32bc18cd1b553"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "||donoryste.eu/pictures/banner_"
+    },
+    "_sourceKeys": [
+      "f93d222ed465b232cd4d965737e7b65af8fe13e202c9889178f5555736f60224"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "||dratas.lt/wp-content/uploads/house-fb2.jpg"
+    },
+    "_sourceKeys": [
+      "8a9d1d3b879a50654cd8ac32a41076cbf2ab74c4256a92bb4406a7e2ada4de6a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||drauge.org/pilnas/pv140x180.jpg"
+    },
+    "_sourceKeys": [
+      "fe56de9cdd1d67c411eb8436d2170c45691dba79dab1692424cadf9ff129d951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||drauge.org/pilnas/pv200x150.jpg"
+    },
+    "_sourceKeys": [
+      "5b1749affa2cfc2b8966a1bdde2e6f7a9713e091b5b7bd25acfb354b915c9ec5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "||drauge.org/pilnas/pvgen_promo.jpg"
+    },
+    "_sourceKeys": [
+      "27f1e8c0732444cb5ef54027d07563b829db7d5b87c69390cba9e2a88be55654"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "||dykai.eu/fun/content/2014/01/08/video-chatas-juodame.jpg"
+    },
+    "_sourceKeys": [
+      "840d9c03a5d8a1e258861f7b29f646038c2ba117fa75bc959dbeb37c62020298"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||ecoland.lt/modules/sotewsadds/files/right"
+    },
+    "_sourceKeys": [
+      "2d78c5b1f37c6a40c724a9eedfe32edfcf16a091c2b54dc112162a63b90cd03e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||elektromarkt.lt/out/pictures/promo/"
+    },
+    "_sourceKeys": [
+      "5e3941292afd37e1a87f2c500db585364e82fa6275c52370d327d6b3b6283e17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "||empire.dykai.eu/logo_empire.jpg"
+    },
+    "_sourceKeys": [
+      "a47b61ad7073592860a66682949b28ac0f1dc599d74b8ae8086048690db80ccc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||eurobasket.lt/images/statymai3.jpg"
+    },
+    "_sourceKeys": [
+      "00b06d57f304b5a38fff0a28c5e1581aaddf8ace57e208a81d63f3407238d396"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "||eurobasket.lt/images/toshow/1000x200.jpg"
+    },
+    "_sourceKeys": [
+      "520af87a90ed022b8120300ea1e89e6a98164eef575b48dede46a8f263aa421e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "||europoszemelapis.lt/dedikuoti-nuolaida150.jpg"
+    },
+    "_sourceKeys": [
+      "fc185d7e17042f42f35f80d58a43517dbc515c0c33580cfbe8b66c411f46d505"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "||europoszemelapis.lt/serveriai-nuolaida150.jpg"
+    },
+    "_sourceKeys": [
+      "31bab72b470e8c6deb8667d66fc171f5495baac735cd85bdb58a2b476c254fa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanpagelistbuilder.net/pagetab/app_coupon/scriptindex.php?pageid="
+    },
+    "_sourceKeys": [
+      "5cd3b00702b03f8211ef175e6f576bea2cd7e4c2877b8e3d8908383a09e96830"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "||farm4.static.flickr.com/3512/3178137982_2d1f1d4ff1_o.gif"
+    },
+    "_sourceKeys": [
+      "2185792c3e90ca62299a0367242fa1b0f5173e047583763b412084adca828728"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "||filosofija.info/wp-content/uploads/2013/11/praktine-filosofija.gif"
+    },
+    "_sourceKeys": [
+      "4f9615cc270cfa9e256541870263ce90c5a5b67e7c5d0cb31f9c2005b18e94fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "||fm99.lt/wp-content/banners/"
+    },
+    "_sourceKeys": [
+      "4cbdd8015dae0d3f3f214db84d5081712cdfeef9e44cfac480da3cc9ce3ab3d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "||fm99.lt/wp-content/uploads/2014/03/slider_blues_konkurs_dlugi_logo_ang.jpg"
+    },
+    "_sourceKeys": [
+      "d53db45915e58fb73ad4064c90fc69993919b63e60d992640f54989a0247e1de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/dezavu.jpg"
+    },
+    "_sourceKeys": [
+      "dc9a0e00cd46d1b615c227cb7bc95244951c41dad9fde23f0e61c6135255d54f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/fotonaras.png"
+    },
+    "_sourceKeys": [
+      "89a4e671741ff51cd76701ee9dfcce5d5f38f779dd8b1aa0866922c32adcbfcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/musu-vestuves.jpg"
+    },
+    "_sourceKeys": [
+      "e638bea7d3de9264365c949e0b3b4590ca50ee55891983d7a3615b80ec7414cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/procentras.png"
+    },
+    "_sourceKeys": [
+      "5dbf7f5ede45dcfa2a12bada728bc944cfb20a9c848ab3bd03c35d93f859955c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/vestuveskitaip.jpg"
+    },
+    "_sourceKeys": [
+      "8cc1e526ee8467230a10abc936ca38f5b04765e2084c493ed2f7955e7b7ea627"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "||fotofaze.lt/img/zzet.jpg"
+    },
+    "_sourceKeys": [
+      "5f60b3bb410e63740e0449e50aab42de9723bf442cbf617134a08f2bf3ee19eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "||games.lt/i/banners/"
+    },
+    "_sourceKeys": [
+      "692343851fc1368d484e8f01821f3dd9505fbfd21bd24a46b145fef9b14dca70"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "||games4you.lt/img/game1.gif"
+    },
+    "_sourceKeys": [
+      "b4460fc44a80d19e3adf99d1f2c7ead743b34bdab73b168dd9e6fa517104586a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "||games4you.lt/img/game2.gif"
+    },
+    "_sourceKeys": [
+      "0085ba21ae20c6038cee7f2ee990374aa8fb9945af49cee9ce44cccc408bd907"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "||geliukrautuvele.lt/images/vestuviu_atributika.png"
+    },
+    "_sourceKeys": [
+      "ffea7df9879ff2a47d5a1f2a0ed49ab77d3c8c250e343b1b51c1fa7441350599"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "||geopolitika.lt/img/ban/"
+    },
+    "_sourceKeys": [
+      "a238d4c21a07cca0e5d454ae2e7b0140d38f858308e15859c4197a18796f4f48"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "||geopolitika.lt/img/banner_"
+    },
+    "_sourceKeys": [
+      "507f48b8f1b4fec18f1c56ff772c475e82ff45f7fab252cd318213a8dd8dd3cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "||geopolitika.lt/img/book_ppceu_en.jpg"
+    },
+    "_sourceKeys": [
+      "71dd48d9da4f90ace61256b098d534fd1b7090a3368a753b3d18a24897a1b71c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "||geopolitika.lt/img/logo_srtrf.png"
+    },
+    "_sourceKeys": [
+      "5101d5f849902ccc7fd5c705a5bbdb47a766565f1c0db25b124205dbc8265c64"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "||geopolitika.lt/img/newtimeslogo.jpg"
+    },
+    "_sourceKeys": [
+      "8be0b7d774a6d1508670c973a1a07cf7ab7613818f3176c1f44393835464c8d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "||grafika.iv.lt/hostingas/small_logo.png"
+    },
+    "_sourceKeys": [
+      "57fa5bc198442831af50efcd4b547f86d5ed25ff4ce2d8024ab05c96cdeb0bbd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "||grafika.iv.lt/serveriai/hosted.gif"
+    },
+    "_sourceKeys": [
+      "e0d47fc9cab316bb20cd78d7505ca37d3e6802ab225eedbf6aa425380d2fccb9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "||greitukas.lt/images/kupi.jpg"
+    },
+    "_sourceKeys": [
+      "b38b74bcc03cfef94a896953a6876318055f399dc73dbec72e2a022fc4e90cf9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "||greitukas.lt/images/papuosaliukas.jpg"
+    },
+    "_sourceKeys": [
+      "ccb8a60ae42c01e94c48921a2558b0db84ecee7931be4a86d347b276e707649b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "||greitukas.lt/images/vestuves_baneris.jpg"
+    },
+    "_sourceKeys": [
+      "f6533d55e025719783174d691ab5593c6d9ad5668b1e744216da4aca79c01058"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "||groziodovanos.lt/groupon/affiliateframe"
+    },
+    "_sourceKeys": [
+      "479cec8d4f2e9ae6b7d9e4d3746eb8d154d27356fc3d1ede2774ac98d5553948"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "||grupinis.lt/www.grupinis.lt"
+    },
+    "_sourceKeys": [
+      "8de136e6f4a275f12af5c95af989fafe2faf220f79dd3e00bf5ede089fba1bc4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "||gsmarena.lt/images/13173439603.jpeg"
+    },
+    "_sourceKeys": [
+      "6506279f9371d13b53444dd7d7dce9388f1d1bae3c3fe9091c6cf295161b44e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "||gyvenimas.eu/g_ds/skelb_arkl.jpg"
+    },
+    "_sourceKeys": [
+      "9e8eb4ac15c2a4ec34c2502863ce38343b97c6dc475ae8f80fdcff16e6577d88"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "||hardas.lt/http://www.hardas.lt/wp-content/uploads/icons//2014/04/brother-mazasis.png"
+    },
+    "_sourceKeys": [
+      "d89302aab7c94f024f3f0f52cef602b09e0c4520f679fb59613531acb76157e5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "||herba.lt/media/dynamic/banners/"
+    },
+    "_sourceKeys": [
+      "e874574508decbd6e1f9ecff297bc505a3f955d4757e1ff38e81f0532e3217ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "||hostex.lt/images/header/logo.gif"
+    },
+    "_sourceKeys": [
+      "0515b23ee208eeeac6658979cf9ec5f0515b46858c81257ba869959ba9edf8b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "||i422.photobucket.com/albums/pp305/savaites/banerisold_160x192.jpg"
+    },
+    "_sourceKeys": [
+      "94ea5271f703e0cf5e849659e97b401e595d70e6aec15eb792e452f5bdb0bbb3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||i461.photobucket.com/albums/qq339/martynukas/antbangos.gif"
+    },
+    "_sourceKeys": [
+      "51d684e226864260305f48853ffb3de8430d11f262102d86c443fb3ce5460934"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||i941.photobucket.com/albums/ad255/skoniublogas/baneris-1.png"
+    },
+    "_sourceKeys": [
+      "5e304f1d11ef9c4b54b953d3d7cd900f899038a0da9070eb6833e3b8684da70d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||ic.pics.livejournal.com/sig_tyr/13029589/1319/1319_900.jpg"
+    },
+    "_sourceKeys": [
+      "31d6f2a93233d37180dd242fe1ffba7c9c704f2d7f810c12736d0e339bbee340"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||ic.pics.livejournal.com/sig_tyr/13029589/1652/1652_900.gif"
+    },
+    "_sourceKeys": [
+      "40688a194551f095d90d1960875149b7ac8b1aab55ce36c352ed747ea98bab4f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "||ic.pics.livejournal.com/sig_tyr/13029589/2153/2153_900.jpg"
+    },
+    "_sourceKeys": [
+      "7c7f8907fb1f74e639eab14f9be7854711263811e4aff2f6c21d13a332e5c39a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "||igs.lt/images/saugumas/"
+    },
+    "_sourceKeys": [
+      "d165e6ed84ef6e574432dc36fba0a6eaa534f3a7e744dd327343a66df4c300fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "||images.neobux.com/imagens/banner9/?uh=536b79425454&u3=15892148"
+    },
+    "_sourceKeys": [
+      "4daa6b5cba0321e4b6e62354485b8eacc0716759f2d617a0b6098a96e0ed9632"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "||img2.diena.lt/sites/default/files/vilniausdiena/vartotoju%20zona/diena_admin/urmas-kaledos-940x100-px-2.jpg"
+    },
+    "_sourceKeys": [
+      "305c01064130b8d5d2a967b022e416c267f4d9b5ad453cccd1e75899abe6a869"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "||imgur.com/rgcwn.jpg"
+    },
+    "_sourceKeys": [
+      "9aba65951302589dbdcc3838b8a973f4b2ef324b0b9bce8ec7042a1effd25431"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoadmin.lt/img/alertpay120x60.gif"
+    },
+    "_sourceKeys": [
+      "484f769aa6ed14d6d3c60d2ca514417e7f51d96e0ef7f599659267cb999ecce3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoadmin.lt/uploads/images/banner120x60.gif"
+    },
+    "_sourceKeys": [
+      "33ec86adb3cea23c62b03a5b9de73ff2c24a1f64fda2cb4a81a7846e02c7a351"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoadmin.lt/uploads/images/infoadmin120x60.jpg"
+    },
+    "_sourceKeys": [
+      "d2f8276ece2edea01833a10229f5399f419d993e84908b0b96f64c27c1eeb35c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "||infodiena.com/wp-content/uploads/2018/03/1200.gif"
+    },
+    "_sourceKeys": [
+      "7196532df9bb2cb0dc679727932b5be32c67cdae8f4ab2d132c7dabb00fdc32e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "||infodiena.com/wp-content/uploads/2018/03/1200x225.gif"
+    },
+    "_sourceKeys": [
+      "29f869cea073c59acf44836478cf43765f2a1e67cf5bed163cff948c4d1f1fc7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "||infodiena.com/wp-content/uploads/2018/04/1280x225.gif"
+    },
+    "_sourceKeys": [
+      "ac1e1fefb9d424692b787a84c773dcea673c2be89916711f42b20bc493b7cb2e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoma.lt/images/ruba-reklama.gif"
+    },
+    "_sourceKeys": [
+      "b0a6f72b1b8368bcb7322ae7262291aeb36938fcd03ab2f55cbe93c2231ec89a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoplius.lt/cimg/brandpage/"
+    },
+    "_sourceKeys": [
+      "21b4a014ca2468ce816c64c1ac661cc2173b526fca076983bf35aa57102266ad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "||infoplius.lt/lt/searchblocks"
+    },
+    "_sourceKeys": [
+      "fac8491c89de897937faedd08d81b572c8d5706ab151638ae748a08337124f50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "||interjeras.lt/tl_files/catalogs/banners/"
+    },
+    "_sourceKeys": [
+      "b440f572286ca488c2ce5e4d180b8d746b3ce88156b2884ddf324886a5eea5de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "||invega.lt/site/banners/"
+    },
+    "_sourceKeys": [
+      "da76f557bb924fdcc308cae5675ea7516669060c5196a34e45e3a2f7fa640509"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "||itneta.lt/failai/centas.jpg"
+    },
+    "_sourceKeys": [
+      "d2d80f362bf05f38281d28c9840ef41bd4002f35aff937990c612304fb3eec96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "||jurbarkiskis.lt/images/stories/lanmeta.gif"
+    },
+    "_sourceKeys": [
+      "4fe5d6d8c57ecb389199e5ef5d037777078a2e9c05f76f563ce154703abe4600"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "||jurbarkosviesa.lt/var/ezwebin_site/storage/images/media/skydeliu-kategorijos/"
+    },
+    "_sourceKeys": [
+      "2b2f3449233384efe35621f039e14e64f3e42c4c556bad72a7d1f55c20ccc8ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaimai.lt/images/default/source/perku_vaikui.jpg"
+    },
+    "_sourceKeys": [
+      "a1db0240a1d8a3338feecbaf7f6ade93d768fdf742a9cc4c676012a109387d87"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaina24.lt/images/kaina24_180_green.gif"
+    },
+    "_sourceKeys": [
+      "551e137005ef4965d006c47b7d59862afaabad7e268ab6d2f398c68efa7ffe79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "||kainos.lt/img/logox160.png"
+    },
+    "_sourceKeys": [
+      "bcc18c138ee58caacd73c9242e423b5cfb29191a70f6ca5e8f80be67cba1f3f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "||kainos.lt/kainos-banner.html"
+    },
+    "_sourceKeys": [
+      "6799159e5b727bd970a0a524b84f07b20aab2541dfa3f243df0be51ae2ffa337"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaisiadoriuzinios.lt/wp-content/uploads/2014/03/extrafm-ad-300x150.png"
+    },
+    "_sourceKeys": [
+      "77c12a58c0101b695cc9f121ba87f296482fbd2b7fe7b0217bcd4e5dd0121f91"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "||karjerairsveikata.lt/wp-content/uploads/2013/09/profertil-720_200_1.png"
+    },
+    "_sourceKeys": [
+      "456296ab84c92b512de14ca7e034e817501e8cd09845fbd4073b7bde9343ec0b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasvyksta.lt/isejimas-mob.php"
+    },
+    "_sourceKeys": [
+      "b76fb7efd488cc41af61d4ea567f0abd2927b28e53f7be466f7e2cd91a148dbd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasvyksta.lt/wp-content/themes/kasvyksta/images/ads"
+    },
+    "_sourceKeys": [
+      "3e7eac13232e7e1620190812e72fd44a253a0065dcb8c02f38ec06c07aae5557"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasvyksta.lt/wp-content/themes/kasvyksta/images/exit/"
+    },
+    "_sourceKeys": [
+      "cd3d375d2b815ebb27fe1ff730ade922ab930b0f7dc35895f9f52b010474dd4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasvyksta.lt/wp-content/uploads/2015/06/bagazinesvilijampole.jpg"
+    },
+    "_sourceKeys": [
+      "8e56c53896ef5570ea891f7966e0cf838f5218a0fffd3b494373e0790acf33ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "||kasvyksta.lt/wp-content/uploads/2017/*300x250.jpg"
+    },
+    "_sourceKeys": [
+      "ecfcb412674bae149737fb64ba01f1961d7c48af47755ec1ef118bf5b569c4ca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcdn.lt/images/*/300x600.jpg|"
+    },
+    "_sourceKeys": [
+      "3dd03c044b0bfe39db37d715088f0626572915897e2777a38537764f62713a90"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcdn.lt/images/*/1200x250.jpg|"
+    },
+    "_sourceKeys": [
+      "611d952945e130252b087fca408e53a3a7bf8c358245f1f68ade7456c275ecb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaunozurnalistai.lt/templates/zurnalistai/images/random/kamane.jpg"
+    },
+    "_sourceKeys": [
+      "81d2a82edfb2280126acde07e19324dde5869fce6d84bf5eff39cd6119b3959f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "||kedes.lt/showimage.php?f=4786_banner_lauko_baldai_6520s.jpg&w=215"
+    },
+    "_sourceKeys": [
+      "5cdfa57cd2e5c623eb791d560d9fd1a442c8a37bb0932825b49cceddb35bc0b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "||kedes.lt/showimage.php?f=banner_rumsiskes_200x200_6447s.jpg&w=215"
+    },
+    "_sourceKeys": [
+      "e6fa334b0425a82adb4306f215c6f171e84ed27e1b3de2e600e28ec663e12ceb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinopavasaris.lt/bnr/2014/"
+    },
+    "_sourceKeys": [
+      "4868c7ff1dd071e1c4652693c40b3d75455d11aa3216c9d84246de8e5bd2974b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "||kkml.lt/public/var/banners/"
+    },
+    "_sourceKeys": [
+      "da18db4de85fcaaefe91e4e0fbb9eca570d390335fd6dad23d36d6a19235a51a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "||komentaras.lt/wp-content/themes/kk/img/p1_baneris.jpg"
+    },
+    "_sourceKeys": [
+      "c8dca3ec5f99986c11fa1ec6c1376c0aaaf72188925be84c52d297744306b7c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "||komiksai.com/img_rek/"
+    },
+    "_sourceKeys": [
+      "4f84de7e9ca4cd397e4bfbb9bf55b06ebc210f80b7fa339f0bbd6b250ea25e54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "||kompextra.lt/image/data/182x258_kompextra.jpg"
+    },
+    "_sourceKeys": [
+      "680e3e2008017c89e02188f41479d1bfb4fb67aeb608f65e8c553f4494b3358f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "||kompextra.lt/image/data/reklama%20sonine/cia%20galioja%20dc%20nuolaida.jpg"
+    },
+    "_sourceKeys": [
+      "353532c5ccfbb5b89443ac7e771c9d15d2f2349147f303c88d1613b89e08dbff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "||kosmetikos.lt/images/zenklai/"
+    },
+    "_sourceKeys": [
+      "313fec4a918dadf32807de42cd7d3bdab6228a881624a217cfa66cc9b16f9f25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "||krastietis.lt/wp-content/uploads/ekolaome.png"
+    },
+    "_sourceKeys": [
+      "3b83640f7b0eb03500a4c96bf47b9af0bc683e1ca7be7353c5faabfb67252846"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "||krastietis.lt/wp-content/uploads/tic-big.png"
+    },
+    "_sourceKeys": [
+      "578a76218cea454ad658e3a5c7193a3e438273b76905957579fb9d17f443444a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "||krepsininkas.net/pav/e-parduotuve.gif"
+    },
+    "_sourceKeys": [
+      "60d31feab7d3d3f058ad2502b146666e61f17ed8e7c1efae2a579945358baa4b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "||kronika.lt/images/balandis2014/zaizdos_1.gif"
+    },
+    "_sourceKeys": [
+      "b0490e7ab67783cd1f9006f8707cf167d43aeb00fd28a0a9dc258689a985708f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "||kronika.lt/images/begimas.jpg"
+    },
+    "_sourceKeys": [
+      "7192528832df6061839f4b05bc872db8e9c39c320289aa7892052620e6b21eac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "||kronika.lt/images/untitled.jpg"
+    },
+    "_sourceKeys": [
+      "1cd691a7534c7fa8a69efbb148c3be4f97efc50653b095cdd897da3b5de33f07"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "||kursenuparapija.lt/wp-content/uploads/logo/logo_m-studija.gif"
+    },
+    "_sourceKeys": [
+      "9cd9f239c51e3d6122df2dd99b64af91d7c31976ccc067fcae3edbce47b1578b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "||kursenuparapija.lt/wp-content/uploads/logo/logo_marijos-r.gif"
+    },
+    "_sourceKeys": [
+      "d020d6b647a933324a2996c89bfca80d5a01bf669f022afb5a2a8944c9c07ac9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "||kursenuparapija.lt/wp-content/uploads/logo/logo_pakuta.gif"
+    },
+    "_sourceKeys": [
+      "f000ce7cbbf841eb34801491b1ee3844c70efde03434f82593e67cf279f30257"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "||kursenuparapija.lt/wp-content/uploads/logo/logo_vatikano-r.gif"
+    },
+    "_sourceKeys": [
+      "3be0c079ee1be280a0bfc7681ca3c1ee2f9e7c46cdc67b3e419c323c707d9b8e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*-150x150.jpg^"
+    },
+    "_sourceKeys": [
+      "8d604ffbde5e98c94fe68e8855f94518f4cae571e0d3811f2eb97e279b0bb23e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*-536x*-536x*.jpeg^"
+    },
+    "_sourceKeys": [
+      "c52efb2bd878e016762329fcfaea6c5983d0f8130752695fc06746b7d1895e0d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*-reklama-*.jpg^"
+    },
+    "_sourceKeys": [
+      "cb30d87e8d5121c83fd6e3144ede126e4ea150efb03fd56a3e15d1bcb4fd9929"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*/150x150.jpg^"
+    },
+    "_sourceKeys": [
+      "281580ecd94ea9b8eb575094cc3e8acd0baf5fbd69af1daa87c02c6fa3735369"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*/a00*.jpeg^"
+    },
+    "_sourceKeys": [
+      "15e9018c1715e5f19d589979a8b4cb82c5fff82f82556ad7edfb25def0e69e36"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/*/btn-*.jpeg^"
+    },
+    "_sourceKeys": [
+      "79786a92f3fbda14fbc1aea47a8324ca855dbc91b1420d1f423785d4408c24a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/2015/07/mineral_spa_logo-*.jpg^"
+    },
+    "_sourceKeys": [
+      "eb68a52d0d86bda0ac508bd022e0cc7c36d1c1b5f78938a8afd2e8513efa10cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/201*/*-536x*.jpg^"
+    },
+    "_sourceKeys": [
+      "7822fc26d158325a42133671d3959cf0f2e1a090df9719a84f132aba6775b78b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/2020/07/*stovykla*.jpg"
+    },
+    "_sourceKeys": [
+      "178258c8b805f9841048f25164f9721e6183145c34cda0fd2d58d6e91cd6184c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvitrina.lt/kv/updir/2020/08/*_2019_*.jpg^"
+    },
+    "_sourceKeys": [
+      "9586d126b3108cde0f4a63fd2608adf938036f030adbca31f6ef07d0372fdad0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "||l2j.lt/ads/"
+    },
+    "_sourceKeys": [
+      "43a9d2efea399df0621478b9c802a0ca21012773f8f29c378f2021ee5dfa99a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "||l2r.xz.lt/l2rbanners/"
+    },
+    "_sourceKeys": [
+      "605e9db994483d9a9919d0e093ebe60eee0ddfd7514b06f7b8ca5124cd0d19bd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "||l2servers.com/promo"
+    },
+    "_sourceKeys": [
+      "4bae2f612c59c84852e45c5b1c4e1f7507c55741549b1a75f532d51a81384922"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "||laisvaslaikrastis.lt/images/reklaminiai/"
+    },
+    "_sourceKeys": [
+      "6ecbd11541832c56f936a8f20fe92dba505ddfeec17be87c33c6b7b0b8625539"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "||lavinantys.lt/shop/out/oxbaseshop/html/2/images"
+    },
+    "_sourceKeys": [
+      "ce99325d5618aba7192992d1d6ce55e690676514c1f47e685d80bc2b3fd08d50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "||legacy.flirtas.lt/alfa/users_block/"
+    },
+    "_sourceKeys": [
+      "84b6e0a4a773382d97c231497933460565f659716694646432e17467e96942a0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "||lilijairsaulius.ucoz.de/ikonos/unbenannt.png"
+    },
+    "_sourceKeys": [
+      "a45a6c6ae7811004920ce299439628d393cd07634230a74701889112a28c6675"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "||lineager.lt/images/kyc1.gif"
+    },
+    "_sourceKeys": [
+      "a90f9137bb9acd3cc32b6f5045c396ba68a54ef7100598b6fe8fc1d7fb1e8d00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "||lineager.lt/images/kyc2.jpg"
+    },
+    "_sourceKeys": [
+      "e6b92cbd144f7a871987bc02d855854f0c6d40cf57ed3f52cdb5755e003cd202"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "||lkl.lt/wp-content/themes/lkl/js/fancybox/jquery.fancybox.pack.js"
+    },
+    "_sourceKeys": [
+      "5c9f1f8d69fb13568f3f93742b0479b659a866a9b7f71f199e5bc5c46b420843"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "||lmg.lt/kiti/img/vip_reklama2.png"
+    },
+    "_sourceKeys": [
+      "84971c5380fbe42ee6e0c114110e09aa9d07d0809b4e105b6dc18024dbc7fdc8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "||lombas.lt/image/gmx/"
+    },
+    "_sourceKeys": [
+      "3ba430f1bbda0ed4e79691045a6f77c0d8db2705871df207f0ec6901c2fc0f20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "||lova.lt/files/uploads/images/sitefriends/"
+    },
+    "_sourceKeys": [
+      "8f8ec540ffa890015cab71656216dfc3f42ebe6128f7c0367746a6a913445334"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "||lova.lt/uno/bigbank_"
+    },
+    "_sourceKeys": [
+      "980bab8cb376d31f4e759a419d092d975e896acb2cd85eb0f921c03f9dc20509"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "||lt.tonybet.com/tonybetpoker?trc="
+    },
+    "_sourceKeys": [
+      "c9d8f5abd6417c3b2fbfb98211ef831ef75e4fb46fa56be852c87700390df90e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "||lyderis.eu/wp-content/uploads/2010/11/ll_logo2_300_50.png"
+    },
+    "_sourceKeys": [
+      "867acdc70edeada2c77b64b6ddea1d4bb15fbe52b3344961f883486251d1c2a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "||lyderis.eu/wp-content/uploads/2010/11/logo-1.jpg"
+    },
+    "_sourceKeys": [
+      "62584df2bfa5c324808b5d83976dfd35b08cd31c1165df3315f00b94f3956512"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "||lyderis.eu/wp-content/uploads/2011/10/agito300x300.gif"
+    },
+    "_sourceKeys": [
+      "6a5c1ed1f1d56145c4bd4a32e3276deb526452cda949d1da828cbd061a26ee6f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "||lzinios.lt/lzinios/failai/video/"
+    },
+    "_sourceKeys": [
+      "914937de9f011560415d2ec48435903d02da178328081a39655563293703d80d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "||macpartija.lt/images/stories/ishop.png"
+    },
+    "_sourceKeys": [
+      "27e2af522950a99e69bc1e211a6f6191530035ecbb659d31e014573bf0a9c046"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "||macpartija.lt/images/stories/telefix_175x80.png"
+    },
+    "_sourceKeys": [
+      "3df82d40452cb6e2879c3c2e1706319e4661fa6b49b9d215deeb4e4dfcd1a72c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "||maistobankas.lt/uploads/user/image/maisto-svaistymas-naujas.gif"
+    },
+    "_sourceKeys": [
+      "fa83865b054f8bcbf7646ead461919df0da4fc9975399077315179409d1c5be7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "||maldeikiene.lt/wp-content/uploads/2015/10/pensijosfondas.lt_.png"
+    },
+    "_sourceKeys": [
+      "12ace093805a09c23d980023444e009ea0bff027dda2bab806e610c5e9bcadaa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "||mama.lt/uploads/ugallery/photos/ad/bb/8a/2f/adbb8a2f2310e49a3958169037e7d057.jpg"
+    },
+    "_sourceKeys": [
+      "0459678d78c63114ba116e8026b9a8147fc041bd95bb28628b0211ede98eebee"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "||mamairvaikas.lt/tvs/failai/2012/08/moteris-info2-e1345913451356.jpg"
+    },
+    "_sourceKeys": [
+      "f67eaa478a2fbce012dd38da159b5b6c2bae77f62a7a32aa6372841d66d58eba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "||mamosgidas.lt/uploads/images/modifast.jpg"
+    },
+    "_sourceKeys": [
+      "3cc99fc6f4c6af54a892913bdd860bbdbbadfe0b8c55c053740dfe5197305cfb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "||mamosgidas.lt/uploads/images/ngc2.gif"
+    },
+    "_sourceKeys": [
+      "cc98e090543f7e1812f5b7600716b63c129bac02ab47c7cf71610a428f23a10f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "||mamoszurnalas.lt/multisites/mamoszurnalas/images/stories/logotipai/ikimpokyklinis.jpg"
+    },
+    "_sourceKeys": [
+      "64b770ca346659e6a9481f99b79bc70a2912a4ca6ff381e44d3752a932004842"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "||manonamai.lt/newsfeed/"
+    },
+    "_sourceKeys": [
+      "77bfc24a253d6ae5cba1f77d19b62825aeeeb7d90e213d94c29cee612a279bbb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "||masazonamai.lt/imunitetas.gif"
+    },
+    "_sourceKeys": [
+      "7c869ca238ae60cc6de5acef9950ae240bf064be9808071320b9ae2d7c366d4d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "||masazonamai.lt/kleopatra%2060x120.jpg"
+    },
+    "_sourceKeys": [
+      "78d18a2e4c2d34a6434e6fbe2135636a2ab4bf9d9202c005b00d3ccc5fdcfa33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "||medicina.lt/r/"
+    },
+    "_sourceKeys": [
+      "93ee3a5ac0fe322343f72538e97cdd23f9e93084bfd7123f96c39a223c8fb8d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "||meileslegendos.lt/wp-content/uploads/2014/02/fotografas.png"
+    },
+    "_sourceKeys": [
+      "9b451c7842999b24f9407c21ea49a39022b6005e47fdcf0753c02b7e39b4243c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "||meileslegendos.lt/wp-content/uploads/2014/02/mergvakario-baneris_legendos.jpg"
+    },
+    "_sourceKeys": [
+      "daa2cd855fba007d350e729b3d3466c319512cde6371fda95917a3771670cf61"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "||meileslegendos.lt/wp-content/uploads/2014/03/vestuviu-fotografai.jpg"
+    },
+    "_sourceKeys": [
+      "c5500255955236a7451082adf570bfaef146b5f15cf6cab4b3ac9895499bae3b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "||meileslegendos.lt/wp-content/uploads/2014/04/ivory.png"
+    },
+    "_sourceKeys": [
+      "1d5916e6a57e0f01115c22f387f2e7f8c1bfd6b1076a47c558598068ed33e4ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "||meniu.lt/uploads/user_images/ozonas_virselis_maistas_250pix.jpg"
+    },
+    "_sourceKeys": [
+      "f9e5a9382511f9184614737b79550239b940c58a3f3a194408b0c8d8bbdcb9a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "||meniu.lt/uploads/user_images/rv41_cover.jpg"
+    },
+    "_sourceKeys": [
+      "0fc5161be7ef877e6ceaf4aabd187842231db9e5d691df8fae45115e97b179e3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "||meteoprog.lt/lt/informerget/?type=4&city[]=gargzdai&color=e45700&txtcolor=ffff00&day=tommorow"
+    },
+    "_sourceKeys": [
+      "9155f00bea88ab498f61ebe1672864a398755ba1a5b34d087c85b13a4cc2d26e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "||miestugatves.lt/nuolaida-"
+    },
+    "_sourceKeys": [
+      "ac17c9ef9a12fbcf8abe585f52522853b2b9ca150289f0502f3bedc5c9cbf448"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/dovana-dukrai.jpg"
+    },
+    "_sourceKeys": [
+      "fbd334ad366ea544d2605645f9a5aeb7fd842b0d8f551a4909acb9ca2b1ce2a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/horizontal_main.jpg"
+    },
+    "_sourceKeys": [
+      "8be9c5c1ee66a8ec9f229ff38727e2366a87f0d19cb303c83217501a4d5c50cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/laiminga.png"
+    },
+    "_sourceKeys": [
+      "318d4f8ebebad457f2ef1b7a5377fdad904b4e6d4406b7e2806aa5da9494ccb8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/muscle.gif"
+    },
+    "_sourceKeys": [
+      "b0a23cd9d189fc958d45dea2f531dcd49dbd7c2b61b9393d5201473c3ba7fee7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/vertical_"
+    },
+    "_sourceKeys": [
+      "3cf299bd5493d11efd34d7b638ca893d7305e1dd9e113ac5a9f7908b52a9f5a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "||minfo.lt/img/zaidimas.jpg"
+    },
+    "_sourceKeys": [
+      "55451cfacc413c667ca92a861aad69b8fa66cebf0f9e9fd7c393359c9cbd46e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskobirza.lt/images/news/baneris1_120x60[1].jpg"
+    },
+    "_sourceKeys": [
+      "4a5b5321595461c7b630f4bb732372a9146e94a420389a4f1b8dd2ecb1c5fad8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskobirza.lt/images/texts/ad"
+    },
+    "_sourceKeys": [
+      "9108867f352c1949c19374ae8e84b2f13cee6767a213d89317211996307d07d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskobirza.lt/images/texts/miskui_lt_90x55_1[1].jpg"
+    },
+    "_sourceKeys": [
+      "a02595ff4bf862af1e12987e9c0f84b002d1f579347fa4644d618e773a9538ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskobirza.lt/images/texts/sanit.jpg"
+    },
+    "_sourceKeys": [
+      "f7438d002a854bb1614affae0fc2b2f3992d42b02158c172b8186d398ac984fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskobirza.lt/images/users_ads/"
+    },
+    "_sourceKeys": [
+      "bba3586f64da9027781c3aa4041e96d660f4125d5246392b5823ac255bab2b47"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "||miskui.lt/images/news/sip-1.jpg"
+    },
+    "_sourceKeys": [
+      "e0b018eb4422857e110e85c3e212e27deb08d0c6102a4afa90450a58701debe1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "||monetupiramide.lt/skydelis-150.png"
+    },
+    "_sourceKeys": [
+      "c07ec5ec92631be567be0277818f659a4ea5b6030241886f60db006c60f29609"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "||mususavaite.lt/wp-content/uploads/2014/05/aeroklubas.png"
+    },
+    "_sourceKeys": [
+      "be95131c03b43fc8e1217d36126a962a6b199928bc1d9588ba3323ae0e8d21e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "||mususavaite.lt/wp-content/uploads/2014/05/miesto_dienos.png"
+    },
+    "_sourceKeys": [
+      "b332bd43569421f65d2845b4ef8133edec3641656977c782d374616bb3e300ab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "||nailbar.lt/images/stories/nuolaidos/"
+    },
+    "_sourceKeys": [
+      "ddc69f1b2a47105709734a22d4f1e95a1d3940b6cfe45b04b184af86caa05ede"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "||nesijuok.lt/images/buliausgalia.gif"
+    },
+    "_sourceKeys": [
+      "beba85ecc032b33e73cb78f87800d6732a8f2656322c6fc58185287d2e9a9cd2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "||niekonaujo.lt/wp-content/uploads/2010/12/serveriai_logo.png"
+    },
+    "_sourceKeys": [
+      "f0a5ba2e465806fbfba205f5b9217d3ca5c7b476eb1a3b0dc35602620f99e339"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2013/generalinis_kas.gif"
+    },
+    "_sourceKeys": [
+      "81290662140024245c81a84553ad140f2250f747b61deb5fc27abfbaff687f6a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/pagr_remejai_aic-imenza_s-sportas.gif"
+    },
+    "_sourceKeys": [
+      "29e93e6ae7d035fac38dc15173ab28f6ad51a54c1a45c909ebcab2a637a13b73"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/s_sportas_logotipas_horizontalus_small.jpg"
+    },
+    "_sourceKeys": [
+      "67468c8a7a7c45f38a22cf8769846e12280fe10a471d10f10b265194fb244df6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/2014/smapro.jpg"
+    },
+    "_sourceKeys": [
+      "af2e1cecee9bd64cb81f612729e8faf9f5c0e2265343e1b634ca2e0074069f4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuotykiu-lenktynes.pramoguslenis.lt/failai/iliustracijos/aic%20logo%20copy_2.jpg"
+    },
+    "_sourceKeys": [
+      "3d4d9e61c60afc9bca05fd30b1a11b0b8a47ce38354ad171bc9751e6404ee011"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/*_200x200*.gif"
+    },
+    "_sourceKeys": [
+      "2cdf2ccd7acd87daa38ae02a00893cd6bb75a29194076a0db2581f46bd719ce5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/1551.jpg"
+    },
+    "_sourceKeys": [
+      "bbdb4209332e494666d0bc0a65e7495fa16803c196300aca977dcb496fc23f71"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/a_k_banner1.jpg"
+    },
+    "_sourceKeys": [
+      "a5363cbd35bf1950157a7d7191a9fc4b531636e432ff725f067889835acb2ddb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/anyksciu_vandenys_160.jpg"
+    },
+    "_sourceKeys": [
+      "f3bbb444394e91aef9da731fe3e61efa8741f4b1ac40ff784691a712515ab55f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/anyksciu_vynas_2014_1.gif"
+    },
+    "_sourceKeys": [
+      "c97f6dec9ba96f1434add19e7524f89347f3756b7343c7bc8d4effbe7b2a1b7a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/baidariu_nuoma.gif"
+    },
+    "_sourceKeys": [
+      "aece69dc360c776fed7d9700086284b1347b602dd4aac7ab6cfd8af7224c2fac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/edox_200x91.gif"
+    },
+    "_sourceKeys": [
+      "8b3a36de9227fbfc16a33cb697430ef527fa95148bfc7dbaf98f89bd558fe144"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/futbolo_sporto_klubas.jpg"
+    },
+    "_sourceKeys": [
+      "9a5604ad5b4e1429286af94691569d4fc99a6b0578aa820c7ccfe2c83984cd38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/jaros_prekyba_140403_1.gif"
+    },
+    "_sourceKeys": [
+      "ff328ec06b1162f060285162044b1db151805d1717f1eba8b2acb1c36b3f231f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/kompeksa_200x150"
+    },
+    "_sourceKeys": [
+      "03f86707d280c5513e9eb5e21f16f8dfc66195027d15aa3a931012ba93afda22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/nominacijos.gif"
+    },
+    "_sourceKeys": [
+      "ba59409f3b2cffa5b5a0737d922f91515b99ab0fe3bc7d1181289a5ced4d5e5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/nyksciai_168x91.gif"
+    },
+    "_sourceKeys": [
+      "997799b9340889e5976575697f0daeb7098269f795d4a64919cb4bbcff10c200"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/res_banner.jpg"
+    },
+    "_sourceKeys": [
+      "2d4deced0e9d5b5a3688071e458d0e5c189ac804ebcd24d18a0e67e8ed270e05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/sportas_1.jpg"
+    },
+    "_sourceKeys": [
+      "382c26bf0630c5ff373fc6643f69d690e2c85999eddda0c0201a1dceee67be9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "||nyksciai.lt/images/sveikatos_oaze_982x110new1"
+    },
+    "_sourceKeys": [
+      "fe155420fb5bdbbb932b77209543b81aa329f4ac7cee87d96e74f052d095ecc5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "||offers.webitas.lt/o-images"
+    },
+    "_sourceKeys": [
+      "d7e584710ee9f4db1dcc5f45e6fab4e0f6d5b7e22e68840428c19c3e9a90f4bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "||opti-myst.lt/wp-content/uploads/2014/05/linava_2.jpg"
+    },
+    "_sourceKeys": [
+      "16aa59673c843dc449297fc450aad81e26f094c00593cc63194c35c98c858e2e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk120.png"
+    },
+    "_sourceKeys": [
+      "aaf75a812821effb18f9cf70510d0ef04ae8d8a4dd2d07dd0a8e771067495534"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "||pasidarykpats.eu/wp-content/uploads/2012/09/pasidaryk468.png"
+    },
+    "_sourceKeys": [
+      "3a51b3c53d57934b6687c944be5ef4b79f4ebc8a1bf966dff93a0db20f144572"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "||perku.lt/uploads/taupiems_tapetas.gif"
+    },
+    "_sourceKeys": [
+      "54a104f14be1d3ecb9848a89494a3afc5bddb2bf5e75858754a32c8e3434c927"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/static/cache/*adblock*.jpg|"
+    },
+    "_sourceKeys": [
+      "45cf46fc34f40573f8187631e2921bd499be607f73085a538153f9451511edc4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/beautyline%20ban%20180x180.jpg"
+    },
+    "_sourceKeys": [
+      "c29c78bc4f0bfedf11aefa14be6dfe6965657809c6897dd0fd262e3dac0d97ca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/kaimai_lt(2).jpg"
+    },
+    "_sourceKeys": [
+      "f10aa87020023a90372ac5dfa7c7ff32deea971e30ec0b48e0bfdfeed28964cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/mamu%20unija-1.png"
+    },
+    "_sourceKeys": [
+      "13cc82873524ddaa34240dcf2e5b410332a2642947ccd8be111bbacabf166136"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/mokinukas(1).gif"
+    },
+    "_sourceKeys": [
+      "a11de0ebfa333ccfc94b443a3a78d4d73417e73773b461329feee550458bf8c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/perku%20vaikui1.jpg"
+    },
+    "_sourceKeys": [
+      "61eaa15ec03893cc9078f8670b79e9d854bb990aedd345223e2c6442c5d17401"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/upload/image/zappy%20baneris%20180x120_frame_2.jpg"
+    },
+    "_sourceKeys": [
+      "dbace3778e91ee62c655717a640a3260f0cbc68362792d1dd3c451a1452b7fc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "||perkuvaikui.lt/media/wysiwyg/artmanija%20dovanos-04.jpg"
+    },
+    "_sourceKeys": [
+      "5a35447c9c8c33bb082cac69a0cc35300f618c3ec0382510f5247598f57051fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "||pho.lt/wp-content/uploads/2009/10/logo.jpg"
+    },
+    "_sourceKeys": [
+      "3c0362bab1344f53f150d5f4c97f87b68813318fe950a28c270af9b5ef4c6262"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "||pho.lt/wp-content/uploads/2009/10/musu_paveldas_150x300.gif"
+    },
+    "_sourceKeys": [
+      "9c5c7c8fa37a7417af458c8608878ed242c4e1b6090ae2b93f595a6ec356c2fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "||pho.lt/wp-content/uploads/2010/11/300_250px_fotonuoma.gif"
+    },
+    "_sourceKeys": [
+      "3d77e3f1007f0f3db9a48516f4e00e6752d098350a7cf86c2a80648e222d7bad"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "||pho.lt/wp-content/uploads/2012/06/idomiausios-knygos.jpg"
+    },
+    "_sourceKeys": [
+      "466cd7e10145e8af3e6636ec1d49d82ef69ae9a99ff08e57cd3329903a34ddfa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "||pics.livejournal.com/yourprivatehell/pic/00050ypw"
+    },
+    "_sourceKeys": [
+      "28265f8936cc52fd4c78436e9d2e89bd3580c80b47c09feab6b817d91c9b463a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "||pirkanglijoje.lt/wp-content/themes/pirkebay/images/regi.png"
+    },
+    "_sourceKeys": [
+      "2f88d1bd218b7473fa6fe0e4602c314c208b4a1e683e6eaa856fd0bf7aa4b949"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "||pirkpigiau.lt/shop/images/shop/banners-"
+    },
+    "_sourceKeys": [
+      "3a788d1fbbd4b292b2981079aa88e2edd92757037a462042c978ef684894ebaf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "||pixolain.lt/images/stories/peliuko.jpg"
+    },
+    "_sourceKeys": [
+      "100f3eaf6f67178280d2c50194e8a7f10358e6043d3f50240f025933365d8142"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokalbis.narod.ru/ismok.gif"
+    },
+    "_sourceKeys": [
+      "700227e717470665b83aad01d2429c23452d35ba662fcc77ef817eee97c1f1f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "||pokalbis.narod.ru/lietuva_laisva.gif"
+    },
+    "_sourceKeys": [
+      "df891fb85a4a10bf60cbf1dc4ba63f5320faf86658f05e6e40f6261c18bcb8dd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "||pramogu.lt/pramogult.png"
+    },
+    "_sourceKeys": [
+      "34f6be965129b76d5d21b8277994371bd347635e7faf8799d86a3d90d39972bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "||prekes.suaugusiems.lt/shop/affiliateframe.html"
+    },
+    "_sourceKeys": [
+      "3589448b9904c770456e2a04772b76412bf1b90826c3d9deb2362dd41eac3936"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "||priejuros.lt/admin/uploads/baneriai_right"
+    },
+    "_sourceKeys": [
+      "4967aebcb3591cd18df39888dc1e5a9f31e771df6b3cc8c2626f126b49451d30"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "||priejuros.lt/imgs/issinuomosiu.gif"
+    },
+    "_sourceKeys": [
+      "3e548c50eb125c129d3c3ad66b11bff502118709cd197d6b52b7322feda0282e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "||prokuraturos.lt/portals/0/skins/lrgp/images/banner1.gif"
+    },
+    "_sourceKeys": [
+      "defa11e135eadd52e255731efd70ee02775bdc71915f3b0f31504e853ba9d9e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "||prokuraturos.lt/portals/0/skins/lrgp/images/patarimai.gif"
+    },
+    "_sourceKeys": [
+      "c429fdb075e836b0e84fc1d005de29596f89b4b729ae7d4a70fc06bca919d777"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "||psichika.eu/wp-content/uploads/1/terapija.jpg"
+    },
+    "_sourceKeys": [
+      "d685a17b5c8ad817970b211035047b93a14edb8c56d3164002360d2cbb495f7d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "||psichika.eu/wp-content/uploads/2014/07/valgymo-sutrikimai.jpg"
+    },
+    "_sourceKeys": [
+      "8ff9aab6c0f8807fda1df41d087a2409909f1279d5908db5be5eaf7437185cba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "||pzemaitis.lt/wp-content/uploads/2013/06/vmi/"
+    },
+    "_sourceKeys": [
+      "5778f9add5a8e7789df102025485d5fef8d65a42db85c0db8337251a6e1518cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "||r.diena.lt/i/co-sites/"
+    },
+    "_sourceKeys": [
+      "6f845e6227677fcd20abe8ddf195ddbf28f557b1d0e92e6d74922fd3315256b8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "||r1.lt/paveiksliukai/*.png"
+    },
+    "_sourceKeys": [
+      "5c5078029a1e115455f5512e1c4f87261bedb8d9e1743cec571d433c57657a55"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "||r1.lt/wp-content/uploads/2013/04/fontanas-v-195x168.jpg"
+    },
+    "_sourceKeys": [
+      "8bf46886d1d8f8f48962dd5a12f3b70617f8fc725a30806133986f455a30b6a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcdrift.lt/2010-07-29/plakatas%20(1).jpg"
+    },
+    "_sourceKeys": [
+      "3f3dbadf93d8e2f1b11b2d2a36dddde6c57baa874ae7624a15c8ce96fa381aab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcdrift.lt/putinukas.png"
+    },
+    "_sourceKeys": [
+      "5ce849e6d32b07988f2911b3c4611f4f5eee9413f439152a33c0fc12ba29af16"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "||rcmodelis.lt/styles/hestia/theme/images/propeleris.png"
+    },
+    "_sourceKeys": [
+      "f0c3072868e25fa3f89a6b3aec435d3bdfd37f09f7ab86ba90ef9b601ff00dc1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "||receptumedis.lt/wordpress/wp-content/uploads/2012/04/untitled.jpg"
+    },
+    "_sourceKeys": [
+      "d87519c63a31cfe5d58323d39251ee303c6000de8b1b2afeab6818ab50b49254"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "||receptumedis.lt/wordpress/wp-content/uploads/2013/03/numeris7pavasaris2013virselis.jpg"
+    },
+    "_sourceKeys": [
+      "d232615befb69a3cb8b5799e78598cc7fced4d8834ba29695cd0ae9f9904f8a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "||redo.lt/galery/_redo/page/klaipedos_info20110506.png"
+    },
+    "_sourceKeys": [
+      "8b164abe8d4243c7e7bee7393a7c1696f8f4c51fde6b7b94a1297b7a9976c4a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "||reitingai.eu/draugai/"
+    },
+    "_sourceKeys": [
+      "480c8a717406677b77a409f6cee4c84b0732b138a40c310f1fee470e30661f29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "||rimi.lt/assets/upload/userfiles/images/background/frette%20fonas%201600x970-3.jpg"
+    },
+    "_sourceKeys": [
+      "d70513abc63ffdf1ca77b4e8e48f2d6da32d00c2fed3694bc62414fe63c12f83"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "||rkdragunas.lt/ip_themes/dragunas/rk_pav/"
+    },
+    "_sourceKeys": [
+      "06f4ddc302182ff007954ad03c1aaf5a8a74152c5c06bbf9442c056b7c4dec29"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "||rkl.lt/15min/index.php"
+    },
+    "_sourceKeys": [
+      "43c9f59118e42341f0a238b0ffedcce42cae79e96c3f43f2cfed726c5f631e8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "||russianamerica.com/top/logo/index.php?id=5983"
+    },
+    "_sourceKeys": [
+      "84e197edfc11d55e760f14cee8b60594c71b02de11613b955adbc62d502c87c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "||s1.15cdn.lt/img/banners/knorr/knorr_oru_ikonele.png"
+    },
+    "_sourceKeys": [
+      "df6797cf72b95e9af88a9e44c9f9e6ad95a670e13d547f5577d062c094c26a60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "||s1.postimage.org/xh5bk9p2n/siuntos_200x200.jpg"
+    },
+    "_sourceKeys": [
+      "23c0aaf7f3db4b5a36fea4cfc224cd9086f054693caac224960d2d0f02d40a47"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "||s2.15cdn.lt/images/infoblocks/vaiva-cili-535f717dc89e7.jpg"
+    },
+    "_sourceKeys": [
+      "3d6119629e031cdb8e19696153d44392023ab8f2bd7d5ab278dc3d26098c91ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "||s2.15cdn.lt/images/infoblocks/versli-lietuva-5371f4a560b08.jpg"
+    },
+    "_sourceKeys": [
+      "2b540238b9795c5d46d87a766370428541dc34b7d53898c1149348b3953b8509"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "||savaite.lt/uploads/bnr/"
+    },
+    "_sourceKeys": [
+      "6fbc0e0c7a7779420e648977905cfb1542a06e27e6e98e3b1f1c5a8c931f75a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "||seksas.us/rek/*.jpg"
+    },
+    "_sourceKeys": [
+      "c0a1f7a2a0d0509be0798a2eccdfc6c424708fcc1b0712703b1022cc63f62c2d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "||selonija.lt/selonija_draugai/"
+    },
+    "_sourceKeys": [
+      "98fb82f621197fd90a7a70896c85c326977358141fb445f17720668f5eb950b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "||sgg.lt/uploads/images/sgg120x60.jpg"
+    },
+    "_sourceKeys": [
+      "63469cfda47d1151eb6fd7121be2c415d2ebe681506ac55cd824c3a57e8e1b60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "||silaine.lt/kase/silokarcema2.gif"
+    },
+    "_sourceKeys": [
+      "dc0aef109d55da01d8e4703fafecfb4574eac7a00ee5a476717b15deaa40dfd1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "||silaine.lt/m/wp-content/uploads/2013/11/mla-2.gif"
+    },
+    "_sourceKeys": [
+      "d533e70de8a9ca8fe43906114e92d4a65b6847720bc8d40f05b9e59a115ef8cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "||siloaidas.lt/wp-content/uploads/2012/12/logotipas1.jpg"
+    },
+    "_sourceKeys": [
+      "311b4678b5a56811c1af5080344194a7dbbedd1b84bc664434f5d14129efdfd3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "||skaiciuokle.gf.lt/calculators/display"
+    },
+    "_sourceKeys": [
+      "a18912f77ee6322b570faaec2687e92014c4ff8c6d3750ebbfc0e61fcdc17c0d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "||skelbiu-files.dgn.lt/blplc_0_"
+    },
+    "_sourceKeys": [
+      "78c92c1dd71b99968cef1b3d1d1e2128c686a61a15bb1b2f92042911dd980099"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "||skrastas.lt/galery/_skrastas/banners/"
+    },
+    "_sourceKeys": [
+      "4010181d1b60863043260aab0323ad22e0e775d081eaeeaba42e82d35463d7a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "||smartseo.lt/*.png"
+    },
+    "_sourceKeys": [
+      "d258bed3c1c0b5149b83f89d686c3375fcca2758bb99ea5a1c3840cdf1f17135"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "||solisun.lt/?_nm_shot=files.1.2-329&_nm_nosession=1"
+    },
+    "_sourceKeys": [
+      "f8db4e56a4fedfe20bc7e02569ca69d895c81694013c1eae4733ab74ad3920e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "||spainetosdraudimas.lt/uploads/images/banner"
+    },
+    "_sourceKeys": [
+      "b3885c567fece620abe753f5790704bf2ee97d097e8dc622b66cfcd31321f923"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "||spainetosdraudimas.lt/uploads/images/sadomaksa_ct_cs.gif"
+    },
+    "_sourceKeys": [
+      "fbc069c1df80d2724d462915ecf56d5c4f1a882a79699e9367bfa1f5553e255a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "||spainetosdraudimas.lt/uploads/images/vart-ban-220x100(1)b.jpg"
+    },
+    "_sourceKeys": [
+      "2ebfed4183a465d612bb49c6cd007580999850aede94b0b791b3ebf917ab19c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "||spargalka.lt/images/filmai.gif"
+    },
+    "_sourceKeys": [
+      "c6ebc5273ecbf36729d10ad8df86a0daa94900040e007aff229a9c9821d19144"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "||spausdink-ilgiau.lt/image/cache/data/img/mokilizingas-182x182-182x182.png"
+    },
+    "_sourceKeys": [
+      "4c1e0aa1638b252a9cf681eb1d7276fc37425be7a22822b2a7edbc4ff5d0a432"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "||sport24.lt/uploads/net4.png"
+    },
+    "_sourceKeys": [
+      "b4ebb536363eb533f6c8702acb8c1b9933dfde22c57077548c6e30c07a9729b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportas.lt/uploads/image/03_klasika_2200x1024.jpg"
+    },
+    "_sourceKeys": [
+      "94ff20962f6c5fd02081b59e17a1664a64a33fb779d12b6c97567578886d0824"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "||sportas.lt/uploads/image/naujasis%20tapetas%20be%20vir%c5%a1aus.jpg"
+    },
+    "_sourceKeys": [
+      "0b779a17a88051d143d6b570f022d110236a7ac49cba86257f66af6f52e1ff3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "||suaugusiems.lt/uploads/affiliates/"
+    },
+    "_sourceKeys": [
+      "a15598652f739538db9daa6b1ba386654fa0c536490d06abafefa3b4d4f6da56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "||suru.lt/srwrd/wp-content/themes/scarlett/images/sponsors/lelo_pleasure_objects.png"
+    },
+    "_sourceKeys": [
+      "9b6ade5f373ac7bdcaa8291a0edecb04d4c213c9120dae93d548c5af48077526"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "||suru.lt/srwrd/wp-content/uploads/mbanner/banners/"
+    },
+    "_sourceKeys": [
+      "b74685049ff512341eac205ef1419629bdb762610f43750135a10fdeab8b8367"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "||suvalkai.lt/wp-content/uploads/2014/bigbus.gif^"
+    },
+    "_sourceKeys": [
+      "79c0037e39c564a23bbdc3bd50c7ebbd075895b9d9a351d635984875aaabfac7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "||sveikatosabc.lt/templates/main/images/skradio.jpg"
+    },
+    "_sourceKeys": [
+      "962f5feb2ef50e63092175b56ee2095ae57f0d7dd077a780d1d8e73a6458fe57"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "||tavovaikams.lt//cshowimage/augantys_rasomieji_stalai_vaikams_akcija6264s.jpg/165/170"
+    },
+    "_sourceKeys": [
+      "300b75fe6f05221f2b0d8b9a4093374f2225297b6d2113b15f8ca012ce8b313b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "||tavovaikams.lt//cshowimage/mamairvaik._180_5207s.jpg/165/170"
+    },
+    "_sourceKeys": [
+      "65d15fbadfb1b6763fbcde6de8ae6ee86b8a516d65efe384c30b897115878637"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/archyvas/skydeliai_mainams/"
+    },
+    "_sourceKeys": [
+      "142ea3ae86d37e7eaf5e29e84dfb81a254a243b05ccc73b015257f22e9978ad2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/infoblocken"
+    },
+    "_sourceKeys": [
+      "9d275adf3c5abecddcd8790f8264f8504f7e2d94f38d5c2969544e00b4e9dc8f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/n/iframe_baneris"
+    },
+    "_sourceKeys": [
+      "b882131227944e9dc3253fa9d21fe4adb4ea022be40e757aefdd5630981c2523"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/n/url/straipsnio_viduje/iframe_baneris"
+    },
+    "_sourceKeys": [
+      "9948b5a466db8513c02c6bf99f3cae19a20ddeb85eb744063827538f14aa4460"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/upload/image/n/iliustracijos/skelbimu_logotipai/ban/"
+    },
+    "_sourceKeys": [
+      "ba2851a510b542872f0aa382a7394c2ef40e3f9aa716b4b4bde17800cf957202"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/upload/image/iliustracijos/ivairus^"
+    },
+    "_sourceKeys": [
+      "3c6b763205955ef751e3d814b2c04096e04ae5ab7577376e7fe3302463798dec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "||tekstai.lt/images/stories/draugai/"
+    },
+    "_sourceKeys": [
+      "b849d79f9173409399bb96446eccdbd9514b8971f8761cdb713c6242244bf974"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "||teo.lt/akcijoms/uzsakymoformos/kontaktai3.php?no_close"
+    },
+    "_sourceKeys": [
+      "cb73642b994ba19a41a5451491c96cbc6482ba94a399205ed46b73d4bcd89fa0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "||tevu-darzelis.lt/img/hot-stuff/happeak-ispardavimas.jpg"
+    },
+    "_sourceKeys": [
+      "bdfd5e47a22b5a5dc1f62f43297d340c69548d5a56289ec8f6717ef182b7ebd9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "skaiciuokles.inbank.lt"
+      ],
+      "initiatorDomains": [
+        "ermitazas.lt",
+        "gitana.lt",
+        "itwork.lt",
+        "kmobiles.lt",
+        "www.topocentras.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "9bb9a8373a3a68fb9d0b38c40a2d3eaa2b56c75f157a102279ff7da74420fee6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "||themusic.lt/images/geramada12x120.gif"
+    },
+    "_sourceKeys": [
+      "d81233accc082c7850b659db879eae36c8bc90c71aeb76ef47c9078e77c1ca9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "||themusic.lt/images/imknuolaida2.png"
+    },
+    "_sourceKeys": [
+      "ca53610742fe0730e4d58066b40c29606c0799bb9da0a9ae087d7b40189b44fb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "||themusic.lt/images/thesport.png"
+    },
+    "_sourceKeys": [
+      "4f331abf849def491386b394c209ddcf3250e6a63e486bf5139612b0903e7586"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "||themusic.lt/images/vienisi.png"
+    },
+    "_sourceKeys": [
+      "fbeb05b05edc134e2bf34165c74e0276ad98683dd59500097615fe1781642eb1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "||tiketa.lt/files/2014.04/id_18980.jpg"
+    },
+    "_sourceKeys": [
+      "e1e0383fcaa1a1ae4a19318a4af8a79a2f76212495ad433a3608bf70fdd8732c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "||tinypic.com/2yos7f7.png"
+    },
+    "_sourceKeys": [
+      "258a57e1a294ebef6fbe07e22df10d96d93fb3a71f29c896581c7bb7fbd227f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "||tinypic.com/k4vxvm.gif"
+    },
+    "_sourceKeys": [
+      "8d148ae0b9b44057ae92ba45321b31070fc0ce8f1cec3a551c51d2e1ca8ea2d8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "||torentai.lt/pic/ldiena.png"
+    },
+    "_sourceKeys": [
+      "a3eb8e28403d1f01763e39e08793c982020e8abd1e333acbe8bc1847b4258489"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "||torentai.lt/pic/logo_mazas.png"
+    },
+    "_sourceKeys": [
+      "6fb538ffd9362545ebdbb1456d1f2b32432e7dd4f72444c24ed3ab3da2eafddf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "||torrent.ai/*/advise/"
+    },
+    "_sourceKeys": [
+      "06779ffde7742d5041fcda9393d51b84a583262cc76e64ba8c9a91305dcbd86b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "||torrent.lt/*/advise/"
+    },
+    "_sourceKeys": [
+      "b74753d9131f62ba90d3ec11deb33e6d628bb9d116d9082e34ae258781e83ac6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "||toxnet.nlm.nih.gov/help/widget/lactmed_widget_large.html"
+    },
+    "_sourceKeys": [
+      "d8de04c2a0d64c219ebcd7ca059f1f0c0989d839470292bdccdd64856b4df61d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "||transplantacija.lt/images/15min.png"
+    },
+    "_sourceKeys": [
+      "df6ebe2b4468ac82bde98381a0aa5bca4e49be5c915c99eaac13d687a63513c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "||transplantacija.lt/images/novartis.png"
+    },
+    "_sourceKeys": [
+      "82ebb9cc248c92a3f4d0a7fd9efca9a38a252c49674e07e31494f65e26bfcc58"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "||travianas.lt/images/2007/zaidimai-01.gif"
+    },
+    "_sourceKeys": [
+      "08e7dc856e848401eadd0547387203d25bd87fc9f322b37015bad940591e97c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "||travianas.lt/images/2008/travian-lt-03.jpg"
+    },
+    "_sourceKeys": [
+      "cd27f850e54f33671421b261c22e029f16a6f9ececf53b943c16dae7bfeec921"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "||triada.lt/image/data/image001.png"
+    },
+    "_sourceKeys": [
+      "4e70f66a68c582d6f66e18aa0b17c453d02701fd7d62a1a38b40da10a728ded1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "||triada.lt/image/data/lazer-250x250-1.jpg"
+    },
+    "_sourceKeys": [
+      "83b1d1f051a6c380d5201ab7685163325f0fdac40c2f6296933b50feaae7b9ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "||trl.lt/di-jqox06.jpg"
+    },
+    "_sourceKeys": [
+      "9a8b84687007967e197aa9fc2c9883d3d13cfe71c335ed8d826045520be8a493"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/2454399.jpg"
+    },
+    "_sourceKeys": [
+      "51d5c1817dc5786acbdd209bf2a34d38861f9682a0f02ac461fcf6fec7d58c34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/banner_300x250(1).png"
+    },
+    "_sourceKeys": [
+      "6c1cd5aebb8bc37951c8db5799ce8a51ebca27ff294ba76fb3b8cf90243f2783"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/image/000/indeliailt_baneris__300x200.jpg"
+    },
+    "_sourceKeys": [
+      "bc556352c10256eb637ace7c830f237a649c446c4f61956dd16fdc30d024542c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/image/pwr.jpg"
+    },
+    "_sourceKeys": [
+      "d9f60d84c4a0f107a8d323912df75bc460d971444102eee91490e821c9a46a7c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/kalediniai_dm_tapetas.jpg"
+    },
+    "_sourceKeys": [
+      "7424fb6f762fc8fac5247b501c67856c00c58635ff2d236d521248c4f7be6f45"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "||tv3.lt/uploads/wp_danai.jpg"
+    },
+    "_sourceKeys": [
+      "04b43201cc349c97422a0ceb0f7d9b26fbdacabe1a5aa591a9e87ebd8833342d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "||twickerz.com/banner/125x125.gif"
+    },
+    "_sourceKeys": [
+      "31b00886ec291d6d0ce4d9395d3125e546b33db585ced2c198cf82ba27d69f20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "||ubl.lt/skaiciuokle/calculator.php"
+    },
+    "_sourceKeys": [
+      "f76b29ac59c135ebade4ab272824806b9275db138fbc9628e7e0ace526f149fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "||urmas.net/upload/rk/"
+    },
+    "_sourceKeys": [
+      "c9dd10f74d04a272a5f693e094a1f80ae8abd0ead422dd9a46d014c7f58c51f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "||vairuokime.lt/img/lyoness.png"
+    },
+    "_sourceKeys": [
+      "2b8b13273a71a43b0d1d08b152f1b2e87b78c619902ab059a21acf8774315f67"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "||valstietis.lt/bn/"
+    },
+    "_sourceKeys": [
+      "af801827030ec0a5d1a69596b42ee95cc87614c9c85912fe7458de77c4a77381"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "||veberis.com/banner/"
+    },
+    "_sourceKeys": [
+      "d2586cf6477c10c5c2f76ecf44d24581b05da674b6b6cceeb90b747b31f0ab3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "||veberis.com/foto/balionucentras/balionai.jpg"
+    },
+    "_sourceKeys": [
+      "175f88e318ce27092d2f5ac9d147d913a9e1cf87ca9f84d2657139d4a4aebce4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "||veberis.com/images/virselis_26.jpg"
+    },
+    "_sourceKeys": [
+      "d7eec9a9b442f139aa4e47a0de63d68922b0bd3f454aa1fe37f257ce1fcdb9f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "||vendors.lt/pics/dumblascom.gif"
+    },
+    "_sourceKeys": [
+      "fb028817edafbb4cac8b1ec4f33c98dfe32559dcb3448f7396f1e5f3422991b9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "||vendors.lt/pics/hero.png"
+    },
+    "_sourceKeys": [
+      "51e8808ed4512cadd5d9eaaecf6310c527581b00f81815d6d7fd084b2b4ab3b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "||vendors.lt/pics/linkuva.gif"
+    },
+    "_sourceKeys": [
+      "894b049e48350cd44dec70a18f50ad23327e5b6d567597f4982938d0d83e7656"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "||versijos.lt/wp-content/uploads/2015/07/parama-tinklapiui.jpg"
+    },
+    "_sourceKeys": [
+      "6666ecbb1b5eb9396679b04c4bd5c41866b87787419c574418011e3495e1a3f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "||verslovirusas.lt/wp-content/uploads/2013/10/logovisi.png"
+    },
+    "_sourceKeys": [
+      "b7109d32cce6975d740b6aa851419c9d0b22b15ac8b61ff96a234167b4e7fc96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "||vienaturis.lt/detales2.gif"
+    },
+    "_sourceKeys": [
+      "56339d4825bb6071788bd9b859381b96152cfe6cad5a7fa17586d281163969a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "||viktorijosvestuves.lt/blog/wp-content/uploads/2011/10/fotoperlas.jpg"
+    },
+    "_sourceKeys": [
+      "437e6d0f4378b9730a5e483bcd178f32331c20ed1fb19187669da3a69f6eb40d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "urlFilter": "||viktorijosvestuves.lt/blog/wp-content/uploads/2013/07/idw.png"
+    },
+    "_sourceKeys": [
+      "7591fe10689a826cbf187c41b783bdeb600da2bddeefa60029ba7cc9015f784f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||vilniaus-turtas.lt/images/isikelk.gif"
+    },
+    "_sourceKeys": [
+      "597b340dfbfe91f65d03b23615279d20827d836d3148a8c2a37118de7f418476"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||vilniausgidas.lt/wp-content/uploads/2013/05/vorutos-logo.jpg"
+    },
+    "_sourceKeys": [
+      "654aab7edce61d4a2bcc33e4762c0878e88a8bff50df39b8c363c8cbf8b5f936"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||vilniausgidas.lt/wp-content/uploads/2013/06/g.clips_.png"
+    },
+    "_sourceKeys": [
+      "35d804007c03af82f92095c5cc2aceb06e6ae36782328fa25bf48d8edbd86b9f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||visalietuva.lt/companies/banners/"
+    },
+    "_sourceKeys": [
+      "b98707d79cb851d9866090750e7a57278eabe867dfe5236edc4013012c8245df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||viskasvestuvems.eu/images/paslaugos/patalpos/alauso/alausoslenis.gif"
+    },
+    "_sourceKeys": [
+      "df4318a2c489b24a95de5b43cbad91bc05d3ff83060f0a91ddb849cac8b5c825"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||vz.lt/images/publicationimages/c8e2a76c-d6ea-461b-8fa8-215a54ed4c4a.jpg"
+    },
+    "_sourceKeys": [
+      "023a97dbc0bc2b848612bb5f9710b4ef146d66cec0122a1dea7e91fd347e5ec5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||vz.lt/img/logos/cv.png"
+    },
+    "_sourceKeys": [
+      "2836813c262c589f7e9b1fb3e188ce52b32e219a750b6d603511e36881a9d4d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "||wad.ojooo.com/bs_b_en.php?u=226712"
+    },
+    "_sourceKeys": [
+      "45d65eeaafb91072ac0a9e69358b90bc871e3497efd7f8af65d880cb43bd3a10"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||wildcat.lt/images/wildcat_180.gif"
+    },
+    "_sourceKeys": [
+      "e81d7f5837105f07abb3de412d127dc50c0e0d5a5e797038e40481d8309a6434"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||wp.com/www.myliusoda.lt/wp-content/uploads/2018/03/ali-sale.png"
+    },
+    "_sourceKeys": [
+      "c25eb9404219d6a1831a6c2e8464490d51fe2a49b7803862afc3ecdc80394816"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||xn--kl-9ma74a8c.lt/images/angleris.jpg"
+    },
+    "_sourceKeys": [
+      "7bbcd387cf993f057befdb1abf467120aad25dcc86d567d5c48bbc05ef73ba03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||xtgem.com/images/banners/32x32.gif"
+    },
+    "_sourceKeys": [
+      "1194e0bfff862beb3fda51451fa4bad66b8367db32e149aa4d4b73384421b18a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||zigzag.lt/laiskai/img/zigzag_stovyklos_280x169.jpg"
+    },
+    "_sourceKeys": [
+      "ed228b26cf3bd3685cdff84a1f362a464ad109017c15d5ef5c21fc637134d7bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||zindyk.lt/wp-content/themes/purple-pastels/images/mamairtetislogo.png"
+    },
+    "_sourceKeys": [
+      "45daf04348711915ee199e8d07ad339646536d8d53dde966c8b1f677f1c7e760"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||zindyk.lt/wp-content/themes/purple-pastels/images/nesiokles.png"
+    },
+    "_sourceKeys": [
+      "766c0113bfaaee6d2e9426e5bf30e0bfd8c2a78ef742457392e1263ebf1e4b04"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||zindymas.lt/sites/zindymas.lt/files/la_leche_banner_0.jpg"
+    },
+    "_sourceKeys": [
+      "73780afa26a8611f67e473c7355e4d61ebedf56662da1f7e66814050eb33ff3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "||zindymas.lt/sites/zindymas.lt/files/milksense.jpg"
+    },
+    "_sourceKeys": [
+      "8ecdd858abcabe29968a3c0105d7fe5fbcac7dc06c49a2b51875580781c7438e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||zindymas.lt/sites/zindymas.lt/files/ptc-logo2.png"
+    },
+    "_sourceKeys": [
+      "74d60d4046a61753684ae97cb03dbc8cbc736bcb8bf33d5ec3d990e9a9202925"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||1588.lt/web/companies/banners^"
+    },
+    "_sourceKeys": [
+      "f3527feb96d2215325fe22ab37e8d18e9713b9987421086baf1c298cbba31186"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||vilniausskelbimai.lt/adv^"
+    },
+    "_sourceKeys": [
+      "e1516c05e68cea680c050abbc48300553e1822502bedd59de6e550cd70a4450e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 424
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "lnk.lt"
+      ],
+      "urlFilter": "||p.jwpcdn.com/*/vast.js"
+    },
+    "_sourceKeys": [
+      "3fadfe5468eb3d3fdc822729d186fc01a0e4afc0a8e47f261489a8db465b1dd4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||serveris.lnk.lt/*/ad.js?"
+    },
+    "_sourceKeys": [
+      "aa12fc2a946e76b08cbcd1d626df1c6a8efb2e5370894069242c7c9ae21f2b84"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||serveris.lnk.lt/*ad.xml?"
+    },
+    "_sourceKeys": [
+      "2e05ea9f52f72fc90545fa431fc1754d8fb6af431f9ed1ab2abeceda8bfa3936"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.vz.lt/files/antsrauto/countsjs.php^"
+    },
+    "_sourceKeys": [
+      "380176e8f7d32a3ed1078bbcaa077b04d7770aafc7fa26244be2bf56cfed43b1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 428
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "banners.igloro.info",
+        "bms.creativepartner.lt",
+        "prod.one.lt",
+        "trackers.adtarget.me",
+        "rkl.draugas.lt",
+        "r-scale-fb.static.go3.tv",
+        "skpiramide.lt",
+        "core.dimatter.ai",
+        "befirstcdn.com",
+        "trafficbass.com"
+      ]
+    },
+    "_sourceKeys": [
+      "310c06384a499a79fbae030986c33186304f9fecfd3fb88bc0128c4ef017a3f5",
+      "9966dc59f9a7b16e9b6f03b2495ad8f5d557fb0293acd4f1b2df8022a6686ed9",
+      "162d69944e658a20259466161d1a06ae3269b4cfdb413cc9274e2b6034ee6caf",
+      "6b23c0877238051b98861a977eb6c2af13555b23d6e13af2c138607758a0480d",
+      "773f815ea6cae4c9051fc1d69f4eef1d0481703fd8dc47f69d2bca15a8f535cf",
+      "857e8bafbebb010f6da09b0bafac2aa8f6bd2b67c289c2ec4ab95bfe4bb747d6",
+      "a4002dcd955552239b6c632f708876c29ae710d42a5e3e810fb1b78e38fb0864",
+      "6001a6571c8e1a3814275d84a962a75f520b661c5e8351d90693245a7ca417da",
+      "a5a00e91240a2f3637cca0178ced03f8b3ef559e6111e8bc5f4b65bf4ef9fc33",
+      "640593979cfc880305fdeebe96d9ab408b2e6a04b0c2b61cc8da35fcb45ad0f9"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "banners.igloro.info",
+        "keys": [
+          "310c06384a499a79fbae030986c33186304f9fecfd3fb88bc0128c4ef017a3f5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bms.creativepartner.lt",
+        "keys": [
+          "9966dc59f9a7b16e9b6f03b2495ad8f5d557fb0293acd4f1b2df8022a6686ed9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "prod.one.lt",
+        "keys": [
+          "162d69944e658a20259466161d1a06ae3269b4cfdb413cc9274e2b6034ee6caf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trackers.adtarget.me",
+        "keys": [
+          "6b23c0877238051b98861a977eb6c2af13555b23d6e13af2c138607758a0480d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rkl.draugas.lt",
+        "keys": [
+          "773f815ea6cae4c9051fc1d69f4eef1d0481703fd8dc47f69d2bca15a8f535cf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "r-scale-fb.static.go3.tv",
+        "keys": [
+          "857e8bafbebb010f6da09b0bafac2aa8f6bd2b67c289c2ec4ab95bfe4bb747d6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "skpiramide.lt",
+        "keys": [
+          "a4002dcd955552239b6c632f708876c29ae710d42a5e3e810fb1b78e38fb0864"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "core.dimatter.ai",
+        "keys": [
+          "6001a6571c8e1a3814275d84a962a75f520b661c5e8351d90693245a7ca417da"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "befirstcdn.com",
+        "keys": [
+          "a5a00e91240a2f3637cca0178ced03f8b3ef559e6111e8bc5f4b65bf4ef9fc33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafficbass.com",
+        "keys": [
+          "640593979cfc880305fdeebe96d9ab408b2e6a04b0c2b61cc8da35fcb45ad0f9"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "/reklamjuostes^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f41f98a59b321702b87d9323ab86c7d3f1f259cb7ab8cd2bd5240ac164964ad0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/texts/",
+      "initiatorDomains": [
+        "miskobirza.lt"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9cf6bd25b33550e21ae2e5a908e61d75729ba8964a0337036210c0d26663298c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "images/banners/",
+      "initiatorDomains": [
+        "marijosradijas.lt"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a13f524c234f8faa54ffc3d0ed4b56f6f1869d981be6c6d8b89e602cd136c584"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "pav/",
+      "initiatorDomains": [
+        "orai.biz"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "66f3bc04f0c5d3c95f481137281b2cf002c663781a41f787547ec96a846809c1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "uploads/images/",
+      "initiatorDomains": [
+        "gyvenimoguru.lt"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a3f1b93dbf8ab3b56dd697e5ac97bcd2429883ce391c0634eea82ef50752d0c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/*_300x400-",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b6891bb302e38001b8d82e30b18db2181b882c1a2696fd8e72f6e6413c768fc6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/*_300x400px-*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a46383f87d4be902aead00d393c6c7be5e2d0d15e13d4bfa6dc7f3459058a7ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/*_baneriai_*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5fabb3142182f23fb879305052af0939cb4c8b385db5a5ef1f8ba48d39eac913"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/static/*/200x300_*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "fd22bc2388062f02474f36acb342290ef8e789c3bf455a49c65919d787e3ab21"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/static/*/300x400-*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f6a255877448b0ae1a37b14fdff34ce566b74784489266061c4ca2d4cb8e614d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "||15min.lt/static/cache/*-adblock-banner-*.jpg^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "2d666cf585bdf95f2a98ec4f42c55b1bc91d5f6669f2bc77db8980060544d031"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "||www.technologijos.lt/upload/image/iliustracijos/11/980-lt.gif",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d4ee706dc3fe7c6b997df27588a95f0aa968ff8d4df7db67e3ebe3c5eb2e44b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "||elektronika.lt/*150x32_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "1a0b6b266f1a258edb0ae9f452536e09a3a24783715dfaad4669e12f745d79d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "||elektronika.lt/*150x32.",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4570ebac00c240765c24f86d15b171192a0d9dc9dd250843bbacc057500ebd33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 443
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "delfi.lt"
+      ],
+      "regexFilter": "\\.dcdn\\.lt\\/images\\/[a-z]{4}\\/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "eb5e2df89ab920f712953e23dd9f68016b3969a5a6765fd3f9872e01b9308cca"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 444
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "muge.eu"
+      ],
+      "regexFilter": "muge\\.eu\\/wp-content\\/uploads\\/20\\d{2}\\/\\d{2}\\/thumbnail.*",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "5c46badb970a737eb37fb0f4db395f428adf90c06c15ce0d8aafcbba7a8708ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 445
+  },
+  {
+    "condition": {
+      "urlFilter": "||zarasuose.lt/reklama_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "76fdee282993c30d76899ff4c591ff0fb957e4bb9cf5b5ba92d9f34d08e2517e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||img.lrytas.lt/7bet^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "628c3d79275313cdbb728322700df3bd2c2fe649a38c0efbba7d1496b95c15b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||wasabi.bstatic.com/banners^",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "65176f1095d42d5dfd97a978e324eecccd219f7dddc4305b0cba9bd23f2c8602"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 448
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "world"
+      ],
+      "initiatorDomains": [
+        "filmux.to"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "888761e18136a65870ff7051f6f2c13d701515bf7e8bc31ff21261ae104792f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 449
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "info"
+      ],
+      "initiatorDomains": [
+        "filmux.to"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "060b4c07009dca3b85a2240dc85e5180a5c14a57b132a30ba96cc86a226cac96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 450
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mokilizingas.lt"
+      ],
+      "initiatorDomains": [
+        "baitukas.lt",
+        "kilobaitas.lt",
+        "primtech.lt",
+        "rigveda.lt",
+        "technoringas.lt",
+        "trajektorija.lt",
+        "valmanta.lt"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d4440963a68a1459e0f0e8071cda3c6aacef47e299b7e849f3f11a2f350c4437"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||sblizingas.lt/skaiciuokle/",
+      "initiatorDomains": [
+        "avitela.lt",
+        "bigbox.lt",
+        "ermitazas.lt",
+        "fortakas.lt",
+        "itsupply.lt",
+        "iwow.lt",
+        "kilobaitas.lt",
+        "primtech.lt",
+        "skytech.lt",
+        "technorama.lt",
+        "topocentras.lt"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "ba414fe4093038b7032c5f1dd19da471502b41876bb8b9b57367ec9043eb4485"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 452
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "lnk.lt"
+      ],
+      "urlFilter": "||serveris.lnk.lt/files/x/*/*.mp4",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "52b4ea991e41fe6d44ec521717ac1f10bf859db882e29e9172930a52079e70bf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 453
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "filmux.to"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "_sourceKeys": [
+      "c1784c32b4256b0cd9176440bbef7f8f96a326f94213c87d5b8b6dcba52d401a"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "filmux.to",
+        "keys": [
+          "c1784c32b4256b0cd9176440bbef7f8f96a326f94213c87d5b8b6dcba52d401a"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "betsafe.lt",
+        "optibet.lt",
+        "enlabspartners.com"
+      ],
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "_sourceKeys": [
+      "3979274132ca19c20a1a3981a6131cd3587f9eefb28680b1937b53fbc7c9dd82",
+      "a001551963e31e8b774c35469d43ae1f007ac7177dc84fa6d3f35e5ecd4d165b",
+      "2962dba13866ae39fc9628d3de4fb8a0e150866ac64433cebbe18928b2419c00"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "betsafe.lt",
+        "keys": [
+          "3979274132ca19c20a1a3981a6131cd3587f9eefb28680b1937b53fbc7c9dd82"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "optibet.lt",
+        "keys": [
+          "a001551963e31e8b774c35469d43ae1f007ac7177dc84fa6d3f35e5ecd4d165b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "enlabspartners.com",
+        "keys": [
+          "2962dba13866ae39fc9628d3de4fb8a0e150866ac64433cebbe18928b2419c00"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "_adcash|",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "_sourceKeys": [
+      "5ea966941dd3fab7b36bca59968a98aeb7ed1c1884ff1c8c95f50784ff55ecfa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "pakalne.lt/wp-content/uploads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "dc8c7e838b737342c9e7d40abc2668f4c1572adec9e815d13521e199849fa43b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||elektromarkt.lt/assets/img/marketing/940x450/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "7524015735260f0da04fac8ba1261ca0d394f9c9d70d86f9e3370fd7a11d8ba6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||imones.lt/companies/banners/*.gif",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "098a262c02c40f99d942f953d845e3fc3fed47d926dcd5dddb4b6193fb67c98d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||imones.lt/companies/sponsors/*.gif",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d8b227f53ca27ea77b4d12ae2fb884fdbd933af7bf436c59a1407f968306f899"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||itiketini-faktai.online/reklamos/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a114e165330db44fd3eef7850bfb422471e260a45f6593b703afc26bd668720e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||lkl.lt/banners_new/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "cda7ade11597ef666e3d2d42eb2bdac7b0d101e269493d2c2db2f8a81a723f12"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.autoplius.lt/static/images/desktop/landing_page/featured_promotion/ap_loan_promotion_08.png",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "00c69d0d72b089be996f518bd76cabb41756bc79ce76d5ed78eb64f0ea59901c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/upload/image/*/980x200.jpg",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ae85ad1b1d069f8712d6d187f017a12048feafbfd2624e939bed5246f3f2a0a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||vela.lt/images/additional/footmate3.jpg",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "25fbb160de8adbdbc77dc8d59f309d01dd97b2dd829ac035439ce2584298c79f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 465
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "lrytas.lt"
+      ],
+      "urlFilter": "||plus.lrytas.lt/staticbanners/*1200x250_300x370.jpg",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "504e8cc7ff4cf780dc64cc2e44f4f326791a7bcec3c0fce52847d01cc6169116"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||aktualu.com/pop.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "005623679f0ee338c163b0a3d37661cd8b176d87503615ad175407c71c39050c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 467
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "chatas.lt"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "b64995c2582b450dfe5124e3bddf5c17331ec87d228ad05f96eed052b45d1a76"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "chatas.lt",
+        "keys": [
+          "b64995c2582b450dfe5124e3bddf5c17331ec87d228ad05f96eed052b45d1a76"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 468
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adart.hostin.lt",
+        "adbox.lt",
+        "adclick.lt",
+        "adsplius.lt",
+        "adverum.lt",
+        "aleja.lt",
+        "darnipora.lt",
+        "keliones.lt",
+        "top100.lt",
+        "on-line.lt",
+        "komi.lt",
+        "ads.vmedija.lt",
+        "ads.one.lt",
+        "revive.imones.lt",
+        "banners.adnetmedia.lt",
+        "static.grupinis.lt",
+        "skaitliukas.eu",
+        "aj2392.online"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2cff90b036bdd392b3c7090c220e5495650faafaab27e0b0a57ebdb7964ca1bd",
+      "7412c22d5655022a6ecfa2770d411ebb99e9842809ef60397144e831016b0c19",
+      "ff2d83631185626fdc563c1915cb0a3fbc6c66329a49424e0eba3d0f5400ce61",
+      "7fe54e66c24960605e69447d7b900f4f45c9ef4b51afd682e7b2f2358c463660",
+      "4036bb8160fce0a8f6c7449d01472a76adde190d4e22156cabcb216d2267ca9f",
+      "992e0e21aba64518e4cf0eacaa2d91061a4c0a0841f0185ad7b0b76a94d89f66",
+      "c9af52a099f31b98a7d1d4f705f47f444193ca35c8324e4bfd8a54e11ea434c6",
+      "940fc7d5f6709d657bfd26cb530f18529705bfb1807ff8fa5fd33fc5ccc5c61e",
+      "4398cc1a4310b701d850a28f6f8c6304fadfc1ff354d1b208d9e6971a295c126",
+      "1e8ddbcea63b58939413d6e174b7eba34e1a79dbee81c5eba6f7c1721e3d7c1a",
+      "eeb541aa88cb5106a3c2a6af697c5d62630fc4e3c4049bde0968141abbb0a926",
+      "da594b5684c4ac71de3b0a256f7dbfc6afbe14030bdc88011b675b95e11e08f4",
+      "ad24f015de411ab7a4e1f0c9d985cc56dc44a2e9109e0ba189c781c8a2ecd81a",
+      "3af7761dd13bf141c82a628a6def31e68c65b60c560ad50ac35c07f1a8c49b3c",
+      "59eef2d1a9017d12c050cf62279da6f3d729c4fddcfd29a8a48a88e5763f1df8",
+      "042524ef591f612d34b5e11768c6f2704d3aaae8617fa3c44ab129973ce1c783",
+      "6f606210dd3a4f6b7756f9eb0d9d684665e40c00984b8e1e1b843242edc0560b",
+      "391470d87135846564185073863bad303b3e4553d250c7219569e8944d66f2db"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adart.hostin.lt",
+        "keys": [
+          "2cff90b036bdd392b3c7090c220e5495650faafaab27e0b0a57ebdb7964ca1bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adbox.lt",
+        "keys": [
+          "7412c22d5655022a6ecfa2770d411ebb99e9842809ef60397144e831016b0c19"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adclick.lt",
+        "keys": [
+          "ff2d83631185626fdc563c1915cb0a3fbc6c66329a49424e0eba3d0f5400ce61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsplius.lt",
+        "keys": [
+          "7fe54e66c24960605e69447d7b900f4f45c9ef4b51afd682e7b2f2358c463660"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adverum.lt",
+        "keys": [
+          "4036bb8160fce0a8f6c7449d01472a76adde190d4e22156cabcb216d2267ca9f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aleja.lt",
+        "keys": [
+          "992e0e21aba64518e4cf0eacaa2d91061a4c0a0841f0185ad7b0b76a94d89f66"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "darnipora.lt",
+        "keys": [
+          "c9af52a099f31b98a7d1d4f705f47f444193ca35c8324e4bfd8a54e11ea434c6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "keliones.lt",
+        "keys": [
+          "940fc7d5f6709d657bfd26cb530f18529705bfb1807ff8fa5fd33fc5ccc5c61e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "top100.lt",
+        "keys": [
+          "4398cc1a4310b701d850a28f6f8c6304fadfc1ff354d1b208d9e6971a295c126"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "on-line.lt",
+        "keys": [
+          "1e8ddbcea63b58939413d6e174b7eba34e1a79dbee81c5eba6f7c1721e3d7c1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "komi.lt",
+        "keys": [
+          "eeb541aa88cb5106a3c2a6af697c5d62630fc4e3c4049bde0968141abbb0a926"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.vmedija.lt",
+        "keys": [
+          "da594b5684c4ac71de3b0a256f7dbfc6afbe14030bdc88011b675b95e11e08f4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.one.lt",
+        "keys": [
+          "ad24f015de411ab7a4e1f0c9d985cc56dc44a2e9109e0ba189c781c8a2ecd81a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "revive.imones.lt",
+        "keys": [
+          "3af7761dd13bf141c82a628a6def31e68c65b60c560ad50ac35c07f1a8c49b3c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.adnetmedia.lt",
+        "keys": [
+          "59eef2d1a9017d12c050cf62279da6f3d729c4fddcfd29a8a48a88e5763f1df8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.grupinis.lt",
+        "keys": [
+          "042524ef591f612d34b5e11768c6f2704d3aaae8617fa3c44ab129973ce1c783"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "skaitliukas.eu",
+        "keys": [
+          "6f606210dd3a4f6b7756f9eb0d9d684665e40c00984b8e1e1b843242edc0560b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "aj2392.online",
+        "keys": [
+          "391470d87135846564185073863bad303b3e4553d250c7219569e8944d66f2db"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 469
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "plius.lt"
+      ],
+      "excludedInitiatorDomains": [
+        "domoplius.lt"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "df19c2251bc1f5f203c628bc7160d728d0de1f11062364f4f973951e6264defb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "://ad.admitad.com^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1d2d96c4c995b7893417082e9d4d98dd8bfcd6186ad6adbbde28074e6497c73c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 471
+  },
+  {
+    "condition": {
+      "urlFilter": "||imones.lt/searchblocks/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a5602b8709bcf5d3b58d09908d702a6e9854c787bf7dea432dbf3815e2e6ab60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 472
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "topsport.lt"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "popup"
+      ]
+    },
+    "_sourceKeys": [
+      "f3d6d3d7f9215e7ecf23757074af3cf16569c19a3e5185ab0f5cf93903bc7155"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "topsport.lt",
+        "keys": [
+          "f3d6d3d7f9215e7ecf23757074af3cf16569c19a3e5185ab0f5cf93903bc7155"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": ".png#",
+      "initiatorDomains": [
+        "siustis.net"
+      ]
+    },
+    "_sourceKeys": [
+      "327450f303babfcea5f35afb7de1d7a0ff6b5e3078fead6ce3f91cf0699b1af7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "15minlt.adocean.pl/files/js/ado.js"
+    },
+    "_sourceKeys": [
+      "f3da1225cb0bdeef3a768bffe4e7db7b64f256c3420bf0ce15dcd5dbe65740ca"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "imasdk.googleapis.com^",
+      "initiatorDomains": [
+        "lrytas.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "d7fff251166e998780616efb0532f01e003369e3c403b41900d053e0af162cc4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "|http://skelbimai.one.lt/uploads/modules/ads/"
+    },
+    "_sourceKeys": [
+      "25a2df7bd70686dc12566a506ff5244e453bcf68f8adbbffbf41663378b0f362"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 477
+  },
+  {
+    "condition": {
+      "urlFilter": "||9menesiai.lt/image/cache/data/baneriai/"
+    },
+    "_sourceKeys": [
+      "69298ec494d33e148ad57030d5bb6d1d7388762238c77f4509c5d7798051634c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||apatinukai.lt/image/cache/data/baneriai/"
+    },
+    "_sourceKeys": [
+      "6c46333a7ab6ed64fc4253a2bc13db87ebfa894a840718a63adc121d6dbb3056"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 479
+  },
+  {
+    "condition": {
+      "urlFilter": "||banners.adnet.lt/i/euro_game_1.js"
+    },
+    "_sourceKeys": [
+      "ef235584f05fc59c53e4ce356645168359eb39db7bf89020e6963c73a82b7bfc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||entitlements.jwplayer.com/*.json"
+    },
+    "_sourceKeys": [
+      "f190998cf3643abec8015c46571e6282dfb6816d7a3e5b20816998b7c8717f39"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||eurovaistine.lt/uploads/banners/"
+    },
+    "_sourceKeys": [
+      "41e14d4874ff7017f1511d3f49deb5f70908ff0a98f4779d7890203cc626c729"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||googleapis.com/js/sdkloader/ima3.js",
+      "initiatorDomains": [
+        "lrytas.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "19fd4763d1366cc3b8c3df57d39d0b3dfdb3d3891ed71306fc2fa932491ce982"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||grozionamai.lt/images/sobipro/adv/"
+    },
+    "_sourceKeys": [
+      "dc1f38521b1285a8c9cb7ba507f6e7e7b8ba1d3159864a88630d2e89c75dac07"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||kaunieciams.lt/miestas/"
+    },
+    "_sourceKeys": [
+      "b6b10c504eec446de6f7ac986adb31201a4113d676baa8ddbfb602fe012bfb9b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||kvt.lt/ebilet.cup.static/img/header/"
+    },
+    "_sourceKeys": [
+      "4db10a7e67634df594f779063ab7de24abf03b177d407001ff45c96303b7c5f7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||mega.lt/uploads/img/banners/"
+    },
+    "_sourceKeys": [
+      "9db3c6dc943a771ed532dbce25b5a9188ece9e50f1b33c0a8018809f5a0a3fbf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||mssl.fwmrm.net/p/mtg_brightcove_html5/admanager.js",
+      "initiatorDomains": [
+        "play.tv3.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "382b621bfd6fa1262975ab89fa730dbeaa2ee03e98dc395d6e672c03506fa07a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||perlas.lt/baneriai/"
+    },
+    "_sourceKeys": [
+      "4eeb643428dc7b4b939c32385518fbac2066ba3187936cd915dbeff4c038999d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 489
+  },
+  {
+    "condition": {
+      "urlFilter": "||perlas.lt/files/banners/"
+    },
+    "_sourceKeys": [
+      "e19209bc793e2984659577ca5fcd8f3d718b9c10d799e21aa2f49d1e2f1ab3fc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 490
+  },
+  {
+    "condition": {
+      "urlFilter": "||pildyk.lt/uploads/files/baneris_pildyk.jpg"
+    },
+    "_sourceKeys": [
+      "6fd7814fd0068f62c97c457ab20929542c869a6dff936214c0309137186fbe21"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 491
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.lt/ad/banner/_adsense_/_adserver/"
+    },
+    "_sourceKeys": [
+      "087f4f20f9adf139df82d542096aefb861b1c8e8ddce94ff7160b52ecfa215e8"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||post.lt/bin/banners/"
+    },
+    "_sourceKeys": [
+      "4610275383a9c6512052dbb312097d960a8437fb79204ee69c9719aa9dda19d6"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 493
+  },
+  {
+    "condition": {
+      "urlFilter": "||post.lt/files/resized/*x*/banners/"
+    },
+    "_sourceKeys": [
+      "ebb17b7c34166fdc9ff612bed631ad34ef97be5b8dfc7340d6d83ce898bd4fa9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||prod.one.lt/api/framesize.js"
+    },
+    "_sourceKeys": [
+      "ca5df781cd39f9ed05641a5cb0526891670165ad999ad21201586e2a3a682267"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 495
+  },
+  {
+    "condition": {
+      "urlFilter": "||smailas.net/baneriai/"
+    },
+    "_sourceKeys": [
+      "1ca09faecb6300a04137bb13f4fc2f4daaa237edab542e7a1dccb3b192bbdecd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||tavovaikams.lt//images/goods/",
+      "excludedInitiatorDomains": [
+        "tavovaikams.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "d87c8e469ce6b4b068fafb513626a47bb8046eefafd9bed0ba617dba3e1105a7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||teatras.lt/uploads/img/banners/"
+    },
+    "_sourceKeys": [
+      "021491e1ded107a735b7e5acb4e9d2e43c5a1870e65a3618c68177d650582a8f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||technologijos.lt/iframe_komentarai"
+    },
+    "_sourceKeys": [
+      "1ac165da7726af57b5384bc82eff7bcc4483d49abc01000956f2462bbe678313"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||telikas.biz/wp-content/uploads/2014/10/logo1.png"
+    },
+    "_sourceKeys": [
+      "a0c0966b97961e49cfe57d16f1af82eb212fd6ce13cfded071e6777cd6b91861"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||telikas.biz/wp-content/uploads/2015/04/test4.png"
+    },
+    "_sourceKeys": [
+      "9a1d31ff12e8e2270b4738116f96c94c9958433c582b7990ace5e8fb6f201024"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||vaikutis.lt/image/cache/data/baneriai/"
+    },
+    "_sourceKeys": [
+      "13a54918d0700381579393da2fcce4690ba9229deb7cce80eada410ca2c7a987"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||vaikutis.lt/image/data/baneriai/"
+    },
+    "_sourceKeys": [
+      "2cfb0dfa5622ab9529c5e8ae1452e9512e3a9ecea566e30a31349d0c833d04fc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||vjs.zencdn.net/4.12.5/video.js"
+    },
+    "_sourceKeys": [
+      "540c2ca9fc3849926c09444171e25dcfb2e5166f689c867637bdb8609cb3191b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "://b.adbox.lv/bxlib/js/loader.js^",
+      "initiatorDomains": [
+        "inbox.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "7554bbc58fbabf54620e98b39108aa428c8e9ccdb384f61804e60285e68c0408"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 505
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.lt/static/scripts/ima3.js"
+    },
+    "_sourceKeys": [
+      "aa11b3a0e4e674a15b5ed286b782ba3027aedb1e672d210d56ff64f74ea6cf74"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "/events.gif?",
+      "initiatorDomains": [
+        "play.tv3.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "42718dd9d6b51113f93f82fbe34a5118bebe64e528fc28131a13d411efed59ef"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 507
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "td.setupad.com"
+      ],
+      "initiatorDomains": [
+        "aina.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "8679844edd7392a788a9f9a06a3e8cd3d00b450c240bbf54ba94075899f30ef5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.lt/static/scripts/adroot^"
+    },
+    "_sourceKeys": [
+      "ba18613dce502e824a59c66bf9a3ba99fd002258ed02a34566c8189a1b231d4e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 509
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "vma.esec.vu.lt"
+      ],
+      "urlFilter": "/banners*swf"
+    },
+    "_sourceKeys": [
+      "5800f33178ff7e4bef92f362dcf6879a41173fa9a10dd836a9dc40ede5865dbd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": "||skelbiu-static.dgn.lt/static/css/inside_ad.css"
+    },
+    "_sourceKeys": [
+      "d282baa6ae8f4bb5cd3d088671e9936a1ab0563a8990c51695f7fc14701ffd9c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 511
+  },
+  {
+    "condition": {
+      "urlFilter": "||skelbiu-static.dgn.lt/static/js/inside_ad.js"
+    },
+    "_sourceKeys": [
+      "49f91f9ddf217d54772adfa8a5d6fe7510267ee801f2f8360fc8de6cdce192cd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "||ufonaut.000webhostapp.com/advertisement.js",
+      "initiatorDomains": [
+        "filmux.org"
+      ]
+    },
+    "_sourceKeys": [
+      "14781a560d34cbabfe9b3dab80f43e0b5c5d940597f0bd3a5a1c10abd10c979c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 513
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "play.tv3.lt"
+      ],
+      "urlFilter": "||mssl.fwmrm.net/libs/adm/*/linktag2.js"
+    },
+    "_sourceKeys": [
+      "38b3104a6db3320446971ebc9da1edbfc241327ad83735c78701bd71250e74d1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||v.fwmrm.net/ad/g/1?",
+      "initiatorDomains": [
+        "play.tv3.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "b1972ecb56309fd78fd9be925a96789f906b4c701ffadaf3c159f49aa1296709"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 515
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "adworks.lt",
+        "manodienynas.lt",
+        "tamo.lt"
+      ]
+    },
+    "_sourceKeys": [
+      "4fa0b160ad838772938ad7c0996e719697484089fcd1182e1c0b34735162323b",
+      "0e0712ac61c376b73c91a9d85d97dd99d029eb2851632a3cc5e76b119db28cbb",
+      "2708f17146b200a6874e737e78b0155bba9388254e61db799f394f586e591080"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adworks.lt",
+        "keys": [
+          "4fa0b160ad838772938ad7c0996e719697484089fcd1182e1c0b34735162323b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "manodienynas.lt",
+        "keys": [
+          "0e0712ac61c376b73c91a9d85d97dd99d029eb2851632a3cc5e76b119db28cbb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tamo.lt",
+        "keys": [
+          "2708f17146b200a6874e737e78b0155bba9388254e61db799f394f586e591080"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 516
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "b.adbox.lv"
+      ],
+      "initiatorDomains": [
+        "inbox.lt"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d4ece944d505b1c0bc5a615b22fcb28618173c3bd580c377cbd6973c60a21228"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 517
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "lt.adocean.pl"
+      ],
+      "initiatorDomains": [
+        "lnk.lt"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "452a111190ac886a4efbd154a61e8114835214bfc1ee53646cc9b835446672b7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "||adform.net/banners/scripts/adx.js|",
+      "initiatorDomains": [
+        "delfi.lt"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8786e213f62005a92f46f0bcba8fad2f0d90711a87977be925957cb3837170eb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||play.tv3.lt/ad/banner/_ad",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "d78580cb880915ce769bf03e0d7c6526060252999b454e14e857516c2ecfe56e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 520
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "secure.livechatinc.com"
+      ],
+      "initiatorDomains": [
+        "telia.lt"
+      ],
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "92a2b7e7e75280e4a01aeab8f1e2b0ff84e93b112f892b21735e03c6e142f4d3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 521
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "prod.one.lt"
+      ],
+      "initiatorDomains": [
+        "www.tv3.lt"
+      ],
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "73df12c230de77e347ab0cbf865c5e123c4db8ba8417752d5bea7d0ac6c226e5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 522
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "td.setupad.com"
+      ],
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "d7aeb70a7e3208c100465c040be45edaabe33023550842cbf9e0e9323e906035"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "td.setupad.com",
+        "keys": [
+          "d7aeb70a7e3208c100465c040be45edaabe33023550842cbf9e0e9323e906035"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 523
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hit.gemius.pl"
+      ],
+      "initiatorDomains": [
+        "alfa.lt",
+        "lnkgo.lt"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "037ee993d0427de73f540df985a4e4b70436d230743f841d22ab54e3436ac51f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 524
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "sascdn.com"
+      ],
+      "initiatorDomains": [
+        "vz.lt"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "646b4c699bfb02be479f55a4c2a6b35c04282851f23c734cda666a6c2456063d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "||content-thumbnail.cxpublic.com/content/dominantthumbnail/",
+      "initiatorDomains": [
+        "www.delfi.lt"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "22070e705d151ab0c00b92c2266b531a40a7bd3bf68d6b009c764476ae1e6038"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 526
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "1x1-transparent.gif",
+    "condition": {
+      "urlFilter": "||15min.lt/cached/tgif",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "1c0d2baa44cc1cbd1562cd216db4303bb5695788518bdab88184f095be835f82"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/1x1.gif"
+      }
+    },
+    "priority": 11,
+    "id": 527
+  },
+  {
+    "__modifierAction": 0,
+    "__modifierType": "redirect-rule",
+    "__modifierValue": "noopmp3-0.1s",
+    "condition": {
+      "urlFilter": "||161.97.106.129/info.mp4",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "media"
+      ]
+    },
+    "_sourceKeys": [
+      "335a0e0e13070b61d05794524ba937817dac83fbc46fef90f109700e47efa3d9"
+    ],
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/web_accessible_resources/noop-0.1s.mp3"
+      }
+    },
+    "priority": 11,
+    "id": 528
+  }
+]

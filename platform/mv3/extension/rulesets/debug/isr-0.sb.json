@@ -1,0 +1,305 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "213.8.137.51",
+        "a.walla.co.il",
+        "exposeboxwallashops.blob.core.windows.net",
+        "wrtm.walla.co.il",
+        "totalmedia2.ynet.co.il",
+        "adserv.mako.co.il",
+        "sdc.mako.co.il",
+        "ads.one.co.il",
+        "banners.news1.co.il",
+        "atardrushim.com",
+        "avoda-mehabait.co.il",
+        "hasdarot.club",
+        "hasdarot.com",
+        "hasdarot.info",
+        "hasdarot.life",
+        "hasdarot.live",
+        "hasdarot.net",
+        "hasdarot.tv",
+        "hasdarot.vip",
+        "hasdarot.xyz",
+        "isdarot.com",
+        "israeljobstoday.com",
+        "losittooday.info",
+        "pinukim.net",
+        "play.milly-style.co.il",
+        "plushome.co.il",
+        "sdarot-il.org",
+        "sdarot-tv.org",
+        "sdarot.cc",
+        "seret.live",
+        "storyshop.co.il",
+        "tvfeel.cc"
+      ]
+    },
+    "_sourceKeys": [
+      "40bf5457d0dbb6df0e608485713b14dd608ce6a0ad8c4831048f5a867ba8f640",
+      "e8500e6fbde7fa29c822ce74e4c1e40d5afcc8e866484cf237f3d6b15e731959",
+      "4de8d35dff9051cb2ba81d6d8f1a14d966946019e535524a4bd9db1923af6fe6",
+      "c838468d1bc1eb0131d61140468e06e186acfc663bcf4ec9452d01e4f8eb2cd3",
+      "bfcba0edbb2684b09864e62bec3c557eafa92551ac49130e7b6d533fe6c3c203",
+      "19fa9f8ab5d48b2182826bc495415c1a3cd84e9945cbbdf25328cdde46f0a105",
+      "9fdbe8d754538bceb9a4aad57ca78ff03724af13de0d9b0aa18a286543933991",
+      "39ed6acf259c236f0f42eaca0bfd000691b9d827c9f8dabde3f9e63783bb7727",
+      "b1f1ae14b948a4316ed0eec181ba794ea6f279acf49b3541f00e3a2fb282d1dc",
+      "663b5b4d610cbe7d4165adc81f12036306b7159b8713dd282945834c747246ee",
+      "943da9257e6680a0d9ff3db9d14f3d165a620bd7526b61ea0147851dd3e87cb5",
+      "64f12443bac1912113ec3e0dea54f1d3caf4e81f29b37aa825e7ac6cddd51174",
+      "e376e44256a4a11c79176d80dac6d82676baef15123d4a3fafcfc95c541fb3ed",
+      "405fce6a205beaec780808952bdfdfdb69cd7af3def2bb5f82fd51b10ade18f8",
+      "e1491f971a13f83cb6cc4966f476f8f3b8ede0e1cb7f0e5b79e145edfc9b4fc6",
+      "87644b1e6c6289d3f0389c64c2f32d3b035a2b36ffb54b273f14b228f4a639be",
+      "745c846f648d87de82aa0900da0e833a79d17027ab967b13be70853b91a98f90",
+      "70726d14e9130b2880d81f1172569047838139d037ec025e66a5da246f5c6021",
+      "693bfd0aa09240d531e96e5d29d874fbbc9ee29b3c4cdab03e5b0c998b3b4827",
+      "d2e45b8313d1d6db5c84fac0779a6b59bf1624701036ee36983a7364146a9a28",
+      "5eeb84f86aa56699746c4014c120190a8d299dbce98d9ca223a10a6df5cdd1c8",
+      "7aef8b6972f426ea744a3fa0804d0e1be1c55d6a3ed7778c80aec480d4a61841",
+      "26244a1c90509f6140273243b8c3c7ae42a805f7fb6ae6fede85a6c5f67d3a08",
+      "5e659de6f519ba3cdd853953f47c62dfc4867a4a6e1cec853d5ff28a53965148",
+      "d41760b25302b71296b87a0a4cbae0fa059721ed882c564003095e34fc6b18ef",
+      "98103cb48263342dbbc0a966c1a9724029b1abfa5ded27655379ed04288f75e9",
+      "3d3412689dcce4451ad322f3f656d79cdb401ffab6e3e19839a8378afbe9cdf2",
+      "2d50188711341c01cf2f43347b8ccd1c338fc13d650213ed55845af2d47b7a50",
+      "7ef89eb77b4aed02fa3d8a1dbbd3f0c9b26eab372f6be7a83d9e8258ffcae46e",
+      "70f5f7dcca594b7f5cd68f12462104a8a7a123f007a771aa82997a87cd28f129",
+      "40b4ce26bef62785cd0b863a15db102282f65985e385d6470843554217cd7923",
+      "48659eb3263f9e4fdaba7fd1f8722a39c7454497ddabae2b03f2fcb51fa416d0"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "213.8.137.51",
+        "keys": [
+          "40bf5457d0dbb6df0e608485713b14dd608ce6a0ad8c4831048f5a867ba8f640"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.walla.co.il",
+        "keys": [
+          "e8500e6fbde7fa29c822ce74e4c1e40d5afcc8e866484cf237f3d6b15e731959"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "exposeboxwallashops.blob.core.windows.net",
+        "keys": [
+          "4de8d35dff9051cb2ba81d6d8f1a14d966946019e535524a4bd9db1923af6fe6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wrtm.walla.co.il",
+        "keys": [
+          "c838468d1bc1eb0131d61140468e06e186acfc663bcf4ec9452d01e4f8eb2cd3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "totalmedia2.ynet.co.il",
+        "keys": [
+          "bfcba0edbb2684b09864e62bec3c557eafa92551ac49130e7b6d533fe6c3c203"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adserv.mako.co.il",
+        "keys": [
+          "19fa9f8ab5d48b2182826bc495415c1a3cd84e9945cbbdf25328cdde46f0a105"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdc.mako.co.il",
+        "keys": [
+          "9fdbe8d754538bceb9a4aad57ca78ff03724af13de0d9b0aa18a286543933991"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ads.one.co.il",
+        "keys": [
+          "39ed6acf259c236f0f42eaca0bfd000691b9d827c9f8dabde3f9e63783bb7727"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banners.news1.co.il",
+        "keys": [
+          "b1f1ae14b948a4316ed0eec181ba794ea6f279acf49b3541f00e3a2fb282d1dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "atardrushim.com",
+        "keys": [
+          "663b5b4d610cbe7d4165adc81f12036306b7159b8713dd282945834c747246ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "avoda-mehabait.co.il",
+        "keys": [
+          "943da9257e6680a0d9ff3db9d14f3d165a620bd7526b61ea0147851dd3e87cb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.club",
+        "keys": [
+          "64f12443bac1912113ec3e0dea54f1d3caf4e81f29b37aa825e7ac6cddd51174"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.com",
+        "keys": [
+          "e376e44256a4a11c79176d80dac6d82676baef15123d4a3fafcfc95c541fb3ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.info",
+        "keys": [
+          "405fce6a205beaec780808952bdfdfdb69cd7af3def2bb5f82fd51b10ade18f8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.life",
+        "keys": [
+          "e1491f971a13f83cb6cc4966f476f8f3b8ede0e1cb7f0e5b79e145edfc9b4fc6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.live",
+        "keys": [
+          "87644b1e6c6289d3f0389c64c2f32d3b035a2b36ffb54b273f14b228f4a639be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.net",
+        "keys": [
+          "745c846f648d87de82aa0900da0e833a79d17027ab967b13be70853b91a98f90"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.tv",
+        "keys": [
+          "70726d14e9130b2880d81f1172569047838139d037ec025e66a5da246f5c6021"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.vip",
+        "keys": [
+          "693bfd0aa09240d531e96e5d29d874fbbc9ee29b3c4cdab03e5b0c998b3b4827"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hasdarot.xyz",
+        "keys": [
+          "d2e45b8313d1d6db5c84fac0779a6b59bf1624701036ee36983a7364146a9a28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "isdarot.com",
+        "keys": [
+          "5eeb84f86aa56699746c4014c120190a8d299dbce98d9ca223a10a6df5cdd1c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "israeljobstoday.com",
+        "keys": [
+          "7aef8b6972f426ea744a3fa0804d0e1be1c55d6a3ed7778c80aec480d4a61841"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "losittooday.info",
+        "keys": [
+          "26244a1c90509f6140273243b8c3c7ae42a805f7fb6ae6fede85a6c5f67d3a08"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pinukim.net",
+        "keys": [
+          "5e659de6f519ba3cdd853953f47c62dfc4867a4a6e1cec853d5ff28a53965148"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "play.milly-style.co.il",
+        "keys": [
+          "d41760b25302b71296b87a0a4cbae0fa059721ed882c564003095e34fc6b18ef"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plushome.co.il",
+        "keys": [
+          "98103cb48263342dbbc0a966c1a9724029b1abfa5ded27655379ed04288f75e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot-il.org",
+        "keys": [
+          "3d3412689dcce4451ad322f3f656d79cdb401ffab6e3e19839a8378afbe9cdf2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot-tv.org",
+        "keys": [
+          "2d50188711341c01cf2f43347b8ccd1c338fc13d650213ed55845af2d47b7a50"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdarot.cc",
+        "keys": [
+          "7ef89eb77b4aed02fa3d8a1dbbd3f0c9b26eab372f6be7a83d9e8258ffcae46e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "seret.live",
+        "keys": [
+          "70f5f7dcca594b7f5cd68f12462104a8a7a123f007a771aa82997a87cd28f129"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "storyshop.co.il",
+        "keys": [
+          "40b4ce26bef62785cd0b863a15db102282f65985e385d6470843554217cd7923"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tvfeel.cc",
+        "keys": [
+          "48659eb3263f9e4fdaba7fd1f8722a39c7454497ddabae2b03f2fcb51fa416d0"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  }
+]

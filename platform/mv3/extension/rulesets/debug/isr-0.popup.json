@@ -1,0 +1,1226 @@
+[
+  {
+    "condition": {
+      "urlFilter": "||inn.co.il/leads/view/"
+    },
+    "_sourceKeys": [
+      "0ac9b1d6fd6ddccfa7e0cd1c544f8efccdaf28dbd33e66baf52bf8057fbe3cdc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_id=aruts7|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "b108e24226a6f8f81e09d7be68bb6899f49ba1ab3244bba1c1379d7f79122703"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "||kipa.co.il/minisites/go.asp"
+    },
+    "_sourceKeys": [
+      "6ccd0533652133e1d2f5abb7e8a7ff8392d59817f4cf63b84186ec55aaf7aff0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "||landing.kipa.co.il/?id="
+    },
+    "_sourceKeys": [
+      "578734c060b70ce7efdf4bcb021945c74d6015b5ba42a295e0cec8ca72004689"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "banners.news1.co.il"
+      ]
+    },
+    "_sourceKeys": [
+      "d1899013fb570bc21e786db55d2b8e5d0704564fae462359a1885b96d1e225ca"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "banners.news1.co.il",
+        "keys": [
+          "d1899013fb570bc21e786db55d2b8e5d0704564fae462359a1885b96d1e225ca"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaign.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "654308e03be5d931b66882b43a40f0fa8a0dbe924dcae9c4e281a71e318e0f00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "||campaigns.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "172bf63abaf09ecab8239d8f8a30ea419a2e4d8dd1285c122afbbd71cf6af2e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "||dcampaigns.*.co.il^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "dce4374ce271552272f530a0797fd10372dd5a1b3616868da922d1a22e857678"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "||hadartal.com/slim/*?ref=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "686c875e01995d1e59e3468ee1968537b0643aeb57683e5bbda16c0bba3c411b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "||zbeng.co.il/landing",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7b1c0538f87aa200f8d2f5bbcf7dece35325293bd08e0ad83f4fc2c3b15d779b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?d=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5b333f338e7271c8553b010c646089039f0c2840783bd19871f5f3855a11c4b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?dst=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "3686f15a960529522ca0f082cbe68fb293164c9a3b88bb074e85ce657385f3e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": ".php?url=",
+      "initiatorDomains": [
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "693b68856ab0dd6031078a6f6f6c887f81dbeb6fa49d468a8881f79b1ef77bb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "doubleclick.net"
+      ],
+      "initiatorDomains": [
+        "mako.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c9ed881fd52d74952d0da805a3368c489a929c064f839b9045060f7e6cc44c95"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "leads.tips"
+      ],
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e11db8a8180697fd0b0753375a46fb4eef3520eb4f0b56f00a83e0e638830065"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "&type=pop|",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9910daff9e4c2a1eff71c43c35211aaf6782a78ac247d0ec43fcc0cf7b283813"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_campaign=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b70ef8500fab9c98723f2850f7d8668f34ecdbcde226e99f3cb6c5e671211368"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_content=popup&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9427b62655d957e6a7dbe4b5c01cdea8e1e863fd82a45d0cdfe9b61f11baea18"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "&utm_medium=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e02e29e758a19a1e3602bcf5d40e7ee0513e8ffa7021633d524721facc84a168"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "/campaigns.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b93cbfde1127f187e5c2675551c757c56fad7aa199db56a4e17d5ce33648ecb7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "urlFilter": "/landpage.*?utm_",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "238e1cbc304f35e8f44e91333d995b4acaa160acf5cc44b06bbba7b4829126d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads.",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "fdf544301a0385359abfe30664a17c6b8ecf0421961e02404c6ce3c9ef8bac03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "/leads/",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "625a6432b77351ab4de0ac66d65df41a8ca908f59e8f9dca15e46d2bd7872cd0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "?ref=",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "da0fd32f74541c36bee2c199e39b308332aa2e77b10a62277670678c61d8cd25"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "?utm_source=banner&",
+      "initiatorDomains": [
+        "inn.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4ab4a7f8cdf9c75f5414aef959af48a18c843335bc865f1a765300f7ed82f6ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "isramedia.net"
+      ],
+      "urlFilter": "||rover.ebay.com/rover/*&campid=",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "306f523a5a45ca6b5862e8988cf70a310da816aa75e0a1080dd6f55443ce134f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "advsnx.net"
+      ],
+      "initiatorDomains": [
+        "0404.co.il",
+        "13news.co.il",
+        "13tv.co.il",
+        "calcalist.co.il",
+        "globes.co.il",
+        "inn.co.il",
+        "mako.co.il",
+        "tapuz.co.il",
+        "walla.co.il"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "94125598a4fbcd5bfe0257b132dc893636bbf9c628a54f3c8cd5d29f04b58425"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "213.8.137.51",
+        "activated.digital",
+        "adland.co.il",
+        "adson.biz",
+        "adventuredigital.co.il",
+        "afaktrio.com",
+        "anetkin.biz",
+        "anetkin.co.il",
+        "anetkin.org",
+        "asakimerp.co.il",
+        "azadv.co.il",
+        "best-offers.co.il",
+        "blanco-adv.co.il",
+        "clickon.co.il",
+        "gim.co.il",
+        "gin.co.il",
+        "gitam.co.il",
+        "gnsdigital.co.il",
+        "landing-page.mobi",
+        "layer.co.il",
+        "like-it.co.il",
+        "mashrokit.info",
+        "mini-sites.net",
+        "mitbahon.co.il",
+        "namesakeoscilloscopemarquis.com",
+        "oceanmedia.co.il",
+        "offers-land.com",
+        "ok-server.co.il",
+        "online-offer.co.il",
+        "osef.co.il",
+        "padv.co.il",
+        "pigment-adv.co.il",
+        "pisrael.com",
+        "sekindo.com",
+        "tld.walla.co.il",
+        "trustmedia.co.il",
+        "unbouncepages.com",
+        "webteam.co.il",
+        "wee.co.il",
+        "wesell.co.il",
+        "1kdailyprofit.co",
+        "3dfuckdoll.com",
+        "adsturn.com",
+        "ashleymadison.com",
+        "ashleyrnadison.com",
+        "big-shot.co.il",
+        "bogdot.co.il",
+        "browsergames2018.com",
+        "cglms.com",
+        "clmbtrk.com",
+        "com-cloud.co",
+        "date-il.com",
+        "dateszone.net",
+        "eb.anastasiadate.com",
+        "etrader.co.il",
+        "fbookisrael.com",
+        "fcukgirls.net",
+        "findyourlovemate.com",
+        "freehookup.link",
+        "gilorly.leadpages.co",
+        "hekeroyot.com",
+        "hookupsonline.com",
+        "hotdate.co.il",
+        "ihct.mx",
+        "imitrk.com",
+        "ineed2fuck.com",
+        "lastpage.pw",
+        "losittooday.info",
+        "makelove.co.il",
+        "medical-rights.co.il",
+        "meet-nowhere12.com",
+        "onlineproxyfree.com",
+        "only2date.com",
+        "perfectpro.co.il",
+        "premium-offers.space",
+        "quick-date.xyz",
+        "rateonclick.com",
+        "reimageplus.com",
+        "sex-party.co.il",
+        "sexdating123.com",
+        "streamin.to",
+        "tracknotify.com",
+        "winnerspinz.com",
+        "yazizim.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2bdba9d17ae3f88b82a8784c6ee7881aff45ce4321ba65b3a864497573662ea6",
+      "53d0d869f77c2d845885c9e690065922238cd498e669aceddf3b49d1c9d97141",
+      "63dae70f52e819535525c1d8b8c1d7d924139d288993b2e59a4b2e1b8b7c6177",
+      "07f22074d655d9d92bf8406476a66fba34ef1db052819c197e3126f34d635a2e",
+      "ee23b53b0487d6475f4ed924ff5498da246c47d7458f22f59115c47e39c5c851",
+      "25554d6bfb861e9ccab027ee7c3bcf689c6479e92a36d42eb32818cff3481d51",
+      "2084b5bc92dedbd5163a4002c60766f91729df10f9e5737899aa8da7b16c3cc9",
+      "5c6f123f30e97a7f23c64c3cd24a8fcf61745a6577964f3b113f5d5312c5076c",
+      "8cf2b3f7dc78116b5f72d933df722f5505713423b8edb595fc139d85455f371d",
+      "3e5141defaaabc86de66c16cf236275e33fc8bea3b817de93746cc19d832bfdd",
+      "527a4312dd3b7e6c903fa1dc4aedb27ecb246cb5795c4023bcb034d459e975bb",
+      "9b8b780c3a8570b7d3a78a80c1e472a08ad6cb5a3da6ebaa46a95c92e3dd696d",
+      "b3a6c9b184f6fd32db4b4c02362420fdf1a898618face3ef56302ae0cedfb811",
+      "02d9cc1dee103f690086000b681ffb75fbff19f7c110cc999ee1c29e7c132f0f",
+      "fa4979232e9a3bda35b8df1bb27ae6ffbbdf7b87df84321735f880da6cc88414",
+      "aa2e8b0467d72d2649ee398522f0060b91616487522ce58e111bab910e7385e6",
+      "e7b80c41a563bb1ff96a8b4ec727f6279a02b646f613a3b0ab628ee8a099ea8d",
+      "848adf157c68b5e80cb9350e88eea684b6a6977ed526bb447b09c1c514b2aef9",
+      "164c344b34e4c0e4a1914069cf2f38f111b3e09da9028f02755bbdf91162c438",
+      "01fdebce30f7e00976170bf2adb13e500b8d69888ce69ec3644cd8f1eaa06695",
+      "e43050db596bc4a80f88d71a9ecf524297dc96a046cbb0b0b2ebb24faaea35e1",
+      "d3b0340226dfddd40bb439ffc2edcddf72da4fe8ea4fe6af8883b74261edcae7",
+      "19e4bb2a85f47ae3b6f782c39bb48c7b8bcb59e5c9329c51a51ef98e4dbd0c24",
+      "1ce3fd0d8549d30358490b99b9959d8350c00cc5b4d6bdbae4335c2e8a0a41ae",
+      "2e7ece11c05d617b0f9ec1c334e9d85daf15a8b33477fdca89fa959fe1a6c260",
+      "ee4debbad31878dac521cbee19f0ee5672436e9758c7547dd6bbb20413c297f7",
+      "6274636993f71397055a76bfaf1ad6bea0259c32ced6e4c7c921659c558fc8a1",
+      "fae94a258f56d519bb35950223c66358a7ee21d0c7def33ebfda8193246d3945",
+      "b76f58c0e2467b89e49243ecbe26ad5ed8504c9d3bd58aec4142500c31863977",
+      "d82b692fea8b31753bd2a3ed34079c00a22a066be7d2c5a5ba9d3421d7217018",
+      "076ce7e9a1975d47e33d555f061a5cd4500a31985d6ecf0a2098b410c6335d67",
+      "4a09a2295ac357d86e373a824dc3e76d4ad121ff7e131117017744a84dd1db5a",
+      "4f24838bbac2d140eb8c0369e564fe40960d900d6dd2a0b31481f175111c8ce1",
+      "df63e659555ff07b9c3c6c139e46319f50ede7a6d414fe389eec79c8fb9e507e",
+      "22faa11840f38479aed2eec3bb6549cad734d4005c1dab3a27b8d3e532f928af",
+      "b7ddd0303169f8899f05b07138b6222f0699b60a2b8470cbdb314e3d3a4250fd",
+      "1c35a8ffbc5b01de565b3e1a11f375b84c38a6a7c6e938328e295fcc4fde49de",
+      "5b8edc9555e06aa41f3e0a4923f2d15c627cd8256c1f4a244825181dfe88e55f",
+      "a6f93c740c22b236da9d6308a314db04129c636d21ef8b8d70e79af61781629d",
+      "d9ed523f13297e50c20b51d41a9db3f2859c2f3a594ac5b2110b43905e67a5b9",
+      "3fe72970183d4553a62ed749ec8a5b9ba98b60035e78cb43344cdc7d2b29aeb9",
+      "0421cbd49c90391da16df985df35c242cfdd5e443db65302ce93c4ec7f44db93",
+      "f56fe2d77f94b2c8702ec63e953b3493b51e2f03d5c9e5c0179a9a89dc35af51",
+      "eed582144181c014656b8c3395f6a087f59d64ab1643d3d3d93c9a7d70e9f476",
+      "e83fea5f473060f69978f901b5f3cd3eb800bb974bbbb75c2b9181fd5e34e988",
+      "a60b04fe38b1122b3f23626b4c19f493d65ef33f47662ef0b5590936fa43b2dc",
+      "217a7425864474486c69f07c5d20cf7b8a993f7263d4161a40512a18191b185e",
+      "d1af07e0ca86d801234dffd5ceb7e0321cb82dae18a7388a9826d5a4b3519549",
+      "fc0c1c06f20aa1590ca993bcbd30b88c10b488735b184c0b242f0d3ec5545806",
+      "af3a2391675311c6ec484633b1382b72510b80895c989a6ac689f25a21328d01",
+      "314b0093706bb27eb9180b28a7006197929f1162db6ede54ef383f4686c7e2c7",
+      "718313ee9ce2772e71c028de9ea1b12c57afb16ef633bba298f5eb283c84ea32",
+      "eeeb7a4b0f7647f5d005f6664b4934b42e2c175929b415f3314f0bc6b73f812d",
+      "a58fa3fd2f4b9d1fb770ab54530f9dbec442dc3ede400e1bad28cded23f0edfe",
+      "ef25faf5c6823ed549dcbb2be34c8ce4d3a10cad423ab769da5da08dda7c79d5",
+      "a0e9242c9fe606edac1e97be180747fd07f80c7faf86f1775119bca0f77f0b26",
+      "82ac4114e97e1c7869c8a3e1601a56d8fb4686150662cb12f285bcf840530f77",
+      "baf3b72934050f202c1e9ac8de34ef530e0cc02c6e4d57bf41ea415398bea614",
+      "12134330f710af28fbf753ab38b653c44e85d3d7185bf07fb926411854fd1839",
+      "508394a9190755b03df13cc68a4a8de391ed6d27288a3ca0ca5b27d479590ea1",
+      "2c12aa7f01283fe7ba9182d18d70d35bff93c082dae1aae7fc73bd89636bd255",
+      "ee9a5906b4cc4e57c16176606ad1f76e2ec344d84eb64fdce938dce5569b3fb9",
+      "4c05a26f2ab5d2b902b9dca94bcac1a82a7b4c352afe3860f01cc24f13ee3d7b",
+      "19abfca8089f566041d55e48f6d769389602ea906839db8abe9105ee0643d440",
+      "93400a6e4e8fc51874bcc29dc41de536b62bd0ffc5e0809dae69e3bc222576a0",
+      "a94161a80817621298bcaf35bf313870a3ac04631c2aa95f980f7f16853e255f",
+      "ce81b25a5ab1bef4f416566d3d25b5bbd35faa5fcca754e480d5ed92d09d746d",
+      "758270aafa095b46a1c964b387ea7ec6ff2d8a83be588985207587599266a0b2",
+      "b994aeb4602d3913450908455836045f6bce80deb40cde68d597bc5a1d57f181",
+      "121ce4549a050cec7325fe0e9fc7bd597ffd05aaf03b071b7691c436174df5b3",
+      "3edfa3adbb6b171d0cbbfaefca9da7a0deb323e7a22190e102683cb50cd58f09",
+      "e637d4ee21a727126d45e566cd9c74ad2bd16f9cd043c6d4c884c693c96c971b",
+      "6cb58fb6accb7eae3ce91140d28c4becec51afe8052a6927bf1e34f1c2a9bdcb",
+      "c949b43c47499348d47607a812f5a43c944eb27d2af8c493dcde0e14b848f53b",
+      "a6288aeb33cd1230a9832c1d984d14f8fecfd1675a39c4ac668280812f05faca",
+      "6a4ec5bfcf87fc6fc00b145cb886c04d4e15e43dec4fb993ba73731968b7b5f6",
+      "fdab4985fd1feb20af19743a321f6f0bb204628f80d48c34b07f925eb9a2a2b0",
+      "85174b7703ffe0605147e30c7dcc3342cfaaffaa7e220f8acd0052483f6057e6",
+      "36b898e6a4e7fc53d854afc838e83bf6c07de5e3bf56b782671c287c49dee3c8",
+      "6a0e9da66ec2dd47017e419fda6ac2bd445f4b67eca4e904eb7abde83413516d",
+      "89587dbec473701e9472c95f52760f5c3d35553c3d99f472186811e6e45ea51f",
+      "e96bf9dff3c638d44f65e0fc5c3acbf677c3e322d2a11373d8cc8873bc133c0e",
+      "c4e37252b59badac9a6dc8da0fe980a52cb4ab3cf0a9eaaa6208dad7ff982e7d",
+      "9288f564d0a2d1e94a22a7920b1f6dc93a619c4ebd4deecfc36b082ea7f5dff5"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "213.8.137.51",
+        "keys": [
+          "2bdba9d17ae3f88b82a8784c6ee7881aff45ce4321ba65b3a864497573662ea6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "activated.digital",
+        "keys": [
+          "53d0d869f77c2d845885c9e690065922238cd498e669aceddf3b49d1c9d97141"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adland.co.il",
+        "keys": [
+          "63dae70f52e819535525c1d8b8c1d7d924139d288993b2e59a4b2e1b8b7c6177"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adson.biz",
+        "keys": [
+          "07f22074d655d9d92bf8406476a66fba34ef1db052819c197e3126f34d635a2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adventuredigital.co.il",
+        "keys": [
+          "ee23b53b0487d6475f4ed924ff5498da246c47d7458f22f59115c47e39c5c851"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "afaktrio.com",
+        "keys": [
+          "25554d6bfb861e9ccab027ee7c3bcf689c6479e92a36d42eb32818cff3481d51"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "anetkin.biz",
+        "keys": [
+          "2084b5bc92dedbd5163a4002c60766f91729df10f9e5737899aa8da7b16c3cc9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "anetkin.co.il",
+        "keys": [
+          "5c6f123f30e97a7f23c64c3cd24a8fcf61745a6577964f3b113f5d5312c5076c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "anetkin.org",
+        "keys": [
+          "8cf2b3f7dc78116b5f72d933df722f5505713423b8edb595fc139d85455f371d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "asakimerp.co.il",
+        "keys": [
+          "3e5141defaaabc86de66c16cf236275e33fc8bea3b817de93746cc19d832bfdd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "azadv.co.il",
+        "keys": [
+          "527a4312dd3b7e6c903fa1dc4aedb27ecb246cb5795c4023bcb034d459e975bb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "best-offers.co.il",
+        "keys": [
+          "9b8b780c3a8570b7d3a78a80c1e472a08ad6cb5a3da6ebaa46a95c92e3dd696d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "blanco-adv.co.il",
+        "keys": [
+          "b3a6c9b184f6fd32db4b4c02362420fdf1a898618face3ef56302ae0cedfb811"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clickon.co.il",
+        "keys": [
+          "02d9cc1dee103f690086000b681ffb75fbff19f7c110cc999ee1c29e7c132f0f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gim.co.il",
+        "keys": [
+          "fa4979232e9a3bda35b8df1bb27ae6ffbbdf7b87df84321735f880da6cc88414"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gin.co.il",
+        "keys": [
+          "aa2e8b0467d72d2649ee398522f0060b91616487522ce58e111bab910e7385e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gitam.co.il",
+        "keys": [
+          "e7b80c41a563bb1ff96a8b4ec727f6279a02b646f613a3b0ab628ee8a099ea8d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gnsdigital.co.il",
+        "keys": [
+          "848adf157c68b5e80cb9350e88eea684b6a6977ed526bb447b09c1c514b2aef9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "landing-page.mobi",
+        "keys": [
+          "164c344b34e4c0e4a1914069cf2f38f111b3e09da9028f02755bbdf91162c438"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "layer.co.il",
+        "keys": [
+          "01fdebce30f7e00976170bf2adb13e500b8d69888ce69ec3644cd8f1eaa06695"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "like-it.co.il",
+        "keys": [
+          "e43050db596bc4a80f88d71a9ecf524297dc96a046cbb0b0b2ebb24faaea35e1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mashrokit.info",
+        "keys": [
+          "d3b0340226dfddd40bb439ffc2edcddf72da4fe8ea4fe6af8883b74261edcae7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mini-sites.net",
+        "keys": [
+          "19e4bb2a85f47ae3b6f782c39bb48c7b8bcb59e5c9329c51a51ef98e4dbd0c24"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "mitbahon.co.il",
+        "keys": [
+          "1ce3fd0d8549d30358490b99b9959d8350c00cc5b4d6bdbae4335c2e8a0a41ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "namesakeoscilloscopemarquis.com",
+        "keys": [
+          "2e7ece11c05d617b0f9ec1c334e9d85daf15a8b33477fdca89fa959fe1a6c260"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "oceanmedia.co.il",
+        "keys": [
+          "ee4debbad31878dac521cbee19f0ee5672436e9758c7547dd6bbb20413c297f7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "offers-land.com",
+        "keys": [
+          "6274636993f71397055a76bfaf1ad6bea0259c32ced6e4c7c921659c558fc8a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ok-server.co.il",
+        "keys": [
+          "fae94a258f56d519bb35950223c66358a7ee21d0c7def33ebfda8193246d3945"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "online-offer.co.il",
+        "keys": [
+          "b76f58c0e2467b89e49243ecbe26ad5ed8504c9d3bd58aec4142500c31863977"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "osef.co.il",
+        "keys": [
+          "d82b692fea8b31753bd2a3ed34079c00a22a066be7d2c5a5ba9d3421d7217018"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "padv.co.il",
+        "keys": [
+          "076ce7e9a1975d47e33d555f061a5cd4500a31985d6ecf0a2098b410c6335d67"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pigment-adv.co.il",
+        "keys": [
+          "4a09a2295ac357d86e373a824dc3e76d4ad121ff7e131117017744a84dd1db5a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pisrael.com",
+        "keys": [
+          "4f24838bbac2d140eb8c0369e564fe40960d900d6dd2a0b31481f175111c8ce1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sekindo.com",
+        "keys": [
+          "df63e659555ff07b9c3c6c139e46319f50ede7a6d414fe389eec79c8fb9e507e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tld.walla.co.il",
+        "keys": [
+          "22faa11840f38479aed2eec3bb6549cad734d4005c1dab3a27b8d3e532f928af"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trustmedia.co.il",
+        "keys": [
+          "b7ddd0303169f8899f05b07138b6222f0699b60a2b8470cbdb314e3d3a4250fd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unbouncepages.com",
+        "keys": [
+          "1c35a8ffbc5b01de565b3e1a11f375b84c38a6a7c6e938328e295fcc4fde49de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "webteam.co.il",
+        "keys": [
+          "5b8edc9555e06aa41f3e0a4923f2d15c627cd8256c1f4a244825181dfe88e55f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wee.co.il",
+        "keys": [
+          "a6f93c740c22b236da9d6308a314db04129c636d21ef8b8d70e79af61781629d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wesell.co.il",
+        "keys": [
+          "d9ed523f13297e50c20b51d41a9db3f2859c2f3a594ac5b2110b43905e67a5b9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "1kdailyprofit.co",
+        "keys": [
+          "3fe72970183d4553a62ed749ec8a5b9ba98b60035e78cb43344cdc7d2b29aeb9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "3dfuckdoll.com",
+        "keys": [
+          "0421cbd49c90391da16df985df35c242cfdd5e443db65302ce93c4ec7f44db93"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "adsturn.com",
+        "keys": [
+          "f56fe2d77f94b2c8702ec63e953b3493b51e2f03d5c9e5c0179a9a89dc35af51"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ashleymadison.com",
+        "keys": [
+          "eed582144181c014656b8c3395f6a087f59d64ab1643d3d3d93c9a7d70e9f476"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ashleyrnadison.com",
+        "keys": [
+          "e83fea5f473060f69978f901b5f3cd3eb800bb974bbbb75c2b9181fd5e34e988"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "big-shot.co.il",
+        "keys": [
+          "a60b04fe38b1122b3f23626b4c19f493d65ef33f47662ef0b5590936fa43b2dc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bogdot.co.il",
+        "keys": [
+          "217a7425864474486c69f07c5d20cf7b8a993f7263d4161a40512a18191b185e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "browsergames2018.com",
+        "keys": [
+          "d1af07e0ca86d801234dffd5ceb7e0321cb82dae18a7388a9826d5a4b3519549"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cglms.com",
+        "keys": [
+          "fc0c1c06f20aa1590ca993bcbd30b88c10b488735b184c0b242f0d3ec5545806"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "clmbtrk.com",
+        "keys": [
+          "af3a2391675311c6ec484633b1382b72510b80895c989a6ac689f25a21328d01"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "com-cloud.co",
+        "keys": [
+          "314b0093706bb27eb9180b28a7006197929f1162db6ede54ef383f4686c7e2c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "date-il.com",
+        "keys": [
+          "718313ee9ce2772e71c028de9ea1b12c57afb16ef633bba298f5eb283c84ea32"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "dateszone.net",
+        "keys": [
+          "eeeb7a4b0f7647f5d005f6664b4934b42e2c175929b415f3314f0bc6b73f812d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eb.anastasiadate.com",
+        "keys": [
+          "a58fa3fd2f4b9d1fb770ab54530f9dbec442dc3ede400e1bad28cded23f0edfe"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "etrader.co.il",
+        "keys": [
+          "ef25faf5c6823ed549dcbb2be34c8ce4d3a10cad423ab769da5da08dda7c79d5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fbookisrael.com",
+        "keys": [
+          "a0e9242c9fe606edac1e97be180747fd07f80c7faf86f1775119bca0f77f0b26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fcukgirls.net",
+        "keys": [
+          "82ac4114e97e1c7869c8a3e1601a56d8fb4686150662cb12f285bcf840530f77"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "findyourlovemate.com",
+        "keys": [
+          "baf3b72934050f202c1e9ac8de34ef530e0cc02c6e4d57bf41ea415398bea614"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "freehookup.link",
+        "keys": [
+          "12134330f710af28fbf753ab38b653c44e85d3d7185bf07fb926411854fd1839"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gilorly.leadpages.co",
+        "keys": [
+          "508394a9190755b03df13cc68a4a8de391ed6d27288a3ca0ca5b27d479590ea1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hekeroyot.com",
+        "keys": [
+          "2c12aa7f01283fe7ba9182d18d70d35bff93c082dae1aae7fc73bd89636bd255"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hookupsonline.com",
+        "keys": [
+          "ee9a5906b4cc4e57c16176606ad1f76e2ec344d84eb64fdce938dce5569b3fb9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hotdate.co.il",
+        "keys": [
+          "4c05a26f2ab5d2b902b9dca94bcac1a82a7b4c352afe3860f01cc24f13ee3d7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ihct.mx",
+        "keys": [
+          "19abfca8089f566041d55e48f6d769389602ea906839db8abe9105ee0643d440"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "imitrk.com",
+        "keys": [
+          "93400a6e4e8fc51874bcc29dc41de536b62bd0ffc5e0809dae69e3bc222576a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ineed2fuck.com",
+        "keys": [
+          "a94161a80817621298bcaf35bf313870a3ac04631c2aa95f980f7f16853e255f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lastpage.pw",
+        "keys": [
+          "ce81b25a5ab1bef4f416566d3d25b5bbd35faa5fcca754e480d5ed92d09d746d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "losittooday.info",
+        "keys": [
+          "758270aafa095b46a1c964b387ea7ec6ff2d8a83be588985207587599266a0b2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "makelove.co.il",
+        "keys": [
+          "b994aeb4602d3913450908455836045f6bce80deb40cde68d597bc5a1d57f181"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "medical-rights.co.il",
+        "keys": [
+          "121ce4549a050cec7325fe0e9fc7bd597ffd05aaf03b071b7691c436174df5b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "meet-nowhere12.com",
+        "keys": [
+          "3edfa3adbb6b171d0cbbfaefca9da7a0deb323e7a22190e102683cb50cd58f09"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "onlineproxyfree.com",
+        "keys": [
+          "e637d4ee21a727126d45e566cd9c74ad2bd16f9cd043c6d4c884c693c96c971b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "only2date.com",
+        "keys": [
+          "6cb58fb6accb7eae3ce91140d28c4becec51afe8052a6927bf1e34f1c2a9bdcb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "perfectpro.co.il",
+        "keys": [
+          "c949b43c47499348d47607a812f5a43c944eb27d2af8c493dcde0e14b848f53b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "premium-offers.space",
+        "keys": [
+          "a6288aeb33cd1230a9832c1d984d14f8fecfd1675a39c4ac668280812f05faca"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "quick-date.xyz",
+        "keys": [
+          "6a4ec5bfcf87fc6fc00b145cb886c04d4e15e43dec4fb993ba73731968b7b5f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rateonclick.com",
+        "keys": [
+          "fdab4985fd1feb20af19743a321f6f0bb204628f80d48c34b07f925eb9a2a2b0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reimageplus.com",
+        "keys": [
+          "85174b7703ffe0605147e30c7dcc3342cfaaffaa7e220f8acd0052483f6057e6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sex-party.co.il",
+        "keys": [
+          "36b898e6a4e7fc53d854afc838e83bf6c07de5e3bf56b782671c287c49dee3c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sexdating123.com",
+        "keys": [
+          "6a0e9da66ec2dd47017e419fda6ac2bd445f4b67eca4e904eb7abde83413516d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "streamin.to",
+        "keys": [
+          "89587dbec473701e9472c95f52760f5c3d35553c3d99f472186811e6e45ea51f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracknotify.com",
+        "keys": [
+          "e96bf9dff3c638d44f65e0fc5c3acbf677c3e322d2a11373d8cc8873bc133c0e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "winnerspinz.com",
+        "keys": [
+          "c4e37252b59badac9a6dc8da0fe980a52cb4ab3cf0a9eaaa6208dad7ff982e7d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "yazizim.com",
+        "keys": [
+          "9288f564d0a2d1e94a22a7920b1f6dc93a619c4ebd4deecfc36b082ea7f5dff5"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  }
+]

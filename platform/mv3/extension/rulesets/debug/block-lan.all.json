@@ -1,0 +1,2121 @@
+[
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/10\\.(?:(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))\\.){2}(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8ce5ed2f6b018e15e3050ddabe451e83dc1b0befd65aeca9ca3d3457566d98e9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/172\\.(?:1[6-9]|2\\d|3[01])(?:\\.(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))){2}[:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "cc8cc5531ca6f512feb7b21d2882f421b3957a0a764f8224fccfff399617f0da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/192\\.168(?:\\.(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))){2}[:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "3236fdf4ea256176800f98b0519c748c7f9fc588867594ccd631b552ba1e4ace"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/\\[f(?:[cd][0-9a-f]|e[89a-f])[0-9a-f]:[0-9a-f:]+\\][:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6def1ac1f78471b266cc49caec22fd1e8484e24590f890da24017169604a3944"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/169\\.254\\.(?:[1-9]\\d?|1\\d{2}|2(?:[0-4]\\d|5[0-4]))\\.(?:[1-9]?\\d|1\\d{2}|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8bf4e68b5ec42bfa58d9a7618f81ec01ed86e618465b2d00351eee36875a8645"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/\\[::ffff:(?:7f[0-9a-f]{2}|a[0-9a-f]{2}|ac1[0-9a-f]|c0a8|a9fe):[0-9a-f]{1,4}\\][:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1b781c7eafd007d77ad9481499a1954669d3e773b82a76d789afb43e10022277"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "regexFilter": "^\\w+:\\/\\/127\\.(?:(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))\\.){2}(?:[1-9]?\\d|1\\d\\d|2(?:[0-4]\\d|5[0-5]))[:/]",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "64912ff085b3d016e3aef7d6ccc3479b16a3523f7458409be3b562910c696cd0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "[::1]^",
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c0302f2db7227030a5d8731905d70d41c546a79d27fd459075e1017ac8b9eb17"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "094e93ba739df1824ba6489347cb0f3e6e6bb09f9d9d5b67c1450f1a2e1e91d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "0.0.0.0"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "88695ddc2b40fabebf84a9eb6fe9cd2d087d35d4e0b7a995a79e4e0f9eca8570"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "urlFilter": "[::]^",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6143c61805785ca567742b0d760fee86444ba9855fa51a6632dc64e8d67ac220"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "internal"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1bf85228b40b4a5411911d3048353f4e9658916c492fc55f771a597f279e68a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "local"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "da416573d7d5afed4150c82746294643c8867e878b1391a47330bdb22bc765a1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "home.arpa"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "236a460d9f72641110c5345801e9e48d13b95802a9d7b9e7e76640a92f7a68a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "airbox.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8f8b3298a559731c4a3f011c840cb1d4931da05864b0dba4025cb015d867345d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "airport"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a32fa772574218fe237d1d2b490debe0c0b625065ef87ec9a016f0aea34a98e1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "arcor.easybox"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "25f751e9d47970efc5f4d115d44f78faa7c1401fa6fcb40568add3f8954475f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "aterm.me"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0e847217c8d87666f588465249a101c49bbbc993889f83cb325aa7db26d5309f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "belkin.range"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "3f9c3166bd8484d479ccb2e628aafcfb36e04674f28bdb9db44c6faa5562dec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bthub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "88e093dc809da37c5e6b64286468f2702d25fb443a4e9982441a0122b670e4bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "bthomehub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "550b44c4dee0a1d16a1a195dcb73ed7000ccfa933090e76ca164adbe0ae370f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "congstar.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e96b784414226b3448532ee8afd51a1994e5b72563f39ff87f6c3d4f24d4516d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "connect.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "58020c01a61f6f1d1cbbb00e0b98fe3926a8c00cb4dae189663d61ce5df5f429"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "console.gl-inet.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e87825acc679331dcc5c86bee9c4f5ca8d54b24fd7a23c9fc938924b632b1dbd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "dishy.starlink.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a46ffcbba0357cf31a7e4c8f64dfa20b79865f34fb89925e4805298a61125fac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "easy.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e89998b3004bc17d86ced85fccd0cda3c6a4a7e934fca446479fb1431dafa0d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "etxr"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0164fa7d62ec9dcc66738acc81bd45a2668679c9100a4d51baf5359e5da285a5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "extender.belkin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2a80304e55bd252ca5aec496d750a9025b4ebef3a3ea0547fd9705e0734a846b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fire.walla"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "48aaffd29044999d603e269a737f242f3825f99d77f54df032663b356864bb0e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b4ea08e5e299a38d3b72260860f5f2ac2ed8e838aee64b2045f13dba974932cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.nas"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "edf2f82367b231d64e0558b91a2533f92a2495be3dcde132e1071ed8eeec0a79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritz.repeater"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "853838f793d92f2cde40af3c19aff1a59654dd51bf1269295ef5d59cf3b1f49e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fritzbox.internal"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8503cc3282dce8dd26d25c6bb79af00adffa4eecace21444b748a3ca300798cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "giga.cube"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f096e5d32ffa04656f3cd995189a27119d7a3b8e792990ee23454c664184fdc2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hi.link"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2b5a8c1b8fee2f71024b916f92b1ef95c3ce1b7f66e68a7dcaf652c6e1cadeb3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "hitronhub.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "bd4a0bb82f6ca2437ba35af19afd5947803d0c3f4bceffa97f2f7b35b3035398"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "homerouter.cpe"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "cf5c9ed4cb3dd48bd8c095ce6d024576e3beaaf3e18ed8ecb28ccc623d3e94d2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "huaweimobilewifi.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "02e0f5cbf8b9556b525a7c4b06abfcb9a1c96c5712be0f1f3ddb0a3317855737"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "kabel.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f232fb5d3e7a627f59e3f7873f955af0b1f32da24ef100f18d597277ed0149cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localbattle.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "538eecb44aedbbf1ca1e53e94fa2de8852bbdc4be78dfc390370436ea0dbe564"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "my.keenetic.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4dd93fb99ba2e2554fbbb09ec537f55ffb2b53b318a7a382e0bf56a5236f0f6a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "my.router"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "75794f6af2135e962e8df764dc38b479e8d1d8284a4eab2a9855bb646d49216e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "myfritz.box"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b64d07618932e62767c3208aeb9a9bcd9b5600a8fb71f4af6752789c282684ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mygateway"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4d3a831c18a3646a753bbad567039acc6077af3ad3d5af65838a14a9f27f4042"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mobile.hotspot"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0e4bfd1104923d465ef2da56ef64e2d263d5eba0df1a231a863ebe5d9f2edfbe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "mwlogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ae7b44045be0fc1bb5f11c29485eaa205bb28a61003482519067568120d32ee8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ntt.setup"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "bd22bd22aded0852f9b330fa61a41ab063c305408c9cf960fb4b817cddc310ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "orbilogin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0bb6b11c9fdb4dba93f2b6c4388795f058ffa3eec6840fd50971c0b527921132"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "orbilogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "79a0fb5d49dba00849c06405f2c9142554f8c6a0e00b837fb627877b1b051021"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "pi.hole"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "50fdded098dfd92556474c9ca15997b11cbaf64abf528dcc9df9616798c05d8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "plex.direct"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "app.plex.tv",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "35482ea80ac4171aad7bb299fa4a521f1bf4a79db8575ae2197ee700695b42e0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "repeater.asus.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "04302d5f4ddadbd2021f7435638beed98a634cf62aca680087c1d17ea561b181"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "router.asus.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "db59a23dd6d2c50d993d19954f2ad7a6791217c609b9d76f6a22adc18fb982e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "router.synology.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "9f45b5ca45b67536d4b7b6e3b77528dcb80e0029ef51ebaefabb4913995d0609"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "routerlogin.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "75a457e4a8e4816f24eb3a02b6fa9bb859fa65079e04819d42047c58f6505dd7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "routerlogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "facdae5eef5cb5599fac40c1783732cfd159a044e248c0cec5d429c6a9677fa4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "samsung.router"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c6865eceed9c33819e2c6c8b43b383678dd876115d306a22383dc91aacc0f12d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "speedport.ip"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5e2c11ad0c6215b1d3b35053616a5af4876c3db6a3f54b1e80e9ed7210c5dbb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "steamloopback.host"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4b46b3ff2c336409bae3bc1095ff613b238b24a365412705fc846a881df74542"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "telstra.gateway"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "057b7434b9574c52588b686becaf029577202327fb1e4831fb91605fab89190c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkap.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "764d90fcce89369b31a1ec5a7274dbd129b6eba38e0435e855afb80b7db25eda"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkeap.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "234b7d8e68d4ff5c48e0a002bff8756a73ed9f56509c6aef1bd5820ec9d09930"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkmodem.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f2f1c63f7541de9e9c3dc87d05ff9aa44375d3bc285626f90c2d364da8803258"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkplclogin.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f26d3e8ae5c4e8031e9d3885372a48efb4c771219fd59ff12b241b2bcb5e4030"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkrepeater.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4f9c332ee6007a3698a9cb9cb6cc6f8a10aabc24cc2850c9779a6aaf4f5a80a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "tplinkwifi.net"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5bd5e8228633e35e4723f7bc425697c9c4fa9570c1c5d00721f3bf4f85ba0da7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "unifi"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8a13414b3e76277ac4ba368fe3a1f253448a0b315734faa696746216208574bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "unifi.localdomain"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0c2c04b5ccb23bdd8f8f51d0918c66cdbc102e75ae5111c592c5cf9179ff663a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "web.setup"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "831c1604e0f2cd142a5fe64ead854fbc71dde4f1a0f3feb92e54fd0177936d7f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "web.setup.home"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c130dcb2dd950338a3357bce5ac81826fc15764fbbe4738906e6fc0aec26fd27"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "www.wyzerouter.com"
+      ],
+      "excludedInitiatorDomains": [
+        "0.0.0.0",
+        "127.0.0.1",
+        "[::1]",
+        "[::]",
+        "local",
+        "localhost"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "18d5fa7679a9e6931540b2222d7b0ac8b887b51f91dd02a495bfe4553a9e903b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "foldingathome.org"
+      ]
+    },
+    "_sourceKeys": [
+      "5f19ed183b62cdfb9f1213abf363fc851cf496ea2d4dfddf288134ee8e5067d4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 72
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "mega.nz"
+      ]
+    },
+    "_sourceKeys": [
+      "09aa2c9f8621378b426a79381436778e62bfb5f577ef12f878cfedc14b9ea2ba"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 73
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "intel.cn",
+        "intel.co.id",
+        "intel.co.jp",
+        "intel.co.kr",
+        "intel.com",
+        "intel.com.br",
+        "intel.com.tw",
+        "intel.de",
+        "intel.fr",
+        "intel.la",
+        "intel.vn"
+      ]
+    },
+    "_sourceKeys": [
+      "16526ca1928c424834a215a96d396bc71b660b3cdb3488de4090ee2c1ca9daee"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 74
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "bundesarchiv.de",
+        "deutsche-rentenversicherung.de"
+      ]
+    },
+    "_sourceKeys": [
+      "436805dd7f504680594b9a709e59bda1065a9436aec319e0d20f447cf7f44e8c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 75
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bayernportal.de",
+        "bund.de",
+        "deutsche-rentenversicherung.de",
+        "governikus.de",
+        "mv-serviceportal.de",
+        "organspende-register.de"
+      ]
+    },
+    "_sourceKeys": [
+      "a9fd7915acb27ea7e995b14e7f29462738f19371340553551b041b11d954c807"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 76
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "filecrypt.co"
+      ]
+    },
+    "_sourceKeys": [
+      "febc21d937f7f537cf87fbed44d7b25a93003e3a3219a36a28363c5763611ce9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 77
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "pcsupport.lenovo.com"
+      ]
+    },
+    "_sourceKeys": [
+      "ba2b5e7e793cad7082e672436bedbec062ee6a06af9900e130fe8d96b7aa32f5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 78
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "apollographql.com"
+      ]
+    },
+    "_sourceKeys": [
+      "defd8c363f40883f7657d3855b9724ea4d1b490f310da2426619322c9df75a94"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 79
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "driverhub.asus.com"
+      ]
+    },
+    "_sourceKeys": [
+      "f5cac68f0365f674719d3bdaf9a578b666b7e2bb321fe674394db168b64f2384"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 80
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bancobrasil.com.br"
+      ]
+    },
+    "_sourceKeys": [
+      "0801aa4e9ede5693e785c67d7ec53b9e966c526d201969fbe847f2d5d9bb9f04"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 81
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bb.com.br"
+      ]
+    },
+    "_sourceKeys": [
+      "452ccfc78c0ca76c3513ebbe3f1218c548607ddf856a916ed85416dda8b073ee"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 82
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "bradesco.com.br"
+      ]
+    },
+    "_sourceKeys": [
+      "87599e96c69b9080c0043ff46256245229a2a93e4fd3cdc34afc6d680f91d7b2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 83
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "dell.com"
+      ]
+    },
+    "_sourceKeys": [
+      "eefab1183f34020451f5a8c3c7c540209c20c319d31e16fc7cb0be2ea0712416"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 84
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "vpn.mozilla.org"
+      ]
+    },
+    "_sourceKeys": [
+      "a790c9ffd5e46c2e7c313a1a6f3d56328076f851ebcf4971b86798574a260c6f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 85
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "figma.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "dd4b8703cc0a200cd2867005185207a168bacb58fa9068f9db7af19ea1f4554e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 86
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "battlelog.battlefield.com"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "e1896e503c73dcb0a039b0cebc4d619c21ee29d9d3ec008fb23d6ba58d2e518d"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 87
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "azure.com",
+        "m365.cloud.microsoft",
+        "make.powerautomate.com",
+        "microsoft.com",
+        "outlook.office.com"
+      ],
+      "urlFilter": "||login.microsoftonline.com/*/oauth2/",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "cba25e44199fde7072c21adeb9e96996ab8996378175c4d97f0cccb68c538aea"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "||127.0.0.1:",
+      "initiatorDomains": [
+        "creator.kodular.io",
+        "starter.kodular.io"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "46b1c4840d243d90980f1be36618a703e443e72a66e44abd7250e28dd2eadca0"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "||localhost:",
+      "initiatorDomains": [
+        "creator.kodular.io",
+        "starter.kodular.io"
+      ],
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "16ba7eeb9420fdd93071b357a389a9f311a52c7c46affa7af11cc00e79d4691c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 90
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "localhost"
+      ],
+      "initiatorDomains": [
+        "www.faceit.com"
+      ],
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "91ddc9fa4f201c585134350951dab7b609a333d44e6a77d61e83cb58cb73ea1c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 91
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "support.huawei.com"
+      ],
+      "regexFilter": "^ws:\\/\\/(127\\.0\\.0\\.1|localhost):\\d{4,5}\\/icslite\\/websocket\\/",
+      "resourceTypes": [
+        "websocket"
+      ]
+    },
+    "_sourceKeys": [
+      "c0bb0d9ef824dba98791ddcff8c31146512ce889ef3d87d5632d9e11965a0725"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 92
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "127.0.0.1"
+      ],
+      "initiatorDomains": [
+        "musicbrainz.org"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "96f851e182bc08c6aac3540d486d292368694b7c169da474eed7b61dfeda77b9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 93
+  }
+]

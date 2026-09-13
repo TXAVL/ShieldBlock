@@ -1,0 +1,143 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "linker.hr",
+        "widgets.jutarnji.hr",
+        "widget.admiral.hr",
+        "traffic.styria.hr",
+        "redakcija.alo.rs",
+        "klik-slider.morgancode.com",
+        "eph-adsjutarnji.cdn.sysbee.net",
+        "swcs.24sata.rocks",
+        "lupon.media",
+        "a.mabipa.com",
+        "widget.halooglasi.com",
+        "unselfishugh.com",
+        "btloader.com",
+        "widget.marktjagd.de"
+      ]
+    },
+    "_sourceKeys": [
+      "9183d5195a7d702a64b35a64d5f179815d0635377aec2b26a60e39bebb5bfce2",
+      "42cfc42da4ebd9b4b77376dd24769547e1185f01e2b4f1f936990ef7f5f70bf2",
+      "b07313149cbfd79a3b10737a288908e5b7f2c0e7c8818850a28ed9208fc08001",
+      "f99ba8e05259fb23628b061d54063fce9bea5c740dc1b88246f96f5142f00f43",
+      "45dc9a1fcc085fc92d256a1653115af3a622f805823660b0a7464db9e6c2ba86",
+      "d3194afb390e2237db06c1318291c8114182f394f39f513a2514ae675f487078",
+      "96aa5006053f6d4a9581ce191fbc3b857ce37248b804e9d69cf9239c123e7408",
+      "73e619440c588f81c88d16e00358f61487892f128a591d151403c41827c4c89b",
+      "f9cf0a5752fd7e44f6f3bbed1d7d51f50d9d6b0dc1c3be1d0c25c6e43503ad95",
+      "f084d65ffbdd45176516b840a00fb1a66ccaa8ee2f1f69b112e25f121104e06d",
+      "11f9ab05c496b387b43234ba8fe696bfff08941e09ac721325265b72381f206e",
+      "c2252818092557c6dc5fe658ed53355bd33d1a0287f3d4b39fd5561eb3c3b8b3",
+      "ec03d5b62c9a831843483c190b3b59e13f36db5a214f3dff289b10ddf389bf61",
+      "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "linker.hr",
+        "keys": [
+          "9183d5195a7d702a64b35a64d5f179815d0635377aec2b26a60e39bebb5bfce2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widgets.jutarnji.hr",
+        "keys": [
+          "42cfc42da4ebd9b4b77376dd24769547e1185f01e2b4f1f936990ef7f5f70bf2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.admiral.hr",
+        "keys": [
+          "b07313149cbfd79a3b10737a288908e5b7f2c0e7c8818850a28ed9208fc08001"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "traffic.styria.hr",
+        "keys": [
+          "f99ba8e05259fb23628b061d54063fce9bea5c740dc1b88246f96f5142f00f43"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "redakcija.alo.rs",
+        "keys": [
+          "45dc9a1fcc085fc92d256a1653115af3a622f805823660b0a7464db9e6c2ba86"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "klik-slider.morgancode.com",
+        "keys": [
+          "d3194afb390e2237db06c1318291c8114182f394f39f513a2514ae675f487078"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "eph-adsjutarnji.cdn.sysbee.net",
+        "keys": [
+          "96aa5006053f6d4a9581ce191fbc3b857ce37248b804e9d69cf9239c123e7408"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "swcs.24sata.rocks",
+        "keys": [
+          "73e619440c588f81c88d16e00358f61487892f128a591d151403c41827c4c89b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lupon.media",
+        "keys": [
+          "f9cf0a5752fd7e44f6f3bbed1d7d51f50d9d6b0dc1c3be1d0c25c6e43503ad95"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.mabipa.com",
+        "keys": [
+          "f084d65ffbdd45176516b840a00fb1a66ccaa8ee2f1f69b112e25f121104e06d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.halooglasi.com",
+        "keys": [
+          "11f9ab05c496b387b43234ba8fe696bfff08941e09ac721325265b72381f206e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "unselfishugh.com",
+        "keys": [
+          "c2252818092557c6dc5fe658ed53355bd33d1a0287f3d4b39fd5561eb3c3b8b3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "btloader.com",
+        "keys": [
+          "ec03d5b62c9a831843483c190b3b59e13f36db5a214f3dff289b10ddf389bf61"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.marktjagd.de",
+        "keys": [
+          "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  }
+]

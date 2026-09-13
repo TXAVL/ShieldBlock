@@ -1,0 +1,312 @@
+header {
+    background-color: var(--surface-1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    }
+nav {
+    border: 0;
+    border-bottom: 1px solid var(--border-1);
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    padding: 0;
+    }
+nav > .tabButton {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 3px solid transparent;
+    border-radius: 0;
+    color: var(--dashboard-tab-ink);
+        fill: var(--dashboard-tab-ink);
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    padding: 0.7em 1.4em calc(0.7em - 3px);
+    text-decoration: none;
+    white-space: nowrap;
+    }
+nav > .tabButton:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: -4px;
+    }
+nav > .tabButton:hover {
+    background-color: var(--dashboard-tab-hover-surface);
+    border-bottom-color: var(--dashboard-tab-hover-border);
+    }
+
+body[data-pane="settings"] #dashboard-nav .tabButton[data-pane="settings"],
+body[data-pane="rulesets"] #dashboard-nav .tabButton[data-pane="rulesets"],
+body[data-pane="filters"] #dashboard-nav .tabButton[data-pane="filters"],
+body[data-pane="siteRules"] #dashboard-nav .tabButton[data-pane="siteRules"],
+body[data-pane="diagnostics"] #dashboard-nav .tabButton[data-pane="diagnostics"],
+body[data-pane="develop"] #dashboard-nav .tabButton[data-pane="develop"],
+body[data-pane="about"] #dashboard-nav .tabButton[data-pane="about"] {
+    background-color: var(--dashboard-tab-active-surface);
+    border-bottom: 3px solid var(--dashboard-tab-active-ink);
+    color: var(--dashboard-tab-active-ink);
+        fill: var(--dashboard-tab-active-ink);
+    }
+body:not([data-develop="true"]) #dashboard-nav .tabButton[data-pane="develop"] {
+    display: none;
+    }
+body:not([data-pane="rulesets"]) header [data-pane-related="rulesets"] {
+    display: none;
+    }
+
+body > section {
+    box-sizing: border-box;
+    display: none;
+    padding: 0 var(--default-gap-xxsmall);
+    padding-bottom: 2rem;
+    }
+body [data-pane-related] {
+    padding: 0 var(--default-gap-xxsmall);
+    }
+
+body[data-pane="settings"]:not(.busy) > section[data-pane="settings"],
+body[data-pane="rulesets"]:not(.busy) > section[data-pane="rulesets"],
+body[data-pane="filters"]:not(.busy) > section[data-pane="filters"],
+body[data-pane="siteRules"]:not(.busy) > section[data-pane="siteRules"],
+body[data-pane="diagnostics"]:not(.busy) > section[data-pane="diagnostics"],
+body[data-pane="develop"]:not(.busy) > section[data-pane="develop"],
+body[data-pane="about"]:not(.busy) > section[data-pane="about"],
+body.busy[data-pane] > section[data-pane="busy"] {
+    display: block;
+    }
+
+/* high dpi devices */
+:root.hidpi .tabButton {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    }
+
+/* touch-screen devices */
+:root.mobile nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    }
+:root.mobile nav .logo {
+    display: none;
+    }
+
+/* ==========================================================================
+   About Pane Styling (ShieldBlock Modern Glassmorphism Theme)
+   ========================================================================== */
+.aboutContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    max-width: 920px;
+    margin: 1.5rem auto 3rem;
+}
+
+.aboutHeroCard {
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.08), rgba(19, 27, 38, 0.85));
+    border: 1px solid rgba(34, 197, 94, 0.25);
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.aboutLogoWrap {
+    width: 68px;
+    height: 68px;
+    background: linear-gradient(135deg, #22c55e, #15803d);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 4px 16px rgba(34, 197, 94, 0.35);
+}
+
+.aboutShieldIcon {
+    width: 38px;
+    height: 38px;
+    stroke: #ffffff;
+}
+
+.aboutHeroInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.aboutTitleRow {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.aboutAppTitle {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-main, #f8fafc);
+    margin: 0;
+}
+
+.aboutBadge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.55rem;
+    border-radius: 6px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.proBadge {
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: #ffffff;
+    box-shadow: 0 2px 8px rgba(34, 197, 94, 0.4);
+}
+
+.mv3Badge {
+    background: rgba(255, 255, 255, 0.08);
+    color: #94a3b8;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.aboutTagline {
+    font-size: 0.92rem;
+    color: var(--text-muted, #94a3b8);
+    margin: 0;
+}
+
+.aboutCopyrightNotice {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    font-size: 0.85rem;
+    color: #64748b;
+    margin-top: 0.25rem;
+}
+
+.licensePill {
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #94a3b8;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+}
+
+.aboutCardsGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.25rem;
+}
+
+.aboutCard {
+    background: var(--surface-1, #131b26);
+    border: 1px solid var(--border-1, rgba(255, 255, 255, 0.08));
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+}
+
+.fullWidthCard {
+    grid-column: 1 / -1;
+}
+
+.aboutCardHeader {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.aboutCardHeader h3 {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text-main, #f8fafc);
+}
+
+.aboutCardIcon {
+    color: #22c55e;
+    font-size: 1rem;
+}
+
+.aboutLinksList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.aboutLinkItem {
+    color: #38bdf8;
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 0.35rem 0.6rem;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid transparent;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+
+.aboutLinkItem:hover {
+    background: rgba(56, 189, 248, 0.1);
+    border-color: rgba(56, 189, 248, 0.25);
+    color: #7dd3fc;
+}
+
+.aboutDepChips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.aboutChip {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--text-muted, #94a3b8);
+    padding: 0.35rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.82rem;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.aboutChip:hover {
+    border-color: rgba(34, 197, 94, 0.4);
+    color: #22c55e;
+    background: rgba(34, 197, 94, 0.06);
+}
+
+.aboutTroubleshootCard details {
+    width: 100%;
+}
+
+.aboutSummary {
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: var(--text-main, #f8fafc);
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+}
+
+.aboutPre {
+    margin: 0.85rem 0 0;
+    max-height: 260px;
+    overflow-y: auto;
+    background: #090d14;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 1rem;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-size: 0.8rem;
+    line-height: 1.45;
+    color: #cbd5e1;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+

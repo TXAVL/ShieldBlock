@@ -1,0 +1,259 @@
+[
+  {
+    "condition": {
+      "urlFilter": "/cxrobotsdkjs.js"
+    },
+    "_sourceKeys": [
+      "b63fb0c2e00f798bce0fcf2f73d0109644bd83a3d02440309697e248eaec4abc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "||api.coinmarketcap.com/chatbot/"
+    },
+    "_sourceKeys": [
+      "79f695040e4ec0725f407de7bbefa0baaa7387c7dd855d46a47ecad7d5b0c710"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "||asus-brand-assistant.asus.com/brand-assistant.js"
+    },
+    "_sourceKeys": [
+      "b934d6acb52bdf6e148de006fbe101a649a93d047c981c2b26a058adee525c96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.whoop.com/v0/chat/chat.js",
+      "initiatorDomains": [
+        "support.whoop.com"
+      ]
+    },
+    "_sourceKeys": [
+      "d8655acbe816ab83608df2c70336f74206698c16b32b2b4b88b47501c3b7cb1b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "||mfgpt.milanofinanza.it/widget/widget.js"
+    },
+    "_sourceKeys": [
+      "f27651adfe2865e79ff95f507a0b5b723b67080d16bbf573a4682eefb3b5f3d5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "||mydrivers.com//v2/pc/aisummaryhandler.ashx?"
+    },
+    "_sourceKeys": [
+      "6bc76f2d75f16bc29e8c4ee2d6137b09f9211579ae44c99884c596df511cde09"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "chat.cdn-plain.com",
+        "chat.g4media.org",
+        "embed.chatnode.ai",
+        "urbandictionary.ai",
+        "widget.indexfox.ai"
+      ]
+    },
+    "_sourceKeys": [
+      "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7",
+      "4ffbe0e1979546c1d2f260d64ffcdbe4f30672dad4f73632c491916bec361581",
+      "fceefa87acc39eec2d9caad36d5d788b210bbc325d456a797f6cf0ebe6570707",
+      "eb4b57684e5a2d68eec6782d717351f8db4f71790a814c4376ec60508e5c1eaa",
+      "42886f2a3014fa4b372c858c476003436c8f8bec9638306fd1ee53d94500cc71"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "chat.cdn-plain.com",
+        "keys": [
+          "d6c2f8e399a89d1f9abe6c6287719b944c0b50853db6a406a9a8b95fddac4cd7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "chat.g4media.org",
+        "keys": [
+          "4ffbe0e1979546c1d2f260d64ffcdbe4f30672dad4f73632c491916bec361581"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "embed.chatnode.ai",
+        "keys": [
+          "fceefa87acc39eec2d9caad36d5d788b210bbc325d456a797f6cf0ebe6570707"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "urbandictionary.ai",
+        "keys": [
+          "eb4b57684e5a2d68eec6782d717351f8db4f71790a814c4376ec60508e5c1eaa"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.indexfox.ai",
+        "keys": [
+          "42886f2a3014fa4b372c858c476003436c8f8bec9638306fd1ee53d94500cc71"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "||azurefd.net/cdns/copilot_v3.min.js",
+      "initiatorDomains": [
+        "nus.edu.sg"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2c9eba3b9d3baf832304fecd0c8c87d37326b930f824be2d740e50687ba82436"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "alhena.ai",
+        "askmiso.com",
+        "cdn.gist.ai",
+        "gotolstoy.com",
+        "sdk.whtvr.ai",
+        "srv.divee.ai",
+        "widget.brambles.ai",
+        "widget.kapa.ai",
+        "widget.prod.equally.ai"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7bd2cf1cb66b0f946d31adafcdf9631970129118a09f325f718306e31dcb6d80",
+      "30e1ffdb8612e01ee4e7cc1d1d207e10b50c92538505d6a102ea1ffecfffaccd",
+      "6c68b4e1331754ea840b5b6ec178f8ba694a7a901a4231669079469d2d1616cc",
+      "dffb1b2217be96190c049aafffe080784dcbf022a454ccb69866f71ce173de63",
+      "fc29a5436a99cbde2fec3d148844872e5292e5795fb0a12cd9bc0100234ec520",
+      "409491d5d205d7d4205c91eaf55679728774cfc12c8a3144dc524deb57ed10f5",
+      "89bb77ea753507863b444ade8af343ff621dc1474cba4cb92cfce4822dffcf88",
+      "43a741b4d33bb651b6436daeed6f6ff90cfe1092499ec50b0234811905b0a39b",
+      "14634006f8d57b0569d6944ad31e5192ce8deea84a88247a354fefcfe13363c3"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "alhena.ai",
+        "keys": [
+          "7bd2cf1cb66b0f946d31adafcdf9631970129118a09f325f718306e31dcb6d80"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "askmiso.com",
+        "keys": [
+          "30e1ffdb8612e01ee4e7cc1d1d207e10b50c92538505d6a102ea1ffecfffaccd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "cdn.gist.ai",
+        "keys": [
+          "6c68b4e1331754ea840b5b6ec178f8ba694a7a901a4231669079469d2d1616cc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gotolstoy.com",
+        "keys": [
+          "dffb1b2217be96190c049aafffe080784dcbf022a454ccb69866f71ce173de63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sdk.whtvr.ai",
+        "keys": [
+          "fc29a5436a99cbde2fec3d148844872e5292e5795fb0a12cd9bc0100234ec520"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "srv.divee.ai",
+        "keys": [
+          "409491d5d205d7d4205c91eaf55679728774cfc12c8a3144dc524deb57ed10f5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.brambles.ai",
+        "keys": [
+          "89bb77ea753507863b444ade8af343ff621dc1474cba4cb92cfce4822dffcf88"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.kapa.ai",
+        "keys": [
+          "43a741b4d33bb651b6436daeed6f6ff90cfe1092499ec50b0234811905b0a39b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.prod.equally.ai",
+        "keys": [
+          "14634006f8d57b0569d6944ad31e5192ce8deea84a88247a354fefcfe13363c3"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  }
+]

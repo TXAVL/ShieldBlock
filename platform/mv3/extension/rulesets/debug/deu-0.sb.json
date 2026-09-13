@@ -1,0 +1,629 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "adnx.de",
+        "bd742.com",
+        "f11-ads.com",
+        "fantecio.com",
+        "gayads.biz",
+        "kctag.net",
+        "swissadserver.ch",
+        "windows-pro.net",
+        "wixnm.com",
+        "zazufi.com",
+        "delmovip.com",
+        "netwayer.de",
+        "securecnd.com",
+        "servote.de",
+        "ad.71i.de",
+        "ad.jaumo.com",
+        "banner.immowelt.de",
+        "bn.gewinn24.de",
+        "ced.sascdn.com",
+        "fastad.beepworld.de",
+        "inv.lapippa.com",
+        "ladbrokes.hs-edge.net",
+        "media.alphaload.com",
+        "partner.simplytel.de",
+        "promotionmaterial.betacash.com",
+        "qvid2.b-cdn.net",
+        "rev.lapippa.com",
+        "start.amateurcommunity.com",
+        "start.sexpartnercommunity.com",
+        "tdn.da-services.ch",
+        "trafico.prensaiberica.es",
+        "web-ads.10sq.net",
+        "widget.marktjagd.de",
+        "wm-space.youero.com",
+        "1t2.alpin.de",
+        "1t2.kicker.de",
+        "a.zdg.de",
+        "a3.zdg.de",
+        "acdn.literatur-couch.de",
+        "ad.dl.dewezet.de",
+        "ad.dslr-forum.de",
+        "ad.games.ch",
+        "as.chartsurfer.de",
+        "banner.click-tt.de",
+        "code.alpin.de",
+        "code.bergsteigen.com",
+        "generic.gmx.net",
+        "generic.web.de",
+        "hybrid-prd.ad-prd.s.joyn.de",
+        "lad.sumikai.com",
+        "loader.kreuzwortraetsel.de",
+        "loader.motor-talk.de",
+        "loader.oeffnungszeitenbuch.de",
+        "loader.verkaufsoffener-sonntag.com",
+        "loader.wort-suchen.de",
+        "loader.woxikon.de",
+        "network.gofeminin.de",
+        "network2.aufeminin.com",
+        "ox.gassi-tv.de",
+        "partner.schalke04.de",
+        "pear.focus.de",
+        "plus.tourispo.com",
+        "pr.t-online.de",
+        "res.ki.de",
+        "saas.valuetech.de",
+        "wbbanner.mrn-news.de",
+        "werbemanager.w24.at",
+        "x.sumikai.com"
+      ]
+    },
+    "_sourceKeys": [
+      "c4acb24a90296b42e12136aa571042429ae9ebced225f6b01363b21dcae7cac6",
+      "ccde6d7d62cbf7a1bb105f32c527490267fe6a79d667d093f031f210dc503ea7",
+      "cd2d892b1e7c5240f8f977224d56f5410f9768e8a45fbd894fba62b148f6b3e9",
+      "6d20322a79bb73698f650d700c1e24f2202889f592f3a7610fe78be1da39ba89",
+      "e616bbe8ddd127314ac9126bbacf50a62b82c2ddc488271e2f9a8cf5cb8ada1a",
+      "b463eef2351ab7bf6ed00d7bbadf4c25904c7549e38386be4c87e7f1e89da41f",
+      "8d3315222d7e5c0f5ce012d4d1ec60c18c926cc16ec58e1ede27cdc7726baf28",
+      "5cd1c637757080e49c92700f48fcd1b8bb6c00beaba7949e5d8f5a73117e6b4d",
+      "302ce274cdfbca8660cd94470786555d1c4adcefd4b77cc67ca264203965808e",
+      "511f695c72c8592dc0583ea05195f31cadcec953fb20464afd7cf124f30f6f2e",
+      "84ca682b3a52b6ecfba7bcdf5a680f63a67b0290b1e22af3b91a198e6a5a518c",
+      "a73081dde9c11f09276d691268c0a2318a3257646a0b5213ab8e373557ed8647",
+      "45b8860284ac3fe0b91cd1235e001c4c6f6cfabcc7e19e9e7785fb29b6778b33",
+      "3748e353a71c81831bf6c8fc2e035f889fe493158e4ddbb10e6872c50e5c3f84",
+      "ad4c69cfdf70cce8d85263e1cd6ed9cb19e73601b279a1c2aea5e4d0ba94b37d",
+      "049066ccd8a127f4774cf77e096cbd295a8469147c5f7847c2a9532665d3db4b",
+      "0d65f19595c7515c008df278d3a1312b3e2b6dae7e671551c583989c7838337f",
+      "8aed5a93151d278858fe89d7d9ad386375aa62491cb9d1b5155beb9bcb54884c",
+      "c9dd87290e389e4d9ce582a4559c697e8de80e357829a46c9a6416177448c898",
+      "6cc7033abed52423e631442f4b8b7b0aa138881099c73741b8d8abd614383690",
+      "0cb9a4f5754e684cf7edfd69c3437a04549b3d827dd8a37791f7175277e34992",
+      "e894e24eaab932c0226a0e7b751b8be64acb273f129c84d278dc024572c059df",
+      "804f2760ace4d912628261ce6b0ef5f1ea42e0535d071755aa93fd8a110fbc52",
+      "1ab51b45209231d93753054d0661458c21fffd74377be6317d2ea8e0ff20079c",
+      "3c56f3061e859be391dd080d52037e0f7ea1ec47a352065873359d174c77ddbf",
+      "f909595fabc9d52fa23c6e95ac7f91f815c81325c6beba48030ea22fc4dcbacb",
+      "ec4c7e51370e6c10a7c5be3300bc27b0e586ac2cbc941a773b063d9e32101842",
+      "a5ced908ba6eddb2deba1b4c86899db265ae87c52c602b8a724f70d82e1f4011",
+      "f799fb9a996e1a704456e12d878907e84daa29582c2219da8774edd7a0a25341",
+      "da90c1b3184c7321dda5767c6d664be78020a8c4aabee1c21e0a012cff156edf",
+      "f9ee05fffe54d63f9fa8db2cecffdd043547cdc4bec142f955678e252114ef9c",
+      "3bd91c5ee40f701eb0fb5f503fbc5cb654e95476cdd87fbcb186367af31b97c8",
+      "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e",
+      "3dd63b5b8dbf10b2b697859acacd8e3e866b56519a12ff1cd39ab0e0e0e510de",
+      "27da877038aab9599da99870f36828178e7cee1069285b9a6439fd66333e8b1d",
+      "c44b1c23f808d50b5e80d37d1c7bcb073e2e55c8b20305db8d8d93a1f64a78d2",
+      "97b69a636f4cbc2345d96ae72886a79ef85a0c26b5c4f9f4f4b63c6f40ca0404",
+      "fdfbdf83f49557005f46f8299b74d90abde6a4e58ff53bb1cac19a28166a1701",
+      "45c2f32cb25d2fa588541e8390db5b288cbb72d570ac96a0b4d8fd061edfea3a",
+      "5d276e9aad75f6d001a46f1d3e5e96dae502e687a9d35fb28b5f234f24629d26",
+      "577b15359207c9293eab43282b688b0b013d75395aad0fb72ab9f54aa3518831",
+      "8c3e74c309b2705610e3e650bf7b61c5e4ca9f5f2ecb0f9877ba46a33e142ae0",
+      "1d7799c980baaf0d8461ba63e0085f27c4bbe5a7fcf2f35d4f79ffdc0b271b74",
+      "58d57033cedab467df821ab9728d75bcb1074cd172df7b931f9a2bb7e7c1f7f3",
+      "8fa492509c7d8c0235b8054a783f929d0ebe6cf47eddb87b694088351225e4cd",
+      "9ec9f831fa49d930f5958d7d99ab0f59f3b093913e7911983d1d9dceb9b11ed8",
+      "c51dd617f51fc297823294c3e23f37c2238d9c50606bc3e0a967b8223e69c724",
+      "e744aeec07dd4da417bc7d0c8a4346e27463c8f3c2e55de60acb8c390bec51a0",
+      "80e46a7990e8e25ee0e321ce5b55172161409b62bbe756c53b31828a54e36400",
+      "49be2ac4cdb91764a23faeef71df5786753d65b1456889527247914169759f16",
+      "72f25d4a429c1ac263b80519fa927a877ad18c78263f17436000fd4ea8d0b4e2",
+      "ff230fe8274f4f7c664d401406914808a8317c3d660479ca10cc5cf2c2aabac3",
+      "c5b745179f4062c62e30ec891b398fbcdf2e9529f2798b080b3c4b5a140a0a9b",
+      "0dffa821554b28f137f1b9b1a1c89e009e1a2ef2fe0ce7a2215b21fc736d1074",
+      "04081969344012b50d8779ebff2648a667445f6817d35e7a5d4752e4d0959491",
+      "e7b9ac0e7342507be2c60f7754cebb39b37099f4855a7740e2e8fd611b71e846",
+      "b07dda2b088cf19100dbd7551b28a78b03ee8821b1c425bd83bab2fc353d52f3",
+      "41529a4bdf87b82ed425f4cbd752893b189201a6c470bbe9d8c888c5501b84a1",
+      "cc021351c9e292971d778878d78142b9d8f9b07d39e763c3d35277c4bde49ad5",
+      "b0095bd67956736c317e5ee1c452d076eaa112e101d0c048de815697d5b5fee6",
+      "68d8fa93f6d5e2f5ca686120af78a3fe1e854e42229aaa00b172cbe2184757b4",
+      "a0bbf7a6bbaf5e206a2df4c0b589a6091244238b3c66aa792ff6e47cfa3a8811",
+      "dbfca98fb060d07de4968dd0cb6f50df62ad6f6058455c70814d9fcd7b99ae5a",
+      "9948a8c71c691363144cdb547dc11b7f0c06f9f73d2d3bd79b3852d05bcff1c9",
+      "c36fdcf66990d19bba08846acfb7c85c4776d95581ab57534c4654f3e5a00f8d",
+      "37217e8d843a7584777d5ffb1ae9cd1305cf1957981aceae69cfe0eb3827b422",
+      "e359e6163e644b16ba2d7e7c4ec4d12cb6b666c0f2ecb0f35524448229f7b3c7",
+      "77f02317f4d23e9de86e42d4801639de2bc9f58781414b7dd95e4c5d71105f66"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "adnx.de",
+        "keys": [
+          "c4acb24a90296b42e12136aa571042429ae9ebced225f6b01363b21dcae7cac6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bd742.com",
+        "keys": [
+          "ccde6d7d62cbf7a1bb105f32c527490267fe6a79d667d093f031f210dc503ea7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "f11-ads.com",
+        "keys": [
+          "cd2d892b1e7c5240f8f977224d56f5410f9768e8a45fbd894fba62b148f6b3e9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fantecio.com",
+        "keys": [
+          "6d20322a79bb73698f650d700c1e24f2202889f592f3a7610fe78be1da39ba89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gayads.biz",
+        "keys": [
+          "e616bbe8ddd127314ac9126bbacf50a62b82c2ddc488271e2f9a8cf5cb8ada1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "kctag.net",
+        "keys": [
+          "b463eef2351ab7bf6ed00d7bbadf4c25904c7549e38386be4c87e7f1e89da41f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "swissadserver.ch",
+        "keys": [
+          "8d3315222d7e5c0f5ce012d4d1ec60c18c926cc16ec58e1ede27cdc7726baf28"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "windows-pro.net",
+        "keys": [
+          "5cd1c637757080e49c92700f48fcd1b8bb6c00beaba7949e5d8f5a73117e6b4d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wixnm.com",
+        "keys": [
+          "302ce274cdfbca8660cd94470786555d1c4adcefd4b77cc67ca264203965808e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "zazufi.com",
+        "keys": [
+          "511f695c72c8592dc0583ea05195f31cadcec953fb20464afd7cf124f30f6f2e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "delmovip.com",
+        "keys": [
+          "84ca682b3a52b6ecfba7bcdf5a680f63a67b0290b1e22af3b91a198e6a5a518c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "netwayer.de",
+        "keys": [
+          "a73081dde9c11f09276d691268c0a2318a3257646a0b5213ab8e373557ed8647"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "securecnd.com",
+        "keys": [
+          "45b8860284ac3fe0b91cd1235e001c4c6f6cfabcc7e19e9e7785fb29b6778b33"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "servote.de",
+        "keys": [
+          "3748e353a71c81831bf6c8fc2e035f889fe493158e4ddbb10e6872c50e5c3f84"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.71i.de",
+        "keys": [
+          "ad4c69cfdf70cce8d85263e1cd6ed9cb19e73601b279a1c2aea5e4d0ba94b37d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.jaumo.com",
+        "keys": [
+          "049066ccd8a127f4774cf77e096cbd295a8469147c5f7847c2a9532665d3db4b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.immowelt.de",
+        "keys": [
+          "0d65f19595c7515c008df278d3a1312b3e2b6dae7e671551c583989c7838337f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bn.gewinn24.de",
+        "keys": [
+          "8aed5a93151d278858fe89d7d9ad386375aa62491cb9d1b5155beb9bcb54884c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ced.sascdn.com",
+        "keys": [
+          "c9dd87290e389e4d9ce582a4559c697e8de80e357829a46c9a6416177448c898"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fastad.beepworld.de",
+        "keys": [
+          "6cc7033abed52423e631442f4b8b7b0aa138881099c73741b8d8abd614383690"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "inv.lapippa.com",
+        "keys": [
+          "0cb9a4f5754e684cf7edfd69c3437a04549b3d827dd8a37791f7175277e34992"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ladbrokes.hs-edge.net",
+        "keys": [
+          "e894e24eaab932c0226a0e7b751b8be64acb273f129c84d278dc024572c059df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "media.alphaload.com",
+        "keys": [
+          "804f2760ace4d912628261ce6b0ef5f1ea42e0535d071755aa93fd8a110fbc52"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partner.simplytel.de",
+        "keys": [
+          "1ab51b45209231d93753054d0661458c21fffd74377be6317d2ea8e0ff20079c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "promotionmaterial.betacash.com",
+        "keys": [
+          "3c56f3061e859be391dd080d52037e0f7ea1ec47a352065873359d174c77ddbf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "qvid2.b-cdn.net",
+        "keys": [
+          "f909595fabc9d52fa23c6e95ac7f91f815c81325c6beba48030ea22fc4dcbacb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "rev.lapippa.com",
+        "keys": [
+          "ec4c7e51370e6c10a7c5be3300bc27b0e586ac2cbc941a773b063d9e32101842"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "start.amateurcommunity.com",
+        "keys": [
+          "a5ced908ba6eddb2deba1b4c86899db265ae87c52c602b8a724f70d82e1f4011"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "start.sexpartnercommunity.com",
+        "keys": [
+          "f799fb9a996e1a704456e12d878907e84daa29582c2219da8774edd7a0a25341"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tdn.da-services.ch",
+        "keys": [
+          "da90c1b3184c7321dda5767c6d664be78020a8c4aabee1c21e0a012cff156edf"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trafico.prensaiberica.es",
+        "keys": [
+          "f9ee05fffe54d63f9fa8db2cecffdd043547cdc4bec142f955678e252114ef9c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "web-ads.10sq.net",
+        "keys": [
+          "3bd91c5ee40f701eb0fb5f503fbc5cb654e95476cdd87fbcb186367af31b97c8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.marktjagd.de",
+        "keys": [
+          "30d4481fdab7a904ddeb157d93c2fbf6f40f8ad9a99084b15bd4e8f430b2657e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wm-space.youero.com",
+        "keys": [
+          "3dd63b5b8dbf10b2b697859acacd8e3e866b56519a12ff1cd39ab0e0e0e510de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "1t2.alpin.de",
+        "keys": [
+          "27da877038aab9599da99870f36828178e7cee1069285b9a6439fd66333e8b1d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "1t2.kicker.de",
+        "keys": [
+          "c44b1c23f808d50b5e80d37d1c7bcb073e2e55c8b20305db8d8d93a1f64a78d2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a.zdg.de",
+        "keys": [
+          "97b69a636f4cbc2345d96ae72886a79ef85a0c26b5c4f9f4f4b63c6f40ca0404"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "a3.zdg.de",
+        "keys": [
+          "fdfbdf83f49557005f46f8299b74d90abde6a4e58ff53bb1cac19a28166a1701"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "acdn.literatur-couch.de",
+        "keys": [
+          "45c2f32cb25d2fa588541e8390db5b288cbb72d570ac96a0b4d8fd061edfea3a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.dl.dewezet.de",
+        "keys": [
+          "5d276e9aad75f6d001a46f1d3e5e96dae502e687a9d35fb28b5f234f24629d26"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.dslr-forum.de",
+        "keys": [
+          "577b15359207c9293eab43282b688b0b013d75395aad0fb72ab9f54aa3518831"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ad.games.ch",
+        "keys": [
+          "8c3e74c309b2705610e3e650bf7b61c5e4ca9f5f2ecb0f9877ba46a33e142ae0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "as.chartsurfer.de",
+        "keys": [
+          "1d7799c980baaf0d8461ba63e0085f27c4bbe5a7fcf2f35d4f79ffdc0b271b74"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "banner.click-tt.de",
+        "keys": [
+          "58d57033cedab467df821ab9728d75bcb1074cd172df7b931f9a2bb7e7c1f7f3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "code.alpin.de",
+        "keys": [
+          "8fa492509c7d8c0235b8054a783f929d0ebe6cf47eddb87b694088351225e4cd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "code.bergsteigen.com",
+        "keys": [
+          "9ec9f831fa49d930f5958d7d99ab0f59f3b093913e7911983d1d9dceb9b11ed8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "generic.gmx.net",
+        "keys": [
+          "c51dd617f51fc297823294c3e23f37c2238d9c50606bc3e0a967b8223e69c724"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "generic.web.de",
+        "keys": [
+          "e744aeec07dd4da417bc7d0c8a4346e27463c8f3c2e55de60acb8c390bec51a0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hybrid-prd.ad-prd.s.joyn.de",
+        "keys": [
+          "80e46a7990e8e25ee0e321ce5b55172161409b62bbe756c53b31828a54e36400"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lad.sumikai.com",
+        "keys": [
+          "49be2ac4cdb91764a23faeef71df5786753d65b1456889527247914169759f16"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.kreuzwortraetsel.de",
+        "keys": [
+          "72f25d4a429c1ac263b80519fa927a877ad18c78263f17436000fd4ea8d0b4e2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.motor-talk.de",
+        "keys": [
+          "ff230fe8274f4f7c664d401406914808a8317c3d660479ca10cc5cf2c2aabac3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.oeffnungszeitenbuch.de",
+        "keys": [
+          "c5b745179f4062c62e30ec891b398fbcdf2e9529f2798b080b3c4b5a140a0a9b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.verkaufsoffener-sonntag.com",
+        "keys": [
+          "0dffa821554b28f137f1b9b1a1c89e009e1a2ef2fe0ce7a2215b21fc736d1074"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.wort-suchen.de",
+        "keys": [
+          "04081969344012b50d8779ebff2648a667445f6817d35e7a5d4752e4d0959491"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loader.woxikon.de",
+        "keys": [
+          "e7b9ac0e7342507be2c60f7754cebb39b37099f4855a7740e2e8fd611b71e846"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "network.gofeminin.de",
+        "keys": [
+          "b07dda2b088cf19100dbd7551b28a78b03ee8821b1c425bd83bab2fc353d52f3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "network2.aufeminin.com",
+        "keys": [
+          "41529a4bdf87b82ed425f4cbd752893b189201a6c470bbe9d8c888c5501b84a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "ox.gassi-tv.de",
+        "keys": [
+          "cc021351c9e292971d778878d78142b9d8f9b07d39e763c3d35277c4bde49ad5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "partner.schalke04.de",
+        "keys": [
+          "b0095bd67956736c317e5ee1c452d076eaa112e101d0c048de815697d5b5fee6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pear.focus.de",
+        "keys": [
+          "68d8fa93f6d5e2f5ca686120af78a3fe1e854e42229aaa00b172cbe2184757b4"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plus.tourispo.com",
+        "keys": [
+          "a0bbf7a6bbaf5e206a2df4c0b589a6091244238b3c66aa792ff6e47cfa3a8811"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pr.t-online.de",
+        "keys": [
+          "dbfca98fb060d07de4968dd0cb6f50df62ad6f6058455c70814d9fcd7b99ae5a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "res.ki.de",
+        "keys": [
+          "9948a8c71c691363144cdb547dc11b7f0c06f9f73d2d3bd79b3852d05bcff1c9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "saas.valuetech.de",
+        "keys": [
+          "c36fdcf66990d19bba08846acfb7c85c4776d95581ab57534c4654f3e5a00f8d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "wbbanner.mrn-news.de",
+        "keys": [
+          "37217e8d843a7584777d5ffb1ae9cd1305cf1957981aceae69cfe0eb3827b422"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "werbemanager.w24.at",
+        "keys": [
+          "e359e6163e644b16ba2d7e7c4ec4d12cb6b666c0f2ecb0f35524448229f7b3c7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "x.sumikai.com",
+        "keys": [
+          "77f02317f4d23e9de86e42d4801639de2bc9f58781414b7dd95e4c5d71105f66"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1583
+  }
+]

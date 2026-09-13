@@ -1,0 +1,8766 @@
+[
+  {
+    "condition": {
+      "urlFilter": "-facebook-likebutton-"
+    },
+    "_sourceKeys": [
+      "7f8cd43a04adbf1a19385c3bd0d1fbf91059ff82a050cb8fde20c25d6bd454ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 1
+  },
+  {
+    "condition": {
+      "urlFilter": "-facebook-share."
+    },
+    "_sourceKeys": [
+      "ef2f77483ffa35bef8b01880fd2db6ac28435a13c06633142e86917a2b0d988b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 2
+  },
+  {
+    "condition": {
+      "urlFilter": "-facebook-widget."
+    },
+    "_sourceKeys": [
+      "1a515459d5065baece6d985a56b8e0c2547cad2b6f8331787fbc1e3c93d8fafd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 3
+  },
+  {
+    "condition": {
+      "urlFilter": "-follow-icon-"
+    },
+    "_sourceKeys": [
+      "990b347399ba08320dcb4424efaba2a2613038f761494554cd2034d4e225e4c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 4
+  },
+  {
+    "condition": {
+      "urlFilter": "-follow-icons."
+    },
+    "_sourceKeys": [
+      "7936cb0ee63e3e3fb8db74a4636f662af875d3295a37de77e50ba2af1310ffaa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 5
+  },
+  {
+    "condition": {
+      "urlFilter": "-follow-us-icons."
+    },
+    "_sourceKeys": [
+      "90ffda1d1f0ffa33658139b6bbd526eb1d9dfd9ec76e44f42445435ff7948e3d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 6
+  },
+  {
+    "condition": {
+      "urlFilter": "-followicons."
+    },
+    "_sourceKeys": [
+      "c74c98d90dc0ba5ddbbe237559c2651c9bc840118ff3ede0cea366df1ef6205a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 7
+  },
+  {
+    "condition": {
+      "urlFilter": "-share-buttons2."
+    },
+    "_sourceKeys": [
+      "35980b8d1378600a4881ec921eb7b0615b0459dcb1e65f3470428ab96005ddbc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 8
+  },
+  {
+    "condition": {
+      "urlFilter": "-share-buttons3/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "01627686ae79a5dce3f8aff78c5a858e33b892387eef11cc1a8cb3b81026fd6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 9
+  },
+  {
+    "condition": {
+      "urlFilter": "-share-sprite-"
+    },
+    "_sourceKeys": [
+      "cda06a4f732b73b782ebdee814768ffaa757034b8c1c06e1d37145c62e74d0b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 10
+  },
+  {
+    "condition": {
+      "urlFilter": "-share-sprite."
+    },
+    "_sourceKeys": [
+      "5f9a20d67bac061454370cc7762750aaf821f973baaa139a72185d3eb1803170"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  },
+  {
+    "condition": {
+      "urlFilter": "-share-tools-"
+    },
+    "_sourceKeys": [
+      "a6e86bc8837b3f4f95921eb92b0f794debba8041047c51fe4a49797db13f274b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 12
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharebar-"
+    },
+    "_sourceKeys": [
+      "51da0a6e3067b6437df564d3ab7d668797bd66be64ab13296ed6a9d616b8a995"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 13
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharebar."
+    },
+    "_sourceKeys": [
+      "f85e4dcafc6fbfd0658f8deff7ca58abc431b1c32d8b37b3fb2feddbec192a21"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 14
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharebutton2."
+    },
+    "_sourceKeys": [
+      "2ec27221907fae1874a7d03822d1c8c6a3eb6576d66a635f0da1c145525f19a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 15
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharebuttons_"
+    },
+    "_sourceKeys": [
+      "d845194da6a2d55a45ef01cba9be29e87c0418a0958134dc7b430a50880335cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 16
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharetools-"
+    },
+    "_sourceKeys": [
+      "2774d69c088f06ab59ed21746159371cc78ef2663e7f1d3c91616a2372179e50"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 17
+  },
+  {
+    "condition": {
+      "urlFilter": "-sharewidget."
+    },
+    "_sourceKeys": [
+      "e3a7a383a4582446a0ecfc8dddf6e551237a40aa98f91687263e00ffeaa198c0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 18
+  },
+  {
+    "condition": {
+      "urlFilter": "-slide-social-"
+    },
+    "_sourceKeys": [
+      "c9a3d079c79d616816db52ab7f2b811e57bddd885dc9393f1de9cb867dace057"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 19
+  },
+  {
+    "condition": {
+      "urlFilter": "-social-panel."
+    },
+    "_sourceKeys": [
+      "5120d09c591edbce30ca507a5a1aca41a6f2a98345a324607dbdc7d291ede6f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 20
+  },
+  {
+    "condition": {
+      "urlFilter": "-social-panel/"
+    },
+    "_sourceKeys": [
+      "ddfa4d2260cfb3053a5fbe6d03896f17f969d3ad451a2eb23b4d973b1c936291"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 21
+  },
+  {
+    "condition": {
+      "urlFilter": "-social-sidebar."
+    },
+    "_sourceKeys": [
+      "b334c1823731a712ddb6feae8de554aec14f639c8b78e461b5045d6d3bb51722"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 22
+  },
+  {
+    "condition": {
+      "urlFilter": "-social-sidebar/"
+    },
+    "_sourceKeys": [
+      "88cba9e7a132694540620cd9dd50020bc8fbe8fe6a54b0f3b92a4ffdff4d3bd2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 23
+  },
+  {
+    "condition": {
+      "urlFilter": "-social-slider/"
+    },
+    "_sourceKeys": [
+      "8077dff8efb0ea0ce1476d7fcc29d45403cf199ddc71ecba57c0a86766043c75"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 24
+  },
+  {
+    "condition": {
+      "urlFilter": "-sprite-social-"
+    },
+    "_sourceKeys": [
+      "8ad2f67e2b1e41bf8a2c7e201e762c0ce1de96ed012120577ed5e851ca1323b4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 25
+  },
+  {
+    "condition": {
+      "urlFilter": ".fbshare.js"
+    },
+    "_sourceKeys": [
+      "b34e80f526ba97e838382feca825a80a2a9b26a86e0385ddd8d74d1aa6aef19b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 26
+  },
+  {
+    "condition": {
+      "urlFilter": ".sharebar.js"
+    },
+    "_sourceKeys": [
+      "32cdab21fe4d7877ed0766821497e4ffd2288adc4ee338622bb65baa90bcddf2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 27
+  },
+  {
+    "condition": {
+      "urlFilter": ".sharing.js"
+    },
+    "_sourceKeys": [
+      "c64576208cab5ae604fb14fa03fa288e2b95848f946b12d4d0d101c80851e284"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 28
+  },
+  {
+    "condition": {
+      "urlFilter": "/a2a_share_"
+    },
+    "_sourceKeys": [
+      "0d997a9fcc84d1d53ae820ea264a9f1e16b654eeed09f230a1b0322684881cb3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 29
+  },
+  {
+    "condition": {
+      "urlFilter": "/accesspress-social-counter/"
+    },
+    "_sourceKeys": [
+      "781355c7b18a36b0137df278d1e4bd93934145fb9dc70e75ff4db01506e2cafb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 30
+  },
+  {
+    "condition": {
+      "urlFilter": "/add-mymsn2.gif"
+    },
+    "_sourceKeys": [
+      "a15e66ce357f3b4b359db5ca58166639fbf392dd50f73de9ce9be55d0f8c21fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 31
+  },
+  {
+    "condition": {
+      "urlFilter": "/addthis_widget.js"
+    },
+    "_sourceKeys": [
+      "541fa60e4cbdc38517061b3acefca83f97dcae26a4e55ae225ce45d31c0462b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 32
+  },
+  {
+    "condition": {
+      "urlFilter": "/addtoany.min.js"
+    },
+    "_sourceKeys": [
+      "8caa4074a53b4a4b05cb77b71ecb0db6598031a51889cdeb793e394b96c91b31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 33
+  },
+  {
+    "condition": {
+      "urlFilter": "/advanced-social-widget.js"
+    },
+    "_sourceKeys": [
+      "f1bb77f37e75463050169445d6f0aac43c283f2b390abee044e493d9a5c78279"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 34
+  },
+  {
+    "condition": {
+      "urlFilter": "/article-social/"
+    },
+    "_sourceKeys": [
+      "fc3058a3a56fbf527289a0ca3273ba77796d608af3f8025ea34cba6b54423a24"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 35
+  },
+  {
+    "condition": {
+      "urlFilter": "/ashare.js"
+    },
+    "_sourceKeys": [
+      "726f0376fece98919da895af170e75df5b22c079e440beea10adcd3648dde157"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 36
+  },
+  {
+    "condition": {
+      "urlFilter": "/ayoshare.js"
+    },
+    "_sourceKeys": [
+      "f7e5d6000bec469d151db79a993bd3c2cac7ff8a3c215875ac1a66795898c2fa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 37
+  },
+  {
+    "condition": {
+      "urlFilter": "/badge_twitter.jpg"
+    },
+    "_sourceKeys": [
+      "396ea6f5922ca9c2ef546c3106b67bc85efb9466d4a0e3637180c4e5a52f8928"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 38
+  },
+  {
+    "condition": {
+      "urlFilter": "/badge_twitter.png"
+    },
+    "_sourceKeys": [
+      "a33e6a37ab9103605b4e229477178eb010eae0cb64af8957ba9f51a8efed6f6d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 39
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner-social.jpg"
+    },
+    "_sourceKeys": [
+      "f906bf48ea08e9aa066c61009fe6c1931b4c8610121727160e88931c3946b6a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 40
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner-social.png"
+    },
+    "_sourceKeys": [
+      "c5fff23d44ea23f02a6d897340ee5d56cb1034813f2c43165e75f510f1e00853"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 41
+  },
+  {
+    "condition": {
+      "urlFilter": "/banner/social/"
+    },
+    "_sourceKeys": [
+      "91e49a49e67a6a807da6eb1034342050e82e497b111c71649cb0b3e13d02f0da"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 42
+  },
+  {
+    "condition": {
+      "urlFilter": "/bottom-facebook.jpg"
+    },
+    "_sourceKeys": [
+      "037b261d1c5cf25ec5c670bc20f60f7152c239f3234ed3c0f41f543f97c929d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 43
+  },
+  {
+    "condition": {
+      "urlFilter": "/bottom-facebook.png"
+    },
+    "_sourceKeys": [
+      "b385aa2e98362f376d2377255d0824a3d7b069a126de892569d6697f0da1fa04"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 44
+  },
+  {
+    "condition": {
+      "urlFilter": "/bottom-twitter.jpg"
+    },
+    "_sourceKeys": [
+      "78315c2862bfd0b7032d82251d76dba88b7d855c8d0831f069b9b5e53be0fe74"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 45
+  },
+  {
+    "condition": {
+      "urlFilter": "/bottom-twitter.png"
+    },
+    "_sourceKeys": [
+      "7aa170ac503f3831cf2707d1a0bcce08a026e18d241227aeec1f9cf3baf74d99"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 46
+  },
+  {
+    "condition": {
+      "urlFilter": "/button_share.png"
+    },
+    "_sourceKeys": [
+      "86160513bc4fbd6f4447c954bdef44bdae5d286ca3f9272032ba58a77dd7e215"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 47
+  },
+  {
+    "condition": {
+      "urlFilter": "/cevhershare.js"
+    },
+    "_sourceKeys": [
+      "bcb1f243ab8c85461b3f2922ee417a5e093284404eb70ad22a3f00c08335c6cf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 48
+  },
+  {
+    "condition": {
+      "urlFilter": "/common/sns/"
+    },
+    "_sourceKeys": [
+      "b3a21d380c76e2ea92fec7d438f0b3f93f3a449abe312ea54f975f8ca857a77d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 49
+  },
+  {
+    "condition": {
+      "urlFilter": "/common/sns_"
+    },
+    "_sourceKeys": [
+      "8109c4831ee127973d37307a738ce29639eddaf25820aa927bd1a4c294db042e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 50
+  },
+  {
+    "condition": {
+      "urlFilter": "/commons/social/"
+    },
+    "_sourceKeys": [
+      "22bf65d0f8e8ce6ddf0aab07defe75b4d16be0ab0ee3e0263be3b362130fdb5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 51
+  },
+  {
+    "condition": {
+      "urlFilter": "/commonsprites/social/"
+    },
+    "_sourceKeys": [
+      "efcfaa193a42cf4746397460bc55d40a0c49ef668d7fb3ac87e2466931d2618f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 52
+  },
+  {
+    "condition": {
+      "urlFilter": "/cool-share/plugin.js"
+    },
+    "_sourceKeys": [
+      "85a4799bd1200db2111fb28f7e6ef01b72b51d3137cd8c0a794ae5fd35c1bcc0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 53
+  },
+  {
+    "condition": {
+      "urlFilter": "/diggdigg-floating-bar.js"
+    },
+    "_sourceKeys": [
+      "c7367f10ab42c8f681ba347ddc95dbed47892adc40a40494e9d320b1e4f7533c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 54
+  },
+  {
+    "condition": {
+      "urlFilter": "/ej-socialslider/static/slideout.js"
+    },
+    "_sourceKeys": [
+      "4a739b4978d9dbdc6c972960b21c471380fa07d940ed65c220ab89be4c5f6bb2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 55
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-page-promoter-lightbox/includes/launch/launch.min.js"
+    },
+    "_sourceKeys": [
+      "4965547b26112aaa734c385d8894de25f7c712a884a9b0d6aaef759439782eb5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 56
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-pagelike-widget/fb.js"
+    },
+    "_sourceKeys": [
+      "ceb95872be53c1373087637977378d0b74e73d41d5bda0bc72d83b39ef88d3f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 57
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-popup-"
+    },
+    "_sourceKeys": [
+      "acdcff769a54c52abec478dce7b437b9486fa39251508241af79d341afa28df9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 58
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-side.jpg"
+    },
+    "_sourceKeys": [
+      "c39d5d14d807f3a788964903f33f473ee51e373a16908bdb24459b1c69bbd709"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 59
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-side.png"
+    },
+    "_sourceKeys": [
+      "54d0961ab64f8edcc06771c3d1367c3956eaa0c825d1b3069e98389b79a15910"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 60
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-vertical.png"
+    },
+    "_sourceKeys": [
+      "01d7e0296e0414a09a59d4772b95c928f0988ff9d0d326a61fbeb785c72711d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 61
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook-vertical.svg"
+    },
+    "_sourceKeys": [
+      "ddb1c24e8b29e8e9ceea3c27f0576e4c4b1bafd3e663081198d0581f89d29f6e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 62
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_badge.gif"
+    },
+    "_sourceKeys": [
+      "3f9991ff8952ba0dc0ab305dc93efba13ecdf71e27e3003ca278bd2c50258ac5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 63
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_badge.jpg"
+    },
+    "_sourceKeys": [
+      "637ddc091978a4657d23202fb128d093dd1180e3b0cf52c8911d5371ac561768"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 64
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_badge.png"
+    },
+    "_sourceKeys": [
+      "c4f2f3eca3b93f3e93abcb5894c06997e8f5889cc4c424c0150ba493bf159077"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 65
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_footer.png"
+    },
+    "_sourceKeys": [
+      "ba6854f995115525fe8a31d305b5a05b48dfc8646367d6b83897cb0c1c881472"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 66
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_footer.svg"
+    },
+    "_sourceKeys": [
+      "2da4a5b85c383f9f661f43eb1e348d99b14b25c6cb18185a4d77cdae892efaae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 67
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_like_button.png"
+    },
+    "_sourceKeys": [
+      "5a18d9bd2476597997431895b8c6b6835c2aa9e981de8156a7f040fa64511fe4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 68
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_sidebar.jpg"
+    },
+    "_sourceKeys": [
+      "9644572cf663d9cc094fc3ea4048e017864d221fbe232773c79bdd161164b718"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 69
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_sidebar.png"
+    },
+    "_sourceKeys": [
+      "8353e7f84e41a924239d4094dcd741e804f688b48ada8a5b20e45b1de5fde260"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 70
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_sidebar.svg"
+    },
+    "_sourceKeys": [
+      "b5e52f9bc2432bf7806646537be92ba19ea7f0a99724ff066ce7e36e73853959"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 71
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_social.png"
+    },
+    "_sourceKeys": [
+      "94c3a02aa206f4de015eff894797db6bd4cbdd8c6f6c6753e5a5e233e7f1939f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 72
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebook_top_icon.png"
+    },
+    "_sourceKeys": [
+      "d79f80d9f12ab71ff3554b42cb63c0e400805bbb6d68ed4c7fe62c5f091fe70e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 73
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookbadge.gif"
+    },
+    "_sourceKeys": [
+      "4f4f24778908eb8c5302b3f9d4ea1fd9cc3ad59f2e2d0f59610092ed0c1e0999"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 74
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookbadge.jpg"
+    },
+    "_sourceKeys": [
+      "377b06a584848c3547c5bb879be54adf5f1c768b0b3e12f68f1d60627ba0e3f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 75
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookbadge.png"
+    },
+    "_sourceKeys": [
+      "14c535cb4ba47e5e8e14564c800ec3d8c69950d0cd2fcb87d920ccc0ce53acef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 76
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookbtmicon.gif"
+    },
+    "_sourceKeys": [
+      "f5db4ca7148493bcfdb62d13b1b16b2a17350c85b020ac47b49bb1bafd2a8dcb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 77
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookheader.png"
+    },
+    "_sourceKeys": [
+      "e8f49065a9aaffb329d963d2cda8da1a41efbbfdb5aab374adabe4ca89314a96"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 78
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebooksharebutton.png"
+    },
+    "_sourceKeys": [
+      "3dd1cfde6e62484c18a8caaf81acd84dc9f1d9f729a66bd958c9121be7e65de1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 79
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebooksocialplugins.js"
+    },
+    "_sourceKeys": [
+      "119eff01992ca6343edbd5868f5d65730836c14834e748ea10a53feee132d5ed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 80
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebooksquare.jpg"
+    },
+    "_sourceKeys": [
+      "809e662e6f4601723fe17ee651332f9a73b3def0db2dd1d9660a0263830689b6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 81
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebooksquare.png"
+    },
+    "_sourceKeys": [
+      "afbd7cb3ddd11469929b28b935684547dae84e54ceba237765e30ccc78739ffa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 82
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebooktrafficdriver.min.js"
+    },
+    "_sourceKeys": [
+      "ee98ca55cab9b73c24c72a0ae411516d48706b4f6cf9be417d9704c3640a0446"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 83
+  },
+  {
+    "condition": {
+      "urlFilter": "/facebookwidget.js"
+    },
+    "_sourceKeys": [
+      "59effed9578e276a6d14fe91c327c56484891d93d427f0324fcbca105bc3e336"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 84
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-like-pop.js"
+    },
+    "_sourceKeys": [
+      "4031f73b194a7e1c7d843abb1d352b34ca4700c145532e83e4e0b014ca8a89ce"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 85
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-pixel.js"
+    },
+    "_sourceKeys": [
+      "c3601ecc3289bc37f2e44ec45250082aa54c71d1a4507cc337dfd9a1a91bf43e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 86
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-traffic-pop.css"
+    },
+    "_sourceKeys": [
+      "66d80a09669737533b15ba84d1bf3432e67ac9f79b15aafe85e3f241cea5d23d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 87
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-traffic-pop.min.js"
+    },
+    "_sourceKeys": [
+      "1ef13c8d48d2da73e557f892f34e3c7f4c00185316adece4cc7e60f6cc7952fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 88
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-widget.jpg"
+    },
+    "_sourceKeys": [
+      "12cd4cb80317c2378e4e860cfaf4fb98159707b845b62e97712cd10f16f3e7e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 89
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-widget.js"
+    },
+    "_sourceKeys": [
+      "56de9f53a45ddc7f656ce485cb22158fd3019adf47b9a98473f68821aa97f13a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 90
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb-widget.png"
+    },
+    "_sourceKeys": [
+      "1f4dfd91a65a48a3b28fa205def8b530f9dca927b64089b1de3cd1d42549def6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 91
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb_modeles.css"
+    },
+    "_sourceKeys": [
+      "d7b69b919c9cfda7bb7bb59ce6ba0ce1de67f8a3ecf1f98237aff5b78564aa4f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 92
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb_side.jpg"
+    },
+    "_sourceKeys": [
+      "5b9d48da55788227e8b67f1724dd12164b31a32210d852b48effe14508b6c934"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 93
+  },
+  {
+    "condition": {
+      "urlFilter": "/fb_side.png"
+    },
+    "_sourceKeys": [
+      "d6440fe0a770847079f318417a92d3154520af34a44f691da9407cfadc9969ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 94
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbfooter.png"
+    },
+    "_sourceKeys": [
+      "9ca0d04974030694f28af9ead23aadd78c86e4aa9cf56b4261f7fc5fbfc4f61a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 95
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbfooter.svg"
+    },
+    "_sourceKeys": [
+      "f0cfc706d78249daaf8428eb48d5aa1a600fc2301bf71200e77f5c9d72ddc5df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 96
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbpop.js"
+    },
+    "_sourceKeys": [
+      "877f53ae56af890948e8296cb125c7ba02c0d007f442b44434d0eb2e12ae7771"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 97
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbshare.jpg"
+    },
+    "_sourceKeys": [
+      "89a79d2f423df792dde14a09d5ff0ba6574bb2febc58b59ca891551953386347"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 98
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbshare.js"
+    },
+    "_sourceKeys": [
+      "a0dc3ba4ec847687a7dd0facda45edc8dafe659ee9de500fd260560f45fbf031"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 99
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbshare.png"
+    },
+    "_sourceKeys": [
+      "eb95124257cb1c1d14358f21ff6794ac9b49e08ea325cc6a6845d8f17a029359"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 100
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbshare2.jpg"
+    },
+    "_sourceKeys": [
+      "9f04eefd3ccffad9ce056ccf2fa0a75d4bd0b4b814719a941c7bb8cc6d28caf8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 101
+  },
+  {
+    "condition": {
+      "urlFilter": "/fbshare2.png"
+    },
+    "_sourceKeys": [
+      "2bba3686e4d41024095df8dd788c849c95617860251f3fc67e661d5e99c68968"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 102
+  },
+  {
+    "condition": {
+      "urlFilter": "/floating-social-bar/js/fsb.js"
+    },
+    "_sourceKeys": [
+      "ab6e1f50cda89d053fec513391b4cd6528a30b21d2e4585ed33291edd480ee1c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 103
+  },
+  {
+    "condition": {
+      "urlFilter": "/floating-wpp.min.js"
+    },
+    "_sourceKeys": [
+      "3e41775705efa51795041eb3b5da2ecb84fbc98138072e853bf3df4906451f4e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 104
+  },
+  {
+    "condition": {
+      "urlFilter": "/flw-twitter.png"
+    },
+    "_sourceKeys": [
+      "ac4ec2b73bbc9f28706ae85aea7703b68eba0d8e4492eac4c5372f9f16461972"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 105
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow-linkedin.jpg"
+    },
+    "_sourceKeys": [
+      "621ce65fb7f84df75fd08e5cc4d9c86e1420ce6f2672c1e24dd236acdc2b2708"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 106
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow-twitter-"
+    },
+    "_sourceKeys": [
+      "8d5e6612377204a4947305e21b87641f8a520a7918a922bdca809c22ce896e01"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 107
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow-twitter."
+    },
+    "_sourceKeys": [
+      "108df6ef8dffd351394a30589d7af68c36e2b640b7a259ed2f8b5a3170038ff1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 108
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow-us.",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "ed874b0c08b7c179e7bad453c97b0e5902c26787681cafaf82f9e984f12157ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 109
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow-widget.js"
+    },
+    "_sourceKeys": [
+      "48e878bd4feda43720963f72d894a6a5d11b84bf16e73848dd5b5036f5a66391"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 110
+  },
+  {
+    "condition": {
+      "urlFilter": "/follow_instagram.png"
+    },
+    "_sourceKeys": [
+      "1dbff912e75233e5e51c35d15801d65415ec9b963f9cd024ae7a8d4a27dbf1c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 111
+  },
+  {
+    "condition": {
+      "urlFilter": "/followusontwitter.jpg"
+    },
+    "_sourceKeys": [
+      "faa7c3811befc695a33922a1c455ae1ae32e5ffc3da4b33ec6e70c7fa92e7acb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 112
+  },
+  {
+    "condition": {
+      "urlFilter": "/followusontwitter.png"
+    },
+    "_sourceKeys": [
+      "09eef90845d942aae5c6c40938ce9eb56d4c13b4cb25cd1028e3214c86b81f57"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 113
+  },
+  {
+    "condition": {
+      "urlFilter": "/gadgets/social/"
+    },
+    "_sourceKeys": [
+      "5c93926e8089a3e61d4667170e0ab84947db5d397c3f64441c26af05ca279cf8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 114
+  },
+  {
+    "condition": {
+      "urlFilter": "/gen-share-master/assets/js/frontend/application.min.js"
+    },
+    "_sourceKeys": [
+      "fa737242252cbb7ba4f636e353c6cc4fbc30c814ab0c2fb1ff609d6412eb8469"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 115
+  },
+  {
+    "condition": {
+      "urlFilter": "/gfx/socials/"
+    },
+    "_sourceKeys": [
+      "6a0a3a5ee91343ebd31a13c364383d5593916d88e4ed202f553b93649cd5329a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 116
+  },
+  {
+    "condition": {
+      "urlFilter": "/gigya-socialize-for-wordpress/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "script",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "3828d9c9f0ca590540f4e82646cc35aa69929a0fa3e1a349f7400ba80d9a272d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 117
+  },
+  {
+    "condition": {
+      "urlFilter": "/gm-button-social.min.js"
+    },
+    "_sourceKeys": [
+      "fa469cb6485e21d56aee68c9c0343fe35cd4a7b38549697e03efecdc0a70e536"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 118
+  },
+  {
+    "condition": {
+      "urlFilter": "/graphics/share/"
+    },
+    "_sourceKeys": [
+      "a78da2b2f0c26219ccefb599c8a4421892a73d82bbabe1e014b78f6bec7955f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 119
+  },
+  {
+    "condition": {
+      "urlFilter": "/handlers/sharrre.ashx?"
+    },
+    "_sourceKeys": [
+      "1fc88763ec52ae16f2215f4c8c783270e309f634710191b36f1ba81072d87cd7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 120
+  },
+  {
+    "condition": {
+      "urlFilter": "/header_socials.png"
+    },
+    "_sourceKeys": [
+      "f8ed49512ed26a056e7665a67f0a230cf0b77996911fbfa9504db2e4e137b067"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 121
+  },
+  {
+    "condition": {
+      "urlFilter": "/highlight-and-share.js"
+    },
+    "_sourceKeys": [
+      "4897b87d659cc1adb5da4641a25f7d39e0af8b68a61d531498f6716ef45808e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 122
+  },
+  {
+    "condition": {
+      "urlFilter": "/icon_share_"
+    },
+    "_sourceKeys": [
+      "d4b65340250d205d31634d19d64a0ea76119fcd06da635f47ef4e2ca6357a62b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 123
+  },
+  {
+    "condition": {
+      "urlFilter": "/icon_sns_"
+    },
+    "_sourceKeys": [
+      "0fcde493be0ce25aa73218e1622ae1b44f98867a6a64e4f36209b9f2676dc48c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 124
+  },
+  {
+    "condition": {
+      "urlFilter": "/images/social_black/"
+    },
+    "_sourceKeys": [
+      "7c4c2dc4341ff61cd9d5b5de43212d2c23dc157b63ef4fc6a78d26f97a06adfe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 125
+  },
+  {
+    "condition": {
+      "urlFilter": "/itpsocialbuttons/images/"
+    },
+    "_sourceKeys": [
+      "804cce1ae43ec0c191bfd41dfae07937acdbba906edb542b499e23ffb4dcc79d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 126
+  },
+  {
+    "condition": {
+      "urlFilter": "/itpsocialbuttons/style.css"
+    },
+    "_sourceKeys": [
+      "ad12ce84d62b1f6b7ef9e0b031340fd9e372a29c29e9a5ab94fbe23429b936eb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 127
+  },
+  {
+    "condition": {
+      "urlFilter": "/jiathis_share.css"
+    },
+    "_sourceKeys": [
+      "844c61d4f8eb665ef2c6ba5ac35d12dc3351abae3225d49e4cbe5d4b5f09fc94"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 128
+  },
+  {
+    "condition": {
+      "urlFilter": "/jinda-facebook-lightbox/public/"
+    },
+    "_sourceKeys": [
+      "d3a73bda94335019283b7427ce482562dd385610d486308ffd91f69901f31249"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 129
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery-pin-it-button-for-images/js/jpibfi.client.js"
+    },
+    "_sourceKeys": [
+      "fe197cb3d7067ce87e1b1c7f7ef0eb9492d16d9723683805d70c6206a7c8b7b2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 130
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery.shareaholic-publishers-sb.min.js"
+    },
+    "_sourceKeys": [
+      "6c5e88de75bfb79642dd5b1af9febc4c9dec3da993afe983489e2d957a42beb9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 131
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery.sharecount.min.js"
+    },
+    "_sourceKeys": [
+      "4bbe38f5eb48829154836864fa057ddd4ae2ee6eb77673bfced850e7a27f87f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 132
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery.stp.min.js"
+    },
+    "_sourceKeys": [
+      "379bdfaae8cdd3e1a3639629127ae8b2d3353aba735879dade8048c8a4b5fc6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 133
+  },
+  {
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer-2.min.css"
+    },
+    "_sourceKeys": [
+      "70d801dd0eee56d4a0bf4d5f4c50336c76e35ef1f4d613fe9b86ca01a1aec67b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 134
+  },
+  {
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer-6.min.css"
+    },
+    "_sourceKeys": [
+      "34ac2b90a362dda1b82ac76ff795db64f0cb1c85c0b676ce1f20cf6aa1a58568"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 135
+  },
+  {
+    "condition": {
+      "urlFilter": "/juiz-social-post-sharer.min.js"
+    },
+    "_sourceKeys": [
+      "b85be6e1dc5471e9e2aa0251d9380324688c50ad5b7ed825f9433c03b45fd066"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 136
+  },
+  {
+    "condition": {
+      "urlFilter": "/jumboshare.js"
+    },
+    "_sourceKeys": [
+      "4daaba46bfc74fa29ef057de37fe81faa7d85f5e05d77ddcf127298a159acd5b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 137
+  },
+  {
+    "condition": {
+      "urlFilter": "/lg-share.js"
+    },
+    "_sourceKeys": [
+      "2cab731ae0fb84e215cdf944e20c4ef2ecbf506e81b6c43dc54c05af54900052"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 138
+  },
+  {
+    "condition": {
+      "urlFilter": "/like_button.js"
+    },
+    "_sourceKeys": [
+      "76c82891af1e49a527617dfcb8d889ba0c8a37c52a23ec0c48cdb6ddc956b1a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 139
+  },
+  {
+    "condition": {
+      "urlFilter": "/like_button.png"
+    },
+    "_sourceKeys": [
+      "a72e1a0e28ade79059817b5f35322019195fad47c660bfec241606b3bbe11466"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 140
+  },
+  {
+    "condition": {
+      "urlFilter": "/likebox.php"
+    },
+    "_sourceKeys": [
+      "0b7084588963e2f3824ede967e77aa5bf34b23c445c0f2494e35202533a3c04f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 141
+  },
+  {
+    "condition": {
+      "urlFilter": "/likefacebook.jpg"
+    },
+    "_sourceKeys": [
+      "a67737b1d77b49f94ca4c220276fae93ddd0fbe2fd67b22760af323ebb14418c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 142
+  },
+  {
+    "condition": {
+      "urlFilter": "/likefacebook.png"
+    },
+    "_sourceKeys": [
+      "9f42cf4588eee0a7d4b61d069c40afdcee9e6f10bd08f88a88c07ec4429baf8c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 143
+  },
+  {
+    "condition": {
+      "urlFilter": "/likegate.js"
+    },
+    "_sourceKeys": [
+      "54185062364c157fd7eabbbe1b41c5b4dc07ee2b929b49ad92abcc525c7ef50a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 144
+  },
+  {
+    "condition": {
+      "urlFilter": "/likesscript.js"
+    },
+    "_sourceKeys": [
+      "065258c11ecae26684fbfcf9137d8b3f5bb833da60b56da0ce08a328d9dd2104"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 145
+  },
+  {
+    "condition": {
+      "urlFilter": "/mod/socialbookmark/"
+    },
+    "_sourceKeys": [
+      "be0d88cd090d96965a24923e1a88943d4fcc06e0c148547ed72fffd5836154ac"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 146
+  },
+  {
+    "condition": {
+      "urlFilter": "/mod_socialmedialinks/icons/"
+    },
+    "_sourceKeys": [
+      "e8337dcfb8f2a3365b15473acbfd53661d0268a4fb923729d8f2f86f85f508cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 147
+  },
+  {
+    "condition": {
+      "urlFilter": "/mod_socialmedialinks/style.css"
+    },
+    "_sourceKeys": [
+      "08fe08c16dc2c8b3f35b83ec27ea9c526a68b13176f4e841e1cdb8f1521c2595"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 148
+  },
+  {
+    "condition": {
+      "urlFilter": "/mod_socialslider/tmpl/"
+    },
+    "_sourceKeys": [
+      "36c645c6bc4d1f3b751b4285c6bd5bcaf8bd618cc1b7e8f0b66f5589105534d0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 149
+  },
+  {
+    "condition": {
+      "urlFilter": "/myshare/assets/js/"
+    },
+    "_sourceKeys": [
+      "88da42d9231ceae246036436adfff11faea8904af096fe6ad08c4fe7c9c7f1e7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 150
+  },
+  {
+    "condition": {
+      "urlFilter": "/needsharebutton.js"
+    },
+    "_sourceKeys": [
+      "82ec712b374d02c45e9c9ffce29dc57537ea1862b946f2f4c862020c8d3d168d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 151
+  },
+  {
+    "condition": {
+      "urlFilter": "/needsharebutton.min.css"
+    },
+    "_sourceKeys": [
+      "c4c3983d536f36d3ac2450faa59aca8b44700fb80737359fb5b275706ccd89cb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 152
+  },
+  {
+    "condition": {
+      "urlFilter": "/o3-social-share-styles.css"
+    },
+    "_sourceKeys": [
+      "c21bf82fdd59007b0fe61658a855c5090d6dc88b83e10faca2535f04085fd5c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 153
+  },
+  {
+    "condition": {
+      "urlFilter": "/oss_share.js"
+    },
+    "_sourceKeys": [
+      "b8df1975c8ad9211c468a79d70650cc6cb82bc722112bf1d30ea268403facd5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 154
+  },
+  {
+    "condition": {
+      "urlFilter": "/overlayshare.js"
+    },
+    "_sourceKeys": [
+      "763ed8cc72047c3d6e215e196bb322d65cdb9d5682185b4470683630cf8e8d15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 155
+  },
+  {
+    "condition": {
+      "urlFilter": "/pin_it_button.png"
+    },
+    "_sourceKeys": [
+      "7339a3b7d7f011ac9e27044d78562cb96aa6e78920a1cf840b462b577ff7fccf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 156
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinit-button.png"
+    },
+    "_sourceKeys": [
+      "a2d8e46078f581cc05db07dab6080648376534c6d2b9e5f9cfb8bc0c72e5adb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 157
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinit.html?"
+    },
+    "_sourceKeys": [
+      "3b9cd769769d9958ff0e6feb63918ae8a17abc5d10f545a6e7904c5657b8c01d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 158
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-footer-icon.png"
+    },
+    "_sourceKeys": [
+      "6cb6ce100cbfafb6481362d651378b64ae696881249199e4b457965a6d2875ae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 159
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-footer-icon.svg"
+    },
+    "_sourceKeys": [
+      "0c7daa6e5a64f5e73c0474912b1ba21c5146b8d8a894eb87e30816b715d6f94e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 160
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-footer-svg.ashx"
+    },
+    "_sourceKeys": [
+      "d09b7fa93a03f9bf9117014e8bc537a1586383b6647393de720c10c56a6793cf"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 161
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-footer.ashx"
+    },
+    "_sourceKeys": [
+      "8bf4b899027c7b06bef464a7e85fbc10c84e824a278bf3790e95210584c3a6f9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 162
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-for-woocommerce-save-button.min.js"
+    },
+    "_sourceKeys": [
+      "50e9154e712853d381cee492b1a4815694eba5cd39e17a8893514dfe5b8d23f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 163
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-for-woocommerce-tracking.min.js"
+    },
+    "_sourceKeys": [
+      "b9d6d4f49fa7d17b359617710b37fc5d651ef61853eb521f151751a4c8367ea5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 164
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-over.jpg"
+    },
+    "_sourceKeys": [
+      "b6d566f108511c141ce9757aa8532e0455fd888c55e33b973a09cc0bb1dd6c56"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 165
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest-over.png"
+    },
+    "_sourceKeys": [
+      "9fa2a41a85e5f5411a503665480cf2862abb4dda81350153f977ac810ad062e4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 166
+  },
+  {
+    "condition": {
+      "urlFilter": "/pinterest_tag.js"
+    },
+    "_sourceKeys": [
+      "25515fa916bb1274eeffe2b5692f6d7a3a644b46a3c594d38c2d735fe2cbb736"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 167
+  },
+  {
+    "condition": {
+      "urlFilter": "/pintrest-button.png"
+    },
+    "_sourceKeys": [
+      "e7bc31b3a75b2800779e99d8930d1ac7e47a337d302d77894c182ebb00977b2a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 168
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/add-to-any-subscribe/subscribe_"
+    },
+    "_sourceKeys": [
+      "8d762712f020e65bad23c32bccbddea6f680168a03fa14a6b62a6136bdd848f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 169
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/anmiated-twitter-bird/js/tripleflap.js"
+    },
+    "_sourceKeys": [
+      "afdff94eeaee688efa2f51e87800453964b7cf979802f2d02671dbdeb6521ea4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 170
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/bookmarkify/"
+    },
+    "_sourceKeys": [
+      "83333d319ebc142cdb6f665108114221f09e77adfb99e816e64d03da94c5e13a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 171
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/delicious-bookmark-button/delit.js"
+    },
+    "_sourceKeys": [
+      "4b470be7334b66da7190debf1eb10a88e4c2a008fe7dee337b14bdb56b662660"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 172
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/dpsocialshare/js/jquery.dpsocialshare.js"
+    },
+    "_sourceKeys": [
+      "8a70d4bbd805be11c51c5bd469e5df0115bfd763f263d4312e6979b6da553161"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 173
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/easy-facebook-likebox/"
+    },
+    "_sourceKeys": [
+      "d353c6c71c4026efc391698ce907f303fb18653c9b5e90dae556ba5f7ee911a9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 174
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/easy-twitter-feeds/public/js/widget.js"
+    },
+    "_sourceKeys": [
+      "7d5b65b0fafab3600e4fab3118750b56c3bd0a529934079c3fad75729fa1afc4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 175
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/facebook-button-plugin/js/script.js"
+    },
+    "_sourceKeys": [
+      "ba124a14f330b4c5f44754b05857551dfc6afe522c303f7fc92f095bab673fe8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 176
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/facebook-fanbox-popup/assets/js/spu.js"
+    },
+    "_sourceKeys": [
+      "89d783a0ac6dc8f87e73d82d03e3e56257dbecc43b99bff91ab3ff1420cfbba2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 177
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/facebook-like-content-locker/js/pop.js"
+    },
+    "_sourceKeys": [
+      "d40a08a65defff1d62c3d05ad6e995e9b291e9d397f9460ec47ccdbf5fe75cef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 178
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/facebook-page-promoter-",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "f27162e52518716cd3f74c78d763ddd008f9837bdecd45378cebea34d4091018"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 179
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/facebookpopuppro/js/facebookpopup.js"
+    },
+    "_sourceKeys": [
+      "c4d8926ba27cd900da8d4f6f5e5417cd96eab0d56cdaa26a9da0a0e2e2551988"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 180
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/getsocial/lib/getsocial.js"
+    },
+    "_sourceKeys": [
+      "5250f4147ea416b9bb471ad3dba0d6e1861af873bd3a68d53445045de2aefd5c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 181
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/knxdt-bookmarks-wordpress-plugin/css/style.css"
+    },
+    "_sourceKeys": [
+      "ac835bb747495b09ea37c5f01230bba1efef4796b751499a1d3fae754f0649ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 182
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/light-social/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "841bc8c7e71cf1364d235506eb4e89ba8241a230efee6d2b059e896abcfa2b1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 183
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/like-box-pro/includes/javascript/front_end_js.js"
+    },
+    "_sourceKeys": [
+      "e0326630616e5f773d251bee765117ec07fdc9c8210cca3779f457867d687775"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 184
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/like-fb/js/popup.js"
+    },
+    "_sourceKeys": [
+      "4a986b2f1ad8faf610f5b3f0677e3c2d97219ad6d7f7d2ea034ace1592a26b0f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 185
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/mashsharer/assets/js/mashsb.min.js"
+    },
+    "_sourceKeys": [
+      "09fdce7123b101c772f80bc261194f93cf039409a66e2d6bd12bffa77c0dc3d4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 186
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/osd-social-media-sharing/includes/style.css"
+    },
+    "_sourceKeys": [
+      "f1f87c66cd9d4fa72363b9b85773811601a6873579f4a9c863e176a1d78d0313"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 187
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js"
+    },
+    "_sourceKeys": [
+      "9fbf02c91ef1afa71e2c8b5270af0d66a7b532d074f3f3328b8d2b50f11a4ae8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 188
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/rtsocial/js/rtss-main.js"
+    },
+    "_sourceKeys": [
+      "d52763c512449a78b07c8439080c0670706074732eba4f0cf17cb7419eb290af"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 189
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/simple-social-sharing-widgets-icons/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a0549a3dde440f2540956ef52440d63e660219eb01102bace55e808acda198ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 190
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/slick-social-share-buttons/"
+    },
+    "_sourceKeys": [
+      "0755c831aee656263e556f84295abdb2d2485c0d3b13c851d8c9e1bf2902dcc7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 191
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/slide-in/js/wdsi.js"
+    },
+    "_sourceKeys": [
+      "cab5745ba569eb9f45f2f6d2c1e3ec005497b6cc03de3b00f8c63f1776628d5f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 192
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/sociable-re/images/"
+    },
+    "_sourceKeys": [
+      "90e28570ec48108409cdbd66d2fc933279542b3f0a6b170d77a4e87f9991d476"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 193
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/sociable/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "fcf3e38fbca689ae562b26b2c6a994d1e3ce9fc3e088487a3111c7f8fc2de0e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 194
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/socialbox/assets/"
+    },
+    "_sourceKeys": [
+      "168acda2e884c0c545f378e1606e33ea632b514d902971326e76588ad3da6006"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 195
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/socialfans-counter/assets/js/socialfans-script.js"
+    },
+    "_sourceKeys": [
+      "8bc1dec5854536311b3d590f7011c4377378719193ae39e55e6a01d2764d2c40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 196
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/socialgrid/static/img/"
+    },
+    "_sourceKeys": [
+      "b2105da976ab72bc90465bef48c50cb8ee9cc8c79f7e20e02757ae3dae439f53"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 197
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/sociallocker-next-premium/"
+    },
+    "_sourceKeys": [
+      "749b6f57eeaa0c701d05f34b240f2de9452289821bf8a82ed0e06ad921da1d4a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 198
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/stickysocialbar/js/sharefront.js"
+    },
+    "_sourceKeys": [
+      "ea0c74d0c657e5d9801f002509c79804c5d8985adb4ffa631b1ea12b8dbaa174"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 199
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/subscribe-connect-follow-widget/images/"
+    },
+    "_sourceKeys": [
+      "b2cd9d7dda69dc4eb70cdbe2848a58c3bbf6cff6fe9a206f83b1ebb841cbf320"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 200
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/tweet-this/icons/"
+    },
+    "_sourceKeys": [
+      "1d58145a86925621f72907ccd85a44ec5d89ab975279f3918d1d57c0b4ef513b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 201
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/tweetmeme/button.js"
+    },
+    "_sourceKeys": [
+      "a34911b86ee9108807ec742fa27e9a5e4a25da5a1143c4f353aa76e393a8314f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 202
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/ultimate-follow-me/"
+    },
+    "_sourceKeys": [
+      "e523042c86af091d376eccc364ef720689c1a60cf0f0d85756ee4d2a494c1720"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 203
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js"
+    },
+    "_sourceKeys": [
+      "70f1b4f74cb07915589310c8c128873d8a352053e2d02917c68c01b2efd066c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 204
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/ultimate-social-media-plus/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "625c94c82e1ce2f2e8e9d0a83a6206626f6a16a376fec0dd5b5384ccaa9bc9bc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 205
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/viperbar/client/js/front.js"
+    },
+    "_sourceKeys": [
+      "d459951f754029a3c088d008459e5a1144c9d3e8d3610dd757bb600bdd807759"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 206
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/wordpress-social-ring/"
+    },
+    "_sourceKeys": [
+      "ea0ac77e8c7b8daeabcedb58ea5412bf3240cf954706822b5fb5b5be6b96f8ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 207
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/wp-plus-one/wp-plus-one.js"
+    },
+    "_sourceKeys": [
+      "261adf2c1c34a445c28d5b5dfbb367170440e84ee8333c0fa8183d6da5c55206"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 208
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/wp-social-toolbar-pro/js/corescripts.js"
+    },
+    "_sourceKeys": [
+      "9a435d0c240da824cbc0297ed2ff612adbcca89d1307a4687266b82fc16e0347"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 209
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/wp-tweet-button/tweetn.png"
+    },
+    "_sourceKeys": [
+      "a21b6f35510c3958291d6f44b3c6136655aa1b78651302825a88085d17c57843"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 210
+  },
+  {
+    "condition": {
+      "urlFilter": "/prisna-social-counter.css"
+    },
+    "_sourceKeys": [
+      "e296bd2941019690faed151b908a6b31c71772c369b0d4027e324c48b3017ec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 211
+  },
+  {
+    "condition": {
+      "urlFilter": "/qa-social-share.css"
+    },
+    "_sourceKeys": [
+      "c6ac11e6f2d2ef2e09f729b40cee892e3d68bf9a3ca67403d2a6a569784d1d00"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 212
+  },
+  {
+    "condition": {
+      "urlFilter": "/resources/twitter-",
+      "excludedResourceTypes": [
+        "xmlhttprequest",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "7e023d744d9a2701aa50ec659e45005819c97e4275148eb8e568eb546455acbd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 213
+  },
+  {
+    "condition": {
+      "urlFilter": "/rrshare.js"
+    },
+    "_sourceKeys": [
+      "7cc7b83c7a3d65295eed631f0f82629fd59153994588688d568c7fd185a19736"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 214
+  },
+  {
+    "condition": {
+      "urlFilter": "/s9-social-sharing-front.css"
+    },
+    "_sourceKeys": [
+      "a7e3d7d3f3d4d17c8da6521b11d9d982fec8f734989fdc713ec1dcd8fb8cade4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 215
+  },
+  {
+    "condition": {
+      "urlFilter": "/scrollsharemenu.html"
+    },
+    "_sourceKeys": [
+      "20a101191f28b8e4eaa7e7d4c97360aa00a59804d8bd880d7e436f78d6e16951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 216
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-bar-1.min.js"
+    },
+    "_sourceKeys": [
+      "48568a8641b25a7cf3331c5ecc3d758360c26e4aea294f4509c27f5c58987325"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 217
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-bar/build/index.js"
+    },
+    "_sourceKeys": [
+      "0283bd1c0e70514881014b3f61deb4588a5ec741a381df19717065d79e970f85"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 218
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-bar/share-bar.js"
+    },
+    "_sourceKeys": [
+      "6257a3f7a1b229f549a061882f3a1bd0730d65c786618d20b4a34b9f7dd5ddea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 219
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-button?"
+    },
+    "_sourceKeys": [
+      "95c953e6dd656677eed1837ab5f9c9ab0491275c162ee43a445558b9b3ade9bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 220
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-controller.js"
+    },
+    "_sourceKeys": [
+      "5828bcf1da8cb03967512c13dc74480941f6d659907ebc802526f0a06d0a3f67"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 221
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-controller.min.js"
+    },
+    "_sourceKeys": [
+      "d2b10b6af9e4b6194ae35787d666513fdf97322b86f4cc60fefbf896521f4eff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 222
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-leadoff-public.js"
+    },
+    "_sourceKeys": [
+      "b77d9d9a3cc7b099d0470216a26949b7b03ca0aff070ca08785a912e91738b52"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 223
+  },
+  {
+    "condition": {
+      "urlFilter": "/share-on-diaspora-css.php"
+    },
+    "_sourceKeys": [
+      "b3c798667487ceca37f052bdf969d0b91ed616c89bb231975b2711701620d419"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 224
+  },
+  {
+    "condition": {
+      "urlFilter": "/share.php?buttons="
+    },
+    "_sourceKeys": [
+      "a44db7b6977f62f5b08581149aaf63f14f67f76d4a50be90b3ddd605dd661612"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 225
+  },
+  {
+    "condition": {
+      "urlFilter": "/share/count?"
+    },
+    "_sourceKeys": [
+      "8adb1b111b867a957b13eb7c437ee00fd4ef0bb8c362d23c13904ae1266248c5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 226
+  },
+  {
+    "condition": {
+      "urlFilter": "/share/footer/"
+    },
+    "_sourceKeys": [
+      "9b638b307b344750e69361a427f1cfe1d336aacccb848b58eba7fa29db4f5a27"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 227
+  },
+  {
+    "condition": {
+      "urlFilter": "/share/frame/"
+    },
+    "_sourceKeys": [
+      "4bd77287ace1340eaccb3df9c5331d17bba4807e21e9cc84829435a205cfd83e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 228
+  },
+  {
+    "condition": {
+      "urlFilter": "/share42.js"
+    },
+    "_sourceKeys": [
+      "9e29a623820f70cf6573be54c24dfd2c5af75bac337b3417858e83d699aa6f1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 229
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_button?"
+    },
+    "_sourceKeys": [
+      "e443f6f9906005ae4558484df6bfedcc838a232ca7b55dde1c05755831f4a55c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 230
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_count.js"
+    },
+    "_sourceKeys": [
+      "f556125d907861c2e93a68a8cb867dca0c6f2a421043a7c5fe9716d2d90f127f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_iframe.js"
+    },
+    "_sourceKeys": [
+      "947ff18c3b89f5f8a6002208cf74abb4b525ab8ea7844b90c0cfa091175f6107"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 232
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_popup.js"
+    },
+    "_sourceKeys": [
+      "61cd01955c718dfc7f2d7623a3a67e629b705fd4e2c88d457e39fc358ea53e99"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 233
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_sprite.png"
+    },
+    "_sourceKeys": [
+      "3963074020cbc0f6c98328d69d083a926c29a7642b7642d85835aa59b1835a81"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 234
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_toolbar.js"
+    },
+    "_sourceKeys": [
+      "aa76a706e913807570bdf1f211a220a312a3debb4f8bd8543d2683175e9b7321"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 235
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_view.js"
+    },
+    "_sourceKeys": [
+      "446710dbec9ab64d970ba8161e1cfebf74f03ac74e58252be225bae76f588d8d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 236
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_wechat.jpg"
+    },
+    "_sourceKeys": [
+      "84f005d0b87a8b7b2e464a7e91d8914d3009f75a984915a585dc59be9598c19f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 237
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_wechat.png"
+    },
+    "_sourceKeys": [
+      "cce4455fc64bffdfad5109892ba4219d329473102e307860c154a2e5d7a5ddea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 238
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_weibo.jpg"
+    },
+    "_sourceKeys": [
+      "d0e6743e508c744e09a99ff44f79ed301e206ef925582b6d45c56232a46d6270"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 239
+  },
+  {
+    "condition": {
+      "urlFilter": "/share_weibo.png"
+    },
+    "_sourceKeys": [
+      "fdb62480c023dda9046227d5a23fa01e44e8dd5f051d08b2365e49864f257259"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 240
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareaholic.js"
+    },
+    "_sourceKeys": [
+      "de175f9bd1ac60f37c5f802b19665a31445b19065805f7e4e9ac8a39b7dc9642"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 241
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharearrow.png"
+    },
+    "_sourceKeys": [
+      "13292ec065b1c5c7549d88974c1fb6ba3078e8a4d79f217559f07e4f593458db"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 242
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharebar.js"
+    },
+    "_sourceKeys": [
+      "cfc4a80ebc85b92b0d46bae463811cfb0b3699b540b37d1680c13aab0bc54c54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 243
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharebar/"
+    },
+    "_sourceKeys": [
+      "5677741773799692af510025b327a3b7c7b9feb51a3912911f4ca77945b0e4e5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 244
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharebars/"
+    },
+    "_sourceKeys": [
+      "8d915dbdd7ec87ae6959716ca13859ae28185378f981363a69dcfa1535b1797f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 245
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharebtn_"
+    },
+    "_sourceKeys": [
+      "ad21443f1c50527153c1c46e1eb25d372dedb9a1537d89cb4f3aaf0268786ac6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 246
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharebutton?"
+    },
+    "_sourceKeys": [
+      "a062e3e22d53856318fe2d36faca88e818d1eca9f95bc50cec587c32402248b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 247
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharecount/"
+    },
+    "_sourceKeys": [
+      "81b14035cc055b4225046966c9faea9e123103652b9b898c37541493edbf8651"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 248
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharecounter?"
+    },
+    "_sourceKeys": [
+      "1cf1504b8cf1522a138a8dcf6fd97d5039aa155f21e096f56b84fff8dd0cd865"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 249
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharecounts/"
+    },
+    "_sourceKeys": [
+      "a836cad9fab56487c0a7cbaf3cd55fb1237134bfd9f0ab981ec58db81ba52ec6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 250
+  },
+  {
+    "condition": {
+      "urlFilter": "/shared-social-"
+    },
+    "_sourceKeys": [
+      "c30135c6439a4f7202dfbcd4ab3ca9020e62aabf1dbfc40275447f2c723c02df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 251
+  },
+  {
+    "condition": {
+      "urlFilter": "/shared/btn_"
+    },
+    "_sourceKeys": [
+      "3b9d61b41cb6d4bf142addf4b02b31dc981a38c5f163a5a5f1ffe79952c640cd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 252
+  },
+  {
+    "condition": {
+      "urlFilter": "/shared/social/"
+    },
+    "_sourceKeys": [
+      "c1c03ffe18c3dcd992bbd4223f1fe68a536e9d9350e8d41d94a113acba47bc14"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 253
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharedaddy.js"
+    },
+    "_sourceKeys": [
+      "be5eb891640d211f4124a0ff1c740204d739013106ef7e9dfbdaf510e8f4c1d1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 254
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharedaddy/sharing.min.js"
+    },
+    "_sourceKeys": [
+      "edcf11ffeaeaad90f630a629544944af57267258ace8c19d4ca5c04e491990a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 255
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharefacebook.jpg"
+    },
+    "_sourceKeys": [
+      "c71e8faa5a2a124adcb4929d628702e0633c26d925f1fc91686d188794863528"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 256
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharefacebook.png"
+    },
+    "_sourceKeys": [
+      "ee331712c1bb841b5ce6dd59fa4a258d73e255b470a348ea0f54f6017758e699"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 257
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharefb.jpg"
+    },
+    "_sourceKeys": [
+      "dee61edbb39c87f785c078a798157c5b3f73475cd69ded9175e9082c4aa47483"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 258
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharefb.png"
+    },
+    "_sourceKeys": [
+      "f6b6a085dea84fa2ec8dc3375207ba3c109b0a75702b415f0fa7c7a55ec2ddcd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 259
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharefb_icon.png"
+    },
+    "_sourceKeys": [
+      "a25000ba836c3236db69681ab19e9448ace4c66e1ef36bbce553ce3407e4fbf7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 260
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareicon-branding-"
+    },
+    "_sourceKeys": [
+      "8b363610431c24e7e18928cde05deae5a9b64a20ee902d1e56c2e8d643e56268"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 261
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareicons.",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "d646d3ffbe7435713da4dd493a8882c81c7b44edd939de317b374b25dfa775c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 262
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareit.js"
+    },
+    "_sourceKeys": [
+      "3f4cb9ebe2383928bf2b179bc2ac13e25829bb4096ae272b48d0b4df3fcf1908"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 263
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareon.iife.js"
+    },
+    "_sourceKeys": [
+      "a46cca6001822e9d9b79611c650419a7faa08c95bd78708331f00362b9940321"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 264
+  },
+  {
+    "condition": {
+      "urlFilter": "/shareon.min.css"
+    },
+    "_sourceKeys": [
+      "441e1d131f3bbebf724953de85f20c52749ff0fcf1bc95bdfc7b779d298d2ba6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 265
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharer.js"
+    },
+    "_sourceKeys": [
+      "3782d89d07e3be3c333c319739b9285af6b5bd7782c34c80c808a5390b3c0716"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 266
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharethis-buttons.js"
+    },
+    "_sourceKeys": [
+      "a58ef22faeced04542a8edc32fca7f9c788a8f69c848a838083a447c6b619c59"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 267
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharethis.js"
+    },
+    "_sourceKeys": [
+      "7dcf8ae4b32f2495b1531789426c49059f8e8ee70c76af09c84887a83021eff2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 268
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharethisicons.png"
+    },
+    "_sourceKeys": [
+      "7d1f7c7186b1b632702d716f58a667da4ce5a137aeee3da8632e460f64a01a92"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 269
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetool.php?"
+    },
+    "_sourceKeys": [
+      "4b18cec4b3956579a63a814cea7407676b48f4d66e938dc75fb5f5b5ea6dcf08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 270
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetools.js"
+    },
+    "_sourceKeys": [
+      "f197670a96ed84ee9ecdf81b9038d77d4d1b2ce801254aa167f07f471236337e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 271
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharett.js"
+    },
+    "_sourceKeys": [
+      "dc5fab5d1c66c912e88237067ae876bd33a2df8651576cb29c3d5d1ff00312d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 272
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetw.png"
+    },
+    "_sourceKeys": [
+      "fb97ebdb414c331e46ed13efaee6322635926905655c415d6ae2b7602ccdc286"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 273
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetw_icon.png"
+    },
+    "_sourceKeys": [
+      "fdcec523909014c331a7ced182e9d09ae9e0650ff887fd533b6af6a448474e26"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 274
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetwitter.jpg"
+    },
+    "_sourceKeys": [
+      "56d03005085d784d39556e8566ff5c21525ab325969149e44322a181004d4311"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 275
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharetwitter.png"
+    },
+    "_sourceKeys": [
+      "2e9f273014d6be95fc9b5681ea0b80b3dba060408860f5d2736179ec1bac41f0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 276
+  },
+  {
+    "condition": {
+      "urlFilter": "/shariff.min.js"
+    },
+    "_sourceKeys": [
+      "d190ba64661a380ede97fa871e2dd3278b71d6d377b572f0accf0ed3d35254fe"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 277
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharing/sprites/"
+    },
+    "_sourceKeys": [
+      "52c3d838ea60c936d331a6e5fad749c16420bd939873dac6a0d5fa7cc2bf1171"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 278
+  },
+  {
+    "condition": {
+      "urlFilter": "/sharing_icons/"
+    },
+    "_sourceKeys": [
+      "e867b6f389a9d992655a24cc0476211ab61297fc03ee50770fd372f84c8d4a41"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 279
+  },
+  {
+    "condition": {
+      "urlFilter": "/shrmain.min.js"
+    },
+    "_sourceKeys": [
+      "71014cbf6f1f3b4dfa8e40f06d5e527bfaa49d595053933e98caf900343cc1a8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 280
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar-facebook-"
+    },
+    "_sourceKeys": [
+      "9f8bc72696947d4b2d8e08f03ef56a6cb60b1a5a7a337a892503e578051a0092"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 281
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar-follow.png"
+    },
+    "_sourceKeys": [
+      "89ce5ef55a58c30255d50452bf2519ffb146ddeab4793d71a63c102a9f1f103f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 282
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar-pinterest-"
+    },
+    "_sourceKeys": [
+      "c6a2981332671c3befbc011f4cd89c199343e8359993524413233eb713aa695e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 283
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar-twitter.png"
+    },
+    "_sourceKeys": [
+      "d74e274946ad50c03841ee3b01995c7fc06bade7727414fe552e84372b16b77f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 284
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar_facebook.png"
+    },
+    "_sourceKeys": [
+      "117a919b0ece0ae5a5249ae0427a3f37a12435c9f8d09b055ac57d7df8b356e2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 285
+  },
+  {
+    "condition": {
+      "urlFilter": "/sidebar_twitter.png"
+    },
+    "_sourceKeys": [
+      "8f7580919cb7f45b329f5ffd96cfb4a95c8d8c350284cddbf3c066887e4fbd15"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 286
+  },
+  {
+    "condition": {
+      "urlFilter": "/silicon-counters.js"
+    },
+    "_sourceKeys": [
+      "0c680f4f95b198c05bdf4e4bc7b85b1ef806524c629ffb05d1d81f0a46cdbf79"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 287
+  },
+  {
+    "condition": {
+      "urlFilter": "/simple-share-",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "20deb131e11ceaeb9d5844f1f4bd169546dd66f46553867290db351d82bca33a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 288
+  },
+  {
+    "condition": {
+      "urlFilter": "/simpleshare.js"
+    },
+    "_sourceKeys": [
+      "792aa02a157c61ef16b656f2ecf18c4f9280ed1c5b26bf8cd6d3e115a3a365c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 289
+  },
+  {
+    "condition": {
+      "urlFilter": "/sm-share-"
+    },
+    "_sourceKeys": [
+      "9f33f988b7aef6c927434cba388cb02af9f07595f95b13a39863babeba7a233e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 290
+  },
+  {
+    "condition": {
+      "urlFilter": "/sme-facebook-likebox-sidebar/"
+    },
+    "_sourceKeys": [
+      "6f034e0fba373f84dd3c5476efba505971790fb00b0350953a4e59304b906aec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 291
+  },
+  {
+    "condition": {
+      "urlFilter": "/sns_naverband.png"
+    },
+    "_sourceKeys": [
+      "1cf7c67e492d6cdcc2e45d6cc1521a5d9ecf38199c4386583f7e62ca0544fca1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 292
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-bar.js"
+    },
+    "_sourceKeys": [
+      "e21248a080fc1561c248ddf22d9e27ecc11ea6739eeeadd8009cd666914a7bd2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 293
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-footer.jpg"
+    },
+    "_sourceKeys": [
+      "7a104b1390dd6f1c53fd72e14c8fed1ebdfec3eab06d29d9256f887c47e20498"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 294
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-footer.png"
+    },
+    "_sourceKeys": [
+      "044fa8616f9a80acc8ea330c3205a31acc44a6788de4844f456ce2549ad59deb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 295
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-proof-testimonials-slider/admin/js/slick-block-editor.js"
+    },
+    "_sourceKeys": [
+      "00bdf969e230514db4d807ee9135cb90ad1331796b73f80c2db4d1610f40541a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 296
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-sidebar.js"
+    },
+    "_sourceKeys": [
+      "e9ac43f23e905840df6d9c91db9dc215b8ba795a0723b1fa2c2b3500d323630a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 297
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-twit.png"
+    },
+    "_sourceKeys": [
+      "5fd24a39495d2c91eeea6cd3205b1a0db40212a1e59529ff8b9dd95b1b34553b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 298
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-twit.svg"
+    },
+    "_sourceKeys": [
+      "0ad52e011a7b9ed7f21cd1650d945aab9aec42fc8daed4ecee206f7bd468a15e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 299
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-url-generator.js"
+    },
+    "_sourceKeys": [
+      "31596096786e755d857ff275bb73d2d098203ca07ef9d6594e18ee0599693d34"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 300
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-url-generator.minc.js"
+    },
+    "_sourceKeys": [
+      "48dec1f22416553a9fafc980b770f6a2e8c1151b9ee79d708cbb501c7bbbfbd3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 301
+  },
+  {
+    "condition": {
+      "urlFilter": "/social-widgets-"
+    },
+    "_sourceKeys": [
+      "d8c82a963c29f39649d6ea4b62974f6456c828eebaeffd2781bee437055e5a54"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 302
+  },
+  {
+    "condition": {
+      "urlFilter": "/social/sprite-"
+    },
+    "_sourceKeys": [
+      "62358c6a00139ef131c522d7fdf3c68f84c24d8923e6ddbb67e629c3987627ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 303
+  },
+  {
+    "condition": {
+      "urlFilter": "/social2s.min.js"
+    },
+    "_sourceKeys": [
+      "2628d47d7fcf74fe1289f1c8b6cfccdcf7d9efc7084406241cec060ad7efa4df"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 304
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_balloon-"
+    },
+    "_sourceKeys": [
+      "d6d429d7562c5af216e30c6249f6a289fc459deea9ed44791741ad108b2ba13e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 305
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_bookmarking.png"
+    },
+    "_sourceKeys": [
+      "cba0e6d9a4f1177f70c4c80ae1a3008fe48254e0c26ee572bc85473257fa499c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 306
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_bookmarks/"
+    },
+    "_sourceKeys": [
+      "3a10300927552fd6e1512ad69b32f4c7a98bf02e16ffdd908a8a5518ff0f8c38"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 307
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_footer.png"
+    },
+    "_sourceKeys": [
+      "b658282ea1ff1d3188570dbcc82e0b26640221533e9dac59cc21dd1d506b8ae8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 308
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_header.jpg"
+    },
+    "_sourceKeys": [
+      "8829a24f7d1e8ce03aef24b4466bdd108b462d1f01c6ddef1a58e5abc67e4b95"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 309
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_header.png"
+    },
+    "_sourceKeys": [
+      "169eda03c11336f663ce4f80e9f7cc77888a7a3e2535532589d647e3e9d5e0f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 310
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_popup.js"
+    },
+    "_sourceKeys": [
+      "0362cca66de73f1363f91c00427b1b8dd291b5412ab75236a8331a270b3fa781"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 311
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_widget.js"
+    },
+    "_sourceKeys": [
+      "23204ae7470b48d1383ea619e139c7b3c299b6e95680372ec36ad5b896b63a9a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 312
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialappsintegrator."
+    },
+    "_sourceKeys": [
+      "fe26e75d30283f54084dff43885143f57083d44439ecd58ffe84ba0020f8d996"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 313
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialbar-sso.js"
+    },
+    "_sourceKeys": [
+      "a563575911d444c41d87224ac6a7eb989c48f9285d032bf49a2321431c69f3e6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 314
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialbar.js"
+    },
+    "_sourceKeys": [
+      "67a28091c64dc19d7cf84d3fc6d12714dd2eeb4c0c8a0e556e143bf1e16556c8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 315
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialbar.php"
+    },
+    "_sourceKeys": [
+      "581ef32eb0d82c331509dd76abf22497849916d13536bb18801ce769318e3e74"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 316
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialbookmarkerbot_images/"
+    },
+    "_sourceKeys": [
+      "762f470f5202a1b09722cd7e9d81a4ee5101f1a06243091b6eb659f0f037eb92"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 317
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialbookmarks.js"
+    },
+    "_sourceKeys": [
+      "18abe42ca47914183f5d3ced57f947b5cdcb9694af7a71d770c6d64a687f8ecc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 318
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialcount.js"
+    },
+    "_sourceKeys": [
+      "9fe3db4b7940c2760b0533dd7f1dea2d0120ead87daca48e16a1f373bc335bed"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 319
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialcount.min.js"
+    },
+    "_sourceKeys": [
+      "c5a75570787599e23b8291f348bc9d343990ee0ff1af4b229d6b9028f8891bf1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 320
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialfooter.js"
+    },
+    "_sourceKeys": [
+      "ddc05ac122475d62e3568a04569b7d041d3ac5523eab17915a45ab9eea67fcae"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 321
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialite.js"
+    },
+    "_sourceKeys": [
+      "daebb3d4fb40f4c67a8956b87e300f6b6a1f991acaa9d0331316e89526f8ffef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 322
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialite.min.js"
+    },
+    "_sourceKeys": [
+      "8821616b4203418170fb9cafc3518165307a4d74a1111351b9b5f3960f1b4f3f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 323
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialmediabuttons.png"
+    },
+    "_sourceKeys": [
+      "f6629797151b456d4f31fa67c8093d4fd610a453dbce55531e10e21d331c558e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 324
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialmediabuttons/tracking.js"
+    },
+    "_sourceKeys": [
+      "e47f66add24181bec5035bb04be9a02270e71c287a576125010aa062195cb84f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 325
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialmediasprite.png"
+    },
+    "_sourceKeys": [
+      "a559b0aa0cac53c939d440af9c3544c43d21c6ebf40b0f71331893d4f4a5e8ea"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 326
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialnetwork-buttons/"
+    },
+    "_sourceKeys": [
+      "906da4d43b628946650fd87bd6835d6e244510d6994b4e40b0922087dbbd1457"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 327
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialplugins/"
+    },
+    "_sourceKeys": [
+      "c95f49f77074fd23905a5d879492ed2a704eab69fcde6c18cf0c15472be0897f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 328
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialshareplugin.js"
+    },
+    "_sourceKeys": [
+      "87773c39b9eae7722ebc9ab3a979395f01aa4f104723da5b628a7cabc35b791a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 329
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialshareplugin.png"
+    },
+    "_sourceKeys": [
+      "6ce45b5d72f3e5f8bd86b2d5098eb06981cbf0ca0c5548cbe3c70ca74198ae5a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 330
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialshares.js"
+    },
+    "_sourceKeys": [
+      "e8ad5ce8339eb72b1c0248e45119195cd2ab4cac454fdde0525863d766ad0d20"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 331
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialsite/"
+    },
+    "_sourceKeys": [
+      "3dd5e487aecd2d03060e64369e419899e34455b966b73c581c122e7783ce980c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 332
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialsmall/"
+    },
+    "_sourceKeys": [
+      "f681d9b901d5e69f9078b37c6d5983931c89e96f647cdc90dcc65160d3fd58c6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 333
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialsprite."
+    },
+    "_sourceKeys": [
+      "d7246a6b067d64d8f31d6397a1f6067b5f806311a2595410010619075fcfb80f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 334
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialsprites."
+    },
+    "_sourceKeys": [
+      "dc26c36352d0b9795c3ef1368992b2ad9877045bfba24b39e9099af1e634e291"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 335
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialstat?"
+    },
+    "_sourceKeys": [
+      "c0fe4fd65652121900ace9f25f3dedbf8dbcb3e70964ef9779b74617d1f28d08"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 336
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialtwitter1.png"
+    },
+    "_sourceKeys": [
+      "889fe9acfe88729d077928ec89572b2fa5bde49d11c9545b4fbcb4c4e55e9107"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 337
+  },
+  {
+    "condition": {
+      "urlFilter": "/socialwd/"
+    },
+    "_sourceKeys": [
+      "1de0a8b479b68199ddb8b3a7a415a9007fe1f8321a5b6fdeea0c155fa1fb32fc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 338
+  },
+  {
+    "condition": {
+      "urlFilter": "/sociofluid/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "script",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "531799470001a0ce22e56ee4a55493c7ab45e5f3867155350bc8fc2f1d89df8a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 339
+  },
+  {
+    "condition": {
+      "urlFilter": "/squaresocial-"
+    },
+    "_sourceKeys": [
+      "46bc0a3dacc51d921b8d902827b3e4381db328f8eebd326d1cfd7dfc64a74f1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 340
+  },
+  {
+    "condition": {
+      "urlFilter": "/stocktwits_share.png"
+    },
+    "_sourceKeys": [
+      "6b3fd402c36ffae56ee1ed0bc381cc8c9aa1efde97dbd1993049cea9df00c82a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 341
+  },
+  {
+    "condition": {
+      "urlFilter": "/synved-social/image/"
+    },
+    "_sourceKeys": [
+      "f2a1c8017b5606488dba816c9684755858344e9569e46f42c6c88ce935cc1174"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 342
+  },
+  {
+    "condition": {
+      "urlFilter": "/tabs/social/"
+    },
+    "_sourceKeys": [
+      "2bf5a13fe2ec18f1f64ad5a8e454ed9eebeee7a4867f26ed97784beb67756138"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 343
+  },
+  {
+    "condition": {
+      "urlFilter": "/tarful-share-public.js"
+    },
+    "_sourceKeys": [
+      "10aba1f3731ff94554688e8640dbd90d4126d073ce2d68ce8a2d5fff0bfeabb7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 344
+  },
+  {
+    "condition": {
+      "urlFilter": "/tools/newsideshare/"
+    },
+    "_sourceKeys": [
+      "0db40fc30e60c2731d0702bff4cc3322c300b3f235dad09fbc224b1eb6ab1e1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 345
+  },
+  {
+    "condition": {
+      "urlFilter": "/tweet_footer.png"
+    },
+    "_sourceKeys": [
+      "01a186e32c908040a57bc60c75c44d8308b53f6f2ea6bfae1158ba8b7be6d46b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 346
+  },
+  {
+    "condition": {
+      "urlFilter": "/twfooter.png"
+    },
+    "_sourceKeys": [
+      "a8d8cfce327210587078ae90f349c6a4a4876e439bcc15d38806ca5c838feea4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 347
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitbadge.jpg"
+    },
+    "_sourceKeys": [
+      "0d4065b9f7c25bc64e24fc3a7978203a9f8e50b2ee16653395852a19f7403066"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 348
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-follow-"
+    },
+    "_sourceKeys": [
+      "c109d17ad814e3071237b8b875ed0935d806799c6a695a5cdf250960d79f766e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 349
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-footer-"
+    },
+    "_sourceKeys": [
+      "e105df2b63ca1db3102010b574983e2295cd16eb57734bb97d56c59dd8f962b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 350
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-v2.jpg"
+    },
+    "_sourceKeys": [
+      "dea00b0dfe3b0ca95cccd9e1719cbed8fff3ca12aa14d33231aa11fb0cd3872b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 351
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-v2.png"
+    },
+    "_sourceKeys": [
+      "6422cf72ba4192fc895ef36aa8740e9332dc74f8b6c473060a52af615f5e1303"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 352
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-widget.jpg"
+    },
+    "_sourceKeys": [
+      "3b74bfab4fc0aca2e84eb1aa106263dc2383819973ad90f2e6f5d55912fab132"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 353
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter-widget.png"
+    },
+    "_sourceKeys": [
+      "1e8457eca3c65801f8366cf785bc9c7c6710238216983a8c8fb6135071778941"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 354
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_badge.png"
+    },
+    "_sourceKeys": [
+      "d9c946ffc1405536a72005ea31604f5417269e3a1c8cc081f244c6123d70ec52"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 355
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_follow.jpg"
+    },
+    "_sourceKeys": [
+      "a377f64e4a5161b3d25f921e405aa013745a118931fa669d57411410fbf37484"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 356
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_follow.png"
+    },
+    "_sourceKeys": [
+      "afd135f1c53103335d028349c717b030347c464b2d2e3364d07f551202eb7346"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 357
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_footer.jpg"
+    },
+    "_sourceKeys": [
+      "1fa19c55c30aef3235afa9570e76af70fe79efa9d4a810f16bee181e915178d7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 358
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_footer.png"
+    },
+    "_sourceKeys": [
+      "9606d252d9415f46f73242a6cf4f35bf20180be48f8a732865cf559a3a63ba2e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 359
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_header.jpg"
+    },
+    "_sourceKeys": [
+      "d46d0641937ccd4f8d2e2aac3a96521f5e1ad50b62aad73ccd64843493575af1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 360
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_header.png"
+    },
+    "_sourceKeys": [
+      "b53191e379f3a1a7a69b9f9390095beda8e2ee0aa37210d9f7d3f339b79a70ff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 361
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_square.png"
+    },
+    "_sourceKeys": [
+      "2aa6d6af324eb052096ee418a754e06c8ee8e55f5878f2591d32a79b9ec2866b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 362
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitter_square.svg"
+    },
+    "_sourceKeys": [
+      "7c5f08035b106f1c8699255abe55a3709a66c3e4d83c670f2a84721526ee32cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 363
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitterbadge.png"
+    },
+    "_sourceKeys": [
+      "e2a14ecd9bc7fc6c716f59c61d0da1ee71fdd47d822372a0cfd299f4cb60e012"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 364
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitterfloat.js"
+    },
+    "_sourceKeys": [
+      "74dd9df8ab13380887fa6606e7e2a8dd9396b0a9ea3a6ae1ebfc134c705383d9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 365
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitterfollow.jpg"
+    },
+    "_sourceKeys": [
+      "5f161aa0cbe78ad19e170f862d0564d090028c58785e500e598933024bae5b76"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 366
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitterfollow.png"
+    },
+    "_sourceKeys": [
+      "c9c8d0bd292672ad5454d8e30de0377cce889c01ae87418815da93cbf78f213d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 367
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitterlib.js"
+    },
+    "_sourceKeys": [
+      "3a229f726f0e3c8645c3753f01246a5847abbfca0b40ea7c9e918d8d37f47099"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 368
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitteron.jpg"
+    },
+    "_sourceKeys": [
+      "7f20492b199f66b782675e73c261bd63d881fbdbb362f76198805e25b20fdbaa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 369
+  },
+  {
+    "condition": {
+      "urlFilter": "/twitteron.png"
+    },
+    "_sourceKeys": [
+      "da7ffad0c7c2ef5ead4662ab7e31eef551956e8aea0e6132223cdea0232c79a7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 370
+  },
+  {
+    "condition": {
+      "urlFilter": "/twittersquare.png"
+    },
+    "_sourceKeys": [
+      "da0e871222faecd3a084af468043b7440de09b6d971da86fb277369a0ba99ea6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 371
+  },
+  {
+    "condition": {
+      "urlFilter": "/videojs-share.js"
+    },
+    "_sourceKeys": [
+      "96a714924306416573378a838f6a67f74f1f5893ad32aaa875c7fc89a561f450"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 372
+  },
+  {
+    "condition": {
+      "urlFilter": "/viewboxtraffic_min.js"
+    },
+    "_sourceKeys": [
+      "e91bdaaffe2a92bfe39eb84c45b1c367c03955c51baf0174e727b129b6a026f3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 373
+  },
+  {
+    "condition": {
+      "urlFilter": "/visual/social/"
+    },
+    "_sourceKeys": [
+      "94db224ba4bd5e7f207772e0b6a582a81985c04bc588ff77224fa1f201be96f5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 374
+  },
+  {
+    "condition": {
+      "urlFilter": "/vk_button.jpg"
+    },
+    "_sourceKeys": [
+      "8db9001fbac5e5972eec8c398b092a00f2300d103fb2c86aece630c657fab6b0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 375
+  },
+  {
+    "condition": {
+      "urlFilter": "/vk_button.png"
+    },
+    "_sourceKeys": [
+      "b49463df553443ebc73ec74ae557504bbadc1cb6dfd3f880bd39e3d4f449bc33"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 376
+  },
+  {
+    "condition": {
+      "urlFilter": "/weiboshare.html"
+    },
+    "_sourceKeys": [
+      "6808d89f065d4524c898858639e996074ef9a8fefc78713e223ea79b612bafbc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 377
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsapp-button.js"
+    },
+    "_sourceKeys": [
+      "1cc08fda5912296a02c693ebbdf203def192f957fe0e3233d5dbf5ddb7502572"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 378
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsapp_button.php"
+    },
+    "_sourceKeys": [
+      "2abcf83bb1507edbbfe0849249d02de6c36f5d478a64c9540b4d421a08d5bded"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 379
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsapp_icon.png"
+    },
+    "_sourceKeys": [
+      "15dad6826f0fcc1aec435e25a4a8972a4fcf751a553c2eb99cbd2600895e7cd6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 380
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsappblogger.js"
+    },
+    "_sourceKeys": [
+      "3c66e474f5b9c7cd9ff8f6cd3c6032792302358fed4cbb6e43c3cdef30594ca0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 381
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsappshare.jpg"
+    },
+    "_sourceKeys": [
+      "f5072d3ccda53326400558914b1b39499a0caad9ac16f351684c469154747898"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 382
+  },
+  {
+    "condition": {
+      "urlFilter": "/whatsappshare.js"
+    },
+    "_sourceKeys": [
+      "b4793a1a10aee7714c3b0667ba036343435c5a9b1c8590e103cbf3bc1c4c6da4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 383
+  },
+  {
+    "condition": {
+      "urlFilter": "/widget/share?"
+    },
+    "_sourceKeys": [
+      "98f102acde227ea449104993fac42eda8c841929b68eaed355555c8fb4d6724c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 384
+  },
+  {
+    "condition": {
+      "urlFilter": "/widget/share_"
+    },
+    "_sourceKeys": [
+      "e616415d06ac1491fe241d607c369c0cd72e5728a0219ce1b1bde2d30cbd053c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 385
+  },
+  {
+    "condition": {
+      "urlFilter": "/widgets/sharing-"
+    },
+    "_sourceKeys": [
+      "5a16e476422b508bbb00e84432b4c1743069614a9ff292e6dfefe3e444d9245c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 386
+  },
+  {
+    "condition": {
+      "urlFilter": "/widgets/socials/"
+    },
+    "_sourceKeys": [
+      "fb40961ab43277d2c9a75cc1e0f6c82b4db3589e18a7163dfc5556d6e4c8b9cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 387
+  },
+  {
+    "condition": {
+      "urlFilter": "/widgets/twitter/"
+    },
+    "_sourceKeys": [
+      "3ca25d505c7ffae45edecfcd8d52fe052ad8ea1c9634129ba8bb5640efff379b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 388
+  },
+  {
+    "condition": {
+      "urlFilter": "/wordpress-popup/",
+      "initiatorDomains": [
+        "ahchealthenews.com"
+      ]
+    },
+    "_sourceKeys": [
+      "4ab11712459e7d0be80bbcddad4840e33e0753aa12a88594c6151650b8f15129"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 389
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/advanced-facebook-content-locker/"
+    },
+    "_sourceKeys": [
+      "b705e8c89195ca1fa24b0ede21d2ce2c1d15b23445bbc66dc388713b31284fb0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 390
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-social-toolbar/js/scripts.js"
+    },
+    "_sourceKeys": [
+      "8ae320428b9507f1d17725d9a53261a1ecfa4101d5f60e87e9f9b018cf5b5909"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 391
+  },
+  {
+    "condition": {
+      "urlFilter": "/wpsms-public.css"
+    },
+    "_sourceKeys": [
+      "163226342a06173c06f58d3b847bb86eeb0c799f29f048759cefbb444bcc85c2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 392
+  },
+  {
+    "condition": {
+      "urlFilter": "/wpsms-public.min.js"
+    },
+    "_sourceKeys": [
+      "5d588e263a0fb4019050d28af13428815c816f7e8d9546d7a75d3269031461a3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 393
+  },
+  {
+    "condition": {
+      "urlFilter": "/ya-share.js"
+    },
+    "_sourceKeys": [
+      "ac83d1e92100b3d46a610039923c65e54394e6c2cc6bff3b44c475515c22aa22"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 394
+  },
+  {
+    "condition": {
+      "urlFilter": "_footer_twitter."
+    },
+    "_sourceKeys": [
+      "4413d718426eac890d9baf010e525f1d8dd2b4250828d61acbc770c975d2f7de"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 395
+  },
+  {
+    "condition": {
+      "urlFilter": "_share_bookmark."
+    },
+    "_sourceKeys": [
+      "4528ae6c5cc4aba8c4c3f916f04a8599845c189f154d2fb6c2765f54d9414f9c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 396
+  },
+  {
+    "condition": {
+      "urlFilter": "_share_widget_"
+    },
+    "_sourceKeys": [
+      "9941571d5a133bfc23e7dacc0d5e771e1bdc42e21ee662ebc96e3fd7dcde6127"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 397
+  },
+  {
+    "condition": {
+      "urlFilter": "_small_share."
+    },
+    "_sourceKeys": [
+      "f432a18629b32c1447700f27e26e020bede27fe8ffd8ce69809edc888c802a71"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 398
+  },
+  {
+    "condition": {
+      "urlFilter": "_social-bar/"
+    },
+    "_sourceKeys": [
+      "6114702e160864b25249914c05c876b886c16105fcc55fe9633335bafdbc6a1f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 399
+  },
+  {
+    "condition": {
+      "urlFilter": "_social_badge_",
+      "excludedResourceTypes": [
+        "xmlhttprequest",
+        "main_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "a15075bbb785fcfd65d036ff1dd310d2730b564284604f059792138b2f053298"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 400
+  },
+  {
+    "condition": {
+      "urlFilter": "_social_bookmark/"
+    },
+    "_sourceKeys": [
+      "5bc9e173f6abe9f029e8573e3e2bb80730e4f7e73eed8852f354295b339f5b9e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 401
+  },
+  {
+    "condition": {
+      "urlFilter": "_social_bookmarks/"
+    },
+    "_sourceKeys": [
+      "9a09ba020ff7fb286b469b3d723314dfe6f7d3bea463c7aacd0f6ce4904e3a98"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 402
+  },
+  {
+    "condition": {
+      "urlFilter": "_social_footer_"
+    },
+    "_sourceKeys": [
+      "f7b8809474e5afff3b352e9ba1f74516a464c2d0c7cc61f8115cb748e327ed1b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 403
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "addthiscdn.com"
+      ],
+      "excludedInitiatorDomains": [
+        "addthis.com"
+      ]
+    },
+    "_sourceKeys": [
+      "835335474f7b64097afb7a33aaeda00849c6988ef89810df5a94c5f8bcf06107"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 404
+  },
+  {
+    "condition": {
+      "urlFilter": "||feedgrabbr.com/widget/"
+    },
+    "_sourceKeys": [
+      "66232908e9f390c17c459e999774112262baafd821303567dac11fb94d5a21b7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 405
+  },
+  {
+    "condition": {
+      "urlFilter": "||twitter.com/i/jot"
+    },
+    "_sourceKeys": [
+      "ce43d2cd9d1efdac25acafc4474404f0c150b1b733ac5002bcfbebb36499b66b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 406
+  },
+  {
+    "condition": {
+      "urlFilter": "||yandex.st/share/"
+    },
+    "_sourceKeys": [
+      "ff21898c1e7b7822be3b93a4dae6bcbf388c0d8c08a01244821a45a0a1a39429"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 407
+  },
+  {
+    "condition": {
+      "urlFilter": "||gasgoo.com/api/wxshare/"
+    },
+    "_sourceKeys": [
+      "4908e58a4574289f23f547b0f42e0238af2af9611b91384a80c92e9555272f6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 408
+  },
+  {
+    "condition": {
+      "urlFilter": "||hotpot.ai/components/shareoverlay"
+    },
+    "_sourceKeys": [
+      "78b85bb59de2bc6c4d4275d505fec9e500540cc704ad510beb92f2abe5f0f78e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 409
+  },
+  {
+    "condition": {
+      "urlFilter": "||ipaddress.com/shariff/"
+    },
+    "_sourceKeys": [
+      "cc7182d69fb2a9252409bfb979073f919e35c91ef492dc2bf5de36234d3cf45e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 410
+  },
+  {
+    "condition": {
+      "urlFilter": "||naturalnews.com/getviews2."
+    },
+    "_sourceKeys": [
+      "c8c236853d98b0d0ed047da728938c2990ed9f5269f0301b5a2a764b3a81b4f8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 411
+  },
+  {
+    "condition": {
+      "urlFilter": "||people.com.cn/img/2020fenxiang/"
+    },
+    "_sourceKeys": [
+      "40e70aeb4093faa0985722c5b2ac2692218a4b7fc86068e9010d29269f43fd1d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 412
+  },
+  {
+    "condition": {
+      "urlFilter": "||shbarcelona.com/img/socialnetwork/"
+    },
+    "_sourceKeys": [
+      "bbc9c9310acf65781a505ee0f872ac8cef83fc225d2124d3fe0904c2b69b740c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 413
+  },
+  {
+    "condition": {
+      "urlFilter": "||lequipe.fr/_nuxt/share."
+    },
+    "_sourceKeys": [
+      "637f43bf3a06815813f8da47e5992ad8aab1ec22f91ff262b05b3c87d7caa0bb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 414
+  },
+  {
+    "condition": {
+      "urlFilter": "||produits-asiatiques.com/annuaire/templates/coolor/images/facebook-faces.gif"
+    },
+    "_sourceKeys": [
+      "879dcaa82b9967ca5ca1bd10ee7d0ca0c68fef70a346e5e6f9a4b3c980564d95"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 415
+  },
+  {
+    "condition": {
+      "urlFilter": "||almasryalyoum.com/scripts/sharing.js"
+    },
+    "_sourceKeys": [
+      "971474580c33ec806c903bdb7eb7f9f9c4d3f193184d8a26c6e008824b5a9679"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 416
+  },
+  {
+    "condition": {
+      "urlFilter": "||stjegypt.com/uploads/stjnew.jpg"
+    },
+    "_sourceKeys": [
+      "8f1b9e3cc49997f2d25832545dbc424f8096cfb0815c9d5a796a194cf4712954"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 417
+  },
+  {
+    "condition": {
+      "urlFilter": "||fanclubbarcelona.nl/images/mediabuttons/"
+    },
+    "_sourceKeys": [
+      "119d1b48e70414d1eb6390e178a509f1b23f8c74f32ee92062e3ea75995460a2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 418
+  },
+  {
+    "condition": {
+      "urlFilter": "||focus.it/images/embed/banner-canale-whats-up/"
+    },
+    "_sourceKeys": [
+      "5f2aefe0db0cd3be0f083ac42b5244d4c88a8fdc12a4de6de9a407c87ce3f562"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 419
+  },
+  {
+    "condition": {
+      "urlFilter": "||napolimagazine.com/web/img/iconefooter/"
+    },
+    "_sourceKeys": [
+      "76f984640e1b2915d1f4a19a0ced98b9fe36e57200273dab700258374369a710"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 420
+  },
+  {
+    "condition": {
+      "urlFilter": "||napolimagazine.com/web/img/iconetop/"
+    },
+    "_sourceKeys": [
+      "18a0f31bff73fd3f6dd667ac31cf1b71a17aaf954ddab855914d35f3d3f4521c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 421
+  },
+  {
+    "condition": {
+      "urlFilter": "||nursetimes.org/wp-content/uploads/2016/01/telegram-banner.png"
+    },
+    "_sourceKeys": [
+      "31b9568236a0ddd369885451ec3e41ebb0f6233eabb70d975ffe601d77a1b815"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 422
+  },
+  {
+    "condition": {
+      "urlFilter": "||imyfone.com/assets/js/media_share/"
+    },
+    "_sourceKeys": [
+      "e4b5199b10891bb607e43a5c46158327d353aba5eb39f129f5bc8093cca4cf05"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 423
+  },
+  {
+    "condition": {
+      "urlFilter": "||line-scdn.net/line_add_friends/edge/btn/"
+    },
+    "_sourceKeys": [
+      "55bf16251fc887f1423ec68c97667b9d7b0ba4e168cc381d73db8c5b2fee07c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 424
+  },
+  {
+    "condition": {
+      "urlFilter": "||taishurx.jp/js/web/sns_header.js"
+    },
+    "_sourceKeys": [
+      "f6553dd969d40739c46afa7901ba9605e044966f8038ec5ef2ced660ed06b72d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 425
+  },
+  {
+    "condition": {
+      "urlFilter": "||aventurasnahistoria.com.br/static/socialmedia/"
+    },
+    "_sourceKeys": [
+      "8c9d3944ccdc130488c771f896c60857fb34d3d42199f9fcd43213380ec18829"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 426
+  },
+  {
+    "condition": {
+      "urlFilter": "||aventurasnahistoria.uol.com.br/static/socialmedia/"
+    },
+    "_sourceKeys": [
+      "16077f1e29fc6e7653ba6cde53e3823ce58744db524351a010e5d32f2f205103"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 427
+  },
+  {
+    "condition": {
+      "urlFilter": "||bnews.com.br/static/socialmedia/"
+    },
+    "_sourceKeys": [
+      "100303775bcdb9484970bc03d278a8fea5ea94f8c5ebb947d4b5eb278de5d193"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 428
+  },
+  {
+    "condition": {
+      "urlFilter": "||defatoonline.com.br/whatsapp.html"
+    },
+    "_sourceKeys": [
+      "a1a8ffdb85f2755ab8880d4fd8f6d331026367b51ac378e16b21e48f50d8a8c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 429
+  },
+  {
+    "condition": {
+      "urlFilter": "||harem69.com.br/img/social.png"
+    },
+    "_sourceKeys": [
+      "db5d90ca5114c1c0e228ae1f8a26a42e20d0d9fe09efc513ffa0d3f38b23a158"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 430
+  },
+  {
+    "condition": {
+      "urlFilter": "||hollywoodforevertv.com.br/static/socialmedia/"
+    },
+    "_sourceKeys": [
+      "3566c0fed52b382ac99fb5e378c17863b20dc798cf1581d4566d2eaafec37ddc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 431
+  },
+  {
+    "condition": {
+      "urlFilter": "||jcconcursos.com.br/static/socialmedia/"
+    },
+    "_sourceKeys": [
+      "5d98a93dda44da024b35e03c1497e5bf54a07baf041f300337b39005e4680cbb"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 432
+  },
+  {
+    "condition": {
+      "urlFilter": "||opto.sic.pt/footer/socials/"
+    },
+    "_sourceKeys": [
+      "a58c7973e2dde760f15214bba5e66183d394459022300dc5c1a63b1d41fcf513"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 433
+  },
+  {
+    "condition": {
+      "urlFilter": "/gallery/social/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9771210f380f9b9c681f91a5a28c5b36758489663ad503ae673717b6a826e940"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 434
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/share-and-follow/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "c91b3a35f1cd81672df8400d5af32f3b104abc95778450e90656920a0ed4029b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 435
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/share-social/icons/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "93da706f4b2aa997e200936e5990b282fc627791eaa59ddd12039a287abe33a4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 436
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/social-media-widget/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "b34d4e07984f7406089134820cc06d671b50d9dadd55b58d5c37f0cc8b2824d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 437
+  },
+  {
+    "condition": {
+      "urlFilter": "/plugins/social-profiles-widget/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3669c505ecf4f4e0e3bb73b9caf22c3c4d5a867e93a8b9098b9840e3af89e951"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 438
+  },
+  {
+    "condition": {
+      "urlFilter": "/simple-social-sharing/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "444b6c90a7ff822a2258a54f6ba3e1871291bd6f222642cc3f7bf2329b55db65"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 439
+  },
+  {
+    "condition": {
+      "urlFilter": "/social_bookmarking/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "42f33578c60b2162b1b7eb2a2b5bf16015b1b71ba7530abfcd6ed59577f7b645"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 440
+  },
+  {
+    "condition": {
+      "urlFilter": "/pandalocker.",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "4b8282c481e993c2f164a885608d7d8e1915e2c827af029c9410a581022ee8f1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 441
+  },
+  {
+    "condition": {
+      "urlFilter": "/jquery.bpopup.",
+      "initiatorDomains": [
+        "telechargerunevideo.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "aadb8b215209ef12e466617a6ae5e97a205567392337e3aca1efd17b19e3535e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 442
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/videolock/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "722b762eb1b405aa7d6c712ac3efa75506be01d60868c80c9e0bce818bb2a326"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 443
+  },
+  {
+    "condition": {
+      "urlFilter": "||po.st/share/",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ba5914705161d5d13ca63c87dc234a27a952f3ba2e105b12b2e352e900f2960f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 444
+  },
+  {
+    "condition": {
+      "urlFilter": "||radio-canada.ca/mp/modules.socialbar.executer.",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "2f72f7eb36831d139ab128dc8a37888b96a3f77ec9a5624eddeaa15ce3690161"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 445
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "addnow.com",
+        "addthis.com",
+        "addtoany.com",
+        "b.hatena.ne.jp",
+        "badge.facebook.com",
+        "badges.instagram.com",
+        "bshare.cn",
+        "button-share.zalo.me",
+        "button.like.co",
+        "buttons.googlesyndication.com",
+        "connect.ok.ru",
+        "crowdynews.com",
+        "figshare.com",
+        "filamentapp-assets.s3.amazonaws.com",
+        "filamentapp.s3.amazonaws.com",
+        "fireworkapi.com",
+        "fireworktv.com",
+        "followistic.com",
+        "fwcdn2.com",
+        "fwcdn3.com",
+        "getsocialbar.com",
+        "gotchosen.com",
+        "gplusapi.appspot.com",
+        "handll.com",
+        "hn-button.herokuapp.com",
+        "insidesoci.al",
+        "jsoon.digitiminimi.com",
+        "lessbuttons.com",
+        "likebtn.com",
+        "loveclaw.com",
+        "markerly.com",
+        "massrelevance.com",
+        "meebo.com",
+        "messengerpeople.com",
+        "milotree.com",
+        "newsharecounts.com",
+        "opensharecount.com",
+        "pepper.com",
+        "platform.foursquare.com",
+        "platform.linkedin.com",
+        "reactandshare.com",
+        "revinate.com",
+        "scoop.it",
+        "share.itraffic.su",
+        "shareaholic.com",
+        "sharedcount.com",
+        "sharethis.com",
+        "sharexy.com",
+        "sharpay.io",
+        "shpg.org",
+        "simplesharebuttons.com",
+        "softwebzone.com",
+        "statigr.am",
+        "t.pridat.eu",
+        "trendemon.com",
+        "usocial.pro",
+        "w.uptolike.com",
+        "widget.weibo.com",
+        "widget.whatshelp.io",
+        "xing-share.com",
+        "sekomums.lv"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "719dacfc4c7373dcb0decbf2923665551ae4a7f9b17fc42b93420cda54b6ad24",
+      "1f1554d1fd16035626a1dfb744ebaae98777cc6e5ccaa35d592aab46073ef584",
+      "7431affa7ab32841f63967b0b0d398a248257c5f7dbdcfd69a9cfe3ffcc1e874",
+      "e6b0bf84fd8fc13ec68a5dd8413bbb835bee26fc18f9280630c89c3c4ef099e5",
+      "afcd1256dbbf533f00f676614898f5eeb5148588dd9f4e3c151eb78f76da942e",
+      "409de7102ae090970228555749260a8a17989a0457fb386532a150df9b640745",
+      "0abcd3bbf8be19b5a044cc830e350a480f3e654a9e871b2166ab797d748206e7",
+      "379207bb413143b90b5472f68617eb52a7ccbfe18d23ab0a4c939da4273d45fb",
+      "94ead3091a943f0ba8f3830da233fe005713b2e44ffbce8e3d67e8a8970b2709",
+      "c1fe0a191eae080757264c13efd2ee1d62e3bdc9fa6779863e2c5cf8cdd6e6b6",
+      "dde8f69a8ef2fa0f69a16538e6eca484bc2675f72ab8f9a5017fffa08e4a49d9",
+      "4ddc952d587ba3055f501fe6be3f1b37d9633f4b84b4cccd7b13d9d964ffdfb1",
+      "314b3c8cae94a42928a33d2bb9fd50a0c21f997e6955a13c3537d4a70e01ccd0",
+      "d6916cd0502a117ba61232d43b419cdc5fb6129a5e518e133938ae68a5beeb6f",
+      "06516f709a75455758088b9f4e178471a5d8e72e06efb97b6b4b4b1df9131a20",
+      "84a90cacb817c2b0d1d4aca927d90d60f1d49585dd7a489ac544086af6a0cea3",
+      "28c492fc8418173528b1f21405c3472238fab96bd82260361e6f9cc0f3b1219a",
+      "75797c35b13757742ddd2cd9872245d19500d1e604c686520267fe5cd2ca5751",
+      "252cb8101a1867de5c1f0f4ce9550b6e21d45c57ffb6f8d1fd4c6c1c72888f27",
+      "71a2dcd8ac912b63481797789b66a8e7ebc6b7fd9ab9229c453f3b366db2405e",
+      "ac81e5e34560cd58e4aefa7dc65e0c19257d474c80c7d39b1a9bb7a41f49f55f",
+      "40efc6f272b4c2a662b2e894263ac93e1b1d8c9c3b47c41edb3ce0b025aa2ea3",
+      "ca8ac28ab277d3a5d1d304c9ff02af40e4b93ed12a1354aea32b1d1b3f4dd0ed",
+      "020a701517a2ed45cb00ac913d90ba7118ae51051e4d9070b49eb7aa1a7140c6",
+      "297375747d2db6a8ee5bc292b5ce8816536e80c2632b78902a1b0b681f827f6e",
+      "cc0df867fc729dc2010e1fc002a4b9ed07babb2a95359036f542484dcb15bc27",
+      "21a31369f4afafc4967c880480ec0845ea7ec9a38f5e34a3a1ec5a9326e05e9b",
+      "b4c2cc092fc962a366e4d60bc4966c2b1a03a47991f63218d74aecbae7ef8786",
+      "606c1e861e122f936aae87976822c9c0d451316ada15d734d138ff342c87d538",
+      "2a366b53ee935572ac7b3c63bea863bd4e6d1479c5f5021d5a679a652a982f1b",
+      "3f295559023c93283745ed7ba5962e28f59660103b53e96ffa4e475052b9ba8a",
+      "465a55fb4c6281aa80bb29bbcf057fdc93ff8bd0eef89227135cd64c5644f08e",
+      "51ebbc840b6504bc637f8400e08d046e358341700001da05d4b2fb77f1845674",
+      "6c2ee9c4e5d1101dfc4bda931073cd6bcd2b4ea4edfedf22c2124d5167a2fb29",
+      "bd4c2ca3ef34b31b147bf69b51baf2a0b824485761f29e1d2ae451ae0a48a596",
+      "286850057c5ed164436926c59df83b8b6facdb89fb6682ec8fcb99e5ce47b71c",
+      "53c39945e9ecdbe10b4d358a2d7bda2050af793fa233457907745ab339410a7b",
+      "b2886e4b98e39f41d37fa84830d222e22fa737eede9ae68839b9f216142f5475",
+      "4c7f9d999dc1fbd9f0376fd3fa47a679fcd8f2d2a47348cac55b48e916bcab5b",
+      "8d391a0fe0e66d6c97f77312475128aec645f2fa5a52d5372532feadfaf0ea7f",
+      "ae1d930d2652056246c5df878692e547a0cc8fb22d72221571cd18284734b6df",
+      "9c5d985192df31826597e6a09e6bd3402c3996e11b8c383e167822cecd1ac889",
+      "7818e3ca8ff9b121fb52d1cd42a95a6f7606dd57bb993215f6feb28ce1273f79",
+      "783663897d3858c352d87e36906bafe0f80099b58c701097ce40566d80029642",
+      "75bee19bdf6521725cd9e23a7e8a44191e3a8950ee25ade31f6de96d517540dd",
+      "6c0f3233aa266704ae9ff2cb90058d7882d13047b12e37ae56c7cd14f17de6f6",
+      "856b729de910d65f2f49593671269e45493823fb2266e7b68f7d9be8f2798c62",
+      "1f204db653d21e714189a00c66aaf9b402ecfb95bc4ad8a08af9ab117aadf396",
+      "dc30f3b360dce8b4146bbfbd421788ee94535debdc2d4532066a4bdef8356929",
+      "68396d4156f79d7302e96f6d386a2ae887fcaaf1ff458359839a69d1cb1bd3be",
+      "ae011da85fc522eb553cc297a122e3c9cca5828cc0ed60b051759c792c12b9ae",
+      "e3210bade840dcaa51349c22b15bff6e506b29ea97c086fc332889cb211c553a",
+      "e7d94a2a3183f4c24f5d9dd93041e850004ae37a9e70adde3dbac988ee7f931d",
+      "307403cd03f5f24bc975646a9400a8940d9fc6129e007429388982be0a4d7a07",
+      "2bd6af972f6dca1003274e9644ac12ed572284059c041bbae9aa5a7b7157b520",
+      "9b800b7e18258824b76604c8c1b6da8baf2a31a227f79d9204f59c24e7ffb01b",
+      "4f9d4af8b6932b6413035cc21af62fdbf20ac345d2bdb6c7949508f620c5f11c",
+      "b5232849a03821d95cee9c7f658f640e21a1ccb479d256b752be644ff85dddac",
+      "e420ec6db2f40c80240295ff0aa049ddd989a7c0ff762a5b0a1cf84fd5725ffb",
+      "64e33886a26a8adb5710d10a76236e2966f49c9ae26bdaa08e438fbcf95734a2",
+      "6921fa8e81ea6c8df3b1e4f8b337f6d0e2001a9744301c2640301f1af21007b5"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "addnow.com",
+        "keys": [
+          "719dacfc4c7373dcb0decbf2923665551ae4a7f9b17fc42b93420cda54b6ad24"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "addthis.com",
+        "keys": [
+          "1f1554d1fd16035626a1dfb744ebaae98777cc6e5ccaa35d592aab46073ef584"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "addtoany.com",
+        "keys": [
+          "7431affa7ab32841f63967b0b0d398a248257c5f7dbdcfd69a9cfe3ffcc1e874"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "b.hatena.ne.jp",
+        "keys": [
+          "e6b0bf84fd8fc13ec68a5dd8413bbb835bee26fc18f9280630c89c3c4ef099e5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "badge.facebook.com",
+        "keys": [
+          "afcd1256dbbf533f00f676614898f5eeb5148588dd9f4e3c151eb78f76da942e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "badges.instagram.com",
+        "keys": [
+          "409de7102ae090970228555749260a8a17989a0457fb386532a150df9b640745"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "bshare.cn",
+        "keys": [
+          "0abcd3bbf8be19b5a044cc830e350a480f3e654a9e871b2166ab797d748206e7"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "button-share.zalo.me",
+        "keys": [
+          "379207bb413143b90b5472f68617eb52a7ccbfe18d23ab0a4c939da4273d45fb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "button.like.co",
+        "keys": [
+          "94ead3091a943f0ba8f3830da233fe005713b2e44ffbce8e3d67e8a8970b2709"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "buttons.googlesyndication.com",
+        "keys": [
+          "c1fe0a191eae080757264c13efd2ee1d62e3bdc9fa6779863e2c5cf8cdd6e6b6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "connect.ok.ru",
+        "keys": [
+          "dde8f69a8ef2fa0f69a16538e6eca484bc2675f72ab8f9a5017fffa08e4a49d9"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "crowdynews.com",
+        "keys": [
+          "4ddc952d587ba3055f501fe6be3f1b37d9633f4b84b4cccd7b13d9d964ffdfb1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "figshare.com",
+        "keys": [
+          "314b3c8cae94a42928a33d2bb9fd50a0c21f997e6955a13c3537d4a70e01ccd0"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "filamentapp-assets.s3.amazonaws.com",
+        "keys": [
+          "d6916cd0502a117ba61232d43b419cdc5fb6129a5e518e133938ae68a5beeb6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "filamentapp.s3.amazonaws.com",
+        "keys": [
+          "06516f709a75455758088b9f4e178471a5d8e72e06efb97b6b4b4b1df9131a20"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fireworkapi.com",
+        "keys": [
+          "84a90cacb817c2b0d1d4aca927d90d60f1d49585dd7a489ac544086af6a0cea3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fireworktv.com",
+        "keys": [
+          "28c492fc8418173528b1f21405c3472238fab96bd82260361e6f9cc0f3b1219a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "followistic.com",
+        "keys": [
+          "75797c35b13757742ddd2cd9872245d19500d1e604c686520267fe5cd2ca5751"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fwcdn2.com",
+        "keys": [
+          "252cb8101a1867de5c1f0f4ce9550b6e21d45c57ffb6f8d1fd4c6c1c72888f27"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "fwcdn3.com",
+        "keys": [
+          "71a2dcd8ac912b63481797789b66a8e7ebc6b7fd9ab9229c453f3b366db2405e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "getsocialbar.com",
+        "keys": [
+          "ac81e5e34560cd58e4aefa7dc65e0c19257d474c80c7d39b1a9bb7a41f49f55f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gotchosen.com",
+        "keys": [
+          "40efc6f272b4c2a662b2e894263ac93e1b1d8c9c3b47c41edb3ce0b025aa2ea3"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "gplusapi.appspot.com",
+        "keys": [
+          "ca8ac28ab277d3a5d1d304c9ff02af40e4b93ed12a1354aea32b1d1b3f4dd0ed"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "handll.com",
+        "keys": [
+          "020a701517a2ed45cb00ac913d90ba7118ae51051e4d9070b49eb7aa1a7140c6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "hn-button.herokuapp.com",
+        "keys": [
+          "297375747d2db6a8ee5bc292b5ce8816536e80c2632b78902a1b0b681f827f6e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "insidesoci.al",
+        "keys": [
+          "cc0df867fc729dc2010e1fc002a4b9ed07babb2a95359036f542484dcb15bc27"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "jsoon.digitiminimi.com",
+        "keys": [
+          "21a31369f4afafc4967c880480ec0845ea7ec9a38f5e34a3a1ec5a9326e05e9b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "lessbuttons.com",
+        "keys": [
+          "b4c2cc092fc962a366e4d60bc4966c2b1a03a47991f63218d74aecbae7ef8786"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "likebtn.com",
+        "keys": [
+          "606c1e861e122f936aae87976822c9c0d451316ada15d734d138ff342c87d538"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "loveclaw.com",
+        "keys": [
+          "2a366b53ee935572ac7b3c63bea863bd4e6d1479c5f5021d5a679a652a982f1b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "markerly.com",
+        "keys": [
+          "3f295559023c93283745ed7ba5962e28f59660103b53e96ffa4e475052b9ba8a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "massrelevance.com",
+        "keys": [
+          "465a55fb4c6281aa80bb29bbcf057fdc93ff8bd0eef89227135cd64c5644f08e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "meebo.com",
+        "keys": [
+          "51ebbc840b6504bc637f8400e08d046e358341700001da05d4b2fb77f1845674"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "messengerpeople.com",
+        "keys": [
+          "6c2ee9c4e5d1101dfc4bda931073cd6bcd2b4ea4edfedf22c2124d5167a2fb29"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "milotree.com",
+        "keys": [
+          "bd4c2ca3ef34b31b147bf69b51baf2a0b824485761f29e1d2ae451ae0a48a596"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "newsharecounts.com",
+        "keys": [
+          "286850057c5ed164436926c59df83b8b6facdb89fb6682ec8fcb99e5ce47b71c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "opensharecount.com",
+        "keys": [
+          "53c39945e9ecdbe10b4d358a2d7bda2050af793fa233457907745ab339410a7b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pepper.com",
+        "keys": [
+          "b2886e4b98e39f41d37fa84830d222e22fa737eede9ae68839b9f216142f5475"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "platform.foursquare.com",
+        "keys": [
+          "4c7f9d999dc1fbd9f0376fd3fa47a679fcd8f2d2a47348cac55b48e916bcab5b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "platform.linkedin.com",
+        "keys": [
+          "8d391a0fe0e66d6c97f77312475128aec645f2fa5a52d5372532feadfaf0ea7f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "reactandshare.com",
+        "keys": [
+          "ae1d930d2652056246c5df878692e547a0cc8fb22d72221571cd18284734b6df"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "revinate.com",
+        "keys": [
+          "9c5d985192df31826597e6a09e6bd3402c3996e11b8c383e167822cecd1ac889"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "scoop.it",
+        "keys": [
+          "7818e3ca8ff9b121fb52d1cd42a95a6f7606dd57bb993215f6feb28ce1273f79"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "share.itraffic.su",
+        "keys": [
+          "783663897d3858c352d87e36906bafe0f80099b58c701097ce40566d80029642"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shareaholic.com",
+        "keys": [
+          "75bee19bdf6521725cd9e23a7e8a44191e3a8950ee25ade31f6de96d517540dd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sharedcount.com",
+        "keys": [
+          "6c0f3233aa266704ae9ff2cb90058d7882d13047b12e37ae56c7cd14f17de6f6"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sharethis.com",
+        "keys": [
+          "856b729de910d65f2f49593671269e45493823fb2266e7b68f7d9be8f2798c62"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sharexy.com",
+        "keys": [
+          "1f204db653d21e714189a00c66aaf9b402ecfb95bc4ad8a08af9ab117aadf396"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sharpay.io",
+        "keys": [
+          "dc30f3b360dce8b4146bbfbd421788ee94535debdc2d4532066a4bdef8356929"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "shpg.org",
+        "keys": [
+          "68396d4156f79d7302e96f6d386a2ae887fcaaf1ff458359839a69d1cb1bd3be"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "simplesharebuttons.com",
+        "keys": [
+          "ae011da85fc522eb553cc297a122e3c9cca5828cc0ed60b051759c792c12b9ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "softwebzone.com",
+        "keys": [
+          "e3210bade840dcaa51349c22b15bff6e506b29ea97c086fc332889cb211c553a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "statigr.am",
+        "keys": [
+          "e7d94a2a3183f4c24f5d9dd93041e850004ae37a9e70adde3dbac988ee7f931d"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "t.pridat.eu",
+        "keys": [
+          "307403cd03f5f24bc975646a9400a8940d9fc6129e007429388982be0a4d7a07"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "trendemon.com",
+        "keys": [
+          "2bd6af972f6dca1003274e9644ac12ed572284059c041bbae9aa5a7b7157b520"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "usocial.pro",
+        "keys": [
+          "9b800b7e18258824b76604c8c1b6da8baf2a31a227f79d9204f59c24e7ffb01b"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "w.uptolike.com",
+        "keys": [
+          "4f9d4af8b6932b6413035cc21af62fdbf20ac345d2bdb6c7949508f620c5f11c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.weibo.com",
+        "keys": [
+          "b5232849a03821d95cee9c7f658f640e21a1ccb479d256b752be644ff85dddac"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.whatshelp.io",
+        "keys": [
+          "e420ec6db2f40c80240295ff0aa049ddd989a7c0ff762a5b0a1cf84fd5725ffb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "xing-share.com",
+        "keys": [
+          "64e33886a26a8adb5710d10a76236e2966f49c9ae26bdaa08e438fbcf95734a2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "sekomums.lv",
+        "keys": [
+          "6921fa8e81ea6c8df3b1e4f8b337f6d0e2001a9744301c2640301f1af21007b5"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 446
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.pinterest.com/js/pinit.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "15024b7c263f70961603ab883f2ea1fd85dfd60d2fafab7fd78e540469188f58"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 447
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.pinterest.com/pidget.html",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b0ee40fddba33baa1be0fe17cae98e1664fccea2fe780c61e8c8856fe52b3654"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 448
+  },
+  {
+    "condition": {
+      "urlFilter": "||bloglovin.com/widget/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d7f14d3d9637a867eeb7a3998fdd0131d13028aa3c5e76eff17ac320ef8353c9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 449
+  },
+  {
+    "condition": {
+      "urlFilter": "||buttons.github.io/buttons.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1faabc7f7c856ee5fc2c891264f7ad1cae6513af5d3290b02b2891852e4e5f3b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 450
+  },
+  {
+    "condition": {
+      "urlFilter": "||dailymotion.com/badge/user/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "26c0f9f85a95b8e46b616bd7dcc40edcd6286a08ca9a7d0493bf3984ad743178"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 451
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/activity.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b87083990a4eb43fb4d5a9af111ace731ec74508ecf0e2d2155d6bd7a196e2cc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 452
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/facepile.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "458789d2c2ed36d2536e6d314690a3d63324a99c2476094c3d480cd3fc285af8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 453
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/fan.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "82c95118661cf68bfbf7bf9099250db21a52179d8ad0be10c931e648a7552855"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 454
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/follow.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ded203cebc118f0a0949a2bc3125ff4320d0dac287eca0931009236d8a483e03"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 455
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/like.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "107ecc0e752746ddd4c6d8f59d8a33bd5cd40fc7bfacc4a059fb2a5deb0de3aa"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 456
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/like_box.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "344ccffbc3193b7d2b0c6410c9531d4d5fb19d6d78546e78fc685fe1c403b2ec"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 457
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/likebox/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7813ce4bc4db13a224cbc199ce654b132d5002d6b886ab7f84c9edf3c9e765d1"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 458
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/page.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "2c26b87018c1f8efbd807d051fc45269ee6975824aace084b47c5d21ff296d9b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 459
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/recommendations.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6f2bd8c45ff4c9361590aa0d3f3ffd4a338bf237fee7e46247c198fc90e0f4ba"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 460
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/send.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "76c1edaa3239fb15264857128efafadc971b8832260eaa49e58314eb6e0dc669"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 461
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/share_button.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a3089426ed180b9511c89216b7c0f8510cf7bb6d1026d892d9a80368dc5d999f"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 462
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/plugins/subscribe.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "148eab3742952e4a18d6fd6d04fe2f30b7d62f90f02f4fd764e75a4c4babcda0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 463
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/activity.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "fafaad7b4700725da5aae30c344ec2958954fe166cf1b1c892c8ffbec98c08c3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 464
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/fan.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "85ca5ae782dea549a4051f1cfb4ffe62dda273c58f5f04ab01eba1367d8e7920"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 465
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/like.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ee90446be316574df513769770e4bf5725c72280441b8507dca6f3f5cfd6d419"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 466
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com/widgets/recommendations.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c6895d50e442f769e7b7955aabf608f2e0f4f4c929ad3d732bd2ab17f673d5f4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 467
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/like.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f880c54355be0c1290956985dcc3abe60aeea3682cd5f8cd5e07819a18e0b8d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 468
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/page.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "dbe54945276c19673339f28c1de7c7784cfcd3ff88fcd506093b392d2efb6cee"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 469
+  },
+  {
+    "condition": {
+      "urlFilter": "||facebook.com^*/plugins/share_button.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b3ba61167ffa4d3f86217754a3d487f49d9e4239ae144bfe39659bd05f9adfd9"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 470
+  },
+  {
+    "condition": {
+      "urlFilter": "||feedly.com/img/follows/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "798f984f684dd2f636e8d0375ca5747927f33fc9435da4c1c470d6ac295419d6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 471
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fireworkapi1.com"
+      ],
+      "excludedInitiatorDomains": [
+        "matsukiyococokara-online.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "177be2049ce25446cbae67b22909d450f0c4a1b8de2a363274e601345120c5b3"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 472
+  },
+  {
+    "condition": {
+      "urlFilter": "||flipboard.com/web/buttons/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6a422c0ea6bbe5563e759850c3d893bf945355c59f35af451053d000eabd9d55"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 473
+  },
+  {
+    "condition": {
+      "urlFilter": "||getbutton.io/widget-send-button/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1bea4920f146ed29c84ca2533846a4d500964f65cabfca9eb8aeedb299068965"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 474
+  },
+  {
+    "condition": {
+      "urlFilter": "||getsocial.io/widget/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0e632e1951456df793948c76a6bad5c39305d9615ed8c39cdf726876e06dbe60"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 475
+  },
+  {
+    "condition": {
+      "urlFilter": "||getsocial.io^*/gs_async.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "48df30d64b76001e3c1cccae0ff43034e962a01e541a84c5392b7c608f8ffbc0"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 476
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com/_/+1/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d799d7cb17821573e0b034367e93e29ebb4d05b8fa1b2dfe295f23ca1450924c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 477
+  },
+  {
+    "condition": {
+      "urlFilter": "||google.com^*/fastbutton?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b1957bf00c66ffd5bea0008f940a0b79836ce3a19e234f2f8badf2b97b2e8e3c"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 478
+  },
+  {
+    "condition": {
+      "urlFilter": "||graph.facebook.com/fql?q=select",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b716f96e6aea1545ca9086eb48d8fd523b95001630f7f8de757c9b89fbea77f7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 479
+  },
+  {
+    "condition": {
+      "urlFilter": "||hatena.ne.jp/entry/button/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "804077ca699d980fcdb1a1e0de83b6df29fa291a6a943d35d4530f4e72cb81fd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 480
+  },
+  {
+    "condition": {
+      "urlFilter": "||herokuapp.com/button.html?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "dc8a1cb806d8eb23abdf4089e16fef2d49af8e163ccfeb0d402511eca6560ca2"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 481
+  },
+  {
+    "condition": {
+      "urlFilter": "||iconosquare.com/widget.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d09d90de8c7d73d57542be8420ea21b712cc091fc46b44765a1ef88d7d60c886"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 482
+  },
+  {
+    "condition": {
+      "urlFilter": "||jit.su/frame",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "25bb0ee55b668914a0462d714770b66bcd03bdca22a34ce57fb7cd8e4a83f11d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 483
+  },
+  {
+    "condition": {
+      "urlFilter": "||karmacracy.com/widget",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "49c7326f7a60c8c45e2e431d0c89a2130238f2c6755ffcb1402c701255bbfc6b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 484
+  },
+  {
+    "condition": {
+      "urlFilter": "||line-apps.com^*/thirdparty/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0248e40132cb543acd5cf52cc8bf9f786473c190a9c0d5c80e0bb31231071bfd"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 485
+  },
+  {
+    "condition": {
+      "urlFilter": "||line.me/js/line-button.js?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1217533e62cf8d20ce91b332227a266d40d5447f75e8c780968ec6f8345ec1ff"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 486
+  },
+  {
+    "condition": {
+      "urlFilter": "||linkedin.com/countserv/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "759fa531423402451126415ad173b864b8b416ef04025e65ec3732940453f41a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 487
+  },
+  {
+    "condition": {
+      "urlFilter": "||linkedin.com/img/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4222dcae4f4f6671f7c2fab5bac872103b29875da5bfeece7e99474d3273aa40"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 488
+  },
+  {
+    "condition": {
+      "urlFilter": "||linkedin.com/uas/js/userspace?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a3635c08bffa65e6c279375808d4138f4d933270cc69019b79ecddd431ddb682"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 489
+  },
+  {
+    "condition": {
+      "urlFilter": "||meerkatapp.co/btn/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ddc5c138ad40b8947d1a996a158452c0342d0da5eaedc573a9365e1d8174003a"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 490
+  },
+  {
+    "condition": {
+      "urlFilter": "||patreon.com/becomepatronbutton.bundle.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "73838484789566aaaee02afe2176a2ff7143cc036ffe569b7c5315fd2ed8b203"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 491
+  },
+  {
+    "condition": {
+      "urlFilter": "||pinterest.com/images/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c2e04c903b037a8adfee6e5085aebfdf3592070149df62857ec2c8bb8692af6d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 492
+  },
+  {
+    "condition": {
+      "urlFilter": "||pinterest.com/js/pinit_main.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b61e63a47745b379ee8e76b0b6bfba20d6e15315bfd2baf2b30211484dd9bd78"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 493
+  },
+  {
+    "condition": {
+      "urlFilter": "||pinterest.com/v1/urls/count.json",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "89c5c04e00848da102ecd7c35e23aaf95b09f658b95f607df5db2de7749c72b5"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 494
+  },
+  {
+    "condition": {
+      "urlFilter": "||platform.twitter.com/anywhere.js",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c7474ad5c1f5f47d76ba06e8554d5e3bdc92563a04faa5844f1b859c0445891b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 495
+  },
+  {
+    "condition": {
+      "urlFilter": "||platform.twitter.com/embed/",
+      "excludedResourceTypes": [
+        "stylesheet",
+        "sub_frame",
+        "main_frame"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5bccdd9ef742818037ae3bc3cf1990210a02a0f372e45a6d77ea070bb5db9165"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 496
+  },
+  {
+    "condition": {
+      "urlFilter": "||platform.twitter.com/js/button.",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c449c29974c33e15594622f7c3c78e83a10eb9a7b4063bdafcfcc1c733a46333"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 497
+  },
+  {
+    "condition": {
+      "urlFilter": "||po.st/static/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a5cdac7f63cc02c9b9d23c4aed4e94562f328a7bd75613f3b8adb735ccb30671"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 498
+  },
+  {
+    "condition": {
+      "urlFilter": "||reddit.com/api/info.json?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "836c17520190218385c76bf3e1e56025421511334874f41bef68f18008e992c4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 499
+  },
+  {
+    "condition": {
+      "urlFilter": "||reddit.com/button.js?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "0e98a31ca50be74982e047f3ad183ae6ff61ffd07d0b8981de02246580267a31"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 500
+  },
+  {
+    "condition": {
+      "urlFilter": "||reddit.com/static/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "49a626a6cb88165010713828a2cdfba8863a36913f2838ae8a1a2b474f885765"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 501
+  },
+  {
+    "condition": {
+      "urlFilter": "||spotify.com/follow/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4d7d72b64195e9c30fa88430acfdc513f51be06ababc3d58e51370ca831912c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 502
+  },
+  {
+    "condition": {
+      "urlFilter": "||storeya.com/externalscript/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "5a0e5b167ed7de73bd898a5644b9e0826edddd4dd1f618b64dfc9944ed9ba538"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 503
+  },
+  {
+    "condition": {
+      "urlFilter": "||twitter.com/account/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "42a5f1cf56f2d785eeb4c3126b4c04e68b8d919efd057384e32e22d157b8c449"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 504
+  },
+  {
+    "condition": {
+      "urlFilter": "||vk.com/share.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "033b8bfcf31a225f04a3130f35ea0a7572dcc5b82fb0bc3dc8bab343c147e8ef"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 505
+  },
+  {
+    "condition": {
+      "urlFilter": "||vk.com/widget_community.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "a359bc7377f3b520b6c1d1f506df2a2f62958d1de369f1df38d7083d6e5baec7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 506
+  },
+  {
+    "condition": {
+      "urlFilter": "||vk.com/widget_community_messages.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "b8e72ebbd81fcd0fe401ca4d3c905ad0d3d0f42e55ff4dc048809199ee5dd28d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 507
+  },
+  {
+    "condition": {
+      "urlFilter": "||vk.com/widget_like.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "65fd0e7ea7219f3d4edbdb5184539e6237b1c9ccfbb47f557de59eb0c7678ede"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 508
+  },
+  {
+    "condition": {
+      "urlFilter": "||vkontakte.ru/js/api/",
+      "excludedInitiatorDomains": [
+        "arudex.com",
+        "tapclap.com",
+        "ugo.ru",
+        "vk.com"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7c49964880fd2b7417ac8a344958d01ceda5b2fcca8ea825e1d3f5d5dc9f68dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 509
+  },
+  {
+    "condition": {
+      "urlFilter": "||vkontakte.ru/share.php?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "d5370bdf157e5b6e41b8f4dab49f1401a297ca22494783e81584f1d3f6230a1e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 510
+  },
+  {
+    "condition": {
+      "urlFilter": "||vkontakte.ru/widget_community.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "ab44bc5f5461a852584fbd8c6603e87adc73e6b485d639886537742600c53dab"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 511
+  },
+  {
+    "condition": {
+      "urlFilter": "||vkontakte.ru/widget_like.php",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "cc9600af9f23eaadba817685803a33d78c7d67e7b14b8c8262fd5afe782db75e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 512
+  },
+  {
+    "condition": {
+      "urlFilter": "||weibo.com/staticjs/weiboshare.html",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "f407f4c6415521a5cc1bcca0ed55235ad1a025af23abbdb2066d143aa67d5db4"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 513
+  },
+  {
+    "condition": {
+      "urlFilter": "||widgets.wp.com/likes/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "c3c6782b63751b40882983186ab8f840d37d37b7a827ee1d2b6f0933b98d2d23"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 514
+  },
+  {
+    "condition": {
+      "urlFilter": "||wykop.pl/dataprovider/diggerwidget/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "1a4b46b7d344d1cefc3d585561c914ecf7392d191b5bcb771ea03500dd0ed0dc"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 515
+  },
+  {
+    "condition": {
+      "urlFilter": "||xing.com/img/buttons/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "850bcdaa0f4753d26d2a5a51bdb39de1bb163d4924b3e42651b921c895e8e6c7"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 516
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube.com/subscribe_embed?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6cedb27d04870bcef841f58142b1446cd856d64d1ade10f466368753692cb580"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 517
+  },
+  {
+    "condition": {
+      "urlFilter": "||youtube.com/subscribe_widget",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "7653f9f7cc6011db8a7348aea2f32491af37ca8096cbbc71e6b37b836b8d925d"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 518
+  },
+  {
+    "condition": {
+      "urlFilter": "||zextit.com/partners/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "419f34bcee6c7b0d4d69e36df05eaf3fba8f5f8a7b192f78367d3003fa3b47a6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 519
+  },
+  {
+    "condition": {
+      "urlFilter": "||probook.bg/like?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "8a90f5a8c2bf768e14cb2c671d4625c2c4d056c530041314c787f566e8dc1a72"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 520
+  },
+  {
+    "condition": {
+      "urlFilter": "||b.st-hatena.com/images/",
+      "excludedInitiatorDomains": [
+        "b.hatena.ne.jp"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "74a9123af0f8fc98401b63e31379f5a286b751a6e65bdd42023d076188fe29f6"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 521
+  },
+  {
+    "condition": {
+      "urlFilter": "||b.st-hatena.com/js/",
+      "excludedInitiatorDomains": [
+        "b.hatena.ne.jp"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "0d2f0e920c186bc4dc5095745553d11d87fca9c172b1760593e7e513bfdbbe7e"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 522
+  },
+  {
+    "condition": {
+      "urlFilter": "||twitter.com/js/timeline.",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f9fb63917ebe292f834a4204a0167eee53a73bbfc78bd3b2af10b67e91f98293"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 523
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "fark.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "6e09ac43d1bddcb7d75bf8b8b33e80ac4e0e7cc02b7c209682e97cbbd2aeb361"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "fark.com",
+        "keys": [
+          "6e09ac43d1bddcb7d75bf8b8b33e80ac4e0e7cc02b7c209682e97cbbd2aeb361"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 524
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "friends2follow.com"
+      ],
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "85eb920b61f4e5a3a72639861d869c896b14351ecafc542b5015914670fb3dea"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "friends2follow.com",
+        "keys": [
+          "85eb920b61f4e5a3a72639861d869c896b14351ecafc542b5015914670fb3dea"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 525
+  },
+  {
+    "condition": {
+      "urlFilter": "/angular-facebook.js"
+    },
+    "_sourceKeys": [
+      "339d869aa526d3d68006e78aba230b83ca3daf832ad7576e73f782c82ea304fb"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 526
+  },
+  {
+    "condition": {
+      "urlFilter": "||authy.com/wp-content/themes/authy/assets/images/icons/"
+    },
+    "_sourceKeys": [
+      "3ac1f66949f5746c6bcc0f946149ec4c4a69c2e7a4e6597ee6355575ad4268e3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 527
+  },
+  {
+    "condition": {
+      "urlFilter": "||cdn.flowplayer.com^*/share.min.js"
+    },
+    "_sourceKeys": [
+      "63fcee4fffe5abe931d6265f0b8221380c1bff4964adb457a7a58cf303d102ab"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 528
+  },
+  {
+    "condition": {
+      "urlFilter": "||d27rt3a60hh1lx.cloudfront.net/models/",
+      "initiatorDomains": [
+        "muse.place"
+      ]
+    },
+    "_sourceKeys": [
+      "0aa264bf3bde7b8d5efb1f6ca4547fb259f5e31ffb3c9922813b617c7fd870af"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 529
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "cieplikpodrozuje.pl",
+        "makulscy.com"
+      ],
+      "urlFilter": "||facebook.com^*/plugins/page.php?"
+    },
+    "_sourceKeys": [
+      "ae8ae51de05ed2ce782f6cddcf5fcc19816b42b5173670941d9ad784c1ca2eb5"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 530
+  },
+  {
+    "condition": {
+      "urlFilter": "||jsdelivr.net/npm/sharer.js"
+    },
+    "_sourceKeys": [
+      "00a7e37ade013f00f23af49e1799576e09cf888a75e782566d6ac5e6b386222a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 531
+  },
+  {
+    "condition": {
+      "urlFilter": "||login.kataweb.it^*/sprite-social.png"
+    },
+    "_sourceKeys": [
+      "52366c411d028461043297b74d02e644727191cdc82e8df606ce9296852b1594"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 532
+  },
+  {
+    "condition": {
+      "urlFilter": "||moneyweb.co.za^*/social-shares.min.js?"
+    },
+    "_sourceKeys": [
+      "40896f7083e7ca31eaf8061d8419cd2f7527a4d1905cb84f6f55ebc420c644e2"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 533
+  },
+  {
+    "condition": {
+      "urlFilter": "||parlament.mt/scripts/easy-social-share.js"
+    },
+    "_sourceKeys": [
+      "817dee8315f065fb0527f5cea872fa735282c51a87eebe4a32d147565b164003"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 534
+  },
+  {
+    "condition": {
+      "urlFilter": "||reactandshare.com/plugin/rns.js",
+      "initiatorDomains": [
+        "maanmittauslaitos.fi",
+        "verkkouutiset.fi"
+      ]
+    },
+    "_sourceKeys": [
+      "aaed2d2851edc114d66e80f9174e748ee076264c635653025eeb61ba5cfae2b9"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 535
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "mediamatters.org",
+        "politico.com"
+      ],
+      "urlFilter": "||s7.addthis.com^*/addthis_widget.js"
+    },
+    "_sourceKeys": [
+      "3a3ff8a24d2748721bdae71ff0b25e37e20a050949da50338fefb757353bd788"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 536
+  },
+  {
+    "condition": {
+      "urlFilter": "||sharethis.com/button/buttons.js",
+      "initiatorDomains": [
+        "bristan.com"
+      ]
+    },
+    "_sourceKeys": [
+      "a2e93b067d849e658ea5b51d902f5e78dee10d0588b9a79eb84ff366bf26cb26"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 537
+  },
+  {
+    "condition": {
+      "urlFilter": "||tgcom24.mediaset.it/assets/js/amd/socialcount.js"
+    },
+    "_sourceKeys": [
+      "6a16514d70338439c147917d221f1600fb670465723e43b289ef5f21bd09751e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 538
+  },
+  {
+    "condition": {
+      "urlFilter": "||thecity.m24.ru/css/ya-share.css"
+    },
+    "_sourceKeys": [
+      "20414e2580633f0972ccf72a1f08eeef2b65899d176bc895e33f80544d064031"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 539
+  },
+  {
+    "condition": {
+      "urlFilter": "||thecompany.pl/graf/icons/youtube.png"
+    },
+    "_sourceKeys": [
+      "9ba833cb05f16b0dd5f3195a00ba31b4b52b91b6adae7eb41987c02bd4d232fc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 540
+  },
+  {
+    "condition": {
+      "urlFilter": "||wettercomassets.com/wcomv5/images/footer/",
+      "initiatorDomains": [
+        "wetter.com"
+      ]
+    },
+    "_sourceKeys": [
+      "572a1a0fe3e9b47bd8ae87e484398470a7d3a8cc2be679bbe981c24365afb0bd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 541
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-minify/min/?*,wp-content",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "c7b63d3fe37a1f52285fb499aa8deec8ad7343f97dd01479d4fe537abd70a904"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 542
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "jut.su"
+      ],
+      "urlFilter": "||gen.jut.su/jcdn/minify?charset=*/videojs-share.",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "26975fdc4949181156c7f9dec6d94843881618b7518f69233bacefc6b9c7c294"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 543
+  },
+  {
+    "condition": {
+      "urlFilter": "||3obieg.pl/wp-content/themes/sowe/css/content/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4e357f4aa0945442479f002c92d0f994791ab7523886879bd90858376392b7b3"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 544
+  },
+  {
+    "condition": {
+      "urlFilter": "||adguard.com/public/adguard/blog/android/comparison/facebook_",
+      "initiatorDomains": [
+        "adguard.com"
+      ],
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "a1b8592e8b2ef6a78d33e76feb944cd037f7f74f4dde70248466e20d122c9937"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 545
+  },
+  {
+    "condition": {
+      "urlFilter": "||enumizmatyczny.pl/modules/hifacebookconnect/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4d46d32b1147a74a141ecaff197f54bf811326086d48f177a259bd6df8a87fec"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 546
+  },
+  {
+    "condition": {
+      "urlFilter": "||iconizer.net/files/*_social_",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "819fae7b296ffee5d0f1bad6307dbe2d74854d4c7bd7930b74ae1dc7e9e1d8a7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 547
+  },
+  {
+    "condition": {
+      "urlFilter": "||player.fm^*/social-icons/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ccfc092639103c43b314236989c82491ba4374ea418a755f03e2e1f87b12eb4c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 548
+  },
+  {
+    "condition": {
+      "urlFilter": "||softicons.com/download/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "debffc4f290d0a2198d86852356c0c810ffff19bc1de2c3a45e2eb3020aa60bd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 549
+  },
+  {
+    "condition": {
+      "urlFilter": "||tosdr.org/logo/",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "785625766dc71906088aeef4ecc1ad4d4b619f15ded54c032b5d3edfc5df2ccc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 550
+  },
+  {
+    "condition": {
+      "urlFilter": "||digitrend.it/wonder-marketing/assets/wordpress/js/videojs-share.min.js?",
+      "initiatorDomains": [
+        "vrsicilia.it"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "e8ca1bf7b01eb4ed66ac8d57874f8e97c98ac453396c7c7587639b0f2e1e5dcd"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 551
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "jut.su"
+      ],
+      "urlFilter": "||gen.jut.su/jcdn/minify?charset=*/videojs-share.",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "26975fdc4949181156c7f9dec6d94843881618b7518f69233bacefc6b9c7c294"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 552
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.addtoany.com/menu/page.js",
+      "initiatorDomains": [
+        "suttonquebec.com"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "f9dee82f0cf7e50017ec7b9d4fc928b67ad29c1b768d6ef17546f7747c95491a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 553
+  },
+  {
+    "condition": {
+      "urlFilter": "||yastatic.net/share2/share.js",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "470984ac5d202e332d21e6e7530cf6cd64222832b624caa29928ee204ba93249"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 554
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.conceptboard.com^*/socialicons.js",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "57a8bd8d0118f87644e023d8d1f909e78ac7058d54bcc9569083d3f5f2fb8d0f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 555
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/share-this-image/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "c171181f1f81b0d95583f7b3f4b19c42eb09e650138d5753854b8a903f65498f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 556
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/socialauth-wp/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "66a914543de9e74c72620b4957e6c4f96d1e7ef78c3470c8185f98bddc01e651"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 557
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wordpress-social-login/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "2e4be4321973b83824348f80ae752c16d367b4db6de5e2191906159d59b776e7"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 558
+  },
+  {
+    "condition": {
+      "urlFilter": "||answers.ros.org/m/default/media/images/socialsprite.png",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "ce5e295724184f481e6634083c5bd4eb299762afda3fd05d2e7bfd2f19637dda"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 559
+  },
+  {
+    "condition": {
+      "urlFilter": "||arcgis.com/apps/nearby/app/components/share/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "3dd34d3f0ea0864b8121177c4d9a32813e401c3092f2f1086af0984ed9e3f3bf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 560
+  },
+  {
+    "condition": {
+      "urlFilter": "||assets.msn.com/bundles/*/social-bar-",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "cf0e14931a158ebae1a93abebce8ba9b176091fba96f954b3f0eab6bf8639ca1"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 561
+  },
+  {
+    "condition": {
+      "urlFilter": "||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "81d767feb601d70cc9c6855acf0f541b522bc15e56d6473fe5eb4077fe507538"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 562
+  },
+  {
+    "condition": {
+      "urlFilter": "||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/socialshare.min.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "c7674963ed001d31519073857a8f8d1bb88a19b8ef7b6dc7b4a7876c2ef83708"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 563
+  },
+  {
+    "condition": {
+      "urlFilter": "||fc-zenit.ru/local/templates/new_html/css/nav-social-2/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "a166547b004e06562949426629b143b34fb919c9c24423c319de03c9b6efea29"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 564
+  },
+  {
+    "condition": {
+      "urlFilter": "||findicons.com/files/icons/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "85673d6bef375527ba1fb5029da92068b4695eaaab61807f0a61591d558cc1bc"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 565
+  },
+  {
+    "condition": {
+      "urlFilter": "||iconfinder.com/data/icons/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "b2fe6617a325462ea9c8330b8eeb0c791a2681fbb2d673121330f2efea339dd4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 566
+  },
+  {
+    "condition": {
+      "urlFilter": "||ncsoft.jp/js/common/jws/socialbar.js",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "e85f5acdc7669123690ef62c6d8e11bace9bfe74722d86d6e20e425a14539e60"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 567
+  },
+  {
+    "condition": {
+      "urlFilter": "||srf.ch/socialview-in/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "dcb55dea8f4462ae9ca866150cee66dbba6ea352e8b00d35a27c040b7ea10f51"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 568
+  },
+  {
+    "condition": {
+      "urlFilter": "||supremacy1914.com/fileadmin/templates/",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "d36e5271a2564c3d96a17d8c775741403bd23db1d07b14a6d91cbbed474e0f97"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 569
+  },
+  {
+    "condition": {
+      "urlFilter": "||tweet.mapping.jp/data/czml/tweets.json",
+      "domainType": "firstParty"
+    },
+    "_sourceKeys": [
+      "918888f30d0c32eae707bb349dfdc66e8238360ddd6741487376f9bfbcc1ff27"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 570
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/bwp-minify/min/?*,wp-content",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "stylesheet"
+      ]
+    },
+    "_sourceKeys": [
+      "8bc9c898df32fba277ebe6b84b6e15d49684602488b66e8704bf333089b72e0a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 571
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/wp-rocket/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "f7d6eea95795a8ffe8d92386fb6d183a915e9aaac1c5dcdd3d792a15edce524b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 572
+  },
+  {
+    "condition": {
+      "urlFilter": "||brave.com/wp-content/uploads/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "801833be772abeb9cc245b47d9734b56ff884549c7cc109f6ae5b2bf5dfd6b46"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 573
+  },
+  {
+    "condition": {
+      "urlFilter": "||iconspedia.com/icon/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "d3ad00ac7c2171302b00a652423767af7b0a04614cda3f741d883972226908ea"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 574
+  },
+  {
+    "condition": {
+      "urlFilter": "||logo.wine/a/logo/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "ce77674de5fb1908533035ede84caa6457917c4743a011334f85d9a2922d95a4"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 575
+  },
+  {
+    "condition": {
+      "urlFilter": "||meltyblood.typelumina.com/resources/img/common/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4a0b3cf86a47e3a90c53b696ec6b69e86f5a6679461de506eee81d8a0ea6839a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 576
+  },
+  {
+    "condition": {
+      "urlFilter": "||pngrepo.com/png/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "3d1ca79886c84182e7277f711c1aed6e53c92c95892e62ea408b1f0245f8b8ab"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 577
+  },
+  {
+    "condition": {
+      "urlFilter": "||svgrepo.com/show/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "0a0d45160c5580d59d0becfe849e1421b518a3d84e847555008bd7d9c6e6d61b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 578
+  },
+  {
+    "condition": {
+      "urlFilter": "||yap.ru/html/static/share/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "9e1b15bc99c2d98889430c8aab7b8af6d236cd09dbbee3baccec2de9f8299f8c"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 579
+  },
+  {
+    "condition": {
+      "urlFilter": "||yaplakal.com/html/static/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "image"
+      ]
+    },
+    "_sourceKeys": [
+      "4d71332caa7a60c178cdb46dc4404ec75d96168415827725a19e21b69c8ce626"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 580
+  },
+  {
+    "condition": {
+      "urlFilter": "/wp-content/plugins/bwp-minify/min/?*,wp-content",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "8bc9c898df32fba277ebe6b84b6e15d49684602488b66e8704bf333089b72e0a"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 581
+  },
+  {
+    "condition": {
+      "urlFilter": "||app.veggly.net/plugins/cordova-plugin-x-socialsharing/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "88ecfa695a1a08ed0a40c05db23e8c04a5d2a68181c1baac865eca552e946022"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 582
+  },
+  {
+    "condition": {
+      "urlFilter": "||inscience.news/svc/getscript.aspx",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "63f178bd2d3340197590659205fbe0e5a97b0a690d07836155d07ca6ee1c49ae"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 583
+  },
+  {
+    "condition": {
+      "urlFilter": "||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "cb4ea926395893a92fc6dc21c7db0b00d0661cec9b2d34887d4ccad0ab196b12"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 584
+  },
+  {
+    "condition": {
+      "urlFilter": "||nhk.or.jp/common/sns/nol_share.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b74e3af24d55a87c124ab387ee54fbaaaf2c4510fd1117804274bafcc9f8fc4e"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 585
+  },
+  {
+    "condition": {
+      "urlFilter": "||nuxt.com/_nuxt/sociallinks.",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "ff885765386b0516a2d78c9b45e0ef650ab58c144323f9248bb5c8e1b08df753"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 586
+  },
+  {
+    "condition": {
+      "urlFilter": "||politumor.ru/engine/classes/min/index.php?f=*/share42.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "87a2be85ed5ae43a5c4b3cd5bb0b18d27a2c0e9601d8c9ddfd239f2427662a52"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 587
+  },
+  {
+    "condition": {
+      "urlFilter": "||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs-share.min.js?",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "d6f3e513d2b73fcb4269ee42ee606fc1187bc5ae7c88fb282b46a37b3a11edaf"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 588
+  },
+  {
+    "condition": {
+      "urlFilter": "||radio24.ilsole24ore.com/plugins/cordova-plugin-x-socialsharing/www/socialsharing.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "7f685db4c08f63fc9d42b9df7d36b8d5e946e085514418452baa3ef5ac6a8c5b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 589
+  },
+  {
+    "condition": {
+      "urlFilter": "||tf1.fr/public/*-share-",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "a5a337a173ac26bf8b031267205934edd146ce7c9e6a4bf186ddfcb32b9591df"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 590
+  },
+  {
+    "condition": {
+      "urlFilter": "||tgstat.ru/js/share2/share.js",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "fc8ea4563a221748db5693f72feda2589d1b01a58ab75f9f4d3b05ea422ab653"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 591
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "ahaan.co.uk"
+      ],
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "881402ee22acc1bbf3de1920d5decb036371454630088216a8d8300419df5c9c"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "ahaan.co.uk",
+        "keys": [
+          "881402ee22acc1bbf3de1920d5decb036371454630088216a8d8300419df5c9c"
+        ]
+      }
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 592
+  },
+  {
+    "condition": {
+      "urlFilter": "||commonsensemedia.org/ajax/review/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "8e46db714eb885618b5fdc40f744de17fc9a493a78c2c1692a68a6214f52af1f"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 593
+  },
+  {
+    "condition": {
+      "urlFilter": "||kinogoo.cc/engine/classes/min/index.php",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "4e581ddd5d48be865494cbe3aa1c463342790a9a3116eb6a76e8f8dea56661fe"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 594
+  },
+  {
+    "condition": {
+      "urlFilter": "||vpobede.ru/assets/images/footer-social/",
+      "domainType": "firstParty",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "_sourceKeys": [
+      "d01acf2cfe248dadcfdc4db6980a50dce63c484c038e5adf697a02104f11c363"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 595
+  },
+  {
+    "condition": {
+      "urlFilter": "||static.parastorage.com/services/editor-elements/dist/facebookshare.",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "_sourceKeys": [
+      "b49ce09bda01e909a97ed153cc2b16723cba6d91aadef1e83677a1ab7024b046"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 596
+  },
+  {
+    "condition": {
+      "urlFilter": "||instagram.com/p/",
+      "domainType": "thirdParty",
+      "resourceTypes": [
+        "sub_frame"
+      ]
+    },
+    "_sourceKeys": [
+      "5b6b63db59a558d992487e54d3f0091f4ba3b745ff96103aef2a627989726b5b"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 597
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "premiogiusto.com",
+        "tracking.donnemagazine.it",
+        "tracking.foodblog.it",
+        "tracking.motorimagazine.it",
+        "tracking.notizie.it",
+        "tracking.offerteshopping.it",
+        "tracking.style24.it",
+        "tracking.tuobenessere.it",
+        "tracking.viaggiamo.it",
+        "plx.pornototale.com"
+      ]
+    },
+    "_sourceKeys": [
+      "e6f00f0b26f7c0d484bfc2873aee778396032877c6b233c73d4d34ba30578a1a",
+      "ce5b56396b9784d15b29da65f9a80d68ab49d9f26a4c3dce09e1ade9fb1e8a04",
+      "ff403ab71d467ec9ec30426003256051e945c6ac3be9a77a557e0e0f86199032",
+      "3950ccd86cf28389ba0b1c0bdbef9c329e5911ec1c1a533202f87540e1bd1dba",
+      "6fc9781991bb1b9afaca95d7aa7feaf5748bbd85a2ebdcc22fd12cbda9072794",
+      "25869469a00bba1b37c7ca9eb3cbaa0cef271ee20e3c1cb033a23d313ca50ebb",
+      "8a89d85df2e180a66dd5eb7103bcf62f4f791c52b7e8daba31fe938316908903",
+      "55cf5ba26b2c26ed01118b1557ec5fd7c5c90a8c164508ba344edc7025bb4cf8",
+      "77a88857bf3ddaa84b01bb47a5159753d6366ccd9dd32348a581046f2f9f85ac",
+      "f490db1301576477236c1cdf095d9a8e1248b21217a74b26cea8cf1886f12cb5"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "premiogiusto.com",
+        "keys": [
+          "e6f00f0b26f7c0d484bfc2873aee778396032877c6b233c73d4d34ba30578a1a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.donnemagazine.it",
+        "keys": [
+          "ce5b56396b9784d15b29da65f9a80d68ab49d9f26a4c3dce09e1ade9fb1e8a04"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.foodblog.it",
+        "keys": [
+          "ff403ab71d467ec9ec30426003256051e945c6ac3be9a77a557e0e0f86199032"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.motorimagazine.it",
+        "keys": [
+          "3950ccd86cf28389ba0b1c0bdbef9c329e5911ec1c1a533202f87540e1bd1dba"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.notizie.it",
+        "keys": [
+          "6fc9781991bb1b9afaca95d7aa7feaf5748bbd85a2ebdcc22fd12cbda9072794"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.offerteshopping.it",
+        "keys": [
+          "25869469a00bba1b37c7ca9eb3cbaa0cef271ee20e3c1cb033a23d313ca50ebb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.style24.it",
+        "keys": [
+          "8a89d85df2e180a66dd5eb7103bcf62f4f791c52b7e8daba31fe938316908903"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.tuobenessere.it",
+        "keys": [
+          "55cf5ba26b2c26ed01118b1557ec5fd7c5c90a8c164508ba344edc7025bb4cf8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "tracking.viaggiamo.it",
+        "keys": [
+          "77a88857bf3ddaa84b01bb47a5159753d6366ccd9dd32348a581046f2f9f85ac"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "plx.pornototale.com",
+        "keys": [
+          "f490db1301576477236c1cdf095d9a8e1248b21217a74b26cea8cf1886f12cb5"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 947
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "animeunity.tv"
+      ],
+      "regexFilter": "^https?:\\/\\/.*\\.(jpg|gif|png|php|html|svg|ico|js|txt)"
+    },
+    "_sourceKeys": [
+      "4242df92477b0c419278a08f9db94ea1917f54bd119bef63eeddf93fcfa3a91b"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 948
+  },
+  {
+    "condition": {
+      "requestDomains": [
+        "heyos.com",
+        "campaigns.williamhill.it",
+        "informatoriads.snai.it",
+        "record.betpartners.it",
+        "record.starcasino.it"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6aaa92abf12385e43886a339e1674a17d492314e8b835569b7055967479c7520",
+      "a3ad025142347e92ad2f381df248e9cbf3c4a52e7ba10413375e97888f4d550c",
+      "74023ba3afa67c944b5029fa30ea167dd065014034079c31e5c7311ae924f9bc",
+      "47838929b3d5a2da82ec8a0dbff8ae52bc48b114d2e24036445880992d4f78c1",
+      "3e767090181e59d41b7c793bb93a9855ea8efa1b35d163b127bdae954c2ec22e"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "heyos.com",
+        "keys": [
+          "6aaa92abf12385e43886a339e1674a17d492314e8b835569b7055967479c7520"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "campaigns.williamhill.it",
+        "keys": [
+          "a3ad025142347e92ad2f381df248e9cbf3c4a52e7ba10413375e97888f4d550c"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "informatoriads.snai.it",
+        "keys": [
+          "74023ba3afa67c944b5029fa30ea167dd065014034079c31e5c7311ae924f9bc"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "record.betpartners.it",
+        "keys": [
+          "47838929b3d5a2da82ec8a0dbff8ae52bc48b114d2e24036445880992d4f78c1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "record.starcasino.it",
+        "keys": [
+          "3e767090181e59d41b7c793bb93a9855ea8efa1b35d163b127bdae954c2ec22e"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 977
+  },
+  {
+    "condition": {
+      "urlFilter": "||betway.it/bwp/",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6fc3eb756b77cf78fc2386e28507eb84c6b5620eb0526adcc2923599c4133206"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 978
+  },
+  {
+    "condition": {
+      "urlFilter": "||goldbetpartners.it/redirect.aspx?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "6346e61b1d57cbbbf7f9b3c8341cb658554b5e0f70c5ae18605e4614179c0735"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 979
+  },
+  {
+    "condition": {
+      "urlFilter": "||vincitu.it/c.ashx?",
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "e9d76aa04681dc0b9fd1ce88a50e0352961d2f7007f396470ab64a387625bbd8"
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 980
+  },
+  {
+    "condition": {
+      "initiatorDomains": [
+        "serieturche.eu"
+      ],
+      "domainType": "thirdParty"
+    },
+    "_sourceKeys": [
+      "4f16f41d2d376b005a11c099b1bfc7b4f66591aee97fec86e7bc20716dec14da"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "initiatorDomains",
+        "hostname": "serieturche.eu",
+        "keys": [
+          "4f16f41d2d376b005a11c099b1bfc7b4f66591aee97fec86e7bc20716dec14da"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 981
+  },
+  {
+    "condition": {
+      "urlFilter": "||ad.doubleclick.net/ddm/trackclk/",
+      "initiatorDomains": [
+        "autoxy.it"
+      ]
+    },
+    "_sourceKeys": [
+      "f6126d7c86a33b7b7a4c84eca47b357a540379308c8e7df669c863e7d1082a64"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1053
+  },
+  {
+    "condition": {
+      "urlFilter": "||zenaps.com/rclick.php?",
+      "initiatorDomains": [
+        "idealo.it"
+      ]
+    },
+    "_sourceKeys": [
+      "ebc3fd3b97ef47192b9c41c6ce3e8170986d602ab94bc6e1202d9f1f8b57f049"
+    ],
+    "action": {
+      "type": "allow"
+    },
+    "priority": 30,
+    "id": 1054
+  }
+]

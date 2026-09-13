@@ -1,0 +1,251 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "css.xcss.me",
+        "my-pu.sh",
+        "notificaciones-web.com",
+        "notification.tubecup.net",
+        "notifications.viafoura.co",
+        "poosh.wizzo.media",
+        "push.asahiinteractive.com",
+        "push.brownbrothers.io",
+        "push.bytesignal.com",
+        "push.delivery.ethinking.de",
+        "push.esputnik.com",
+        "push.getbeamer.com",
+        "push.intreface.com",
+        "push.knd.ro",
+        "push.newscraft.io",
+        "push.reamaze.com",
+        "pushdeploy.estrema.it",
+        "puuush.me",
+        "alerts.ndtv.com",
+        "alerts.thedailystar.net",
+        "push.cnnindonesia.com",
+        "push.ictsd.org",
+        "push.idowa.de",
+        "push.neko-san.fr",
+        "pushme.magellanotech.it",
+        "widget.push.forja.ma"
+      ]
+    },
+    "_sourceKeys": [
+      "edf7b3e47bbfbad6affeee3425feb159661e21adefbd26f0d8878b10752b6b20",
+      "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1",
+      "06858e22d81c03ec868e54e0641bf39d2b881104c23f8c65f788102b93e9e7d8",
+      "5c561e7d4b78b6b67aecfd742a36b3a5c4e516d302c35daba0c4a41e7b3b6486",
+      "9f716c4bc99b749b9932d57f1db3f116e2d9af10dc5060091618fab0099b8cc1",
+      "22de9172be2f076a00480933e0911240a340e52a76689c61caa80417ad3a8dcb",
+      "d71d32d3e70ff0504eece6eb79d7cc181b342faa82e5b50c605aca9cf49f9241",
+      "4f5569e37cf4d5df563390509aa73f3025321611d311db9fcbbfd6c889d63b63",
+      "34f074ab9d6def6e4d8e4e24489fa44adbe6a3bb3da08d5ef9851264054f5cb5",
+      "8de028f0c8bd2b9b02c72525672ad72632d1b9e79142d2fdf2ac54a975067c45",
+      "966ea3d9dae75bc55f804abf8569713d1212e692373803d84184e2399b3f9aff",
+      "c0478425bb6727eabc9b0262ffa5d97310a17ef621a9a1c1994100a4f0ca55de",
+      "1b37992f55f323cba4c58a64a5bf6a537b157078599ce3df39399d244bcb6c6f",
+      "21df4d4174f27ad4e49fed3a3592e4735da61598329cb7737588bb72a06ad38e",
+      "a0d3c749da57a1899d43e95a831f623adfe48e68921d8e0f6075b725e1c847ee",
+      "05aa2f7b539a5cad15df6eeeefc5fce035116456801b9306b82b95ba579e2b1e",
+      "5c9965d5de6556413eaf6842fe1ceff04756cb85b6687438a8ab80da569cb824",
+      "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a",
+      "31449ba80658195b79882f10eeff32ba29547dbf929e45245b1eecbb9d3e5a05",
+      "fffcb4929b78af7a39dfe440c74f05dc86edf3d526f1db693e1837b367203db2",
+      "39b2fd6962648f4da5b09641d37a6bdd50dd26512db4f42a66ae98a36f0c32bd",
+      "ea25d51afc93c85cc7bccbaf2aa25ac088a6653b1f71f15d770e5de2a299c7ae",
+      "e9e426c813867f508f68b7f4068f7649429a0b183d1306951e142e19271f9f59",
+      "9116f379747f6ad9e7e840e42df79518c400455b106a3a01d99cb2bf38757f89",
+      "b98948773cd1984dfe0df72914070300545829a7571931ef1077f0b12e93c896",
+      "c855e458fc474cfddbf4ea99881e3dbc7dbf5f1e27bff615b53c1f44896f9578"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "css.xcss.me",
+        "keys": [
+          "edf7b3e47bbfbad6affeee3425feb159661e21adefbd26f0d8878b10752b6b20"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "my-pu.sh",
+        "keys": [
+          "75e20cb8f53c8f1304bd9e90260312ceff3af9717728b36652ce85cb9079a1a1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notificaciones-web.com",
+        "keys": [
+          "06858e22d81c03ec868e54e0641bf39d2b881104c23f8c65f788102b93e9e7d8"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notification.tubecup.net",
+        "keys": [
+          "5c561e7d4b78b6b67aecfd742a36b3a5c4e516d302c35daba0c4a41e7b3b6486"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "notifications.viafoura.co",
+        "keys": [
+          "9f716c4bc99b749b9932d57f1db3f116e2d9af10dc5060091618fab0099b8cc1"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "poosh.wizzo.media",
+        "keys": [
+          "22de9172be2f076a00480933e0911240a340e52a76689c61caa80417ad3a8dcb"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.asahiinteractive.com",
+        "keys": [
+          "d71d32d3e70ff0504eece6eb79d7cc181b342faa82e5b50c605aca9cf49f9241"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.brownbrothers.io",
+        "keys": [
+          "4f5569e37cf4d5df563390509aa73f3025321611d311db9fcbbfd6c889d63b63"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.bytesignal.com",
+        "keys": [
+          "34f074ab9d6def6e4d8e4e24489fa44adbe6a3bb3da08d5ef9851264054f5cb5"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.delivery.ethinking.de",
+        "keys": [
+          "8de028f0c8bd2b9b02c72525672ad72632d1b9e79142d2fdf2ac54a975067c45"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.esputnik.com",
+        "keys": [
+          "966ea3d9dae75bc55f804abf8569713d1212e692373803d84184e2399b3f9aff"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.getbeamer.com",
+        "keys": [
+          "c0478425bb6727eabc9b0262ffa5d97310a17ef621a9a1c1994100a4f0ca55de"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.intreface.com",
+        "keys": [
+          "1b37992f55f323cba4c58a64a5bf6a537b157078599ce3df39399d244bcb6c6f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.knd.ro",
+        "keys": [
+          "21df4d4174f27ad4e49fed3a3592e4735da61598329cb7737588bb72a06ad38e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.newscraft.io",
+        "keys": [
+          "a0d3c749da57a1899d43e95a831f623adfe48e68921d8e0f6075b725e1c847ee"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.reamaze.com",
+        "keys": [
+          "05aa2f7b539a5cad15df6eeeefc5fce035116456801b9306b82b95ba579e2b1e"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushdeploy.estrema.it",
+        "keys": [
+          "5c9965d5de6556413eaf6842fe1ceff04756cb85b6687438a8ab80da569cb824"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "puuush.me",
+        "keys": [
+          "f773aa19583405f0dd44630e58dbfbf6f8721b1201996c62944e005ddc6a149a"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alerts.ndtv.com",
+        "keys": [
+          "31449ba80658195b79882f10eeff32ba29547dbf929e45245b1eecbb9d3e5a05"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "alerts.thedailystar.net",
+        "keys": [
+          "fffcb4929b78af7a39dfe440c74f05dc86edf3d526f1db693e1837b367203db2"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.cnnindonesia.com",
+        "keys": [
+          "39b2fd6962648f4da5b09641d37a6bdd50dd26512db4f42a66ae98a36f0c32bd"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.ictsd.org",
+        "keys": [
+          "ea25d51afc93c85cc7bccbaf2aa25ac088a6653b1f71f15d770e5de2a299c7ae"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.idowa.de",
+        "keys": [
+          "e9e426c813867f508f68b7f4068f7649429a0b183d1306951e142e19271f9f59"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "push.neko-san.fr",
+        "keys": [
+          "9116f379747f6ad9e7e840e42df79518c400455b106a3a01d99cb2bf38757f89"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "pushme.magellanotech.it",
+        "keys": [
+          "b98948773cd1984dfe0df72914070300545829a7571931ef1077f0b12e93c896"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "widget.push.forja.ma",
+        "keys": [
+          "c855e458fc474cfddbf4ea99881e3dbc7dbf5f1e27bff615b53c1f44896f9578"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 231
+  }
+]

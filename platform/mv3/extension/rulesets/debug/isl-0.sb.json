@@ -1,0 +1,35 @@
+[
+  {
+    "condition": {
+      "requestDomains": [
+        "app.pulsmedia.is",
+        "static.airserve.net"
+      ]
+    },
+    "_sourceKeys": [
+      "642746a12f629cce25775e49354c5e554d56013074e21fa28808e979fef7004f",
+      "491149b41c8d47c7c8224318473e19c21fa98f366eb23aca8cfc01d7b41e6bd2"
+    ],
+    "_sourceDomainUnits": [
+      {
+        "property": "requestDomains",
+        "hostname": "app.pulsmedia.is",
+        "keys": [
+          "642746a12f629cce25775e49354c5e554d56013074e21fa28808e979fef7004f"
+        ]
+      },
+      {
+        "property": "requestDomains",
+        "hostname": "static.airserve.net",
+        "keys": [
+          "491149b41c8d47c7c8224318473e19c21fa98f366eb23aca8cfc01d7b41e6bd2"
+        ]
+      }
+    ],
+    "action": {
+      "type": "block"
+    },
+    "priority": 10,
+    "id": 11
+  }
+]
