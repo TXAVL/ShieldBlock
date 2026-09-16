@@ -671,10 +671,7 @@ dom.on('#ytSkipBtn', 'click', async () => {
 });
 
 dom.on('#btnRateExtension', 'click', () => {
-    const extId = chrome.runtime?.id;
-    const storeUrl = (extId && !extId.startsWith('temporary'))
-        ? `https://chromewebstore.google.com/detail/${extId}/reviews`
-        : 'https://chromewebstore.google.com/';
+    const storeUrl = 'https://chromewebstore.google.com/detail/shieldblock-ad-tracker-bl/neajkofkkadimcabbhekjcgdbbkfpfll/reviews';
     if ( typeof browser.tabs?.create === 'function' ) {
         browser.tabs.create({ url: storeUrl });
     } else {
@@ -682,5 +679,59 @@ dom.on('#btnRateExtension', 'click', () => {
     }
 });
 
+// TXA Studio Cloud Sync Integration
+async function updateCloudSyncUI() {
+    try {
+        const user = await sendMessage({ what: 'txaCloudGetUser' });
+        const userEl = qs$('#cloudSyncUser');
+        const btn = qs$('#btnCloudAction');
+        if ( !userEl || !btn ) return;
+
+        if ( user?.email ) {
+            userEl.textContent = `✓ ${user.email}`;
+            userEl.style.color = '#4ade80';
+            btn.textContent = 'Đồng bộ';
+            btn.title = 'Đồng bộ thiết lập và quy tắc lên TXA Cloud';
+        } else {
+            userEl.textContent = 'Chưa đăng nhập';
+            userEl.style.color = '#c084fc';
+            btn.textContent = 'Đăng nhập';
+            btn.title = 'Đăng nhập với TXA Studio ID';
+        }
+    } catch {}
+}
+
+dom.on('#btnCloudAction', 'click', async () => {
+    const btn = qs$('#btnCloudAction');
+    try {
+        const user = await sendMessage({ what: 'txaCloudGetUser' });
+        if ( !user?.id ) {
+            browser.tabs.create({ url: '/dashboard.html#txa-cloud' });
+            window.close();
+            return;
+        }
+
+        if ( btn ) btn.textContent = 'Đang đồng bộ...';
+        const res = await sendMessage({ what: 'txaCloudPush', payload: { device_name: 'Chrome Extension' } });
+        if ( res?.success ) {
+            if ( btn ) btn.textContent = '✓ Đã đồng bộ';
+            setTimeout(updateCloudSyncUI, 1800);
+        } else {
+            if ( btn ) btn.textContent = 'Lỗi';
+            setTimeout(updateCloudSyncUI, 1800);
+        }
+    } catch {
+        if ( btn ) btn.textContent = 'Lỗi';
+        setTimeout(updateCloudSyncUI, 1800);
+    }
+});
+
+dom.on('#smartGuardCard', 'click', () => {
+    browser.tabs.create({ url: '/dashboard.html#smart-guard' });
+});
+
+updateCloudSyncUI();
+
 tryInit();
+
 

@@ -192,6 +192,14 @@ import { getRuntimeCapabilities } from './runtime-capabilities.js';
 import psl from '../lib/publicsuffixlist.js';
 import { setPopupBlockMode } from './prevent-popup.js';
 import { toggleToolbarIcon } from './action.js';
+import {
+    loginTXAAccount,
+    logoutTXAAccount,
+    getCloudUser,
+    getSyncMeta,
+    pushCloudSync,
+    pullCloudSync,
+} from './cloud-sync.js';
 
 /******************************************************************************/
 
@@ -1253,6 +1261,24 @@ async function onMessage(request, sender) {
     }
 
     switch ( request.what ) {
+
+    case 'txaCloudLogin':
+        return loginTXAAccount(request.email, request.password);
+
+    case 'txaCloudLogout':
+        return logoutTXAAccount();
+
+    case 'txaCloudGetUser':
+        return getCloudUser();
+
+    case 'txaCloudGetMeta':
+        return getSyncMeta();
+
+    case 'txaCloudPush':
+        return pushCloudSync(request.payload);
+
+    case 'txaCloudPull':
+        return pullCloudSync();
 
     case 'getFirewallState':
         return firewall.getState();

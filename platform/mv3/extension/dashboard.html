@@ -32,6 +32,7 @@
      --><button class="tabButton" type="button" data-pane="siteRules" data-i18n="siteRulesPageName" tabindex="0"></button><!--
      --><button class="tabButton" type="button" data-pane="diagnostics" data-i18n="diagnosticsPageName" tabindex="0"></button><!--
      --><button class="tabButton" type="button" data-pane="develop" data-i18n="advancedPageName" tabindex="0"></button><!--
+     --><button class="tabButton" type="button" data-pane="txaCloud" tabindex="0">☁️ TXA Cloud Sync</button><!--
      --><button class="tabButton" type="button" data-pane="about" data-i18n="aboutPageName" tabindex="0"></button>
     </nav>
     <!-- -------- -->
@@ -438,6 +439,99 @@
 </section>
 
 <!-- -------- -->
+<section data-pane="txaCloud">
+    <div class="powerHero" style="background: linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(56, 189, 248, 0.08) 100%); border: 1px solid rgba(168, 85, 247, 0.3);">
+        <span class="powerHeroIcon fa-icon" style="color: #c084fc;">cloud</span>
+        <div>
+            <h2 style="color: #f3e8ff;">TXA Studio Central Cloud Sync</h2>
+            <p style="color: #cbd5e1;">Đồng bộ hóa danh sách bộ lọc, quy tắc tuỳ chỉnh và thiết lập cá nhân qua tài khoản TXA Studio ID trên nền tảng Supabase.</p>
+        </div>
+    </div>
+
+    <!-- Logged Out View: Login Form -->
+    <div id="txaCloudLoggedOut" class="powerPanel" style="max-width: 600px; margin-top: 20px;">
+        <h3 style="color: #38bdf8; display: flex; align-items: center; gap: 8px;">
+            <span>🔐</span> Đăng nhập với TXA Studio ID
+        </h3>
+        <p style="color: #94a3b8; font-size: 13px;">Một tài khoản duy nhất kết nối toàn bộ hệ sinh thái TXA Studio (Zero Grid, ShieldBlock Pro và các dịch vụ).</p>
+        
+        <form id="txaLoginForm" style="display: flex; flex-direction: column; gap: 14px; margin-top: 14px;">
+            <div>
+                <label style="display: block; font-size: 12px; font-weight: 600; color: #cbd5e1; margin-bottom: 4px;">Email TXA Studio</label>
+                <input id="txaInputEmail" type="email" required placeholder="player@example.com" style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #fff; font-size: 13px; box-sizing: border-box;" />
+            </div>
+            <div>
+                <label style="display: block; font-size: 12px; font-weight: 600; color: #cbd5e1; margin-bottom: 4px;">Mật khẩu</label>
+                <input id="txaInputPassword" type="password" required placeholder="••••••••" style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #334155; background: #0f172a; color: #fff; font-size: 13px; box-sizing: border-box;" />
+            </div>
+            <div id="txaLoginMsg" style="font-size: 12px; font-weight: 600;"></div>
+            <div style="display: flex; align-items: center; gap: 12px; margin-top: 6px;">
+                <button id="btnTxaLogin" type="submit" class="preferred" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none; border-radius: 8px; padding: 10px 20px; font-size: 13px; font-weight: 600; color: #fff; cursor: pointer;">
+                    Đăng nhập TXA Studio ID
+                </button>
+                <a href="https://txastudio.click/register" target="_blank" style="color: #38bdf8; font-size: 13px; text-decoration: none;">Chưa có tài khoản? Đăng ký ngay →</a>
+            </div>
+        </form>
+    </div>
+
+    <!-- Logged In View: User Profile & Sync Controls -->
+    <div id="txaCloudLoggedIn" class="powerPanel" style="display: none; max-width: 600px; margin-top: 20px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 14px; margin-bottom: 16px;">
+            <div style="display: flex; align-items: center; gap: 12px;">
+                <div style="width: 44px; height: 44px; border-radius: 12px; background: rgba(168, 85, 247, 0.2); border: 1px solid rgba(168, 85, 247, 0.4); display: flex; align-items: center; justify-content: center; font-size: 20px;">
+                    🛡️
+                </div>
+                <div>
+                    <div id="txaUserDisplayName" style="font-size: 15px; font-weight: 700; color: #f8fafc;">_</div>
+                    <div id="txaUserEmail" style="font-size: 12px; color: #94a3b8; font-family: monospace;">_</div>
+                </div>
+            </div>
+            <button id="btnTxaLogout" type="button" style="background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 6px; padding: 6px 12px; font-size: 12px; cursor: pointer;">
+                Đăng xuất
+            </button>
+        </div>
+
+        <div style="background: rgba(15, 23, 42, 0.6); border-radius: 8px; padding: 14px; margin-bottom: 16px;">
+            <div style="font-size: 12px; color: #94a3b8; margin-bottom: 4px;">Thời điểm đồng bộ gần nhất:</div>
+            <div id="txaLastSyncTime" style="font-size: 14px; font-weight: 600; color: #4ade80;">_</div>
+        </div>
+
+        <div style="display: flex; gap: 12px; align-items: center;">
+            <button id="btnTxaPushSync" type="button" class="preferred" style="background: linear-gradient(135deg, #a855f7, #6366f1); border: none; border-radius: 8px; padding: 10px 18px; font-size: 13px; font-weight: 600; color: #fff; cursor: pointer;">
+                ☁️ Sao lưu lên Cloud (Push)
+            </button>
+            <button id="btnTxaPullSync" type="button" style="background: #1e293b; border: 1px solid #334155; border-radius: 8px; padding: 10px 18px; font-size: 13px; font-weight: 600; color: #e2e8f0; cursor: pointer;">
+                ⬇️ Khôi phục từ Cloud (Pull)
+            </button>
+        </div>
+        <div id="txaSyncActionStatus" style="margin-top: 12px; font-size: 12px; font-weight: 600;"></div>
+    </div>
+
+    <!-- Smart Guard Engine Section (DBlocker Core) -->
+    <div class="powerPanel" style="margin-top: 24px;">
+        <h3 style="color: #38bdf8; display: flex; align-items: center; gap: 8px;">
+            <span>⚡</span> Smart Trap & Video Player Guard (DBlocker Core)
+        </h3>
+        <p style="color: #94a3b8; font-size: 13px;">Công nghệ độc quyền phát hiện các bẫy chuyển hướng, lớp click vô hình và bảo vệ khung video phát sóng.</p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; margin-top: 16px;">
+            <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 10px; padding: 14px;">
+                <div style="font-weight: 600; color: #e0f2fe; margin-bottom: 4px;">🛡️ Anti-Clickjacking Overlay</div>
+                <p style="font-size: 12px; color: #94a3b8; margin: 0;">Tự động vô hiệu hóa các thẻ div vô hình phủ kín toàn màn hình nhằm bắt click mở pop-up quảng cáo.</p>
+            </div>
+            <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 10px; padding: 14px;">
+                <div style="font-weight: 600; color: #e0f2fe; margin-bottom: 4px;">🎬 Smart Streaming Player</div>
+                <p style="font-size: 12px; color: #94a3b8; margin: 0;">Nhận diện khung phát video, gỡ bỏ lớp bẫy đè lên nút Play/Pause để xem phim mượt mà không bị nhảy trang.</p>
+            </div>
+            <div style="background: rgba(15, 23, 42, 0.6); border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 10px; padding: 14px;">
+                <div style="font-weight: 600; color: #e0f2fe; margin-bottom: 4px;">🔀 Anti-Tab-Under Trap</div>
+                <p style="font-size: 12px; color: #94a3b8; margin: 0;">Ngăn chặn các trang web tự động đổi hướng tab ngầm sang trang lừa đảo / quảng cáo độc hại khi người dùng nhấn mở tab mới.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- -------- -->
 <section data-pane="busy">
     <div>
         <span class="fa-icon">spinner</span>
@@ -525,6 +619,7 @@
 <script src="js/firewall-ui.js" type="module"></script>
 <script src="js/filter-manager-ui.js" type="module"></script>
 <script src="js/develop.js" type="module"></script>
+<script src="js/txa-cloud-ui.js" type="module"></script>
 
 </body>
 </html>

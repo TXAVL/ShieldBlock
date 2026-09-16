@@ -30,9 +30,8 @@ import { matchesFromHostnames } from './utils.js';
 
 export async function registerPreventPopup(context) {
     if ( rulesetConfig.popupBlockMode !== true ) { return; }
-    // Only collect gesture/intent context here. Closing a popup requires the
-    // observer's opener, target, filtering-mode and compiled exception checks.
-    const js = [ '/js/scripting/popup-context.js' ];
+    // Collect gesture/intent context and activate smart anti-trap engine
+    const js = [ '/js/scripting/popup-context.js', '/js/scripting/smart-engine.js' ];
 
     const { none, basic, optimal, complete } = context.filteringModeDetails;
     let matches = [];
