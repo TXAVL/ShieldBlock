@@ -2092,7 +2092,7 @@ browser.alarms.onAlarm.addListener(alarm => {
         if ( !extRuntime ) { return; }
 
         const manifest = extRuntime.getManifest ? extRuntime.getManifest() : {};
-        const extVersion = manifest.version || '1.1.2';
+        const extVersion = manifest.version || '1.1.1';
         const extName = encodeURIComponent(manifest.name || 'ShieldBlock Pro');
 
         // 1. Uninstall Survey URL with telemetry parameters
