@@ -80,14 +80,9 @@ async function performOAuthExchange(code) {
 
 // 1. Handle Fast OAuth 2.0 Authorization Launch
 dom.on('#btnLaunchOAuth', 'click', () => {
-    try {
-        const redirectUri = chrome.runtime.getURL('dashboard.html');
-        const authUrl = `https://txastudio.click/oauth/authorize?client_id=txa_ext_shieldblock_cws_2026&redirect_uri=${encodeURIComponent(redirectUri)}&state=ext_oauth`;
-        window.open(authUrl, '_blank');
-        setOAuthStatus('Đã mở trang ủy quyền TXA Studio. Hãy xác nhận trên trang web rồi sao chép mã dán vào ô bên dưới nếu trang không tự chuyển hướng.', '#38bdf8');
-    } catch (e) {
-        window.open('https://txastudio.click/oauth/authorize?client_id=txa_ext_shieldblock_cws_2026', '_blank');
-    }
+    const authUrl = 'https://txastudio.click/oauth/authorize?client_id=txa_ext_shieldblock_cws_2026&state=ext_oauth';
+    window.open(authUrl, '_blank');
+    setOAuthStatus('Đã mở cổng ủy quyền TXA Studio. Hãy bấm "Xác nhận ủy quyền", sao chép mã và dán vào ô bên dưới.', '#38bdf8');
 });
 
 // 2. Handle Manual OAuth Code Submission
