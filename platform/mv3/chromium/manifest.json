@@ -38,6 +38,12 @@
   "host_permissions": [
     "<all_urls>"
   ],
+  "externally_connectable": {
+    "matches": [
+      "https://txastudio.click/*",
+      "http://localhost:*/*"
+    ]
+  },
   "homepage_url": "https://github.com/TXAVL/ShieldBlock",
   "incognito": "split",
   "icons": {

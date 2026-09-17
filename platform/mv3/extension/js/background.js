@@ -2128,5 +2128,35 @@ browser.alarms.onAlarm.addListener(alarm => {
     } catch (ex) {
         // Safe lifecycle fallback
     }
+
+    // 3. 1-Click Web OAuth 2.0 Bridge (from txastudio.click)
+    try {
+        const extRuntime = (typeof chrome !== 'undefined' && chrome.runtime)
+            ? chrome.runtime
+            : (typeof browser !== 'undefined' ? browser.runtime : null);
+
+        if ( extRuntime?.onMessageExternal?.addListener ) {
+            extRuntime.onMessageExternal.addListener((request, sender, sendResponse) => {
+                const senderUrl = sender?.url || '';
+                const isAuthorizedOrigin = senderUrl.startsWith('https://txastudio.click') ||
+                                           senderUrl.startsWith('http://localhost:');
+                if ( !isAuthorizedOrigin ) {
+                    return;
+                }
+
+                if ( request?.what === 'txaCloudOAuthDirect' ) {
+                    const code = request.code || request.authCode;
+                    exchangeOAuthCode(code).then(res => {
+                        sendResponse(res);
+                    }).catch(err => {
+                        sendResponse({ success: false, error: err.message });
+                    });
+                    return true; // Keep message channel open for async response
+                }
+            });
+        }
+    } catch (ex) {
+        // Safe external message listener fallback
+    }
 })();
 

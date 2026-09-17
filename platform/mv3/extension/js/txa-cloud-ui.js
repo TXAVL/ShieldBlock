@@ -262,3 +262,18 @@ async function checkUrlOAuthCode() {
 // Initialize on DOM load
 refreshCloudUI();
 checkUrlOAuthCode();
+
+// Listen to storage changes (e.g. 1-Click web direct login)
+try {
+    const storageApi = (typeof chrome !== 'undefined' && chrome.storage)
+        ? chrome.storage
+        : (typeof browser !== 'undefined' ? browser.storage : null);
+
+    if (storageApi?.onChanged?.addListener) {
+        storageApi.onChanged.addListener((changes, areaName) => {
+            if (areaName === 'local' && (changes['shieldblock.cloud.user'] || changes['shieldblock.cloud.syncMeta'])) {
+                refreshCloudUI();
+            }
+        });
+    }
+} catch (_) {}
