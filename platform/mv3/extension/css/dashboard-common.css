@@ -3,9 +3,12 @@ body {
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
+    background-color: #0b0f19;
+    color: #f1f5f9;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
     }
 body > * {
-    width: min(640px, 100%);
+    width: min(1080px, 94%);
     }
 
 h2, h3 {

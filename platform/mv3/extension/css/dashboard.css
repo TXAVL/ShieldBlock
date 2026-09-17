@@ -1,38 +1,55 @@
 header {
-    background-color: var(--surface-1);
+    background: rgba(11, 15, 25, 0.88);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     position: sticky;
     top: 0;
     z-index: 100;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
     }
 nav {
     border: 0;
-    border-bottom: 1px solid var(--border-1);
     display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 14px;
     flex-shrink: 0;
     flex-wrap: wrap;
-    overflow-x: hidden;
-    padding: 0;
+    overflow-x: auto;
+    }
+nav .logo {
+    display: flex;
+    align-items: center;
+    margin-right: 12px;
+    }
+nav .logo img {
+    height: 30px;
+    width: auto;
+    filter: drop-shadow(0 0 8px rgba(34, 197, 94, 0.5));
     }
 nav > .tabButton {
     background-color: transparent;
-    border: 0;
-    border-bottom: 3px solid transparent;
-    border-radius: 0;
-    color: var(--dashboard-tab-ink);
-        fill: var(--dashboard-tab-ink);
-    font-family: var(--font-family);
-    font-size: var(--font-size);
-    padding: 0.7em 1.4em calc(0.7em - 3px);
+    border: 1px solid transparent;
+    border-radius: 8px;
+    color: #94a3b8;
+    fill: #94a3b8;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 14px;
     text-decoration: none;
     white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.2s ease;
     }
 nav > .tabButton:focus-visible {
-    outline: 2px solid currentColor;
-    outline-offset: -4px;
+    outline: 2px solid #38bdf8;
+    outline-offset: 2px;
     }
 nav > .tabButton:hover {
-    background-color: var(--dashboard-tab-hover-surface);
-    border-bottom-color: var(--dashboard-tab-hover-border);
+    background-color: rgba(255, 255, 255, 0.06);
+    color: #ffffff;
     }
 
 body[data-pane="settings"] #dashboard-nav .tabButton[data-pane="settings"],
@@ -42,10 +59,18 @@ body[data-pane="siteRules"] #dashboard-nav .tabButton[data-pane="siteRules"],
 body[data-pane="diagnostics"] #dashboard-nav .tabButton[data-pane="diagnostics"],
 body[data-pane="develop"] #dashboard-nav .tabButton[data-pane="develop"],
 body[data-pane="about"] #dashboard-nav .tabButton[data-pane="about"] {
-    background-color: var(--dashboard-tab-active-surface);
-    border-bottom: 3px solid var(--dashboard-tab-active-ink);
-    color: var(--dashboard-tab-active-ink);
-        fill: var(--dashboard-tab-active-ink);
+    background-color: rgba(34, 197, 94, 0.15);
+    border: 1px solid rgba(34, 197, 94, 0.35);
+    color: #4ade80;
+    fill: #4ade80;
+    box-shadow: 0 0 12px rgba(34, 197, 94, 0.2);
+    }
+body[data-pane="txaCloud"] #dashboard-nav .tabButton[data-pane="txaCloud"] {
+    background-color: rgba(168, 85, 247, 0.18);
+    border: 1px solid rgba(168, 85, 247, 0.4);
+    color: #e9d5ff;
+    fill: #e9d5ff;
+    box-shadow: 0 0 14px rgba(168, 85, 247, 0.25);
     }
 body:not([data-develop="true"]) #dashboard-nav .tabButton[data-pane="develop"] {
     display: none;
@@ -59,7 +84,12 @@ body > section {
     display: none;
     padding: 0 var(--default-gap-xxsmall);
     padding-bottom: 2rem;
+    animation: fadeInPane 0.2s ease;
     }
+@keyframes fadeInPane {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+}
 body [data-pane-related] {
     padding: 0 var(--default-gap-xxsmall);
     }
@@ -70,6 +100,7 @@ body[data-pane="filters"]:not(.busy) > section[data-pane="filters"],
 body[data-pane="siteRules"]:not(.busy) > section[data-pane="siteRules"],
 body[data-pane="diagnostics"]:not(.busy) > section[data-pane="diagnostics"],
 body[data-pane="develop"]:not(.busy) > section[data-pane="develop"],
+body[data-pane="txaCloud"]:not(.busy) > section[data-pane="txaCloud"],
 body[data-pane="about"]:not(.busy) > section[data-pane="about"],
 body.busy[data-pane] > section[data-pane="busy"] {
     display: block;

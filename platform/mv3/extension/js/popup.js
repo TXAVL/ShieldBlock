@@ -712,13 +712,13 @@ async function updateCloudSyncUI() {
     } catch {}
 }
 
-dom.on('#btnCloudAction', 'click', async () => {
+dom.on('#btnCloudAction', 'click', async (e) => {
+    if ( e ) e.stopPropagation();
     const btn = qs$('#btnCloudAction');
     try {
         const user = await sendMessage({ what: 'txaCloudGetUser' });
         if ( !user?.id ) {
-            browser.tabs.create({ url: '/dashboard.html#txa-cloud' });
-            window.close();
+            browser.tabs.create({ url: '/dashboard.html#txaCloud' });
             return;
         }
 
@@ -737,12 +737,43 @@ dom.on('#btnCloudAction', 'click', async () => {
     }
 });
 
-dom.on('#smartGuardCard', 'click', () => {
-    browser.tabs.create({ url: '/dashboard.html#smart-guard' });
+// Click card body to open TXA Cloud Dashboard
+dom.on('#cloudSyncCard', 'click', (e) => {
+    if ( e?.target?.closest('#btnCloudAction') ) return;
+    browser.tabs.create({ url: '/dashboard.html#txaCloud' });
+});
+
+// Smart Guard Interactive Toggle (No tab open, no auto-close)
+dom.on('#smartGuardCard', 'click', (e) => {
+    if ( e ) e.stopPropagation();
+    const badge = qs$('#smartGuardBadge');
+    if ( !badge ) return;
+    const isCurrentlyOn = badge.textContent.trim() === 'BẬT';
+    const newState = !isCurrentlyOn;
+    
+    badge.textContent = newState ? 'BẬT' : 'TẮT';
+    badge.style.background = newState ? 'rgba(56, 189, 248, 0.15)' : 'rgba(148, 163, 184, 0.15)';
+    badge.style.color = newState ? '#38bdf8' : '#94a3b8';
+    badge.style.borderColor = newState ? 'rgba(56, 189, 248, 0.3)' : 'rgba(148, 163, 184, 0.3)';
+    
+    try {
+        localWrite('shieldblock.smartGuard', newState);
+    } catch {}
+});
+
+localRead('shieldblock.smartGuard').then(val => {
+    const badge = qs$('#smartGuardBadge');
+    if ( !badge ) return;
+    const isOn = val !== false;
+    badge.textContent = isOn ? 'BẬT' : 'TẮT';
+    badge.style.background = isOn ? 'rgba(56, 189, 248, 0.15)' : 'rgba(148, 163, 184, 0.15)';
+    badge.style.color = isOn ? '#38bdf8' : '#94a3b8';
+    badge.style.borderColor = isOn ? 'rgba(56, 189, 248, 0.3)' : 'rgba(148, 163, 184, 0.3)';
 });
 
 updateCloudSyncUI();
 
 tryInit();
+
 
 

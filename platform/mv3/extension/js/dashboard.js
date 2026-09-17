@@ -42,6 +42,7 @@ dom.body.dataset.platform = webextFlavor;
 dom.attr('a', 'target', '_blank');
 
 function selectPane(pane) {
+    if ( pane === 'txa-cloud' ) { pane = 'txaCloud'; }
     const knownPane = Array.from(document.querySelectorAll('.tabButton[data-pane]'))
         .some(button => button.dataset.pane === pane);
     if ( knownPane === false ) { return false; }
@@ -55,7 +56,9 @@ function selectPane(pane) {
 }
 
 function selectHashPane() {
-    return selectPane(self.location.hash.slice(1));
+    let hash = self.location.hash.slice(1);
+    if ( hash === 'txa-cloud' ) { hash = 'txaCloud'; }
+    return selectPane(hash);
 }
 
 dom.on('#dashboard-nav', 'click', '.tabButton', ev => {
