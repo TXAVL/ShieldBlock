@@ -2079,3 +2079,50 @@ browser.alarms.onAlarm.addListener(alarm => {
         ublockPlusErr(`processDueJobs/${reason}`);
     });
 });
+
+/******************************************************************************/
+
+// Install & Uninstall Lifecycle Management
+(function initLifecycle() {
+    try {
+        const extRuntime = (typeof browser !== 'undefined' && browser.runtime)
+            ? browser.runtime
+            : (typeof chrome !== 'undefined' ? chrome.runtime : null);
+
+        if ( !extRuntime ) { return; }
+
+        const manifest = extRuntime.getManifest ? extRuntime.getManifest() : {};
+        const extVersion = manifest.version || '1.1.1';
+        const extName = encodeURIComponent(manifest.name || 'ShieldBlock Pro');
+
+        // 1. Uninstall Survey URL with telemetry parameters
+        const uninstallUrl = `https://txastudio.click/uninstalled?app=shieldblock&version=${encodeURIComponent(extVersion)}&name=${extName}`;
+        if ( typeof extRuntime.setUninstallURL === 'function' ) {
+            try {
+                extRuntime.setUninstallURL(uninstallUrl);
+            } catch (err) {
+                // Ignore setUninstallURL failure
+            }
+        }
+
+        // 2. Open Welcome / Success Page on first install
+        if ( extRuntime.onInstalled?.addListener ) {
+            extRuntime.onInstalled.addListener(details => {
+                if ( details?.reason === 'install' ) {
+                    const installUrl = `https://txastudio.click/installed?app=shieldblock&version=${encodeURIComponent(extVersion)}&name=${extName}`;
+                    const tabsApi = (typeof browser !== 'undefined' && browser.tabs)
+                        ? browser.tabs
+                        : (typeof chrome !== 'undefined' ? chrome.tabs : null);
+                    try {
+                        tabsApi?.create?.({ url: installUrl });
+                    } catch (err) {
+                        // Ignore tab create failure
+                    }
+                }
+            });
+        }
+    } catch (ex) {
+        // Safe lifecycle fallback
+    }
+})();
+

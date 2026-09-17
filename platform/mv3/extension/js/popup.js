@@ -679,6 +679,17 @@ dom.on('#btnRateExtension', 'click', () => {
     }
 });
 
+dom.on('#btnJoinTelegram, #telegramPromoCard', 'click', (e) => {
+    if ( e ) e.stopPropagation();
+    const tgUrl = 'https://t.me/dongmephim_channel';
+    if ( typeof browser.tabs?.create === 'function' ) {
+        browser.tabs.create({ url: tgUrl });
+    } else {
+        window.open(tgUrl, '_blank');
+    }
+});
+
+
 // TXA Studio Cloud Sync Integration
 async function updateCloudSyncUI() {
     try {
