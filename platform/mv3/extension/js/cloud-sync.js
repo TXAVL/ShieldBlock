@@ -174,3 +174,51 @@ export async function pullCloudSync() {
         return { success: false, error: err.message || 'Lỗi mạng khi tải đồng bộ.' };
     }
 }
+
+/**
+ * Fast OAuth 2.0 Authorization Code Login
+ */
+export async function exchangeOAuthCode(authCode) {
+    if (!authCode || !authCode.startsWith('txa_code_')) {
+        return { success: false, error: 'Định dạng mã ủy quyền không hợp lệ (phải bắt đầu bằng txa_code_).' };
+    }
+
+    try {
+        const result = await callRpc('txa_exchange_oauth_code', {
+            p_client_id: 'txa_ext_shieldblock_cws_2026',
+            p_auth_code: authCode.trim()
+        });
+
+        if (!result?.success || !result?.user) {
+            return {
+                success: false,
+                error: result?.error || 'Mã ủy quyền không hợp lệ hoặc đã hết hạn.'
+            };
+        }
+
+        const user = result.user;
+        await localWrite(STORAGE_KEY_USER, user);
+
+        const now = new Date().toISOString();
+        await localWrite(STORAGE_KEY_SYNC_META, {
+            lastSyncAt: now,
+            lastStatus: 'oauth_authorized'
+        });
+
+        // Auto pull cloud sync data if existing
+        try {
+            await pullCloudSync();
+        } catch (_) {}
+
+        return {
+            success: true,
+            user
+        };
+    } catch (err) {
+        return {
+            success: false,
+            error: err.message || 'Lỗi mạng khi xác thực mã OAuth.'
+        };
+    }
+}
+

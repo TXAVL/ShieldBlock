@@ -199,6 +199,7 @@ import {
     getSyncMeta,
     pushCloudSync,
     pullCloudSync,
+    exchangeOAuthCode,
 } from './cloud-sync.js';
 
 /******************************************************************************/
@@ -1264,6 +1265,9 @@ async function onMessage(request, sender) {
 
     case 'txaCloudLogin':
         return loginTXAAccount(request.email, request.password);
+
+    case 'txaCloudOAuthExchange':
+        return exchangeOAuthCode(request.code || request.authCode);
 
     case 'txaCloudLogout':
         return logoutTXAAccount();
