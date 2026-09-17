@@ -27,7 +27,7 @@ import {
     listenForPowerUISettings,
     setPowerUISettings,
 } from './power-ui.js';
-import { browser, runtime, sendMessage } from './ext.js';
+import { browser, runtime, sendMessage, localRead, localWrite } from './ext.js';
 import {
     createPopupActionRunner,
     launchPopupTool,

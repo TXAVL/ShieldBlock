@@ -100,6 +100,23 @@ dom.on('#btnSubmitOAuthCode', 'click', () => {
     performOAuthExchange(code);
 });
 
+// 2b. Handle Quick Paste from Clipboard
+dom.on('#btnPasteOAuthCode', 'click', async () => {
+    try {
+        const text = await navigator.clipboard.readText();
+        const cleanCode = text ? text.trim() : '';
+        if (cleanCode.startsWith('txa_code_')) {
+            const input = qs$('#inputOAuthCode');
+            if (input) input.value = cleanCode;
+            performOAuthExchange(cleanCode);
+        } else {
+            setOAuthStatus('⚠️ Bộ nhớ tạm không chứa mã ủy quyền (mã phải bắt đầu bằng txa_code_)', '#f87171');
+        }
+    } catch {
+        setOAuthStatus('💡 Hãy click vào ô nhập và nhấn Ctrl + V để dán mã.', '#38bdf8');
+    }
+});
+
 dom.on('#inputOAuthCode', 'keydown', (e) => {
     if (e.key === 'Enter') {
         e.preventDefault();
