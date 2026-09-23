@@ -6,7 +6,7 @@
 **Extension Name:** ShieldBlock - Ad & Tracker Blocker Pro  
 **Official Repository:** [https://github.com/TXAVL/ShieldBlock](https://github.com/TXAVL/ShieldBlock)  
 **Public Privacy Policy URL:** [https://github.com/TXAVL/ShieldBlock/blob/main/PRIVACY_POLICY.md](https://github.com/TXAVL/ShieldBlock/blob/main/PRIVACY_POLICY.md)  
-**Developer / Privacy Contact Email:** `support@txastudio.click` | `contact@txastudio.click`  
+**Developer / Privacy Contact Email:** `txasoftdev@gmail.com`  
 
 ---
 
@@ -113,7 +113,7 @@ You retain full control over your data:
 
 ### 9. Contact Information
 If you have questions, feedback, or data privacy requests concerning this Privacy Policy, please contact our team at:
-* **Email:** [support@txastudio.click](mailto:support@txastudio.click) or [contact@txastudio.click](mailto:contact@txastudio.click)
+* **Email:** [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com)
 * **GitHub Issues:** [https://github.com/TXAVL/ShieldBlock/issues](https://github.com/TXAVL/ShieldBlock/issues)
 * **Security Advisories:** [https://github.com/TXAVL/ShieldBlock/security](https://github.com/TXAVL/ShieldBlock/security)
 
@@ -211,6 +211,6 @@ Mọi dữ liệu xử lý trong tiện ích chỉ phục vụ duy nhất 2 mụ
 
 ### 8. Thông tin Liên hệ Bảo mật
 Nếu bạn có bất kỳ câu hỏi, góp ý hay yêu cầu xóa dữ liệu liên quan đến Chính sách Quyền riêng tư này, vui lòng liên hệ:
-* **Email hỗ trợ kỹ thuật:** [support@txastudio.click](mailto:support@txastudio.click) hoặc [contact@txastudio.click](mailto:contact@txastudio.click)
+* **Email hỗ trợ kỹ thuật & bảo mật:** [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com)
 * **Báo cáo lỗi qua GitHub:** [https://github.com/TXAVL/ShieldBlock/issues](https://github.com/TXAVL/ShieldBlock/issues)
 * **Kênh bảo mật:** [https://github.com/TXAVL/ShieldBlock/security](https://github.com/TXAVL/ShieldBlock/security)

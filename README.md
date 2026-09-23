@@ -21,7 +21,7 @@
 ## Contents
 
 > [!IMPORTANT]
-> **Installing in Chrome?** Download the [Standard extension ZIP — v1.1.2](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.2/uBlock-Plus_1.1.2.chromium.zip) and its [SHA-256 file](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.2/uBlock-Plus_1.1.2.chromium.zip.sha256), then follow [installation](#install-an-unpacked-build). GitHub's **Code → Download ZIP**, **Source code (zip)** and **Source code (tar.gz)** contain development source, which must be built before loading into Chrome.
+> **Installing in Chrome?** Download the [ShieldBlock extension ZIP — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) and its [SHA-256 file](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), then follow [installation](#install-an-unpacked-build). GitHub's **Code → Download ZIP**, **Source code (zip)** and **Source code (tar.gz)** contain development source, which must be built before loading into Chrome.
 
 - [Features and screenshots](#features-and-screenshots)
 - [Quick start, updates and removal](#quick-start)
@@ -95,26 +95,26 @@ The screenshots below show the **actual unpacked extension in Google Chrome 152.
 
 The manifest declares **Chromium 130 or newer**. The latest documented native-browser test is on Google Chrome 152; that result is not certification of every Chromium derivative or version. This repository's release pipeline targets Chromium MV3, not a Firefox or Safari package.
 
-The **v1.1.2 preview** includes the popup fixes, yellow-plus logo, firewall tester, indexed firewall matching, cross-source filter exceptions and memory-profile improvements described in this README. Download the standard `uBlock-Plus_1.1.2.chromium.zip` and its checksum from [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). The separate `experimental.chromium.zip` requires the [Experimental WebRequest setup](docs/EXPERIMENTAL-WEBREQUEST.md). Choose the newest preview on the Releases page; GitHub's `/releases/latest` endpoint excludes pre-releases.
+The **ShieldBlock release** includes popup fixes, the smart luminous shield indicator, TXA Studio Cloud Sync, firewall tester, indexed firewall matching, cross-source filter exceptions, YouTube In-Player controls, and memory-profile improvements described in this README. Download `ShieldBlock_1.1.1.chromium.zip` and its checksum from [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). The separate `experimental.chromium.zip` requires the [Experimental WebRequest setup](docs/EXPERIMENTAL-WEBREQUEST.md).
 
-For a CI build, open [MV3 Chromium Actions](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml), select a successful run for the desired commit, and download its `uBlock-Plus-chromium-<commit>` artifact. GitHub may require sign-in. Extract that outer artifact archive first to find the extension ZIP and matching checksum. CI artifacts are preview build outputs with limited retention; they do not update the public Release automatically.
+For a CI build, open [MV3 Chromium Actions](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml), select a successful run for the desired commit, and download its `ShieldBlock-chromium-<commit>` artifact. GitHub may require sign-in. Extract that outer artifact archive first to find the extension ZIP and matching checksum. CI artifacts are preview build outputs with limited retention; they do not update the public Release automatically.
 
 ### Install an unpacked build
 
-Use the **Standard extension ZIP** above. A folder named `uBlock-Plus-main` commonly comes from GitHub's source download and cannot be loaded directly. In the extracted extension folder, you should see this layout:
+Use the **ShieldBlock extension ZIP** above. A folder named `ShieldBlock-main` commonly comes from GitHub's source download and cannot be loaded directly. In the extracted extension folder, you should see this layout:
 
 ```text
-uBlock-Plus/
+ShieldBlock/
   manifest.json
   popup.html
   js/
   rulesets/
 ```
 
-Select `uBlock-Plus` itself in Chrome. If extraction creates an extra outer folder, open it and select the inner folder that directly contains `manifest.json`. Do not copy an individual manifest out of the source tree: the complete compiled extension and its rulesets are required.
+Select `ShieldBlock` itself in Chrome. If extraction creates an extra outer folder, open it and select the inner folder that directly contains `manifest.json`. Do not copy an individual manifest out of the source tree: the complete compiled extension and its rulesets are required.
 
-1. Obtain `uBlock-Plus_*.chromium.zip` and its matching `.sha256` file from this repository's Releases, a successful CI artifact, or a [source build](#build-and-validate).
-2. Verify the checksum, then extract the ZIP into a permanent folder. On Windows, a short path such as `C:\Extensions\uBlock-Plus` helps avoid long-path problems.
+1. Obtain `ShieldBlock_*.chromium.zip` and its matching `.sha256` file from this repository's Releases, a successful CI artifact, or a [source build](#build-and-validate).
+2. Verify the checksum, then extract the ZIP into a permanent folder. On Windows, a short path such as `C:\Extensions\ShieldBlock` helps avoid long-path problems.
 3. Open `chrome://extensions` in Chrome, or `edge://extensions` in Edge.
 4. Turn on **Developer mode**, select **Load unpacked**, and choose the folder that directly contains `manifest.json`. Do not select the ZIP or its parent folder.
 5. Pin the extension from the browser's Extensions menu and open an ordinary HTTP/HTTPS page to try the popup.
@@ -126,8 +126,8 @@ Select `uBlock-Plus` itself in Chrome. If extraction creates an extra outer fold
 Run these commands in the download folder, adjusting the version if necessary:
 
 ```powershell
-(Get-FileHash .\uBlock-Plus_1.1.2.chromium.zip -Algorithm SHA256).Hash
-Get-Content .\uBlock-Plus_1.1.2.chromium.zip.sha256
+(Get-FileHash .\ShieldBlock_1.1.1.chromium.zip -Algorithm SHA256).Hash
+Get-Content .\ShieldBlock_1.1.1.chromium.zip.sha256
 ```
 
 The hexadecimal values must match; letter case does not matter. Compare against the checksum supplied with the **same build**.
@@ -138,7 +138,7 @@ The hexadecimal values must match; letter case does not matter. Compare against 
 
 An unpacked installation **does not auto-update** through the Chrome Web Store. Export a backup from **Dashboard → Settings**, close affected tabs if needed, verify and extract the replacement build, then replace the contents of the same extension folder. Preserve the folder path and click **Reload** on its extension card. Reload websites to refresh already-injected scripts and cosmetic filters. Do not place the new build one folder deeper inside the old one.
 
-After updating to this preview, **Details** on `chrome://extensions` must show **1.1.2**. If it still shows 1.0.0, Chrome is loading the old folder or its old contents. Pushing source commits or publishing a GitHub Release does not update an installed unpacked copy.
+After updating to this release, **Details** on `chrome://extensions` must show **1.1.1**. If it still shows an older version, Chrome is loading the old folder or its old contents. Pushing source commits or publishing a GitHub Release does not update an installed unpacked copy.
 
 To uninstall, optionally export a backup first, then select **Remove** on the browser's extensions page. Deleting the source folder alone is not an uninstall. Reinstalling from a different folder can create a different unpacked extension identity; use your backup when migrating.
 
@@ -279,7 +279,7 @@ Use Git with submodules, Node.js and npm, with network access for build-time fil
 
 ```powershell
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 git submodule update --init --recursive
 
 npm ci
@@ -287,10 +287,10 @@ npm test
 npm run lint
 $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 .\tools\make-mv3.ps1 -Platform chromium -Version $version
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
-Load `dist/build/uBlockPlus.chromium` from the browser's extensions page. The versioned command also creates `dist/build/uBlock-Plus_<version>.chromium.zip` and its `.sha256` sidecar. The folder contains `manifest.json`; the source repository root does not contain the installable build.
+Load `dist/build/ShieldBlock.chromium` from the browser's extensions page. The versioned command also creates `dist/build/ShieldBlock_<version>.chromium.zip` and its `.sha256` sidecar. The folder contains `manifest.json`; the source repository root does not contain the installable build.
 
 <details>
 <summary><strong>Linux / macOS build entry points</strong></summary>
@@ -299,13 +299,13 @@ Use a shell environment with the prerequisites expected by the [MV3 build script
 
 ```bash
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 npm ci
 npm test
 npm run lint
 VERSION=$(node -p "require('./package.json').version")
 tools/make-mv3.sh chromium "$VERSION"
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
 `make mv3-chromium` is the alternative unpacked-build target. Supplying a version to the script produces the versioned ZIP and checksum.
@@ -336,7 +336,7 @@ These are dated local results for the recorded builds, not a claim that the olde
 | Symptom | What to check |
 | --- | --- |
 | Chrome cannot load the extension | Extract the ZIP, select the folder containing `manifest.json`, check browser version and read the extension card's error. |
-| “Manifest file is missing or unreadable” after selecting `uBlock-Plus-main` | This usually means the GitHub source archive was downloaded. Download the Standard extension ZIP linked above, extract it, and select its folder containing `manifest.json`. See [installation](#install-an-unpacked-build). |
+| “Manifest file is missing or unreadable” after selecting `ShieldBlock-main` | This usually means the GitHub source archive was downloaded. Download the ShieldBlock extension ZIP linked above, extract it, and select its folder containing `manifest.json`. See [installation](#install-an-unpacked-build). |
 | A website breaks | Turn protection Off for that site and reload. If it recovers, inspect custom filters and recently enabled lists, then report a reproducible case. |
 | A sign-in/payment popup closes | Review the exact hostname's policy and compiled filter rules. Allow changes the contextual policy only; temporarily turning site protection Off is a separate diagnostic step. |
 | Picker or cosmetic changes seem inactive | Use a normal web page, check filtering mode and user-script capability, then reload the page. Restricted browser pages cannot be injected. |
@@ -365,10 +365,16 @@ The current detailed guides are maintained in [English](README.md) and [Vietname
 
 Use this fork's [issue forms](https://github.com/TXAVL/ShieldBlock/issues/new/choose) for bugs and feature requests, or [submit a Filter Store entry](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing code, filters or translations. Do not assume a fork-specific defect belongs in an upstream project's issue tracker.
 
-Report security vulnerabilities through the repository's [private advisory form](https://github.com/TXAVL/ShieldBlock/security/advisories/new), following [SECURITY.md](SECURITY.md). Roadmap items, including managed/native research, are not shipped-feature or release-date promises.
+Report security vulnerabilities through the repository's [private advisory form](https://github.com/TXAVL/ShieldBlock/security/advisories/new), following [SECURITY.md](SECURITY.md), or email us directly at [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com).
+
+### Contact & Support
+For developer inquiries, user support, or security feedback:
+- **Developer Email:** [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com)
+- **GitHub Repository:** [https://github.com/TXAVL/ShieldBlock](https://github.com/TXAVL/ShieldBlock)
+- **Issue Tracker:** [https://github.com/TXAVL/ShieldBlock/issues](https://github.com/TXAVL/ShieldBlock/issues)
 
 ## Credits and license
 
 Based on [uBlock Origin](https://github.com/gorhill/uBlock) by Raymond Hill and its contributors, including inherited upstream MV3 work. Thanks to the authors and maintainers of [uAssets](https://github.com/uBlockOrigin/uAssets), the [uBlock Origin Lite project](https://github.com/uBlockOrigin/uBOL-home), filter lists, translations and bundled third-party libraries. Project names and links identify their respective projects; they do not imply endorsement of this fork.
 
-Upstream history, copyright headers and third-party notices are preserved. See [NOTICE.md](NOTICE.md) for attribution. uBlock Plus+ is distributed under the [GNU General Public License, version 3 or later](LICENSE.txt).
+Upstream history, copyright headers and third-party notices are preserved. See [NOTICE.md](NOTICE.md) for attribution. ShieldBlock Pro is distributed under the [GNU General Public License, version 3 or later](LICENSE.txt).

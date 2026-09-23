@@ -8,6 +8,6 @@ Security fixes are applied to the latest commit on `main`. Users should build or
 
 Do not publish exploit details in a public issue. Use GitHub's **Security → Report a vulnerability** private reporting flow for this repository. Include the affected version/commit, browser version, reproduction steps, impact, and any suggested mitigation.
 
-If private vulnerability reporting is temporarily unavailable, open a minimal public issue asking a maintainer to establish a private contact channel; do not include sensitive details.
+If private vulnerability reporting is temporarily unavailable, you can email us directly at [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com) or open a minimal public issue asking a maintainer to establish a private contact channel; do not include sensitive details.
 
 Filter-list false positives and broken websites are not security vulnerabilities. Report extension behavior to this fork and list-content problems to the relevant list maintainer.

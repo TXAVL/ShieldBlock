@@ -21,7 +21,7 @@
 ## Mục lục
 
 > [!IMPORTANT]
-> **Cài vào Chrome:** tải [ZIP tiện ích Standard — v1.1.2](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.2/uBlock-Plus_1.1.2.chromium.zip) cùng [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.2/uBlock-Plus_1.1.2.chromium.zip.sha256), rồi làm theo [hướng dẫn cài](#cài-bản-unpacked). **Code → Download ZIP**, **Source code (zip)** và **Source code (tar.gz)** của GitHub là mã nguồn để phát triển, cần build trước khi nạp vào Chrome.
+> **Cài vào Chrome:** tải [ZIP tiện ích ShieldBlock — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) cùng [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), rồi làm theo [hướng dẫn cài](#cài-bản-unpacked). **Code → Download ZIP**, **Source code (zip)** và **Source code (tar.gz)** của GitHub là mã nguồn để phát triển, cần build trước khi nạp vào Chrome.
 
 - [Tính năng và hình ảnh](#tính-năng-và-hình-ảnh)
 - [Cài đặt, cập nhật và gỡ bỏ](#quick-start)
@@ -97,26 +97,26 @@ Các ảnh dưới đây chụp **tiện ích thực tế được nạp dạng 
 
 Manifest khai báo yêu cầu **Chromium 130 trở lên**. Lần kiểm thử trình duyệt thực tế gần nhất được ghi nhận dùng Google Chrome 152; kết quả đó không chứng nhận mọi biến thể hoặc phiên bản Chromium. Quy trình phát hành của repository này tạo gói Chromium MV3, không tạo gói Firefox hay Safari.
 
-Bản thử nghiệm **v1.1.2** bao gồm các bản sửa popup, logo dấu cộng vàng, công cụ thử quy tắc firewall, bộ tra cứu firewall dùng chỉ mục, ngoại lệ bộ lọc giữa các nguồn và cải tiến cấu hình bộ nhớ được mô tả trong README này. Tải gói thông thường `uBlock-Plus_1.1.2.chromium.zip` cùng checksum tại [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). Gói riêng `experimental.chromium.zip` cần làm theo [hướng dẫn Experimental WebRequest](EXPERIMENTAL-WEBREQUEST.md). Chọn bản thử nghiệm mới nhất trên trang Releases; đường dẫn `/releases/latest` của GitHub không bao gồm pre-release.
+Bản phát hành **ShieldBlock** bao gồm các bản sửa popup, biểu tượng khiên bảo vệ phát sáng thông minh, tính năng TXA Studio Cloud Sync, công cụ thử quy tắc firewall, bộ tra cứu firewall dùng chỉ mục, ngoại lệ bộ lọc giữa các nguồn, nút điều khiển YouTube In-Player và cải tiến cấu hình bộ nhớ được mô tả trong README này. Tải gói thông thường `ShieldBlock_1.1.1.chromium.zip` cùng checksum tại [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). Gói riêng `experimental.chromium.zip` cần làm theo [hướng dẫn Experimental WebRequest](EXPERIMENTAL-WEBREQUEST.md). Chọn bản thử nghiệm mới nhất trên trang Releases; đường dẫn `/releases/latest` của GitHub không bao gồm pre-release.
 
-Để lấy bản build CI, mở [MV3 Chromium Actions](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml), chọn lần chạy thành công ứng với commit muốn dùng và tải artifact `uBlock-Plus-chromium-<commit>`. GitHub có thể yêu cầu đăng nhập. Giải nén file artifact bên ngoài trước để lấy ZIP tiện ích và checksum tương ứng. Artifact CI là bản build thử nghiệm có thời gian lưu giới hạn; chúng không tự cập nhật bản Release công khai.
+Để lấy bản build CI, mở [MV3 Chromium Actions](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml), chọn lần chạy thành công ứng với commit muốn dùng và tải artifact `ShieldBlock-chromium-<commit>`. GitHub có thể yêu cầu đăng nhập. Giải nén file artifact bên ngoài trước để lấy ZIP tiện ích và checksum tương ứng. Artifact CI là bản build thử nghiệm có thời gian lưu giới hạn; chúng không tự cập nhật bản Release công khai.
 
 ### Cài bản unpacked
 
-Chọn **ZIP tiện ích Standard** ở link trên. Thư mục tên `uBlock-Plus-main` thường là mã nguồn tải từ GitHub, chưa thể nạp trực tiếp. Sau khi giải nén đúng gói tiện ích, thư mục phải có dạng:
+Chọn **ZIP tiện ích Standard** ở link trên. Thư mục tên `ShieldBlock-main` thường là mã nguồn tải từ GitHub, chưa thể nạp trực tiếp. Sau khi giải nén đúng gói tiện ích, thư mục phải có dạng:
 
 ```text
-uBlock-Plus/
+ShieldBlock/
   manifest.json
   popup.html
   js/
   rulesets/
 ```
 
-Trong Chrome, chọn chính thư mục `uBlock-Plus` này. Nếu giải nén tạo thêm thư mục bao ngoài, mở vào trong và chọn thư mục chứa trực tiếp `manifest.json`. Không lấy riêng file manifest từ cây mã nguồn để chép ra ngoài: Chrome cần cả tiện ích đã build cùng các ruleset đi kèm.
+Trong Chrome, chọn chính thư mục `ShieldBlock` này. Nếu giải nén tạo thêm thư mục bao ngoài, mở vào trong và chọn thư mục chứa trực tiếp `manifest.json`. Không lấy riêng file manifest từ cây mã nguồn để chép ra ngoài: Chrome cần cả tiện ích đã build cùng các ruleset đi kèm.
 
-1. Lấy `uBlock-Plus_*.chromium.zip` và file `.sha256` tương ứng từ trang Releases của repository này, artifact của một lần chạy CI thành công hoặc [bản build từ mã nguồn](#build-và-kiểm-tra-bản-đóng-gói).
-2. Kiểm tra checksum rồi giải nén ZIP vào một thư mục cố định. Trên Windows, đường dẫn ngắn như `C:\Extensions\uBlock-Plus` giúp tránh sự cố do đường dẫn quá dài.
+1. Lấy `ShieldBlock_*.chromium.zip` và file `.sha256` tương ứng từ trang Releases của repository này, artifact của một lần chạy CI thành công hoặc [bản build từ mã nguồn](#build-và-kiểm-tra-bản-đóng-gói).
+2. Kiểm tra checksum rồi giải nén ZIP vào một thư mục cố định. Trên Windows, đường dẫn ngắn như `C:\Extensions\ShieldBlock` giúp tránh sự cố do đường dẫn quá dài.
 3. Mở `chrome://extensions` trong Chrome hoặc `edge://extensions` trong Edge.
 4. Bật **Developer mode/Chế độ dành cho nhà phát triển**, chọn **Load unpacked/Tải tiện ích đã giải nén**, rồi chọn thư mục chứa trực tiếp `manifest.json`. Không chọn file ZIP hoặc thư mục cha.
 5. Ghim tiện ích từ trình đơn Extensions/Tiện ích của trình duyệt và mở một trang HTTP/HTTPS thông thường để thử popup.
@@ -128,8 +128,8 @@ Trong Chrome, chọn chính thư mục `uBlock-Plus` này. Nếu giải nén t�
 Chạy các lệnh sau trong thư mục tải xuống, thay số phiên bản nếu cần:
 
 ```powershell
-(Get-FileHash .\uBlock-Plus_1.1.2.chromium.zip -Algorithm SHA256).Hash
-Get-Content .\uBlock-Plus_1.1.2.chromium.zip.sha256
+(Get-FileHash .\ShieldBlock_1.1.2.chromium.zip -Algorithm SHA256).Hash
+Get-Content .\ShieldBlock_1.1.2.chromium.zip.sha256
 ```
 
 Các giá trị thập lục phân phải trùng nhau; chữ hoa hay chữ thường không ảnh hưởng. Hãy đối chiếu với checksum đi kèm **đúng bản đóng gói đó**.
@@ -281,7 +281,7 @@ Cần Git với submodule, Node.js, npm và kết nối mạng để lấy dữ 
 
 ```powershell
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 git submodule update --init --recursive
 
 npm ci
@@ -289,10 +289,10 @@ npm test
 npm run lint
 $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 .\tools\make-mv3.ps1 -Platform chromium -Version $version
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
-Nạp thư mục `dist/build/uBlockPlus.chromium` từ trang quản lý tiện ích của trình duyệt. Lệnh có số phiên bản cũng tạo `dist/build/uBlock-Plus_<version>.chromium.zip` và file `.sha256` đi kèm. Thư mục build chứa `manifest.json`; thư mục gốc của repository không phải bản có thể cài trực tiếp.
+Nạp thư mục `dist/build/ShieldBlock.chromium` từ trang quản lý tiện ích của trình duyệt. Lệnh có số phiên bản cũng tạo `dist/build/ShieldBlock_<version>.chromium.zip` và file `.sha256` đi kèm. Thư mục build chứa `manifest.json`; thư mục gốc của repository không phải bản có thể cài trực tiếp.
 
 <details>
 <summary><strong>Cách build trên Linux / macOS</strong></summary>
@@ -301,13 +301,13 @@ Dùng môi trường shell có các công cụ mà [script build MV3](../platfor
 
 ```bash
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 npm ci
 npm test
 npm run lint
 VERSION=$(node -p "require('./package.json').version")
 tools/make-mv3.sh chromium "$VERSION"
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
 Có thể dùng `make mv3-chromium` để tạo thư mục unpacked. Truyền số phiên bản cho script sẽ tạo thêm ZIP có phiên bản và checksum.
@@ -338,7 +338,7 @@ Có thể dùng `make mv3-chromium` để tạo thư mục unpacked. Truyền s�
 | Triệu chứng | Cách kiểm tra |
 | --- | --- |
 | Chrome không nạp được tiện ích | Giải nén ZIP, chọn thư mục chứa `manifest.json`, kiểm tra phiên bản trình duyệt và đọc lỗi trên thẻ tiện ích. |
-| “Tệp kê khai bị thiếu hoặc không thể đọc được” khi chọn `uBlock-Plus-main` | Thường do tải nhầm ZIP mã nguồn của GitHub. Tải ZIP tiện ích Standard ở link trên, giải nén rồi chọn thư mục chứa trực tiếp `manifest.json`. Xem [cách cài](#cài-bản-unpacked). |
+| “Tệp kê khai bị thiếu hoặc không thể đọc được” khi chọn `ShieldBlock-main` | Thường do tải nhầm ZIP mã nguồn của GitHub. Tải ZIP tiện ích ShieldBlock ở link trên, giải nén rồi chọn thư mục chứa trực tiếp `manifest.json`. Xem [cách cài](#cài-bản-unpacked). |
 | Một website hoạt động sai | Tắt bảo vệ cho trang đó rồi tải lại. Nếu trang hoạt động bình thường, kiểm tra bộ lọc cá nhân và danh sách mới bật, sau đó báo lỗi kèm cách tái hiện. |
 | Popup đăng nhập/thanh toán bị đóng | Kiểm tra chính sách của đúng tên máy chủ và các quy tắc lọc đã biên dịch. Allow chỉ đổi chính sách theo ngữ cảnh; tạm tắt bảo vệ trang là bước chẩn đoán riêng. |
 | Picker hoặc thay đổi giao diện có vẻ không hoạt động | Thử trên trang web thông thường, kiểm tra chế độ lọc và khả năng chạy tập lệnh người dùng, rồi tải lại trang. Không thể chèn script vào các trang trình duyệt bị hạn chế. |
@@ -367,10 +367,16 @@ Hướng dẫn chi tiết hiện tại được duy trì bằng [tiếng Anh](..
 
 Dùng [biểu mẫu issue của bản fork này](https://github.com/TXAVL/ShieldBlock/issues/new/choose) để báo lỗi và đề xuất tính năng, hoặc [gửi một mục Filter Store](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Đọc [CONTRIBUTING.md](../CONTRIBUTING.md) trước khi đóng góp mã nguồn, bộ lọc hoặc bản dịch. Không mặc định rằng lỗi riêng của bản fork cần được báo lên trình theo dõi issue của dự án upstream.
 
-Báo lỗ hổng bảo mật qua [biểu mẫu advisory riêng tư](https://github.com/TXAVL/ShieldBlock/security/advisories/new) của repository, theo hướng dẫn [SECURITY.md](../SECURITY.md). Các mục trên lộ trình, bao gồm nghiên cứu managed/native, không phải cam kết về tính năng đã phát hành hoặc ngày phát hành.
+Báo lỗ hổng bảo mật qua [biểu mẫu advisory riêng tư](https://github.com/TXAVL/ShieldBlock/security/advisories/new) của repository, theo hướng dẫn [SECURITY.md](../SECURITY.md), hoặc gửi email trực tiếp tới [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com).
+
+### Liên hệ & Hỗ trợ
+Mọi thắc mắc kỹ thuật, góp ý hoặc yêu cầu hỗ trợ:
+- **Email nhà phát triển:** [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com)
+- **Kho lưu trữ GitHub:** [https://github.com/TXAVL/ShieldBlock](https://github.com/TXAVL/ShieldBlock)
+- **Kênh báo lỗi (Issues):** [https://github.com/TXAVL/ShieldBlock/issues](https://github.com/TXAVL/ShieldBlock/issues)
 
 ## Ghi công và giấy phép
 
 Dựa trên [uBlock Origin](https://github.com/gorhill/uBlock) của Raymond Hill và cộng đồng đóng góp, bao gồm các thành phần MV3 kế thừa từ upstream. Cảm ơn tác giả và người duy trì [uAssets](https://github.com/uBlockOrigin/uAssets), [dự án uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home), các danh sách lọc, bản dịch và thư viện bên thứ ba được đóng gói cùng tiện ích. Tên và liên kết dùng để ghi nhận đúng dự án; chúng không hàm ý các dự án đó bảo trợ bản fork này.
 
-Lịch sử upstream, phần đầu file ghi bản quyền và thông báo bên thứ ba được giữ nguyên. Xem [NOTICE.md](../NOTICE.md) để biết thông tin ghi công. uBlock Plus+ được phân phối theo [GNU General Public License, phiên bản 3 hoặc mới hơn](../LICENSE.txt).
+Lịch sử upstream, phần đầu file ghi bản quyền và thông báo bên thứ ba được giữ nguyên. Xem [NOTICE.md](../NOTICE.md) để biết thông tin ghi công. ShieldBlock Pro được phân phối theo [GNU General Public License, phiên bản 3 hoặc mới hơn](../LICENSE.txt).
