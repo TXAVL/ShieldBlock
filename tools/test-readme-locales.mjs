@@ -47,14 +47,14 @@ const languageLabels = new Map([
 ]);
 
 const requiredFragments = [
-    'uBlock Plus+',
+    'ShieldBlock',
     'Manifest V3',
     'DNR',
     'Filter Store',
     '$popup',
     '$popunder',
-    'uBlock-Plus_*.chromium.zip',
-    'dist/build/uBlockPlus.chromium',
+    'ShieldBlock_*.chromium.zip',
+    'dist/build/ShieldBlock.chromium',
     'FEATURE-MATRIX.md',
     'ARCHITECTURE.md',
     'COMMUNITY-RESEARCH.md',

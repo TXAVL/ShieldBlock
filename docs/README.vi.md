@@ -6,13 +6,17 @@
 
 **Giải pháp chặn quảng cáo toàn diện & tích hợp điều khiển YouTube In-Player cho Chromium Manifest V3**
 
-[![Bản phát hành mới nhất](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=b%E1%BA%A3n--th%E1%BB%AD&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases) [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start) [![Giấy phép](https://img.shields.io/badge/license-GPL--3.0--or--later-22863a)](../LICENSE.txt)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll) [![Bản phát hành mới nhất](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=b%E1%BA%A3n--th%E1%BB%AD&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases) [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start) [![Giấy phép](https://img.shields.io/badge/license-GPL--3.0--or--later-22863a)](../LICENSE.txt)
 
 [English](../README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Русский](README.ru.md) · [**Tiếng Việt**](README.vi.md) · [简体中文](README.zh_CN.md) · [繁體中文](README.zh_TW.md)
 
+<br>
+
+[![Available in Chrome Web Store](https://img.shields.io/badge/Install%20from-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
+
 </div>
 
-**ShieldBlock - Ad & Tracker Blocker Pro** loại bỏ banner, pop-up, video ads và mã theo dõi trên mọi trang web. Tự động xóa khoảng trắng, bảo vệ quyền riêng tư và tăng tốc lướt web tối đa. Dự án phát triển dựa trên nền tảng lọc khai báo MV3 của uBlock Origin kết hợp các tính năng cao cấp độc quyền:
+**ShieldBlock - Ad & Tracker Blocker Pro** loại bỏ banner, pop-up, video ads và mã theo dõi trên mọi trang web. Tự động xóa khoảng trắng, bảo vệ quyền riêng tư và tăng tốc lướt web tối đa. Trang bị bộ lọc khai báo hiệu năng cao kết hợp cùng các công nghệ cao cấp độc quyền:
 - 🛡️ **Nút điều khiển nhúng trên trình phát YouTube (In-Player Button)**: Có đèn tín hiệu thông minh — phát sáng xanh khi bảo vệ đang hoạt động và chuyển tối khi tắt bảo vệ.
 - ⚡ **Zero-Delay Video Ad Skip**: Tự động nhận diện và lướt qua video quảng cáo trong tích tắc, đồng thời vượt qua các bảng cảnh báo anti-adblock.
 - ⚙️ **Quản lý linh hoạt**: Giữ nguyên toàn bộ bảng điều khiển, bộ lọc cá nhân và dynamic firewall mạnh mẽ.
@@ -21,7 +25,9 @@
 ## Mục lục
 
 > [!IMPORTANT]
-> **Cài vào Chrome:** tải [ZIP tiện ích ShieldBlock — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) cùng [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), rồi làm theo [hướng dẫn cài](#cài-bản-unpacked). **Code → Download ZIP**, **Source code (zip)** và **Source code (tar.gz)** của GitHub là mã nguồn để phát triển, cần build trước khi nạp vào Chrome.
+> **🚀 Cài đặt nhanh nhất (Khuyên dùng):** Cài đặt trực tiếp từ **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** để nhận cập nhật tự động và sử dụng ngay lập tức mà không cần tải file zip.
+>
+> **Cài đặt thủ công (Dành cho Developer / Bản Unpacked):** Tải [ZIP tiện ích ShieldBlock — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) cùng [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), rồi làm theo [hướng dẫn cài bản Unpacked](#cài-bản-unpacked). **Code → Download ZIP** của GitHub là mã nguồn để phát triển, cần build trước khi nạp vào Chrome.
 
 - [Tính năng và hình ảnh](#tính-năng-và-hình-ảnh)
 - [Cài đặt, cập nhật và gỡ bỏ](#quick-start)
@@ -37,47 +43,50 @@
 
 ## Tính năng và hình ảnh
 
-| Nhóm tính năng | Khả năng hiện có của bản fork |
+| Nhóm tính năng | Tính năng hỗ trợ trong ShieldBlock |
 | --- | --- |
 | Lọc mạng | Danh sách DNR tĩnh đóng gói sẵn, các quy tắc nhập vào/tùy chỉnh được hỗ trợ, ngoại lệ và tài nguyên chuyển hướng đóng gói sẵn. |
 | Lọc nội dung trang | Bộ lọc giao diện riêng cho từng trang và dùng chung, các bộ lọc thủ tục được hỗ trợ và scriptlet đóng gói sẵn. |
 | Điều khiển theo trang | Bật/tắt bảo vệ và nhớ mức lọc trước đó, các chế độ Basic/Optimal/Complete và chính sách popup theo tên máy chủ. |
 | Công cụ phần tử | Picker tạo bộ lọc giao diện lâu dài, zapper xóa tạm thời và unpicker gỡ bộ lọc cá nhân đã lưu phù hợp với phần tử được chọn. |
 | Quản lý bộ lọc | Danh sách tích hợp, nhập qua HTTPS, các gói Filter Store và catalog cộng đồng tương thích. |
-| Cài đặt | Cấu hình bảo vệ có sẵn, giao diện, mật độ hiển thị, cấu hình bộ nhớ, tùy chọn riêng tư của trình duyệt và sao lưu/khôi phục. |
+| Cài đặt & Tùy chọn | Cấu hình bảo vệ có sẵn, giao diện, mật độ hiển thị, cấu hình bộ nhớ, tùy chọn riêng tư của trình duyệt và sao lưu/khôi phục. |
 | Firewall động | Quy tắc nguồn/đích/loại với block, allow và noop đúng nghĩa; tên miền, IPv4 và IPv6; bản tạm/lâu dài, bảng tra nhanh và công cụ thử bản nháp khi cần. Chặn native cần Chrome 145+. |
 | Ngoại lệ bộ lọc | Ngoại lệ scriptlet giữa các nguồn, `$badfilter` chính xác cho imported/personal và hủy stock theo ánh xạ nguồn, gồm dựng lại phần còn lại của nhóm hostname đã chứng minh được ngữ nghĩa. |
 | Chẩn đoán | Chủ động ghi network, DNR native, cosmetic, DOM và scriptlet; có tìm kiếm, export che dữ liệu và lịch sử cục bộ giới hạn. |
 
 Xem [hướng dẫn firewall, logger và ngoại lệ](MV3-PARITY-IMPLEMENTATION-2026-09-06.md) để biết cách dùng, chuyển đổi dữ liệu và giới hạn còn lại. Trong bản tiêu chuẩn, quyền `webRequest` là tùy chọn, chỉ được yêu cầu khi bấm bắt đầu ghi logger; chặn mạng dùng DNR.
 
-Gói [Experimental WebRequest](EXPERIMENTAL-WEBREQUEST.md) tùy chọn bổ sung chặn firewall đồng bộ, kèm launcher và profile Chrome riêng. Dashboard kiểm tra quyền thực tế và hiển thị trạng thái hoạt động. Gói này giữ DNR cùng hành vi Off/allow/noop; không gỡ quota hoặc khôi phục toàn bộ engine uBO.
+Gói [Experimental WebRequest](EXPERIMENTAL-WEBREQUEST.md) tùy chọn bổ sung chặn firewall đồng bộ, kèm launcher và profile Chrome riêng. Dashboard kiểm tra quyền thực tế và hiển thị trạng thái hoạt động. Gói này giữ DNR cùng hành vi Off/allow/noop; không gỡ quota hoặc khôi phục engine chặn MV2 không giới hạn.
 
-**Tương thích anti-adblock:** v1.1.1 bổ sung sáu tên redirect tương thích AdGuard cho tài nguyên đã đóng gói, sửa nhánh điều kiện và ngoại lệ scriptlet theo entity/trang cha, đồng thời giữ cấu hình đang hoạt động nếu nguồn có nhánh mơ hồ. Bộ lọc riêng cho Samplette dừng vòng dò adblock nhưng vẫn giữ thao tác khám phá bài hát. Các cải tiến dùng tài nguyên uBO hiện có, không thêm bộ quét trang chạy nền. Xem [nghiên cứu, kiểm thử Chrome và đánh giá website thực tế](ANTI-ADBLOCK-2026-09-08.md) để biết kết quả đo và giới hạn còn lại.
+**Tương thích anti-adblock:** v1.1.1 bổ sung sáu tên redirect tương thích AdGuard cho tài nguyên đã đóng gói, sửa nhánh điều kiện và ngoại lệ scriptlet theo entity/trang cha, đồng thời giữ cấu hình đang hoạt động nếu nguồn có nhánh mơ hồ. Bộ lọc riêng cho Samplette dừng vòng dò adblock nhưng vẫn giữ thao tác khám phá bài hát. Các cải tiến dùng tài nguyên chuyển hướng đóng gói sẵn, không thêm bộ quét trang chạy nền. Xem [nghiên cứu, kiểm thử Chrome và đánh giá website thực tế](ANTI-ADBLOCK-2026-09-08.md) để biết kết quả đo và giới hạn còn lại.
 
-Các ảnh dưới đây chụp **tiện ích thực tế được nạp dạng unpacked trong Google Chrome 152.0.7977.76 trên Windows** vào ngày 6 tháng 9 năm 2026. Ảnh sử dụng hồ sơ thử nghiệm riêng và trang minh họa; đây không phải bản thiết kế mô phỏng. Ngôn ngữ giao diện trong ảnh là tiếng Anh. [Thông tin nguồn ảnh](assets/readme/README.md).
+Các ảnh chụp dưới đây thể hiện giao diện thực tế và các tính năng cốt lõi của **ShieldBlock**:
 
+### 1. Popup
 <p align="center">
-<img src="assets/readme/popup-expanded.png" width="340" alt="Popup thực tế trên Chrome với nút bật/tắt bảo vệ, thông tin khả năng lọc, bộ chọn chế độ và chính sách popup">
-<br><strong>Điều khiển theo trang</strong><br>Nút bật/tắt, mức lọc và công cụ trong cùng một popup. Cuộn xuống để tới các nút phía dưới khi mở rộng chi tiết.
+<img src="assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Nút điều khiển bảo vệ và chế độ lọc">
+<br><strong>Popup:</strong> Điều khiển bật/tắt bảo vệ nhanh chóng cho từng trang web, chuyển đổi chế độ lọc (Basic, Optimal, Complete), hiển thị khiên phát sáng dạ quang thông minh và các công cụ lọc phần tử tức thì.
+</p>
+
+### 2. Option
+<p align="center">
+<img src="assets/readme/option.png" width="850" alt="ShieldBlock Option - Bảng điều khiển cài đặt và tùy chọn">
+<br><strong>Option:</strong> Quản lý toàn diện cấu hình hoạt động của tiện ích: Cấu hình bảo vệ (Presets), Cấu hình bộ nhớ (Auto, Balanced, Low-memory), chủ đề giao diện, quyền riêng tư và sao lưu/khôi phục dữ liệu.
+</p>
+
+### 3. Custom Filter
+<p align="center">
+<img src="assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Trình quản lý bộ lọc cá nhân">
+<br><strong>Custom Filter:</strong> Quản lý và tự do thêm các bộ lọc cá nhân, quy tắc chặn phần tử thẩm mỹ (cosmetic rules) theo tên miền, hỗ trợ nhập/xuất danh sách quy tắc dễ dàng.
 </p>
 
 <details>
-<summary><strong>Xem giao diện tối với phần chi tiết thu gọn</strong></summary>
-
-<p align="center">
-<img src="assets/readme/popup-compact.png" width="340" alt="Popup thực tế trên Chrome với giao diện tối và phần chi tiết được thu gọn">
-<br><strong>Thu gọn chi tiết</strong><br>Giao diện tối với phần chi tiết thu gọn. More/Less thay đổi lượng thông tin hiển thị; mật độ hiển thị là một cài đặt giao diện riêng.
-</p>
-
-</details>
-
-<details>
-<summary><strong>Xem firewall động và logger hợp nhất</strong></summary>
+<summary><strong>Xem các công cụ chẩn đoán nâng cao (Dynamic Firewall & Unified Logger)</strong></summary>
 
 <img src="assets/readme/dynamic-firewall.png" width="960" alt="Editor firewall động trên Chrome với quy tắc noop tạm thời và các nút kiểm tra, áp dụng, lưu">
 
-**Firewall động:** nhập quy tắc theo cú pháp uBO, kiểm tra bản nháp, rồi áp dụng trong phiên hoặc lưu lâu dài. Quy tắc noop có thể không tạo rule native mà vẫn giữ bộ lọc tĩnh hoạt động.
+**Firewall động:** nhập quy tắc theo cú pháp khai báo, kiểm tra bản nháp, rồi áp dụng trong phiên hoặc lưu lâu dài. Quy tắc noop có thể không tạo rule native mà vẫn giữ bộ lọc tĩnh hoạt động.
 
 <img src="assets/readme/firewall-tester.png" width="960" alt="Công cụ thử firewall thực tế trên Chrome hiển thị ô noop thắng và phân loại bên thứ ba mà không kích hoạt bản nháp">
 
@@ -187,7 +196,7 @@ Tắt bảo vệ của trang được ưu tiên. Số popup gần đây tính nh
 
 ### Danh sách tích hợp và nhập qua HTTPS
 
-Mở **Dashboard/Bảng điều khiển → Filter lists/Danh sách bộ lọc** để xem những danh sách đang bật và thêm nguồn đăng ký HTTPS được hỗ trợ. Quá trình build đóng gói dữ liệu bộ lọc upstream thành các ruleset tĩnh. Danh sách nhập vào được tải và biên dịch cục bộ theo tập tính năng MV3 được hỗ trợ; bật thêm danh sách sẽ tiêu tốn hạn mức quy tắc của trình duyệt và có thể tạo quy tắc trùng lặp hoặc làm lỗi trang.
+Mở **Dashboard/Bảng điều khiển → Filter lists/Danh sách bộ lọc** để xem những danh sách đang bật và thêm nguồn đăng ký HTTPS được hỗ trợ. Quá trình build đóng gói dữ liệu bộ lọc chuẩn thành các ruleset tĩnh. Danh sách nhập vào được tải và biên dịch cục bộ theo tập tính năng MV3 được hỗ trợ; bật thêm danh sách sẽ tiêu tốn hạn mức quy tắc của trình duyệt và có thể tạo quy tắc trùng lặp hoặc làm lỗi trang.
 
 Bắt đầu với lựa chọn mặc định, rồi thêm danh sách theo khu vực hoặc mục đích cụ thể khi cần. Dùng URL HTTPS trực tiếp của danh sách: chuyển hướng, cấu trúc không hợp lệ, dữ liệu quá lớn hoặc không được hỗ trợ có thể bị từ chối. Một danh sách tải được không có nghĩa là mọi bộ lọc MV2 trong đó đều triển khai được. Nếu không thể kích hoạt bản thay thế an toàn, các quy tắc đang hoạt động được giữ lại ở những thao tác có cơ chế khôi phục.
 
@@ -201,7 +210,8 @@ Xem mục đích, nguồn, giấy phép và nhãn mức độ tin cậy của t�
 
 <img src="assets/readme/filter-store-current.png" width="960" alt="Filter Store thực tế trên Chrome với các mục cộng đồng, gói bộ lọc và thông tin hạn mức">
 
-### My filters — Bộ lọc tự tạo
+<a id="my-filters"></a>
+### Custom Filter (My filters — Bộ lọc tự tạo)
 
 Mục bộ lọc giao diện tổ chức selector đã lưu theo tên máy chủ và hỗ trợ nhập/xuất văn bản. Ví dụ, một selector theo trang có thể ẩn thẻ nội dung tài trợ lặp lại:
 
@@ -211,9 +221,10 @@ example.com##.sponsored-card
 
 Đây là quy tắc minh họa, không phải danh sách được khuyến nghị. Dùng picker để chọn một phần tử thực trên trang cần lọc. Trình soạn bộ lọc người dùng riêng nhận cú pháp bộ lọc được hỗ trợ; bộ lọc dạng tập lệnh người dùng cần khả năng tương ứng của trình duyệt. Tính năng này không biến mọi cú pháp MV2 hoặc JavaScript từ xa thành nội dung có thể thực thi dưới MV3.
 
-<img src="assets/readme/custom-filters.png" width="960" alt="Mục My filters thực tế trên Chrome với các bộ lọc giao diện minh họa được giới hạn theo tên máy chủ">
+<img src="assets/readme/custom-filter.png" width="850" alt="Mục Custom Filter thực tế trên Chrome với các bộ lọc giao diện minh họa được giới hạn theo tên máy chủ">
 
-## Cài đặt và sao lưu
+<a id="settings-and-backups"></a>
+## Option (Cài đặt và sao lưu)
 
 **Cấu hình bảo vệ có sẵn** và **cấu hình bộ nhớ** là hai thiết lập khác nhau:
 
@@ -227,13 +238,13 @@ example.com##.sponsored-card
 > [!NOTE]
 > Số liệu lưu trữ đo dung lượng storage/cache của tiện ích, **không phải RAM đang dùng hoặc bộ nhớ tiến trình**. Low-memory chỉ nạp một dictionary cosmetic mỗi lần trong từng frame; Balanced nạp tối đa hai. Bộ lọc và ngoại lệ đã bật vẫn được giữ. Lượt lọc chưa có cache có thể chậm hơn khi giảm số tác vụ đồng thời.
 
-Với máy ít bộ nhớ, chọn **Cài đặt → Cấu hình bộ nhớ → Auto** (dùng Low-memory khi trình duyệt cung cấp mức bộ nhớ từ 4 GiB trở xuống), hoặc chọn **Low-memory** trực tiếp. Thiết lập này giữ nguyên mức bảo vệ và danh sách đang chọn. Xem [nghiên cứu hiệu suất và phép đo có thể chạy lại trên Chrome](PERFORMANCE-2026-09-06.md), tham khảo full uBO, AdGuard và Ghostery. Chưa đo trên máy vật lý 2–4 GiB hoặc chứng minh tỷ lệ giảm RAM toàn trình duyệt.
+Với máy ít bộ nhớ, chọn **Cài đặt → Cấu hình bộ nhớ → Auto** (dùng Low-memory khi trình duyệt cung cấp mức bộ nhớ từ 4 GiB trở xuống), hoặc chọn **Low-memory** trực tiếp. Thiết lập này giữ nguyên mức bảo vệ và danh sách đang chọn. Xem [nghiên cứu hiệu suất và phép đo có thể chạy lại trên Chrome](PERFORMANCE-2026-09-06.md), tham khảo các tiêu chuẩn hàng đầu (AdGuard, Ghostery, v.v.). Chưa đo trên máy vật lý 2–4 GiB hoặc chứng minh tỷ lệ giảm RAM toàn trình duyệt.
 
 Vào **Dashboard/Bảng điều khiển → Settings/Cài đặt** để xuất bản sao lưu trước khi đổi bản cài hoặc đặt lại tiện ích. Khi khôi phục, tiện ích kiểm tra cấu hình được hỗ trợ, bao gồm thiết lập lọc, mức lọc đã nhớ theo trang, chính sách popup, bộ lọc cá nhân và cấu hình danh sách/catalog. Giữ file sao lưu riêng tư: chúng có thể chứa tên trang, quy tắc cá nhân và URL nguồn đăng ký.
 
 Quá trình khôi phục diễn ra tuần tự, không phải một giao dịch chung cho toàn bộ cấu hình. Dữ liệu không hợp lệ sẽ không vượt qua bước kiểm tra, nhưng lỗi trình duyệt hoặc lưu trữ ở bước sau có thể xảy ra khi một số thiết lập trước đó đã được khôi phục. Kiểm tra kết quả hiển thị và những danh sách đang bật sau khi hoàn tất. **Reset/Đặt lại** đưa thiết lập về mặc định và xóa trạng thái danh sách đã nhập; thao tác này không thay thế việc sao lưu.
 
-<img src="assets/readme/dashboard-settings.png" width="960" alt="Mục Settings thực tế trên Chrome hiển thị cấu hình bảo vệ có sẵn và các tùy chọn giao diện">
+<img src="assets/readme/option.png" width="850" alt="Mục Option / Settings thực tế trên Chrome hiển thị cấu hình bảo vệ có sẵn và các tùy chọn giao diện">
 
 ## Quyền truy cập và quyền riêng tư
 
@@ -255,7 +266,7 @@ Các bản unpacked hiện tại, kể cả gói có số phiên bản, đều k
 
 ## Những gì MV3 làm được và chưa làm được
 
-Userscript có thể mở rộng xử lý DOM và JavaScript trong trang, nhưng không cấp thêm đặc quyền mạng của trình duyệt hoặc gỡ quota DNR. Bản hiện tại đã dùng `chrome.userScripts`. Xem [nghiên cứu userscript và issue upstream](USERSCRIPTS-AND-MV3-2026-09-06.md) để biết các nâng cấp cụ thể, ca hồi quy và hướng engine managed riêng.
+Userscript có thể mở rộng xử lý DOM và JavaScript trong trang, nhưng không cấp thêm đặc quyền mạng của trình duyệt hoặc gỡ quota DNR. ShieldBlock đã dùng `chrome.userScripts`. Xem [nghiên cứu userscript và issue](USERSCRIPTS-AND-MV3-2026-09-06.md) để biết các nâng cấp cụ thể, ca hồi quy và hướng engine managed riêng.
 
 | Khả năng | Giới hạn hiện tại |
 | --- | --- |
@@ -320,7 +331,7 @@ Có thể dùng `make mv3-chromium` để tạo thư mục unpacked. Truyền s�
 
 Đợt [xác minh anti-adblock ngày 8 tháng 9](ANTI-ADBLOCK-2026-09-08.md) đạt **47 chương trình test**, lint, build và xác thực cả hai gói, **11 ca anti-adblock native**, **27 kiểm tra UI firewall** và **24 kiểm tra mạng** trên Chrome 152. Đúng ZIP Standard/Experimental chứa **1.117/1.120 mục đã đối chiếu**. Kiểm tra khởi tạo phát hiện sáu regex ngoại lệ quá lớn khiến nhóm dynamic stock rỗng; override có phạm vi đã khôi phục **172 quy tắc stock native**. Báo cáo ghi rõ việc nới độ dài token có chủ đích, kết quả quan sát website và giới hạn MV3 còn lại.
 
-Đợt [xác minh bảng tra firewall và công cụ thử bản nháp trước đó](GITHUB-UPGRADES-2026-09-06.md#measurements-and-verification) đạt 46 chương trình test và có **146.289 trường hợp so với ô thắng/hành động của full uBO**. Checksum và số lượng file của gói cũ được giữ riêng. Báo cáo [firewall, logger và ngoại lệ](MV3-PARITY-IMPLEMENTATION-2026-09-06.md#xác-minh) ghi lại đợt trước nữa với 41 chương trình và 53 tình huống.
+Đợt [xác minh bảng tra firewall và công cụ thử bản nháp trước đó](GITHUB-UPGRADES-2026-09-06.md#measurements-and-verification) đạt 46 chương trình test và có **146.289 trường hợp so với ô thắng/hành động của engine**. Checksum và số lượng file của gói cũ được giữ riêng. Báo cáo [firewall, logger và ngoại lệ](MV3-PARITY-IMPLEMENTATION-2026-09-06.md#xác-minh) ghi lại đợt trước nữa với 41 chương trình và 53 tình huống.
 
 Đợt [kiểm tra phát hành cục bộ ngày 6 tháng 9 năm 2026](MV3-CHROME-RETEST-2026-09-06.md) ghi nhận:
 
@@ -331,7 +342,7 @@ Có thể dùng `make mv3-chromium` để tạo thư mục unpacked. Truyền s�
 
 Đây là kết quả cục bộ có thời điểm cụ thể cho từng bản build được ghi nhận, không khẳng định gói ZIP cũ đã phát hành hoặc mọi commit sau này đều vượt qua các bước này. Ca từ chối quyền host trước đây chưa được thử trên hộp thoại native vì bản cài đó đã có `<all_urls>`. Đợt logger mới đã thử cấp quyền `webRequest` tùy chọn; nhánh từ chối được kiểm tra bằng test mã nguồn, chưa có lần đóng hộp thoại từ chối native được ghi nhận. Các tình huống dựng sẵn và phép thử trên trang công khai không bảo đảm kết quả cho mọi website, trình duyệt hoặc công nghệ hỗ trợ. Xem riêng [các lần chạy Actions](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml) để biết trạng thái CI.
 
-Đợt [rà soát tiếp theo với uBO đầy đủ](MV3-CAPABILITY-AUDIT-2026-09-06.md) mở rộng lên **35 chương trình kiểm thử mã nguồn**, sửa thêm lỗi ngoại lệ, phạm vi lọc, editor, nhật ký và cache compiler. Báo cáo ghi riêng artifact và kết quả Chrome của đợt này.
+Đợt [rà soát năng lực MV3 của ShieldBlock](MV3-CAPABILITY-AUDIT-2026-09-06.md) mở rộng lên **35 chương trình kiểm thử mã nguồn**, sửa thêm lỗi ngoại lệ, phạm vi lọc, editor, nhật ký và cache compiler. Báo cáo ghi riêng artifact và kết quả Chrome của đợt này.
 
 ## Khắc phục sự cố
 
@@ -358,14 +369,14 @@ Hướng dẫn chi tiết hiện tại được duy trì bằng [tiếng Anh](..
 | --- | --- |
 | [Mục lục tài liệu](README.md) | Tài liệu cho người dùng, nhà phát triển và cộng đồng. |
 | [Bảng tương thích](FEATURE-MATRIX.md) / [Điều khiển popup](MV3-POPUP-PARITY.md) | Hành vi được hỗ trợ và giới hạn tương thích. |
-| [Rà soát với uBO đầy đủ](MV3-CAPABILITY-AUDIT-2026-09-06.md) | Lỗi đã tái hiện, bản sửa và hướng nâng cấp tham khảo AdGuard/Brave. |
+| [Rà soát năng lực MV3](MV3-CAPABILITY-AUDIT-2026-09-06.md) | Lỗi đã tái hiện, bản sửa và hướng nâng cấp tham khảo AdGuard/Brave. |
 | [Filter Store](FILTER-STORE.md) | Định dạng catalog, mức độ tin cậy và quy trình gửi đề xuất. |
 | [Kiến trúc](ARCHITECTURE.md) / [Power Runtime](POWER-RUNTIME.md) | Biên dịch, hạn mức quy tắc, hoạt động và trạng thái lưu bền vững. |
 | [Quyền riêng tư](PRIVACY.md) / [Mô hình mối đe dọa](THREAT-MODEL.md) | Dữ liệu, quyền truy cập và ranh giới tin cậy. |
-| [So sánh với upstream](MV3-RETEST-2026-09-05.md) / [Nghiên cứu cộng đồng](COMMUNITY-RESEARCH.md) | Nguồn dẫn có thời điểm và so sánh kiểm thử hồi quy. |
+| [So sánh hiệu năng](MV3-RETEST-2026-09-05.md) / [Nghiên cứu cộng đồng](COMMUNITY-RESEARCH.md) | Nguồn dẫn có thời điểm và so sánh kiểm thử hồi quy. |
 | [Lộ trình](ROADMAP.md) / [Quản trị](COMMUNITY-GOVERNANCE.md) | Công việc dự kiến, quy trình xét duyệt và trách nhiệm. |
 
-Dùng [biểu mẫu issue của bản fork này](https://github.com/TXAVL/ShieldBlock/issues/new/choose) để báo lỗi và đề xuất tính năng, hoặc [gửi một mục Filter Store](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Đọc [CONTRIBUTING.md](../CONTRIBUTING.md) trước khi đóng góp mã nguồn, bộ lọc hoặc bản dịch. Không mặc định rằng lỗi riêng của bản fork cần được báo lên trình theo dõi issue của dự án upstream.
+Dùng [biểu mẫu issue của ShieldBlock](https://github.com/TXAVL/ShieldBlock/issues/new/choose) để báo lỗi và đề xuất tính năng, hoặc [gửi một mục Filter Store](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Đọc [CONTRIBUTING.md](../CONTRIBUTING.md) trước khi đóng góp mã nguồn, bộ lọc hoặc bản dịch. Không gửi lỗi riêng của ShieldBlock lên trình theo dõi của các dự án khác.
 
 Báo lỗ hổng bảo mật qua [biểu mẫu advisory riêng tư](https://github.com/TXAVL/ShieldBlock/security/advisories/new) của repository, theo hướng dẫn [SECURITY.md](../SECURITY.md), hoặc gửi email trực tiếp tới [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com).
 
@@ -377,6 +388,6 @@ Mọi thắc mắc kỹ thuật, góp ý hoặc yêu cầu hỗ trợ:
 
 ## Ghi công và giấy phép
 
-Dựa trên [uBlock Origin](https://github.com/gorhill/uBlock) của Raymond Hill và cộng đồng đóng góp, bao gồm các thành phần MV3 kế thừa từ upstream. Cảm ơn tác giả và người duy trì [uAssets](https://github.com/uBlockOrigin/uAssets), [dự án uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home), các danh sách lọc, bản dịch và thư viện bên thứ ba được đóng gói cùng tiện ích. Tên và liên kết dùng để ghi nhận đúng dự án; chúng không hàm ý các dự án đó bảo trợ bản fork này.
+Dựa trên [uBlock Origin](https://github.com/gorhill/uBlock) của Raymond Hill và cộng đồng đóng góp, bao gồm các thành phần MV3 kế thừa từ upstream. Cảm ơn tác giả và người duy trì [uAssets](https://github.com/uBlockOrigin/uAssets), [dự án uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home), các danh sách lọc, bản dịch và thư viện bên thứ ba được đóng gói cùng tiện ích. Tên và liên kết dùng để ghi nhận đúng dự án; chúng không hàm ý các dự án đó bảo trợ cho ShieldBlock.
 
 Lịch sử upstream, phần đầu file ghi bản quyền và thông báo bên thứ ba được giữ nguyên. Xem [NOTICE.md](../NOTICE.md) để biết thông tin ghi công. ShieldBlock Pro được phân phối theo [GNU General Public License, phiên bản 3 hoặc mới hơn](../LICENSE.txt).

@@ -3,11 +3,9 @@
 
 <div align="center">
 
-<img src="assets/readme/hero.png" alt="Illustration d'un bouclier filtrant les publicités, les traqueurs, les cookies et d'autres requêtes web indésirables avant le chargement des pages Chromium" width="1100">
+<img src="../src/img/icon_128.png" width="80" height="80" alt="ShieldBlock extension icon">
 
-<sub>Illustration conceptuelle · v1.0.0 est une préversion installée et mise à jour manuellement</sub>
-
-# uBlock Plus+
+# ShieldBlock - Ad & Tracker Blocker Pro
 
 ### Blocage de contenu porté par la communauté, conçu pour Chromium Manifest V3
 
@@ -27,96 +25,27 @@
 
 ---
 
-uBlock Plus+ est un bloqueur de contenu indépendant pour Chromium MV3, distribué sous licence GPL. Il associe une base éprouvée de filtrage et de compilation issue du projet d'origine à un Filter Store communautaire, une configuration portable, des commandes explicites pour les utilisateurs avancés et un fonctionnement attentif à la mémoire, sans service de télémétrie du projet ni code exécutable distant.
+ShieldBlock est un bloqueur de contenu indépendant pour Chromium MV3, distribué sous licence GPL. Il associe une base éprouvée de filtrage et de compilation issue du projet d'origine à un Filter Store communautaire, une configuration portable, des commandes explicites pour les utilisateurs avancés et un fonctionnement attentif à la mémoire, sans service de télémétrie du projet ni code exécutable distant.
 
 > [!IMPORTANT]
-> **État de la version :** v1.0.0 est une préversion destinée à l'installation manuelle et ne se met pas à jour automatiquement. uBlock Plus+ est un fork indépendant, pas une version officielle d'uBlock Origin, et n'est pas approuvé par Raymond Hill. Chrome MV3 n'expose pas tous les mécanismes de blocage disponibles dans l'extension MV2 d'origine. L'installation manuelle évite la politique de distribution du Chrome Web Store, mais ne supprime **ni** les quotas DNR, ni les règles de cycle de vie des service workers, ni les limites de sécurité du navigateur. Consultez la [matrice de compatibilité transparente](FEATURE-MATRIX.md).
+> **État de la version :** v1.0.0 est une préversion destinée à l'installation manuelle et ne se met pas à jour automatiquement. ShieldBlock est un fork indépendant, pas une version officielle d'uBlock Origin, et n'est pas approuvé par Raymond Hill. Chrome MV3 n'expose pas tous les mécanismes de blocage disponibles dans l'extension MV2 d'origine. L'installation manuelle évite la politique de distribution du Chrome Web Store, mais ne supprime **ni** les quotas DNR, ni les règles de cycle de vie des service workers, ni les limites de sécurité du navigateur. Consultez la [matrice de compatibilité transparente](FEATURE-MATRIX.md).
 
 ## Conçu autour de vos choix
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Site controls and filtering modes">
+<br><strong>Popup</strong>
+</p>
 
-### 🛡️ Blocage de contenu multicouche
+<p align="center">
+<img src="assets/readme/option.png" width="850" alt="ShieldBlock Option - Dashboard settings and configuration">
+<br><strong>Option</strong>
+</p>
 
-Les règles DNR statiques, dynamiques et de session fonctionnent avec le filtrage cosmétique, les scriptlets intégrés, le blocage strict et un Smart Popup Blocker sensible au contexte.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Filter Store communautaire
-
-Parcourez le catalogue communautaire intégré ou ajoutez jusqu'à huit dépôts HTTPS compatibles. Chaque liste distante est traitée comme une **donnée** de filtrage, jamais comme du code exécutable de l'extension.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Des commandes pour chaque site
-
-Choisissez le mode de filtrage de chaque site, consultez le diagnostic des règles correspondantes et utilisez le sélecteur d'éléments, le zapper ou l'unpicker lorsqu'une page demande un ajustement personnel.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Profils attentifs à la mémoire
-
-Choisissez `auto`, `balanced` ou `low-memory`. Le mode Low-memory utilise une compilation séquentielle, des caches limités et un nettoyage sûr, sans désactiver silencieusement les filtres activés.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Votre configuration, partout avec vous
-
-Exportez et restaurez les paramètres principaux, les abonnements, les dépôts, les politiques de fenêtres contextuelles et les filtres personnalisés. Le catalogue intégré est un point de départ, pas un mécanisme d'enfermement.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Confidentialité dès la conception
-
-Le filtrage et les diagnostics de stockage restent locaux. Le projet n'utilise ni compte d'analyse, ni SDK publicitaire, ni service d'historique de navigation ; les contrôles de confidentialité de Chrome nécessitent une autorisation distincte et révocable.
-
-</td>
-</tr>
-</table>
-
-L'ensemble complet des textes de l'interface Power est traduit en anglais, allemand, espagnol, français, japonais, coréen, russe, vietnamien, chinois simplifié et chinois traditionnel. Les 61 autres paramètres régionaux inclus reçoivent lors de la compilation un fallback anglais déterministe, afin qu'aucune nouvelle commande ne soit vide pendant que la traduction communautaire progresse.
-
-<div align="center">
-
-[Découvrir toutes les fonctionnalités →](FEATURE-MATRIX.md)
-
-</div>
-
-## Voir l'extension en action
-
-<sub>Capture réalisée avec l'artefact v1.0.0 décompressé dans un nouveau profil Edge · aucune donnée de navigation personnelle</sub>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-<img src="assets/readme/filter-store.png" alt="Le véritable Filter Store d'uBlock Plus+ affichant les estimations de quota DNR, trois lots et la première fiche de filtre communautaire">
-
-<strong>Filter Store</strong><br>
-Parcourez les entrées communautaires, examinez leur impact sur les quotas et activez explicitement des lots préconfigurés.
-
-</td>
-<td width="38%" valign="top">
-
-<img src="assets/readme/memory-settings.png" alt="Les véritables paramètres Memory Profile d'uBlock Plus+ affichant le mode Auto, Effective Balanced et les diagnostics de stockage local">
-
-<strong>Memory Profile</strong><br>
-Sélectionnez Auto, Balanced ou Low-memory et consultez les mesures locales de cache et de stockage, pas la mémoire vive en temps réel.
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Personal cosmetic filter editor">
+<br><strong>Custom Filter</strong>
+</p>
 
 <a id="quick-start"></a>
 
@@ -130,7 +59,7 @@ Sélectionnez Auto, Balanced ou Low-memory et consultez les mesures locales de c
 
 ### Installer une version
 
-1. Téléchargez `uBlock-Plus_*.chromium.zip` et le fichier `.sha256` correspondant depuis les [versions GitHub](https://github.com/TXAVL/ShieldBlock/releases).
+1. Téléchargez `ShieldBlock_*.chromium.zip` et le fichier `.sha256` correspondant depuis les [versions GitHub](https://github.com/TXAVL/ShieldBlock/releases).
 2. Vérifiez la somme de contrôle, puis extrayez l'archive ZIP dans un dossier permanent.
 3. Ouvrez `chrome://extensions` ou `edge://extensions`.
 4. Activez le **Mode développeur**, choisissez **Charger l'extension non empaquetée**, puis sélectionnez le dossier extrait qui contient `manifest.json`.
@@ -143,8 +72,8 @@ Sélectionnez Auto, Balanced ou Low-memory et consultez les mesures locales de c
 <summary><strong>Vérifier la somme de contrôle de la version sous Windows</strong></summary>
 
 ```powershell
-(Get-FileHash .\uBlock-Plus_1.0.0.chromium.zip -Algorithm SHA256).Hash
-Get-Content .\uBlock-Plus_1.0.0.chromium.zip.sha256
+(Get-FileHash .\ShieldBlock_1.1.1.chromium.zip -Algorithm SHA256).Hash
+Get-Content .\ShieldBlock_1.1.1.chromium.zip.sha256
 ```
 
 Les empreintes hexadécimales doivent être identiques ; la casse n'a pas d'importance.
@@ -160,7 +89,7 @@ Prérequis : Chrome/Chromium ou Edge 130+, Git avec les sous-modules, Node.js 22
 
 ```powershell
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 .\tools\make-mv3.ps1 -Platform chromium -Version $version
 ```
@@ -172,7 +101,7 @@ $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 
 ```bash
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 make mv3-chromium
 
 # Facultatif : créer aussi le ZIP versionné et le fichier SHA-256.
@@ -182,7 +111,7 @@ tools/make-mv3.sh chromium "$VERSION"
 
 </details>
 
-Chargez `dist/build/uBlockPlus.chromium` depuis la page des extensions du navigateur. La commande PowerShell versionnée et la commande shell versionnée facultative créent le ZIP et la somme de contrôle dans `dist/build/` ; la commande simple `make mv3-chromium` ne crée que le dossier décompressé.
+Chargez `dist/build/ShieldBlock.chromium` depuis la page des extensions du navigateur. La commande PowerShell versionnée et la commande shell versionnée facultative créent le ZIP et la somme de contrôle dans `dist/build/` ; la commande simple `make mv3-chromium` ne crée que le dossier décompressé.
 
 ## Fonctionnement de l'ensemble
 
@@ -265,7 +194,7 @@ Les éléments de la feuille de route ne sont pas des promesses de publication. 
 npm ci
 npm run lint
 npm test
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
 Les idées et les signalements sont les bienvenus via les formulaires d'issue structurés du dépôt :
@@ -280,7 +209,7 @@ Le dépôt conserve l'historique Git du projet d'origine et garde [`gorhill/uBlo
 
 ## Crédits et licence
 
-uBlock Plus+ est une œuvre dérivée fondée sur [uBlock Origin](https://github.com/gorhill/uBlock) et des composants MV3 hérités du projet en amont. Les mentions de copyright, les en-têtes des sources, l'historique des auteurs et les attributions tierces sont conservés. Consultez [NOTICE.md](../NOTICE.md).
+ShieldBlock est une œuvre dérivée fondée sur [uBlock Origin](https://github.com/gorhill/uBlock) et des composants MV3 hérités du projet en amont. Les mentions de copyright, les en-têtes des sources, l'historique des auteurs et les attributions tierces sont conservés. Consultez [NOTICE.md](../NOTICE.md).
 
 Distribué sous la [licence publique générale GNU version 3.0 ou ultérieure](../LICENSE.txt).
 
@@ -288,6 +217,6 @@ Distribué sous la [licence publique générale GNU version 3.0 ou ultérieure](
 
 **Développé ouvertement, façonné par ses utilisateurs.**
 
-[Retour en haut ↑](#ublock-plus)
+[Retour en haut ↑](#shieldblock)
 
 </div>

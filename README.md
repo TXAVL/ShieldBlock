@@ -6,13 +6,17 @@
 
 **Giải pháp chặn quảng cáo toàn diện, tối ưu tốc độ & tích hợp điều khiển YouTube In-Player cho Chromium Manifest V3**
 
-[![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases) [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start) [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-22863a)](LICENSE.txt)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll) [![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases) [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start) [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-22863a)](LICENSE.txt)
 
 [**English**](README.md) · [Deutsch](docs/README.de.md) · [Español](docs/README.es.md) · [Français](docs/README.fr.md) · [日本語](docs/README.ja.md) · [한국어](docs/README.ko.md) · [Русский](docs/README.ru.md) · [Tiếng Việt](docs/README.vi.md) · [简体中文](docs/README.zh_CN.md) · [繁體中文](docs/README.zh_TW.md)
 
+<br>
+
+[![Available in Chrome Web Store](https://img.shields.io/badge/Install%20from-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
+
 </div>
 
-**ShieldBlock - Ad & Tracker Blocker Pro** là tiện ích chặn quảng cáo mạnh mẽ, bảo vệ quyền riêng tư toàn diện cho trình duyệt trên chuẩn Manifest V3. Kết hợp sức mạnh bộ lọc khai báo của uBlock Origin với công nghệ **YouTube Pro In-Player Controls**:
+**ShieldBlock - Ad & Tracker Blocker Pro** là tiện ích chặn quảng cáo mạnh mẽ, bảo vệ quyền riêng tư toàn diện cho trình duyệt trên chuẩn Manifest V3. Trang bị bộ lọc quy tắc khai báo hiệu năng cao kết hợp cùng công nghệ độc quyền **YouTube Pro In-Player Controls**:
 - 🛡️ **Biểu tượng khiên phát sáng thông minh**: Đèn sáng dạ quang khi đang hoạt động, tắt mờ khi tạm dừng.
 - ⚡ **Zero-Delay YouTube Ad Skip**: Tự động bỏ qua video quảng cáo siêu tốc, bấm nút bỏ qua ngay lập tức, dọn dẹp các thông báo chống adblock.
 - 🚀 **Bảo vệ toàn diện**: Chặn banner, pop-up, video ads, mã theo dõi, tối ưu hóa bộ nhớ và tăng tốc tải trang tối đa.
@@ -21,7 +25,9 @@
 ## Contents
 
 > [!IMPORTANT]
-> **Installing in Chrome?** Download the [ShieldBlock extension ZIP — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) and its [SHA-256 file](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), then follow [installation](#install-an-unpacked-build). GitHub's **Code → Download ZIP**, **Source code (zip)** and **Source code (tar.gz)** contain development source, which must be built before loading into Chrome.
+> **🚀 Cài đặt nhanh nhất (Khuyên dùng):** Cài đặt trực tiếp từ **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** để nhận cập nhật tự động và sử dụng ngay lập tức mà không cần tải file zip.
+>
+> **Cài đặt thủ công (Dành cho Developer / Bản Unpacked):** Tải [ShieldBlock extension ZIP — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) và [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), rồi làm theo hướng dẫn [cài bản Unpacked](#install-an-unpacked-build). GitHub's **Code → Download ZIP** là mã nguồn phát triển, cần build trước khi nạp vào Chrome.
 
 - [Features and screenshots](#features-and-screenshots)
 - [Quick start, updates and removal](#quick-start)
@@ -37,47 +43,50 @@
 
 ## Features and screenshots
 
-| Area | Available in this fork |
+| Area | Supported in ShieldBlock |
 | --- | --- |
 | Network filtering | Packaged static DNR lists, supported imported/custom rules, exceptions and packaged redirect resources. |
 | Page filtering | Site-specific and generic cosmetic filtering, supported procedural filters and packaged scriptlets. |
 | Site controls | Power Off/On with remembered filtering level, Basic/Optimal/Complete modes and hostname-scoped popup policies. |
 | Element tools | Picker for persistent cosmetic filters, zapper for temporary removal and unpicker for saved matching filters. |
 | Filter management | Built-in lists, HTTPS imports, Filter Store bundles and compatible community catalogs. |
-| Settings | Protection presets, themes, density, memory profiles, optional browser privacy controls and backup/restore. |
+| Settings & Options | Protection presets, themes, density, memory profiles, optional browser privacy controls and backup/restore. |
 | Dynamic firewall | Source/destination/type rules with block, allow and true noop; DNS hostnames, IPv4 and bracketed IPv6; temporary/permanent rules, indexed lookup and an on-demand draft tester. Native enforcement requires Chrome 145+. |
 | Filter exceptions | Cross-source scriptlet exceptions, exact imported/personal `$badfilter`, and source-mapped stock cancellation including proven hostname residual rules. |
 | Diagnostics | Opt-in network, native DNR, cosmetic, DOM and scriptlet diagnostics with search and redacted export; bounded local history. |
 
 See the [firewall, logger and exception guide](docs/MV3-PARITY-IMPLEMENTATION-2026-09-06.md) for usage, upgrade behavior and the remaining limits. In the standard edition, the optional `webRequest` permission is requested only when you start logger capture; network blocking uses DNR.
 
-An optional [Experimental WebRequest package](docs/EXPERIMENTAL-WEBREQUEST.md) adds synchronous firewall blocking with a separate Chrome launcher/profile. The dashboard reports the actual permission and active state. It preserves DNR and Off/allow/noop behavior; it does not remove quotas or restore the complete uBO engine.
+An optional [Experimental WebRequest package](docs/EXPERIMENTAL-WEBREQUEST.md) adds synchronous firewall blocking with a separate Chrome launcher/profile. The dashboard reports the actual permission and active state. It preserves DNR and Off/allow/noop behavior; it does not remove quotas or restore an unrestricted legacy blocking engine.
 
-**Anti-adblock compatibility:** v1.1.1 adds six AdGuard-compatible redirect names for existing packaged resources, corrects conditional filters and entity/ancestor scriptlet exceptions, and rejects ambiguous source branches while preserving the last working configuration. A scoped Samplette filter disables its ad-detector polling while keeping track discovery usable. These changes use existing uBO resources and do not add a background page scanner. See the [research, Chrome regressions and real-site audit](docs/ANTI-ADBLOCK-2026-09-08.md) for measured results and remaining limits.
+**Anti-adblock compatibility:** v1.1.1 adds six AdGuard-compatible redirect names for existing packaged resources, corrects conditional filters and entity/ancestor scriptlet exceptions, and rejects ambiguous source branches while preserving the last working configuration. A scoped Samplette filter disables its ad-detector polling while keeping track discovery usable. These changes use packaged redirect resources and do not add a background page scanner. See the [research, Chrome regressions and real-site audit](docs/ANTI-ADBLOCK-2026-09-08.md) for measured results and remaining limits.
 
-The screenshots below show the **actual unpacked extension in Google Chrome 152.0.7977.76 on Windows**, captured on 6 September 2026. They use isolated profiles and demonstration pages; they are not concept mockups. UI language in the screenshots is English. [Image provenance](docs/assets/readme/README.md).
+The screenshots below show the actual interface and key features of **ShieldBlock**:
 
+### 1. Popup
 <p align="center">
-<img src="docs/assets/readme/popup-expanded.png" width="340" alt="Actual Chrome popup with site power, filtering capabilities, mode selector and popup policy">
-<br><strong>Site controls</strong><br>Power, filtering level and tools in one popup. Scroll to reach the footer when expanded.
+<img src="docs/assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Site controls, protection modes and quick actions">
+<br><strong>Popup:</strong> Điều khiển bật/tắt bảo vệ nhanh chóng cho từng trang web, chuyển đổi chế độ lọc (Basic, Optimal, Complete), hiển thị khiên phát sáng dạ quang thông minh và các công cụ lọc phần tử tức thì.
+</p>
+
+### 2. Option
+<p align="center">
+<img src="docs/assets/readme/option.png" width="850" alt="ShieldBlock Option - Dashboard settings and appearance controls">
+<br><strong>Option:</strong> Quản lý toàn diện cấu hình hoạt động của tiện ích: Protection presets, Memory profiles (Auto, Balanced, Low-memory), chủ đề giao diện, quyền riêng tư và sao lưu/khôi phục dữ liệu.
+</p>
+
+### 3. Custom Filter
+<p align="center">
+<img src="docs/assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Personal cosmetic filter editor">
+<br><strong>Custom Filter:</strong> Quản lý và tự do thêm các bộ lọc cá nhân, quy tắc chặn phần tử thẩm mỹ (cosmetic rules) theo tên miền, hỗ trợ nhập/xuất danh sách quy tắc dễ dàng.
 </p>
 
 <details>
-<summary><strong>View the dark theme with fewer details</strong></summary>
-
-<p align="center">
-<img src="docs/assets/readme/popup-compact.png" width="340" alt="Actual Chrome popup in a dark theme with details collapsed">
-<br><strong>Fewer details</strong><br>Dark theme with details collapsed. More/Less changes the amount of information; density is a separate appearance setting.
-</p>
-
-</details>
-
-<details>
-<summary><strong>View the dynamic firewall and unified logger</strong></summary>
+<summary><strong>Advanced Tools: Dynamic Firewall & Unified Logger</strong></summary>
 
 <img src="docs/assets/readme/dynamic-firewall.png" width="960" alt="Dynamic firewall editor in Chrome showing a temporary noop rule and validation, apply and save controls">
 
-**Dynamic firewall:** edit uBO-style rules, validate the draft, then apply for this session or save permanently. A noop rule can generate no native rule while leaving static filtering active.
+**Dynamic firewall:** edit declarative firewall rules, validate the draft, then apply for this session or save permanently. A noop rule can generate no native rule while leaving static filtering active.
 
 <img src="docs/assets/readme/firewall-tester.png" width="960" alt="Actual Chrome draft tester showing the winning noop cell and third-party classification without activating the draft">
 
@@ -185,7 +194,7 @@ Site protection Off takes precedence. Recent popup counts refer to successful cl
 
 ### Built-in lists and HTTPS imports
 
-Open **Dashboard → Filter lists** to review enabled lists and add supported HTTPS subscriptions. The build packages upstream filter data into static rulesets. Imported lists are fetched and compiled locally into the supported MV3 subset; enabling more lists consumes browser rule budgets and can introduce overlapping rules or site breakage.
+Open **Dashboard → Filter lists** to review enabled lists and add supported HTTPS subscriptions. The build packages standard filter data into static rulesets. Imported lists are fetched and compiled locally into the supported MV3 subset; enabling more lists consumes browser rule budgets and can introduce overlapping rules or site breakage.
 
 Start with the default selection and enable additional regional or specialized lists for a concrete need. Use a direct HTTPS list URL: redirects, invalid schemas and oversized or unsupported input can be rejected. A list's availability does not guarantee every MV2 filter in it can be implemented. If a replacement cannot be activated safely, the existing active rules are retained where the operation supports recovery.
 
@@ -199,7 +208,8 @@ Inspect each entry's purpose, source, license and trust label before enabling it
 
 <img src="docs/assets/readme/filter-store-current.png" width="960" alt="Actual Chrome Filter Store with community entries, bundles and quota information">
 
-### My filters
+<a id="my-filters"></a>
+### Custom Filter (My filters)
 
 The cosmetic filter section organizes saved selectors by hostname and supports text import/export. For example, a site-specific selector can hide a repeated sponsored card:
 
@@ -209,9 +219,10 @@ example.com##.sponsored-card
 
 This is an illustrative rule, not a list recommendation. Use the picker to choose a real element on the target page. The separate user-filter editor accepts supported filter syntax and requires the appropriate browser capability for user-script filters. It does not make arbitrary MV2 syntax or remote JavaScript executable under MV3.
 
-<img src="docs/assets/readme/custom-filters.png" width="960" alt="Actual Chrome My filters pane with demonstration hostname-scoped cosmetic filters">
+<img src="docs/assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter pane with demonstration hostname-scoped cosmetic filters">
 
-## Settings and backups
+<a id="settings-and-backups"></a>
+## Option (Settings and backups)
 
 **Protection presets** and **memory profiles** are different settings:
 
@@ -225,13 +236,13 @@ This is an illustrative rule, not a list recommendation. Use the picker to choos
 > [!NOTE]
 > Storage diagnostics measure extension storage/cache usage, **not live RAM or process memory**. Low-memory limits each frame to one cosmetic dictionary read at a time; Balanced allows two. Enabled filters and exceptions stay active. An uncached cosmetic lookup can take longer with smaller batches.
 
-For a machine with limited memory, select **Settings → Memory profile → Auto** (uses Low-memory for a browser memory hint of 4 GiB or less) or choose **Low-memory** explicitly. This resource setting keeps your protection level and selected lists. See the [performance review and reproducible Chrome measurements](docs/PERFORMANCE-2026-09-06.md), informed by full uBO, AdGuard and Ghostery. Physical 2–4 GiB hardware and whole-browser RAM savings remain unmeasured.
+For a machine with limited memory, select **Settings → Memory profile → Auto** (uses Low-memory for a browser memory hint of 4 GiB or less) or choose **Low-memory** explicitly. This resource setting keeps your protection level and selected lists. See the [performance review and reproducible Chrome measurements](docs/PERFORMANCE-2026-09-06.md), informed by industry benchmarks (AdGuard, Ghostery, etc.). Physical 2–4 GiB hardware and whole-browser RAM savings remain unmeasured.
 
 Use **Dashboard → Settings** to export a backup before changing builds or resetting the extension. Restore validates supported configuration and includes filtering settings, remembered site levels, popup policies, personal filters and list/catalog configuration. Keep backup files private: they can reveal site names, custom rules and subscription URLs.
 
 Restore is sequential rather than one global transaction. Invalid input fails validation, but a late browser or storage failure may leave earlier settings restored. Check the displayed result and your enabled lists afterward. **Reset** returns settings to defaults and clears imported-list state; it is not a substitute for making a backup.
 
-<img src="docs/assets/readme/dashboard-settings.png" width="960" alt="Actual Chrome Settings pane showing protection presets and appearance controls">
+<img src="docs/assets/readme/option.png" width="850" alt="ShieldBlock Option / Settings pane showing protection presets and appearance controls">
 
 ## Permissions and privacy
 
@@ -253,7 +264,7 @@ Current unpacked builds, including versioned packages, declare `declarativeNetRe
 
 ## What MV3 can and cannot do
 
-Userscripts can extend DOM and page-level JavaScript filtering, but do not grant browser network privileges or remove DNR quotas. This fork already uses `chrome.userScripts`. See the [userscript research and upstream issue review](docs/USERSCRIPTS-AND-MV3-2026-09-06.md) for specific improvements, regression coverage and the separate managed-engine option.
+Userscripts can extend DOM and page-level JavaScript filtering, but do not grant browser network privileges or remove DNR quotas. ShieldBlock already uses `chrome.userScripts`. See the [userscript research and issue review](docs/USERSCRIPTS-AND-MV3-2026-09-06.md) for specific improvements, regression coverage and the separate managed-engine option.
 
 | Capability | Current boundary |
 | --- | --- |
@@ -318,7 +329,7 @@ The [v1.1.2 popup blocker validation](docs/POPUP-BLOCKER-2026-09-08.md) passed *
 
 The [8 September anti-adblock release validation](docs/ANTI-ADBLOCK-2026-09-08.md) passed **47 source test programs**, lint, both release builds and validators, **11 native anti-adblock checks**, **27 firewall UI checks** and **24 network checks** on Chrome 152. The exact Standard/Experimental ZIPs contain **1,117/1,120 verified entries**. The native startup check caught six oversized stock allow regexes that left the stock dynamic group empty; scoped compatibility overrides restored **172 native stock rules**. The report documents the deliberate token-length relaxation, live website observations and remaining MV3 limits.
 
-The earlier [indexed firewall and draft tester validation](docs/GITHUB-UPGRADES-2026-09-06.md#measurements-and-verification) passed 46 source test programs and includes **146,289 full-uBO action/provenance comparisons**. Its artifact hashes and counts remain recorded separately. The [firewall, logger and exception validation](docs/MV3-PARITY-IMPLEMENTATION-2026-09-06.md#xác-minh) records the preceding 41-program, 53-scenario run.
+The earlier [indexed firewall and draft tester validation](docs/GITHUB-UPGRADES-2026-09-06.md#measurements-and-verification) passed 46 source test programs and includes **146,289 rule engine action/provenance comparisons**. Its artifact hashes and counts remain recorded separately. The [firewall, logger and exception validation](docs/MV3-PARITY-IMPLEMENTATION-2026-09-06.md#xác-minh) records the preceding 41-program, 53-scenario run.
 
 The [6 September 2026 local release validation](docs/MV3-CHROME-RETEST-2026-09-06.md) recorded:
 
@@ -327,7 +338,7 @@ The [6 September 2026 local release validation](docs/MV3-CHROME-RETEST-2026-09-0
 - **7 additional Chrome scenarios** with sandbox and built-in popup blocking enabled, including real public-site block/redirect behavior.
 - **976 ZIP entries** matching the unpacked build; 55 rulesets and 70,163 DNR rules in that specific artifact.
 
-The subsequent [full-uBO capability audit](docs/MV3-CAPABILITY-AUDIT-2026-09-06.md) expanded the suite to **35 source test programs** and fixed further exception, scope, editor, diagnostics and compiler-cache defects. Its report records the separate artifact and Chrome results.
+The subsequent [ShieldBlock MV3 capability audit](docs/MV3-CAPABILITY-AUDIT-2026-09-06.md) expanded the suite to **35 source test programs** and fixed further exception, scope, editor, diagnostics and compiler-cache defects. Its report records the separate artifact and Chrome results.
 
 These are dated local results for the recorded builds, not a claim that the older published ZIP or every future commit passed those checks. The earlier native host-permission dismissal case was not exercised because that installation already had `<all_urls>`. The latest logger test exercised granting optional `webRequest`; declining that browser prompt is covered by source tests, not a recorded native prompt dismissal. Fixtures and one public-site probe are not a guarantee for every website, browser or assistive technology. Consult the live [Actions runs](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml) separately for CI status.
 
@@ -356,14 +367,14 @@ The current detailed guides are maintained in [English](README.md) and [Vietname
 | --- | --- |
 | [Documentation index](docs/README.md) | User, developer and community documentation. |
 | [Feature matrix](docs/FEATURE-MATRIX.md) / [Popup controls](docs/MV3-POPUP-PARITY.md) | Supported behavior and compatibility limits. |
-| [Full-uBO capability audit](docs/MV3-CAPABILITY-AUDIT-2026-09-06.md) | Vietnamese report: reproduced bugs, fixes and improvement ideas from AdGuard/Brave. |
+| [MV3 capability audit](docs/MV3-CAPABILITY-AUDIT-2026-09-06.md) | Vietnamese report: reproduced bugs, fixes and improvement ideas from AdGuard/Brave. |
 | [Filter Store](docs/FILTER-STORE.md) | Catalog format, trust tiers and submission process. |
 | [Architecture](docs/ARCHITECTURE.md) / [Power Runtime](docs/POWER-RUNTIME.md) | Compilation, rule budgets, runtime and durable state. |
 | [Privacy](docs/PRIVACY.md) / [Threat model](docs/THREAT-MODEL.md) | Data, permissions and trust boundaries. |
-| [Upstream comparison](docs/MV3-RETEST-2026-09-05.md) / [Community research](docs/COMMUNITY-RESEARCH.md) | Dated source evidence and regression comparisons. |
+| [Engine comparison](docs/MV3-RETEST-2026-09-05.md) / [Community research](docs/COMMUNITY-RESEARCH.md) | Dated source evidence and regression comparisons. |
 | [Roadmap](docs/ROADMAP.md) / [Governance](docs/COMMUNITY-GOVERNANCE.md) | Planned work, review process and responsibilities. |
 
-Use this fork's [issue forms](https://github.com/TXAVL/ShieldBlock/issues/new/choose) for bugs and feature requests, or [submit a Filter Store entry](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing code, filters or translations. Do not assume a fork-specific defect belongs in an upstream project's issue tracker.
+Use ShieldBlock's [issue forms](https://github.com/TXAVL/ShieldBlock/issues/new/choose) for bugs and feature requests, or [submit a Filter Store entry](https://github.com/TXAVL/ShieldBlock/issues/new?template=filter_store_submission.yml). Read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing code, filters or translations. Do not report ShieldBlock-specific defects to other project trackers.
 
 Report security vulnerabilities through the repository's [private advisory form](https://github.com/TXAVL/ShieldBlock/security/advisories/new), following [SECURITY.md](SECURITY.md), or email us directly at [txasoftdev@gmail.com](mailto:txasoftdev@gmail.com).
 
@@ -375,6 +386,6 @@ For developer inquiries, user support, or security feedback:
 
 ## Credits and license
 
-Based on [uBlock Origin](https://github.com/gorhill/uBlock) by Raymond Hill and its contributors, including inherited upstream MV3 work. Thanks to the authors and maintainers of [uAssets](https://github.com/uBlockOrigin/uAssets), the [uBlock Origin Lite project](https://github.com/uBlockOrigin/uBOL-home), filter lists, translations and bundled third-party libraries. Project names and links identify their respective projects; they do not imply endorsement of this fork.
+Based on [uBlock Origin](https://github.com/gorhill/uBlock) by Raymond Hill and its contributors, including inherited upstream MV3 work. Thanks to the authors and maintainers of [uAssets](https://github.com/uBlockOrigin/uAssets), the [uBlock Origin Lite project](https://github.com/uBlockOrigin/uBOL-home), filter lists, translations and bundled third-party libraries. Project names and links identify their respective projects; they do not imply endorsement of ShieldBlock.
 
 Upstream history, copyright headers and third-party notices are preserved. See [NOTICE.md](NOTICE.md) for attribution. ShieldBlock Pro is distributed under the [GNU General Public License, version 3 or later](LICENSE.txt).

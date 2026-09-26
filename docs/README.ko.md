@@ -3,11 +3,9 @@
 
 <div align="center">
 
-<img src="assets/readme/hero.png" alt="Chromium 페이지가 로드되기 전에 방패가 광고, 추적기, 쿠키와 그 밖의 원치 않는 웹 요청을 필터링하는 그림" width="1100">
+<img src="../src/img/icon_128.png" width="80" height="80" alt="ShieldBlock extension icon">
 
-<sub>콘셉트 일러스트 · v1.0.0은 수동으로 업데이트하는 사이드로드용 사전 릴리스입니다</sub>
-
-# uBlock Plus+
+# ShieldBlock - Ad & Tracker Blocker Pro
 
 ### 커뮤니티가 함께 만드는 Chromium Manifest V3용 콘텐츠 차단기
 
@@ -27,96 +25,27 @@
 
 ---
 
-uBlock Plus+는 Chromium MV3용으로 독립 개발되는 GPL 라이선스 콘텐츠 차단기입니다. 검증된 업스트림 필터링/컴파일러 기반에 커뮤니티 Filter Store, 이동 가능한 설정, 명시적인 고급 사용자 제어, 메모리를 고려한 동작을 결합합니다. 프로젝트가 운영하는 텔레메트리 서비스나 원격 실행 코드는 사용하지 않습니다.
+ShieldBlock는 Chromium MV3용으로 독립 개발되는 GPL 라이선스 콘텐츠 차단기입니다. 검증된 업스트림 필터링/컴파일러 기반에 커뮤니티 Filter Store, 이동 가능한 설정, 명시적인 고급 사용자 제어, 메모리를 고려한 동작을 결합합니다. 프로젝트가 운영하는 텔레메트리 서비스나 원격 실행 코드는 사용하지 않습니다.
 
 > [!IMPORTANT]
-> **릴리스 상태:** v1.0.0은 수동 사이드로드용 사전 릴리스이며 자동으로 업데이트되지 않습니다. uBlock Plus+는 독립 포크로서 uBlock Origin의 공식 릴리스가 아니며 Raymond Hill의 보증을 받지 않았습니다. Chrome MV3는 기존 MV2 확장 프로그램에서 사용할 수 있던 모든 차단 기능을 제공하지 않습니다. 사이드로드는 Chrome 웹 스토어의 배포 정책을 피할 수 있지만 DNR 할당량, 서비스 워커 수명 주기 규칙 또는 브라우저 보안 경계를 없애지는 **않습니다**. [솔직한 호환성 표](FEATURE-MATRIX.md)를 확인하세요.
+> **릴리스 상태:** v1.0.0은 수동 사이드로드용 사전 릴리스이며 자동으로 업데이트되지 않습니다. ShieldBlock는 독립 포크로서 uBlock Origin의 공식 릴리스가 아니며 Raymond Hill의 보증을 받지 않았습니다. Chrome MV3는 기존 MV2 확장 프로그램에서 사용할 수 있던 모든 차단 기능을 제공하지 않습니다. 사이드로드는 Chrome 웹 스토어의 배포 정책을 피할 수 있지만 DNR 할당량, 서비스 워커 수명 주기 규칙 또는 브라우저 보안 경계를 없애지는 **않습니다**. [솔직한 호환성 표](FEATURE-MATRIX.md)를 확인하세요.
 
 ## 사용자의 선택을 중심으로
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Site controls and filtering modes">
+<br><strong>Popup</strong>
+</p>
 
-### 🛡️ 다층 콘텐츠 차단
+<p align="center">
+<img src="assets/readme/option.png" width="850" alt="ShieldBlock Option - Dashboard settings and configuration">
+<br><strong>Option</strong>
+</p>
 
-정적, 동적, 세션 DNR 규칙이 코스메틱 필터링, 패키지에 포함된 스크립틀릿, 엄격한 차단, 상황 인식형 Smart Popup Blocker와 함께 작동합니다.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 커뮤니티 Filter Store
-
-패키지에 포함된 커뮤니티 카탈로그를 살펴보거나 호환되는 HTTPS 저장소를 최대 8개까지 추가할 수 있습니다. 모든 원격 목록은 실행 가능한 확장 프로그램 코드가 아니라 필터 **데이터**로만 취급됩니다.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 사이트별 제어
-
-사이트별 필터링 모드를 선택하고, 일치한 규칙 진단을 확인하며, 페이지를 직접 다듬어야 할 때 요소 선택기, 제거 도구 또는 선택 해제 도구를 사용할 수 있습니다.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 메모리를 고려한 프로필
-
-`auto`, `balanced`, `low-memory` 중에서 선택할 수 있습니다. Low-memory 모드는 순차 컴파일, 제한된 캐시, 안전한 정리를 사용하며 활성화된 필터를 몰래 끄지 않습니다.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 옮겨 다닐 수 있는 설정
-
-핵심 설정, 구독, 저장소, 팝업 정책, 사용자 지정 필터를 내보내고 복원할 수 있습니다. 기본 카탈로그는 출발점일 뿐 사용자를 가두는 장치가 아닙니다.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 개인정보 보호를 고려한 설계
-
-필터링 및 저장소 진단은 로컬에 남습니다. 프로젝트 분석 계정, 광고 SDK 또는 방문 기록 서비스가 없습니다. Chrome 개인정보 보호 제어에는 별도의 취소 가능한 권한이 필요합니다.
-
-</td>
-</tr>
-</table>
-
-Power UI의 전체 문자열은 영어, 독일어, 스페인어, 프랑스어, 일본어, 한국어, 러시아어, 베트남어, 중국어 간체, 중국어 번체로 번역되어 있습니다. 패키지에 포함된 나머지 61개 로캘에는 빌드 시 결정되는 영어 대체 문자열이 적용되므로, 커뮤니티 번역이 완성되기 전에도 새 컨트롤이 빈칸으로 표시되지 않습니다.
-
-<div align="center">
-
-[모든 기능 살펴보기 →](FEATURE-MATRIX.md)
-
-</div>
-
-## 실제 동작 화면
-
-<sub>개인 방문 기록이 없는 새 Edge 프로필에서 압축을 푼 v1.0.0 아티팩트를 캡처했습니다</sub>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-<img src="assets/readme/filter-store.png" alt="DNR 할당량 추정치, 세 개의 번들, 첫 번째 커뮤니티 필터 카드를 보여 주는 실제 uBlock Plus+ Filter Store">
-
-<strong>Filter Store</strong><br>
-커뮤니티 항목을 살펴보고 할당량 영향을 확인한 뒤 용도별 번들을 명시적으로 활성화할 수 있습니다.
-
-</td>
-<td width="38%" valign="top">
-
-<img src="assets/readme/memory-settings.png" alt="Auto 모드, 실제 적용된 Balanced 설정, 로컬 저장소 진단을 보여 주는 실제 uBlock Plus+ Memory Profile 설정">
-
-<strong>Memory Profile</strong><br>
-Auto, Balanced 또는 Low-memory를 선택하고 실시간 RAM이 아닌 로컬 캐시/저장소 지표를 확인할 수 있습니다.
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Personal cosmetic filter editor">
+<br><strong>Custom Filter</strong>
+</p>
 
 <a id="quick-start"></a>
 
@@ -130,7 +59,7 @@ Auto, Balanced 또는 Low-memory를 선택하고 실시간 RAM이 아닌 로컬 
 
 ### 릴리스 설치
 
-1. [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases)에서 `uBlock-Plus_*.chromium.zip`과 일치하는 `.sha256` 파일을 다운로드합니다.
+1. [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases)에서 `ShieldBlock_*.chromium.zip`과 일치하는 `.sha256` 파일을 다운로드합니다.
 2. 체크섬을 검증한 다음 ZIP을 계속 유지할 폴더에 압축 해제합니다.
 3. `chrome://extensions` 또는 `edge://extensions`를 엽니다.
 4. **개발자 모드**를 켜고 **압축 해제된 확장 프로그램을 로드합니다**를 선택한 다음 `manifest.json`이 들어 있는 압축 해제 폴더를 지정합니다.
@@ -143,8 +72,8 @@ Auto, Balanced 또는 Low-memory를 선택하고 실시간 RAM이 아닌 로컬 
 <summary><strong>Windows에서 릴리스 체크섬 검증</strong></summary>
 
 ```powershell
-(Get-FileHash .\uBlock-Plus_1.0.0.chromium.zip -Algorithm SHA256).Hash
-Get-Content .\uBlock-Plus_1.0.0.chromium.zip.sha256
+(Get-FileHash .\ShieldBlock_1.1.1.chromium.zip -Algorithm SHA256).Hash
+Get-Content .\ShieldBlock_1.1.1.chromium.zip.sha256
 ```
 
 16진수 해시가 일치해야 합니다(대소문자는 구분하지 않습니다).
@@ -160,7 +89,7 @@ Get-Content .\uBlock-Plus_1.0.0.chromium.zip.sha256
 
 ```powershell
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 .\tools\make-mv3.ps1 -Platform chromium -Version $version
 ```
@@ -172,7 +101,7 @@ $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 
 ```bash
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 make mv3-chromium
 
 # 선택 사항: 버전이 표시된 ZIP과 SHA-256 파일도 만듭니다.
@@ -182,7 +111,7 @@ tools/make-mv3.sh chromium "$VERSION"
 
 </details>
 
-브라우저의 확장 프로그램 페이지에서 `dist/build/uBlockPlus.chromium`을 로드하세요. 버전을 지정한 PowerShell 명령과 선택적인 버전 지정 셸 명령은 `dist/build/` 아래에 ZIP과 체크섬을 만듭니다. 일반 `make mv3-chromium`은 압축을 풀어 놓은 디렉터리만 만듭니다.
+브라우저의 확장 프로그램 페이지에서 `dist/build/ShieldBlock.chromium`을 로드하세요. 버전을 지정한 PowerShell 명령과 선택적인 버전 지정 셸 명령은 `dist/build/` 아래에 ZIP과 체크섬을 만듭니다. 일반 `make mv3-chromium`은 압축을 풀어 놓은 디렉터리만 만듭니다.
 
 ## 작동 방식
 
@@ -265,7 +194,7 @@ tools/make-mv3.sh chromium "$VERSION"
 npm ci
 npm run lint
 npm test
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
 아이디어와 보고는 저장소의 정형화된 이슈 양식을 통해 보내 주세요.
@@ -280,7 +209,7 @@ node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
 
 ## 크레딧 및 라이선스
 
-uBlock Plus+는 [uBlock Origin](https://github.com/gorhill/uBlock)과 업스트림에서 상속한 MV3 구성 요소를 기반으로 한 파생 저작물입니다. 저작권, 소스 헤더, 작성자 기록, 제3자 저작자 표시는 보존됩니다. [NOTICE.md](../NOTICE.md)를 참고하세요.
+ShieldBlock는 [uBlock Origin](https://github.com/gorhill/uBlock)과 업스트림에서 상속한 MV3 구성 요소를 기반으로 한 파생 저작물입니다. 저작권, 소스 헤더, 작성자 기록, 제3자 저작자 표시는 보존됩니다. [NOTICE.md](../NOTICE.md)를 참고하세요.
 
 [GNU General Public License v3.0 이상](../LICENSE.txt)에 따라 배포됩니다.
 
@@ -288,6 +217,6 @@ uBlock Plus+는 [uBlock Origin](https://github.com/gorhill/uBlock)과 업스트�
 
 **열린 방식으로 만들고, 사용자가 함께 다듬습니다.**
 
-[맨 위로 ↑](#ublock-plus)
+[맨 위로 ↑](#shieldblock)
 
 </div>

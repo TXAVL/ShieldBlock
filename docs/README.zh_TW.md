@@ -3,11 +3,9 @@
 
 <div align="center">
 
-<img src="assets/readme/hero.png" alt="盾牌在 Chromium 頁面載入前篩選廣告、追蹤器、Cookie 和其他不需要的網路請求的插圖" width="1100">
+<img src="../src/img/icon_128.png" width="80" height="80" alt="ShieldBlock extension icon">
 
-<sub>概念插圖 · v1.0.0 是需要手動更新的側載預先發佈版本</sub>
-
-# uBlock Plus+
+# ShieldBlock - Ad & Tracker Blocker Pro
 
 ### 由社群驅動，為 Chromium Manifest V3 打造的內容封鎖器
 
@@ -27,96 +25,27 @@
 
 ---
 
-uBlock Plus+ 是一款適用於 Chromium MV3、採用 GPL 授權的獨立內容封鎖器。它將經過驗證的上游篩選與編譯基礎，和社群 Filter Store、可攜式設定、明確的進階使用者控制以及重視記憶體的運作方式結合起來，同時不使用專案遙測服務，也不載入遠端可執行程式碼。
+ShieldBlock 是一款適用於 Chromium MV3、採用 GPL 授權的獨立內容封鎖器。它將經過驗證的上游篩選與編譯基礎，和社群 Filter Store、可攜式設定、明確的進階使用者控制以及重視記憶體的運作方式結合起來，同時不使用專案遙測服務，也不載入遠端可執行程式碼。
 
 > [!IMPORTANT]
-> **發佈狀態：** v1.0.0 是供手動側載的預先發佈版本，不會自動更新。uBlock Plus+ 是獨立分支，不是 uBlock Origin 的官方版本，也未獲 Raymond Hill 認可。Chrome MV3 並未提供原始 MV2 擴充功能可用的全部封鎖原語。側載可以避開 Chrome 線上應用程式商店的發佈政策，但**不會**消除 DNR 配額、Service Worker 生命週期規則或瀏覽器安全邊界。請參閱[如實說明的相容性矩陣](FEATURE-MATRIX.md)。
+> **發佈狀態：** v1.0.0 是供手動側載的預先發佈版本，不會自動更新。ShieldBlock 是獨立分支，不是 uBlock Origin 的官方版本，也未獲 Raymond Hill 認可。Chrome MV3 並未提供原始 MV2 擴充功能可用的全部封鎖原語。側載可以避開 Chrome 線上應用程式商店的發佈政策，但**不會**消除 DNR 配額、Service Worker 生命週期規則或瀏覽器安全邊界。請參閱[如實說明的相容性矩陣](FEATURE-MATRIX.md)。
 
 ## 以你的選擇為核心
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Site controls and filtering modes">
+<br><strong>Popup</strong>
+</p>
 
-### 🛡️ 分層內容封鎖
+<p align="center">
+<img src="assets/readme/option.png" width="850" alt="ShieldBlock Option - Dashboard settings and configuration">
+<br><strong>Option</strong>
+</p>
 
-靜態、動態和工作階段 DNR 規則會與外觀篩選、內建 scriptlet、嚴格封鎖以及可感知情境的智慧型彈出視窗封鎖器協同運作。
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 社群 Filter Store
-
-瀏覽內建的社群目錄，或加入最多八個相容的 HTTPS 儲存庫。每個遠端清單都只會作為篩選器**資料**處理，絕不會作為可執行的擴充功能程式碼。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 每個網站均可控制
-
-可為各網站選擇篩選模式、檢查相符規則的診斷資訊，並在頁面需要個人化處理時使用元素選取器、移除器或取消選取器。
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 重視記憶體的設定檔
-
-可選擇 `auto`、`balanced` 或 `low-memory`。低記憶體模式採用循序編譯、有界快取和安全清理，不會暗中停用已啟用的篩選器。
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 設定可自由攜帶
-
-匯出並還原核心設定、訂閱、儲存庫、彈出視窗策略和自訂篩選器。內建目錄只是起點，而不是綁定機制。
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 隱私融入設計
-
-篩選與儲存空間診斷資訊會保留在本機。專案不設分析帳戶、不含廣告 SDK，也沒有瀏覽記錄服務；Chrome 隱私控制需要另外授予且可撤銷的權限。
-
-</td>
-</tr>
-</table>
-
-完整的 Power 介面字串已翻譯為英文、德文、西班牙文、法文、日文、韓文、俄文、越南文、簡體中文和繁體中文。其餘 61 個內建語言地區會在建置時確定地回復為英文，因此在社群翻譯補齊之前，新控制項也不會顯示空白。
-
-<div align="center">
-
-[探索全部功能 →](FEATURE-MATRIX.md)
-
-</div>
-
-## 查看實際效果
-
-<sub>擷取自全新 Edge 設定檔中以未封裝方式載入的 v1.0.0 成品 · 不含個人瀏覽資料</sub>
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-<img src="assets/readme/filter-store.png" alt="實際的 uBlock Plus+ Filter Store 畫面，顯示 DNR 配額估算、三個套件組合和第一張社群篩選器卡片">
-
-<strong>Filter Store</strong><br>
-瀏覽社群項目、檢查配額影響，並由你明確啟用帶有特定取向的套件組合。
-
-</td>
-<td width="38%" valign="top">
-
-<img src="assets/readme/memory-settings.png" alt="實際的 uBlock Plus+ 記憶體設定檔畫面，顯示自動模式、目前生效的平衡模式和本機儲存空間診斷">
-
-<strong>記憶體設定檔</strong><br>
-選擇自動、平衡或低記憶體模式，並檢查本機快取與儲存空間指標；這些指標並非即時 RAM 使用量。
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Personal cosmetic filter editor">
+<br><strong>Custom Filter</strong>
+</p>
 
 <a id="quick-start"></a>
 
@@ -130,7 +59,7 @@ uBlock Plus+ 是一款適用於 Chromium MV3、採用 GPL 授權的獨立內容�
 
 ### 安裝發佈版本
 
-1. 從 [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) 下載 `uBlock-Plus_*.chromium.zip` 及其對應的 `.sha256` 檔案。
+1. 從 [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) 下載 `ShieldBlock_*.chromium.zip` 及其對應的 `.sha256` 檔案。
 2. 驗證總和檢查碼，然後將 ZIP 解壓縮到固定資料夾。
 3. 開啟 `chrome://extensions` 或 `edge://extensions`。
 4. 啟用**開發人員模式**，選擇**載入未封裝項目**，然後選取包含 `manifest.json` 的解壓縮資料夾。
@@ -143,8 +72,8 @@ uBlock Plus+ 是一款適用於 Chromium MV3、採用 GPL 授權的獨立內容�
 <summary><strong>在 Windows 上驗證發佈套件總和檢查碼</strong></summary>
 
 ```powershell
-(Get-FileHash .\uBlock-Plus_1.0.0.chromium.zip -Algorithm SHA256).Hash
-Get-Content .\uBlock-Plus_1.0.0.chromium.zip.sha256
+(Get-FileHash .\ShieldBlock_1.1.1.chromium.zip -Algorithm SHA256).Hash
+Get-Content .\ShieldBlock_1.1.1.chromium.zip.sha256
 ```
 
 兩個十六進位雜湊值必須一致，字母大小寫不影響結果。
@@ -160,7 +89,7 @@ Get-Content .\uBlock-Plus_1.0.0.chromium.zip.sha256
 
 ```powershell
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 .\tools\make-mv3.ps1 -Platform chromium -Version $version
 ```
@@ -172,7 +101,7 @@ $version = (Get-Content -Raw package.json | ConvertFrom-Json).version
 
 ```bash
 git clone --recurse-submodules https://github.com/TXAVL/ShieldBlock.git
-cd uBlock-Plus
+cd ShieldBlock
 make mv3-chromium
 
 # 選用：同時建立含版本號的 ZIP 和 SHA-256 檔案。
@@ -182,7 +111,7 @@ tools/make-mv3.sh chromium "$VERSION"
 
 </details>
 
-從瀏覽器的擴充功能頁面載入 `dist/build/uBlockPlus.chromium`。含版本號的 PowerShell 指令以及選用的含版本號 shell 指令會在 `dist/build/` 下建立 ZIP 和總和檢查碼；直接執行 `make mv3-chromium` 只會建立未封裝目錄。
+從瀏覽器的擴充功能頁面載入 `dist/build/ShieldBlock.chromium`。含版本號的 PowerShell 指令以及選用的含版本號 shell 指令會在 `dist/build/` 下建立 ZIP 和總和檢查碼；直接執行 `make mv3-chromium` 只會建立未封裝目錄。
 
 ## 運作方式
 
@@ -265,7 +194,7 @@ tools/make-mv3.sh chromium "$VERSION"
 npm ci
 npm run lint
 npm test
-node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 ```
 
 歡迎透過儲存庫的結構化 issue 表單提交想法和報告：
@@ -280,7 +209,7 @@ node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
 
 ## 致謝與授權
 
-uBlock Plus+ 是以 [uBlock Origin](https://github.com/gorhill/uBlock) 及從上游繼承的 MV3 元件為基礎的衍生作品。專案會保留著作權、原始碼標頭、作者歷史和第三方署名。請參閱 [NOTICE.md](../NOTICE.md)。
+ShieldBlock 是以 [uBlock Origin](https://github.com/gorhill/uBlock) 及從上游繼承的 MV3 元件為基礎的衍生作品。專案會保留著作權、原始碼標頭、作者歷史和第三方署名。請參閱 [NOTICE.md](../NOTICE.md)。
 
 本專案依據 [GNU 通用公共授權條款 v3.0 或更新版本](../LICENSE.txt)發佈。
 
@@ -288,6 +217,6 @@ uBlock Plus+ 是以 [uBlock Origin](https://github.com/gorhill/uBlock) 及從上
 
 **公開打造，由使用者共同塑造。**
 
-[返回頂端 ↑](#ublock-plus)
+[返回頂端 ↑](#shieldblock)
 
 </div>
