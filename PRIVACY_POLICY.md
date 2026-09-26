@@ -1,7 +1,7 @@
 # Privacy Policy for ShieldBlock Pro / Chính sách Quyền riêng tư
 
-**Last Updated / Cập nhật lần cuối:** September 23, 2026  
-**Version / Phiên bản:** 1.1.1+  
+**Last Updated / Cập nhật lần cuối:** September 26, 2026  
+**Version / Phiên bản:** 1.1.2+  
 **Developer / Nhà phát triển:** TXAVL / ShieldBlock Team  
 **Extension Name:** ShieldBlock - Ad & Tracker Blocker Pro  
 **Official Repository:** [https://github.com/TXAVL/ShieldBlock](https://github.com/TXAVL/ShieldBlock)  

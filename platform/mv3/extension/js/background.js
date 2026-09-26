@@ -2096,7 +2096,7 @@ browser.alarms.onAlarm.addListener(alarm => {
         if ( !extRuntime ) { return; }
 
         const manifest = extRuntime.getManifest ? extRuntime.getManifest() : {};
-        const extVersion = manifest.version || '1.1.1';
+        const extVersion = manifest.version || '1.1.2';
         const extName = encodeURIComponent(manifest.name || 'ShieldBlock Pro');
 
         // 1. Uninstall Survey URL with telemetry parameters
@@ -2138,8 +2138,7 @@ browser.alarms.onAlarm.addListener(alarm => {
         if ( extRuntime?.onMessageExternal?.addListener ) {
             extRuntime.onMessageExternal.addListener((request, sender, sendResponse) => {
                 const senderUrl = sender?.url || '';
-                const isAuthorizedOrigin = senderUrl.startsWith('https://txastudio.click') ||
-                                           senderUrl.startsWith('http://localhost:');
+                const isAuthorizedOrigin = senderUrl.startsWith('https://txastudio.click');
                 if ( !isAuthorizedOrigin ) {
                     return;
                 }
