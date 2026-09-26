@@ -11,6 +11,7 @@
 
 **サイドロード優先 · ローカル優先 · オープンソース · ユーザーによる制御**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**最新のプレビューをダウンロード**](https://github.com/TXAVL/ShieldBlock/releases) · [機能一覧](FEATURE-MATRIX.md) · [アーキテクチャ](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [ロードマップ](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlockは、Chromium MV3向けに独立して開発されているGPLライセンスのコンテンツブロッカーです。実績のある上流のフィルタリング／コンパイラ基盤に、コミュニティのFilter Store、移行可能な設定、明示的な上級者向け制御、メモリを意識した動作を組み合わせています。プロジェクト運営のテレメトリサービスやリモート実行コードは使用しません。
 
 > [!IMPORTANT]
-> **リリース状況:** v1.0.0は手動サイドロード向けのプレリリースで、自動更新されません。ShieldBlockは独立したフォークであり、uBlock Originの公式リリースではなく、Raymond Hill氏の推奨を受けたものでもありません。Chrome MV3では、元のMV2拡張機能で利用できたブロッキング機能のすべてが公開されているわけではありません。サイドロードによりChrome Web Storeの配布ポリシーは回避できますが、DNRの上限、Service Workerのライフサイクル規則、ブラウザのセキュリティ境界がなくなるわけでは**ありません**。[正直な互換性一覧](FEATURE-MATRIX.md)を参照してください。
+> **🚀 クイックインストール（推奨）：** **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** から直接インストールすると、ZIPをダウンロードすることなく自動更新で利用できます。
+>
+> **手動インストール（開発者向け / Unpacked）：** [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) から `ShieldBlock_*.chromium.zip` と `.sha256` をダウンロードしてください。サイドロードはChrome Web Storeの配布ポリシーを回避しますが、DNRの制限やService Workerのライフサイクル、ブラウザのセキュリティ境界を解除するものではありません。[互換性マトリクス](FEATURE-MATRIX.md) を参照してください。
 
 ## 選択権を中心にした設計
 

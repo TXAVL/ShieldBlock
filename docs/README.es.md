@@ -11,6 +11,7 @@
 
 **Sideload-first · Local-first · Código abierto · Pensado para que tú tengas el control**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![Versión más reciente](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=preliminar&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**Descargar la versión preliminar más reciente**](https://github.com/TXAVL/ShieldBlock/releases) · [Matriz de funciones](FEATURE-MATRIX.md) · [Arquitectura](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [Hoja de ruta](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock es un bloqueador de contenido independiente para Chromium MV3 con licencia GPL. Combina una base probada de filtrado y compilación del proyecto original con un Filter Store comunitario, configuración portable, controles explícitos para usuarios avanzados y un funcionamiento atento al uso de memoria, sin un servicio de telemetría del proyecto ni código ejecutable remoto.
 
 > [!IMPORTANT]
-> **Estado de la versión:** v1.0.0 es una versión preliminar para instalación manual y no se actualiza automáticamente. ShieldBlock es un fork independiente, no una versión oficial de uBlock Origin, y no cuenta con el respaldo de Raymond Hill. Chrome MV3 no expone todos los mecanismos de bloqueo disponibles en la extensión MV2 original. La instalación manual evita la política de distribución de Chrome Web Store, pero **no** elimina las cuotas de DNR, las reglas del ciclo de vida de los service workers ni los límites de seguridad del navegador. Consulta la [matriz de compatibilidad honesta](FEATURE-MATRIX.md).
+> **🚀 Instalación rápida (Recomendado):** Instala directamente desde **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** para recibir actualizaciones automáticas sin necesidad de descargar archivos ZIP.
+>
+> **Instalación manual (Desarrolladores / Unpacked):** Descarga `ShieldBlock_*.chromium.zip` y la verificación `.sha256` desde [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). La carga lateral elude las políticas de distribución de Chrome Web Store, pero **no** elimina las cuotas de DNR ni las reglas de ciclo de vida de los service workers ni los límites de seguridad del navegador. Consulta la [matriz de compatibilidad honesta](FEATURE-MATRIX.md).
 
 ## Diseñado en torno a tus decisiones
 

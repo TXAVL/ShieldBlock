@@ -11,6 +11,7 @@
 
 **側載優先 · 本機優先 · 開放原始碼 · 由使用者掌控**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![最新版本](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**下載最新預覽版**](https://github.com/TXAVL/ShieldBlock/releases) · [功能矩陣](FEATURE-MATRIX.md) · [架構](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [發展藍圖](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock 是一款適用於 Chromium MV3、採用 GPL 授權的獨立內容封鎖器。它將經過驗證的上游篩選與編譯基礎，和社群 Filter Store、可攜式設定、明確的進階使用者控制以及重視記憶體的運作方式結合起來，同時不使用專案遙測服務，也不載入遠端可執行程式碼。
 
 > [!IMPORTANT]
-> **發佈狀態：** v1.0.0 是供手動側載的預先發佈版本，不會自動更新。ShieldBlock 是獨立分支，不是 uBlock Origin 的官方版本，也未獲 Raymond Hill 認可。Chrome MV3 並未提供原始 MV2 擴充功能可用的全部封鎖原語。側載可以避開 Chrome 線上應用程式商店的發佈政策，但**不會**消除 DNR 配額、Service Worker 生命週期規則或瀏覽器安全邊界。請參閱[如實說明的相容性矩陣](FEATURE-MATRIX.md)。
+> **🚀 快速安裝（推薦）：** 直接從 **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** 一鍵安裝，享有自動更新，無需手動下載 ZIP 壓縮檔。
+>
+> **手動安裝（開發者 / Unpacked）：** 從 [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) 下載 `ShieldBlock_*.chromium.zip` 與 `.sha256` 檔案。側載繞過了 Chrome Web Store 的發行政策，但**既不會**解除 DNR 配額，也不會解除 Service Worker 生命週期規則或瀏覽器的安全邊界。請參閱[客觀相容性矩陣](FEATURE-MATRIX.md)。
 
 ## 以你的選擇為核心
 

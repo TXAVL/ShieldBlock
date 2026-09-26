@@ -11,6 +11,7 @@
 
 **사이드로드 우선 · 로컬 우선 · 오픈 소스 · 사용자 제어 중심**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**최신 미리보기 다운로드**](https://github.com/TXAVL/ShieldBlock/releases) · [기능 표](FEATURE-MATRIX.md) · [아키텍처](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [로드맵](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock는 Chromium MV3용으로 독립 개발되는 GPL 라이선스 콘텐츠 차단기입니다. 검증된 업스트림 필터링/컴파일러 기반에 커뮤니티 Filter Store, 이동 가능한 설정, 명시적인 고급 사용자 제어, 메모리를 고려한 동작을 결합합니다. 프로젝트가 운영하는 텔레메트리 서비스나 원격 실행 코드는 사용하지 않습니다.
 
 > [!IMPORTANT]
-> **릴리스 상태:** v1.0.0은 수동 사이드로드용 사전 릴리스이며 자동으로 업데이트되지 않습니다. ShieldBlock는 독립 포크로서 uBlock Origin의 공식 릴리스가 아니며 Raymond Hill의 보증을 받지 않았습니다. Chrome MV3는 기존 MV2 확장 프로그램에서 사용할 수 있던 모든 차단 기능을 제공하지 않습니다. 사이드로드는 Chrome 웹 스토어의 배포 정책을 피할 수 있지만 DNR 할당량, 서비스 워커 수명 주기 규칙 또는 브라우저 보안 경계를 없애지는 **않습니다**. [솔직한 호환성 표](FEATURE-MATRIX.md)를 확인하세요.
+> **🚀 빠른 설치 (권장):** **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** 에서 직접 설치하면 ZIP 다운로드 없이 자동 업데이트와 함께 바로 사용할 수 있습니다.
+>
+> **수동 설치 (개발자용 / Unpacked):** [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) 에서 `ShieldBlock_*.chromium.zip` 및 `.sha256` 파일을 다운로드하세요. 사이드로드는 Chrome Web Store 배포 정책을 우회하지만 DNR 할당량이나 Service Worker 수명 주기 규칙, 브라우저 보안 경계를 해제하지 않습니다. [정직한 호환성 표](FEATURE-MATRIX.md)를 참조하세요.
 
 ## 사용자의 선택을 중심으로
 

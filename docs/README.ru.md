@@ -11,6 +11,7 @@
 
 **Ручная установка · Локальная обработка · Открытый исходный код · Контроль у пользователя**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**Скачать последнюю предварительную версию**](https://github.com/TXAVL/ShieldBlock/releases) · [Таблица возможностей](FEATURE-MATRIX.md) · [Архитектура](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [Планы](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock — независимый блокировщик контента для Chromium MV3 под лицензией GPL. Он сочетает проверенную основу фильтрации и компилятора исходного проекта с общественным каталогом Filter Store, переносимой конфигурацией, явными настройками для опытных пользователей и бережным расходованием памяти. Проект не использует собственную телеметрию и не загружает исполняемый код из сети.
 
 > [!IMPORTANT]
-> **Состояние выпуска:** v1.0.0 — предварительная версия для ручной установки, которая не обновляется автоматически. ShieldBlock — независимый форк, а не официальный выпуск uBlock Origin, и он не одобрен Рэймондом Хиллом. Chrome MV3 предоставляет не все механизмы блокировки, доступные исходному расширению MV2. Ручная установка позволяет не зависеть от правил распространения Chrome Web Store, но **не** отменяет квоты DNR, жизненный цикл Service Worker или границы безопасности браузера. См. [честную таблицу совместимости](FEATURE-MATRIX.md).
+> **🚀 Быстрая установка (Рекомендуется):** Установите напрямую из **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** для автоматических обновлений в один клик без необходимости скачивать архив.
+>
+> **Ручная установка (Для разработчиков / Unpacked):** Загрузите `ShieldBlock_*.chromium.zip` и `.sha256` со страницы [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases). Ручная установка обходит правила распространения Chrome Web Store, но **не** отменяет квоты DNR, правила жизненного цикла service worker или границы безопасности браузера. См. [честную таблицу совместимости](FEATURE-MATRIX.md).
 
 ## Ваш выбор — основа проекта
 

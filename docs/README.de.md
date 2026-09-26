@@ -11,6 +11,7 @@
 
 **Sideload-first · Local-first · Open Source · Für die Kontrolle durch die Nutzer**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![Neueste Version](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=Vorabversion&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**Neueste Vorschau herunterladen**](https://github.com/TXAVL/ShieldBlock/releases) · [Funktionsmatrix](FEATURE-MATRIX.md) · [Architektur](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [Roadmap](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock ist ein unabhängiger, GPL-lizenzierter Inhaltsblocker für Chromium MV3. Er verbindet eine bewährte Filter- und Compiler-Grundlage des Upstreamprojekts mit einem Community Filter Store, portabler Konfiguration, ausdrücklichen Bedienelementen für erfahrene Nutzer und speicherbewusstem Betrieb – ohne Telemetriedienst des Projekts und ohne extern geladenen ausführbaren Code.
 
 > [!IMPORTANT]
-> **Veröffentlichungsstatus:** v1.0.0 ist eine Vorabversion zum manuellen Sideloading und wird nicht automatisch aktualisiert. ShieldBlock ist ein unabhängiger Fork, keine offizielle Veröffentlichung von uBlock Origin, und wird nicht von Raymond Hill unterstützt. Chrome MV3 stellt nicht alle Blockierungsmechanismen der ursprünglichen MV2-Erweiterung bereit. Sideloading umgeht die Vertriebsrichtlinien des Chrome Web Store, hebt aber **weder** DNR-Kontingente noch Lebenszyklusregeln für Service Worker oder Sicherheitsgrenzen des Browsers auf. Siehe die [ehrliche Kompatibilitätsmatrix](FEATURE-MATRIX.md).
+> **🚀 Schnelle Installation (Empfohlen):** Direkt aus dem **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** installieren für automatische Updates ohne manuelle ZIP-Installation.
+>
+> **Manuelle Installation (Entwickler / Unpacked):** Laden Sie `ShieldBlock_*.chromium.zip` und die dazugehörige `.sha256`-Datei von [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) herunter. Sideloading umgeht die Vertriebsrichtlinien des Chrome Web Store, hebt aber **weder** DNR-Kontingente noch Lebenszyklusregeln für Service Worker oder Sicherheitsgrenzen des Browsers auf. Siehe die [ehrliche Kompatibilitätsmatrix](FEATURE-MATRIX.md).
 
 ## Auf Ihre Entscheidungen ausgelegt
 

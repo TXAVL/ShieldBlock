@@ -11,6 +11,7 @@
 
 **侧载优先 · 本地优先 · 开源 · 由用户掌控**
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)
 [![MV3 Chromium CI](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml/badge.svg)](https://github.com/TXAVL/ShieldBlock/actions/workflows/mv3-chromium.yml)
 [![最新版本](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases)
 [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start)
@@ -21,6 +22,12 @@
 
 [**下载最新预览版**](https://github.com/TXAVL/ShieldBlock/releases) · [功能矩阵](FEATURE-MATRIX.md) · [架构](ARCHITECTURE.md) · [Filter Store](FILTER-STORE.md) · [路线图](ROADMAP.md)
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll">
+    <img src="assets/readme/chrome-web-store-badge.png" width="206" height="58" alt="Available in the Chrome Web Store">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -28,7 +35,9 @@
 ShieldBlock 是一款面向 Chromium MV3、采用 GPL 许可证的独立内容拦截器。它将经过验证的上游过滤与编译基础，与社区 Filter Store、可移植配置、明确的高级用户控制以及注重内存的运行方式结合起来，同时不使用项目遥测服务，也不加载远程可执行代码。
 
 > [!IMPORTANT]
-> **发布状态：** v1.0.0 是供手动侧载的预发布版本，不会自动更新。ShieldBlock 是独立分支，不是 uBlock Origin 的官方版本，也未得到 Raymond Hill 的认可。Chrome MV3 并未提供原 MV2 扩展可用的全部拦截原语。侧载可以避开 Chrome 应用商店的分发政策，但**不会**消除 DNR 配额、Service Worker 生命周期规则或浏览器安全边界。请参阅[如实说明的兼容性矩阵](FEATURE-MATRIX.md)。
+> **🚀 快速安装（推荐）：** 直接从 **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** 一键安装，享受自动更新，无需手动下载 ZIP 压缩包。
+>
+> **手动安装（开发者 / Unpacked）：** 从 [GitHub Releases](https://github.com/TXAVL/ShieldBlock/releases) 下载 `ShieldBlock_*.chromium.zip` 和 `.sha256` 文件。侧载绕过了 Chrome Web Store 的分发政策，但**既不会**取消 DNR 配额，也不会解除 Service Worker 生命周期规则或浏览器的安全边界。请参阅[客观兼容性矩阵](FEATURE-MATRIX.md)。
 
 ## 围绕你的选择而设计
 
