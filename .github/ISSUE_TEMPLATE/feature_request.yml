@@ -1,77 +1,75 @@
-﻿name: Feature request / community proposal
-description: Äá» xuáº¥t tÃ­nh nÄƒng Ä‘á»ƒ cá»™ng Ä‘á»“ng tháº£o luáº­n vÃ  vote báº±ng reaction.
+name: Feature request
+description: Propose a new feature for community discussion and vote.
 title: "[Feature]: "
 labels: ["enhancement", "proposal", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        HÃ£y mÃ´ táº£ váº¥n Ä‘á» ngÆ°á»i dÃ¹ng trÆ°á»›c giáº£i phÃ¡p. Vote ðŸ‘ lÃ  tÃ­n hiá»‡u Æ°u tiÃªn, khÃ´ng thá»ƒ ghi Ä‘Ã¨ giá»›i háº¡n MV3, security, privacy hoáº·c license.
+        Describe the user problem before proposing a solution.
+        Votes (thumbs up) signal priority. Do not request remote code or sandbox bypass.
   - type: checkboxes
     id: preflight
     attributes:
-      label: Kiá»ƒm tra trÆ°á»›c
+      label: Pre-flight checklist
       options:
-        - label: TÃ´i Ä‘Ã£ tÃ¬m issue/roadmap trÃ¹ng.
+        - label: I have searched existing issues and the roadmap.
           required: true
-        - label: TÃ´i khÃ´ng yÃªu cáº§u cháº¡y remote code hoáº·c bypass sandbox/quota khÃ´ng Ä‘Æ°á»£c há»— trá»£.
+        - label: I am not requesting remote code execution or unsupported quota bypass.
           required: true
   - type: textarea
     id: problem
     attributes:
-      label: Váº¥n Ä‘á» vÃ  nhÃ³m ngÆ°á»i dÃ¹ng
-      description: Ai gáº·p váº¥n Ä‘á», thÆ°á»ng xuyÃªn tháº¿ nÃ o, workflow hiá»‡n táº¡i ra sao?
+      label: Problem and user group
+      description: Who has the problem, how often, what is the current workflow?
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
-      label: HÃ nh vi mong muá»‘n vÃ  acceptance criteria
+      label: Desired behavior and acceptance criteria
     validations:
       required: true
   - type: dropdown
     id: layer
     attributes:
-      label: Táº§ng capability phÃ¹ há»£p nháº¥t
+      label: Most relevant capability layer
       options:
         - ShieldBlock Cyber Edition (MV3)
-        - Managed Enterprise (tÆ°Æ¡ng lai)
-        - Native Companion / Power Mode (tÆ°Æ¡ng lai)
-        - ChÆ°a biáº¿t, cáº§n nghiÃªn cá»©u
+        - Managed Enterprise (future)
+        - Native Companion / Power Mode (future)
+        - Unknown, needs research
     validations:
       required: true
   - type: dropdown
     id: mv3_mapping
     attributes:
-      label: Kháº£ nÄƒng trÃªn MV3
+      label: MV3 feasibility
       options:
-        - CÃ³ API cÃ´ng khai tÆ°Æ¡ng Ä‘Æ°Æ¡ng
-        - Chá»‰ lÃ m Ä‘Æ°á»£c má»™t pháº§n
-        - KhÃ´ng cÃ³ API tÆ°Æ¡ng Ä‘Æ°Æ¡ng
-        - ChÆ°a xÃ¡c Ä‘á»‹nh
+        - Has equivalent public API
+        - Partially achievable
+        - No equivalent API
+        - Unconfirmed
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence / vÃ­ dá»¥ / tÃ i liá»‡u API
-      description: Link tÃ i liá»‡u chÃ­nh thá»©c, reproduction hoáº·c benchmark náº¿u cÃ³.
+      label: Evidence / examples / API docs
+      description: Link to official docs, benchmarks, or reproductions if available.
   - type: textarea
     id: privacy_security
     attributes:
-      label: Privacy, permission vÃ  threat model
-      description: Dá»¯ liá»‡u nÃ o Ä‘Æ°á»£c Ä‘á»c/lÆ°u/truyá»n? CÃ³ cáº§n quyá»n má»›i, enterprise policy hay native IPC khÃ´ng?
+      label: Privacy, permissions, and threat model
     validations:
       required: true
   - type: textarea
     id: resources
     attributes:
-      label: áº¢nh hÆ°á»Ÿng RAM/CPU/quota
-      description: NÃªu DNR/regex/storage/cache/wake-up cost vÃ  phÆ°Æ¡ng Ã¡n cho low-memory.
+      label: RAM / CPU / quota impact
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
-      label: PhÆ°Æ¡ng Ã¡n khÃ¡c hoáº·c fallback
-
+      label: Alternatives or fallback

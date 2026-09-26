@@ -1,16 +1,17 @@
-﻿name: Performance / low-memory report
-description: BÃ¡o RAM, CPU, compile hoáº·c wake-up regression cÃ³ sá»‘ Ä‘o tÃ¡i hiá»‡n Ä‘Æ°á»£c.
+name: Performance / low-memory report
+description: Report a RAM, CPU, or compile regression with a reproducible workload.
 title: "[Performance]: "
 labels: ["performance", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Sá»‘ RAM tuyá»‡t Ä‘á»‘i thay Ä‘á»•i theo Chrome/OS. HÃ£y cung cáº¥p baseline vÃ  delta trong cÃ¹ng Ä‘iá»u kiá»‡n; khÃ´ng Ä‘Äƒng browsing data.
+        Absolute RAM varies by Chrome/OS. Provide baseline and delta under identical conditions.
+        Do NOT share browsing data.
   - type: input
     id: version
     attributes:
-      label: ShieldBlock version/commit
+      label: ShieldBlock version / commit
     validations:
       required: true
   - type: input
@@ -34,25 +35,22 @@ body:
   - type: textarea
     id: workload
     attributes:
-      label: Workload tÃ¡i hiá»‡n
-      description: Ruleset/catalog entries, sá»‘ tab, thao tÃ¡c, thá»i gian chá» vÃ  láº§n cháº¡y warm/cold.
+      label: Reproduction workload
     validations:
       required: true
   - type: textarea
     id: measurements
     attributes:
-      label: Baseline vÃ  káº¿t quáº£ Ä‘o
-      description: NÃªu tool, sample count, median/p95/peak náº¿u cÃ³, cÃ¹ng báº£n stable dÃ¹ng Ä‘á»ƒ so sÃ¡nh.
+      label: Baseline and measured results
       render: text
     validations:
       required: true
   - type: textarea
     id: local_telemetry
     attributes:
-      label: Local memory telemetry Ä‘Ã£ redacted
+      label: Local memory telemetry (redacted)
       render: text
   - type: textarea
     id: notes
     attributes:
-      label: Quan sÃ¡t thÃªm / workaround
-
+      label: Additional observations / workaround

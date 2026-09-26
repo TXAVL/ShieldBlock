@@ -1,63 +1,60 @@
-﻿name: Filter issue
-description: BÃ¡o false positive, missed content hoáº·c váº¥n Ä‘á» má»™t entry trong Filter Store.
+name: Filter issue
+description: Report a false positive, missed ad/tracker, or broken website caused by a filter.
 title: "[Filter]: "
 labels: ["filter-issue", "needs-triage"]
 body:
   - type: dropdown
     id: type
     attributes:
-      label: Loáº¡i váº¥n Ä‘á»
+      label: Issue type
       options:
-        - False positive / website bá»‹ há»ng
-        - Quáº£ng cÃ¡o/tracker chÆ°a bá»‹ cháº·n
-        - Performance / quÃ¡ nhiá»u rule hoáº·c RAM
-        - Source/maintainer cÃ³ dáº¥u hiá»‡u bá»‹ compromise
-        - License/attribution
-        - Metadata catalog sai
+        - False positive / website broken
+        - Ad or tracker not blocked
+        - Performance issue
+        - Filter list metadata error
+        - License / attribution issue
     validations:
       required: true
   - type: input
     id: entry
     attributes:
-      label: Catalog entry ID vÃ  trust tier
+      label: Catalog entry ID and trust tier
       placeholder: entry-id (community)
     validations:
       required: true
   - type: input
     id: version
     attributes:
-      label: ShieldBlock version/commit
+      label: ShieldBlock version / commit
     validations:
       required: true
   - type: input
     id: browser
     attributes:
-      label: Browser/OS
+      label: Browser / OS
     validations:
       required: true
   - type: textarea
     id: reproduction
     attributes:
-      label: URL máº«u cÃ´ng khai vÃ  bÆ°á»›c tÃ¡i hiá»‡n
-      description: KhÃ´ng Ä‘Äƒng URL ná»™i bá»™, tÃ i khoáº£n, token hoáº·c browsing history.
+      label: Public URL and reproduction steps
+      description: Do NOT share private URLs, accounts, or browsing history.
     validations:
       required: true
   - type: textarea
     id: minimal_config
     attributes:
-      label: Cáº¥u hÃ¬nh tá»‘i thiá»ƒu vÃ  filter/rule nghi ngá»
-      description: Táº¯t list khÃ´ng liÃªn quan náº¿u cÃ³ thá»ƒ vÃ  ghi káº¿t quáº£.
+      label: Minimal config and suspected rule
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence Ä‘Ã£ redacted
+      label: Evidence (redacted)
   - type: checkboxes
     id: routing
     attributes:
       label: Routing
       options:
-        - label: TÃ´i Ä‘Ã£ kiá»ƒm tra homepage cá»§a list; náº¿u maintainer cÃ³ tracker riÃªng, tÃ´i sáº½ liÃªn káº¿t bÃ¡o cÃ¡o tÆ°Æ¡ng á»©ng.
+        - label: I have checked the list maintainer homepage; if they have a tracker, I will file there too.
           required: true
-

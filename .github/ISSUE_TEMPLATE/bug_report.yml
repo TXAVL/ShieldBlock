@@ -1,90 +1,81 @@
-﻿name: Bug report
-description: Báo lỗi có thể tái hiện trong ShieldBlock: Cyber Defense (TXA Studio).
+name: Bug Report
+description: Report a reproducible bug in ShieldBlock (TXA Studio).
 title: "[Bug]: "
 labels: ["bug", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Cảm ơn bạn đã báo lỗi cho tiện ích ShieldBlock (TXA Studio). Vui lòng không đăng token, lịch sử duyệt web hoặc dữ liệu cá nhân nhạy cảm. Lỗ hổng bảo mật vui lòng gửi qua mục Security riêng.
+        Thank you for reporting a bug in ShieldBlock by TXA Studio.
+        Do NOT share tokens, browsing history, or personal data.
+        For security vulnerabilities, use the private Security advisory.
   - type: checkboxes
     id: preflight
     attributes:
-      label: Kiểm tra trước
+      label: Pre-flight checklist
       options:
-        - label: Tôi đã tìm issue trùng và thử bản phát hành mới nhất của ShieldBlock.
+        - label: I have searched for existing issues and tested the latest release.
           required: true
-        - label: Tôi hiểu ShieldBlock là tiện ích độc lập phát triển bởi TXA Studio.
+        - label: I understand ShieldBlock is an independent extension by TXA Studio.
           required: true
-        - label: Tôi đã xóa dữ liệu nhạy cảm khỏi log/ảnh chụp.
+        - label: I have removed sensitive data from logs/screenshots.
           required: true
   - type: input
     id: version
     attributes:
-      label: Phiên bản/commit ShieldBlock
-      placeholder: "v1.1.1 hoặc commit SHA"
+      label: ShieldBlock version / commit
+      placeholder: "v1.1.1 or commit SHA"
     validations:
       required: true
   - type: input
     id: browser
     attributes:
-      label: Trình duyệt và hệ điều hành
-      placeholder: "Chrome 140.0.x, Edge 140, Windows 11"
+      label: Browser and OS
+      placeholder: "Chrome 140.0.x, Windows 11 / macOS 15"
     validations:
       required: true
   - type: dropdown
     id: install
     attributes:
-      label: Cách cài đặt
+      label: Installation method
       options:
-        - Load unpacked / Developer Mode
-        - GitHub release zip package
-        - Chrome Web Store (CWS)
-        - TXA Studio Portal (txastudio.click)
+        - Load unpacked / Developer mode
+        - GitHub release zip
+        - Chrome Web Store
     validations:
       required: true
   - type: dropdown
     id: memory_profile
     attributes:
-      label: Chế độ Memory profile
+      label: Memory profile
       options:
-        - auto (Tự động tối ưu)
-        - balanced (Cân bằng)
-        - low-memory (Tiết kiệm RAM)
-        - Không biết / không áp dụng
+        - auto
+        - balanced
+        - low-memory
+        - Unknown / not applicable
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
-      label: Các bước tái hiện tối thiểu
-      placeholder: |
-        1. Bật tính năng/bộ lọc...
-        2. Mở URL mẫu...
-        3. Thực hiện thao tác...
+      label: Minimal reproduction steps
       render: shell
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: Kết quả mong đợi
+      label: Expected result
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
-      label: Kết quả thực tế
+      label: Actual result
     validations:
       required: true
   - type: textarea
-    id: filters
-    attributes:
-      label: Ruleset / Bộ lọc liên quan
-      description: Ghi ID bộ lọc hoặc custom ruleset; thử lại với cấu hình mặc định nếu có thể.
-  - type: textarea
     id: diagnostics
     attributes:
-      label: Log Diagnostics (đã ẩn thông tin nhạy cảm)
-      description: Xuất log chẩn đoán từ giao diện ShieldBlock; không đăng lịch sử duyệt web cá nhân.
+      label: Diagnostics (sensitive data removed)
       render: text
