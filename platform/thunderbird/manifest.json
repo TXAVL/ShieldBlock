@@ -1,4 +1,4 @@
-{
+﻿{
   "browser_specific_settings": {
     "gecko": {
       "id": "uBlock0@raymondhill.net",
@@ -86,9 +86,10 @@
     "webRequestBlocking",
     "<all_urls>"
   ],
-  "short_name": "uBlock₀",
+  "short_name": "uBlockâ‚€",
   "version": "1.9.15.101",
   "web_accessible_resources": [
     "/web_accessible_resources/*"
   ]
 }
+

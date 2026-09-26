@@ -1,4 +1,4 @@
-/*******************************************************************************
+﻿/*******************************************************************************
 
     uBlock Plus+
     Copyright (C) 2026-present uBlock Plus+ contributors
@@ -46,8 +46,8 @@ const extensionArgument = process.argv.slice(2)
     .find(argument => argument.startsWith('--') === false);
 const extensionDir = path.resolve(
     extensionArgument || (experimentalMode
-        ? 'dist/build/uBlockPlus.experimental.chromium'
-        : 'dist/build/uBlockPlus.chromium')
+        ? 'dist/build/ShieldBlock.experimental.chromium'
+        : 'dist/build/ShieldBlock.chromium')
 );
 const errors = [];
 let jsonFileCount = 0;
@@ -751,3 +751,4 @@ if ( errors.length !== 0 ) {
         `${dnrRuleCount} DNR rules, ${jsonFileCount} JSON files (${mib} MiB).`
     );
 }
+

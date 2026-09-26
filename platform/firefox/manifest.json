@@ -1,4 +1,4 @@
-{
+﻿{
   "author": "Raymond Hill & contributors",
   "background": {
     "page": "background.html"
@@ -124,7 +124,7 @@
     "webRequestBlocking",
     "<all_urls>"
   ],
-  "short_name": "uBlock₀",
+  "short_name": "uBlockâ‚€",
   "sidebar_action": {
     "default_title": "__MSG_statsPageName__",
     "default_panel": "logger-ui.html",
@@ -136,3 +136,4 @@
     "/web_accessible_resources/*"
   ]
 }
+

@@ -1,56 +1,56 @@
-name: Bug report
-description: Báo lỗi có thể tái hiện trong uBlock Plus+ Power Edition.
+﻿name: Bug report
+description: Báo lỗi có thể tái hiện trong ShieldBlock: Cyber Defense (TXA Studio).
 title: "[Bug]: "
 labels: ["bug", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Cảm ơn bạn đã báo lỗi. Không đăng token, lịch sử duyệt web, dữ liệu cá nhân hoặc exploit chưa được vá. Lỗ hổng bảo mật dùng liên kết báo cáo riêng.
+        Cảm ơn bạn đã báo lỗi cho tiện ích ShieldBlock (TXA Studio). Vui lòng không đăng token, lịch sử duyệt web hoặc dữ liệu cá nhân nhạy cảm. Lỗ hổng bảo mật vui lòng gửi qua mục Security riêng.
   - type: checkboxes
     id: preflight
     attributes:
       label: Kiểm tra trước
       options:
-        - label: Tôi đã tìm issue trùng và thử bản phát hành mới nhất.
+        - label: Tôi đã tìm issue trùng và thử bản phát hành mới nhất của ShieldBlock.
           required: true
-        - label: Tôi hiểu uBlock Plus+ là fork độc lập, không phải release chính thức của uBlock Origin.
+        - label: Tôi hiểu ShieldBlock là tiện ích độc lập phát triển bởi TXA Studio.
           required: true
         - label: Tôi đã xóa dữ liệu nhạy cảm khỏi log/ảnh chụp.
           required: true
   - type: input
     id: version
     attributes:
-      label: Phiên bản/commit uBlock Plus+
-      placeholder: "v0.x.y hoặc commit SHA"
+      label: Phiên bản/commit ShieldBlock
+      placeholder: "v1.1.1 hoặc commit SHA"
     validations:
       required: true
   - type: input
     id: browser
     attributes:
       label: Trình duyệt và hệ điều hành
-      placeholder: "Chrome 140.0.x, Windows 11 24H2"
+      placeholder: "Chrome 140.0.x, Edge 140, Windows 11"
     validations:
       required: true
   - type: dropdown
     id: install
     attributes:
-      label: Cách cài
+      label: Cách cài đặt
       options:
-        - Load unpacked / Power Edition
-        - GitHub release package / Power Edition
-        - Managed Enterprise build
-        - Native Companion / Power Mode
+        - Load unpacked / Developer Mode
+        - GitHub release zip package
+        - Chrome Web Store (CWS)
+        - TXA Studio Portal (txastudio.click)
     validations:
       required: true
   - type: dropdown
     id: memory_profile
     attributes:
-      label: Memory profile
+      label: Chế độ Memory profile
       options:
-        - auto
-        - balanced
-        - low-memory
+        - auto (Tự động tối ưu)
+        - balanced (Cân bằng)
+        - low-memory (Tiết kiệm RAM)
         - Không biết / không áp dụng
     validations:
       required: true
@@ -59,9 +59,9 @@ body:
     attributes:
       label: Các bước tái hiện tối thiểu
       placeholder: |
-        1. Bật ruleset/list...
+        1. Bật tính năng/bộ lọc...
         2. Mở URL mẫu...
-        3. Thực hiện...
+        3. Thực hiện thao tác...
       render: shell
     validations:
       required: true
@@ -80,11 +80,11 @@ body:
   - type: textarea
     id: filters
     attributes:
-      label: Ruleset/filter liên quan
-      description: Ghi ID catalog và custom/imported list; thử lại với cấu hình tối thiểu nếu có thể.
+      label: Ruleset / Bộ lọc liên quan
+      description: Ghi ID bộ lọc hoặc custom ruleset; thử lại với cấu hình mặc định nếu có thể.
   - type: textarea
     id: diagnostics
     attributes:
-      label: Diagnostics đã ẩn dữ liệu nhạy cảm
-      description: Chỉ dán export do bạn chủ động tạo; không đăng toàn bộ lịch sử/URL cá nhân.
+      label: Log Diagnostics (đã ẩn thông tin nhạy cảm)
+      description: Xuất log chẩn đoán từ giao diện ShieldBlock; không đăng lịch sử duyệt web cá nhân.
       render: text

@@ -1,11 +1,11 @@
-blank_issues_enabled: false
+﻿blank_issues_enabled: false
 contact_links:
-  - name: Security vulnerability (private)
+  - name: Báo cáo lỗ hổng bảo mật (Private Security)
     url: https://github.com/TXAVL/ShieldBlock/security/advisories/new
-    about: Report an unpatched vulnerability privately; do not publish exploit details or browsing data.
-  - name: Upstream uBlock Origin
-    url: https://github.com/gorhill/uBlock/issues
-    about: Check whether the problem belongs to the official upstream project.
-  - name: Upstream uAssets filter issues
-    url: https://github.com/uBlockOrigin/uAssets/issues
-    about: Report content problems in a filter list maintained by uBlock Origin/uAssets.
+    about: Báo cáo bảo mật riêng tư tới đội ngũ phát triển TXA Studio.
+  - name: Cổng hỗ trợ & Tra cứu bản quyền TXA Studio
+    url: https://txastudio.click/shieldblock
+    about: Trang chủ và cổng thông tin chính thức của ShieldBlock.
+  - name: Thảo luận cộng đồng TXA Studio
+    url: https://github.com/TXAVL/ShieldBlock/discussions
+    about: Đặt câu hỏi, thảo luận và đề xuất tính năng mới cho ShieldBlock.

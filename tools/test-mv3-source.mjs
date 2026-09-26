@@ -1,4 +1,4 @@
-/*******************************************************************************
+﻿/*******************************************************************************
 
     uBlock Plus+
     Copyright (C) 2026-present uBlock Plus+ contributors
@@ -469,3 +469,4 @@ assert(
 );
 
 console.log(`MV3 source checks passed for ${localeCount} locales.`);
+

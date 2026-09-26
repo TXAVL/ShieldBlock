@@ -1,4 +1,4 @@
-/*******************************************************************************
+﻿/*******************************************************************************
 
     uBlock Plus+
     Copyright (C) 2026-present uBlock Plus+ contributors
@@ -14,7 +14,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
 
-const productName = process.argv[2] || 'uBlock Plus+';
+const productName = process.argv[2] || 'ShieldBlock - Ad & Tracker Blocker Pro';
 const legacyProductPattern = /u(?:bo|block origin)\s*lite/gi;
 const localesDir = process.argv[3] ||
     path.join('platform', 'mv3', 'extension', '_locales');
@@ -42,3 +42,4 @@ for ( const entry of entries ) {
 }
 
 console.log(`Updated ${modifiedCount} locale files to product name: ${productName}`);
+

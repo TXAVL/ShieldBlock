@@ -1,4 +1,4 @@
-name: MV3 Chromium
+﻿name: MV3 Chromium
 
 on:
   push:
@@ -52,31 +52,33 @@ jobs:
           ./tools/make-mv3.ps1 -Platform chromium -Version $version
 
       - name: Validate MV3 Chromium artifact
-        run: node tools/validate-mv3.mjs dist/build/uBlockPlus.chromium --release
+        run: node tools/validate-mv3.mjs dist/build/ShieldBlock.chromium --release
 
       - name: Upload unpacked extension and zip
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
-          name: uBlock-Plus-chromium-${{ github.sha }}
+          name: ShieldBlock-chromium-${{ github.sha }}
           if-no-files-found: error
           path: |
-            dist/build/uBlockPlus.chromium/
-            dist/build/uBlock-Plus_${{ steps.chromium.outputs.version }}.chromium.zip
-            dist/build/uBlock-Plus_${{ steps.chromium.outputs.version }}.chromium.zip.sha256
+            dist/build/ShieldBlock.chromium/
+            dist/build/ShieldBlock_${{ steps.chromium.outputs.version }}.chromium.zip
+            dist/build/ShieldBlock_${{ steps.chromium.outputs.version }}.chromium.zip.sha256
 
       - name: Build experimental WebRequest package
         shell: pwsh
         run: ./tools/make-mv3.ps1 -Platform chromium -Version '${{ steps.chromium.outputs.version }}' -ExperimentalWebRequest
 
       - name: Validate experimental WebRequest artifact
-        run: node tools/validate-mv3.mjs dist/build/uBlockPlus.experimental.chromium --release --experimental-webrequest
+        run: node tools/validate-mv3.mjs dist/build/ShieldBlock.experimental.chromium --release --experimental-webrequest
 
       - name: Upload experimental extension and launcher
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
-          name: uBlock-Plus-experimental-webrequest-${{ github.sha }}
+          name: ShieldBlock-experimental-webrequest-${{ github.sha }}
           if-no-files-found: error
           path: |
-            dist/build/uBlockPlus.experimental.chromium/
-            dist/build/uBlock-Plus_${{ steps.chromium.outputs.version }}.experimental.chromium.zip
-            dist/build/uBlock-Plus_${{ steps.chromium.outputs.version }}.experimental.chromium.zip.sha256
+            dist/build/ShieldBlock.experimental.chromium/
+            dist/build/ShieldBlock_${{ steps.chromium.outputs.version }}.experimental.chromium.zip
+            dist/build/ShieldBlock_${{ steps.chromium.outputs.version }}.experimental.chromium.zip.sha256
+
+

@@ -1,9 +1,9 @@
-// uBlock Plus+ — GPL-3.0-or-later. See LICENSE.txt.
+﻿// ShieldBlock (TXA Studio) â€” GPL-3.0-or-later. See LICENSE.txt.
 
 import { createHash, createPublicKey } from 'node:crypto';
 import { Buffer } from 'node:buffer';
 
-export const experimentalName = 'uBlock Plus+ Experimental';
+export const experimentalName = 'ShieldBlock Experimental';
 export const experimentalExtensionId = 'fokcgioblkdjdajdeifgfjgmnejmgggg';
 
 export function experimentalIdentityErrors(metadata) {
@@ -59,3 +59,4 @@ export function experimentalManifestErrors(manifest, metadata, enabled) {
     }
     return errors;
 }
+

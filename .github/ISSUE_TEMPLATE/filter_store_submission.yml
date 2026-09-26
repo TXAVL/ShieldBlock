@@ -1,30 +1,30 @@
-name: Filter Store submission
-description: Đề xuất thêm một filter list vào catalog đóng gói của uBlock Plus+.
+﻿name: Filter Store submission
+description: Äá» xuáº¥t thÃªm má»™t filter list vÃ o catalog Ä‘Ã³ng gÃ³i cá»§a ShieldBlock.
 title: "[Filter Store]: add "
 labels: ["filter-store", "catalog-submission", "needs-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Catalog chỉ chứa metadata và HTTPS filter data. Nó không phải plugin/code store. Entry mới thường bắt đầu ở trust tier `community`.
+        Catalog chá»‰ chá»©a metadata vÃ  HTTPS filter data. NÃ³ khÃ´ng pháº£i plugin/code store. Entry má»›i thÆ°á»ng báº¯t Ä‘áº§u á»Ÿ trust tier `community`.
   - type: input
     id: catalog_id
     attributes:
-      label: ID đề xuất
-      description: Chữ thường/kebab-case và ổn định.
+      label: ID Ä‘á» xuáº¥t
+      description: Chá»¯ thÆ°á»ng/kebab-case vÃ  á»•n Ä‘á»‹nh.
       placeholder: vietnamese-privacy-example
     validations:
       required: true
   - type: input
     id: title
     attributes:
-      label: Tên filter list
+      label: TÃªn filter list
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
-      label: Mục tiêu và phạm vi
+      label: Má»¥c tiÃªu vÃ  pháº¡m vi
     validations:
       required: true
   - type: dropdown
@@ -45,7 +45,7 @@ body:
     id: languages
     attributes:
       label: Languages
-      description: BCP-47, ngăn cách bằng dấu phẩy; dùng * nếu không phụ thuộc ngôn ngữ.
+      description: BCP-47, ngÄƒn cÃ¡ch báº±ng dáº¥u pháº©y; dÃ¹ng * náº¿u khÃ´ng phá»¥ thuá»™c ngÃ´n ngá»¯.
       placeholder: vi, en
     validations:
       required: true
@@ -53,7 +53,7 @@ body:
     id: source_urls
     attributes:
       label: HTTPS sourceURLs
-      description: Một URL mỗi dòng; dòng đầu là primary source.
+      description: Má»™t URL má»—i dÃ²ng; dÃ²ng Ä‘áº§u lÃ  primary source.
       render: text
     validations:
       required: true
@@ -68,33 +68,34 @@ body:
     id: license
     attributes:
       label: License
-      description: SPDX identifier hoặc URL/license text có thể kiểm tra.
+      description: SPDX identifier hoáº·c URL/license text cÃ³ thá»ƒ kiá»ƒm tra.
       placeholder: GPL-3.0-or-later
     validations:
       required: true
   - type: input
     id: maintainer
     attributes:
-      label: Maintainer và kênh báo lỗi
+      label: Maintainer vÃ  kÃªnh bÃ¡o lá»—i
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Ownership, lịch sử duy trì và test evidence
-      description: Nêu cách xác minh nguồn, update cadence, sample site, false-positive handling và compiler report nếu có.
+      label: Ownership, lá»‹ch sá»­ duy trÃ¬ vÃ  test evidence
+      description: NÃªu cÃ¡ch xÃ¡c minh nguá»“n, update cadence, sample site, false-positive handling vÃ  compiler report náº¿u cÃ³.
     validations:
       required: true
   - type: checkboxes
     id: safety
     attributes:
-      label: Cam kết submission
+      label: Cam káº¿t submission
       options:
-        - label: Tất cả source URL dùng HTTPS và không cung cấp/chỉ dẫn tải executable code.
+        - label: Táº¥t cáº£ source URL dÃ¹ng HTTPS vÃ  khÃ´ng cung cáº¥p/chá»‰ dáº«n táº£i executable code.
           required: true
-        - label: Tôi có quyền đề xuất/phân phối hoặc tham chiếu list theo license đã khai báo.
+        - label: TÃ´i cÃ³ quyá»n Ä‘á» xuáº¥t/phÃ¢n phá»‘i hoáº·c tham chiáº¿u list theo license Ä‘Ã£ khai bÃ¡o.
           required: true
-        - label: Tôi hiểu catalog inclusion không phải chứng thực của uBlock Origin/Raymond Hill.
+        - label: TÃ´i hiá»ƒu catalog inclusion khÃ´ng pháº£i chá»©ng thá»±c cá»§a bộ lọc mặc định của bên thứ ba.
           required: true
-        - label: Tôi đồng ý entry có thể bị quarantine/remove nếu compromised, abandoned, vi phạm license hoặc gây hại.
+        - label: TÃ´i Ä‘á»“ng Ã½ entry cÃ³ thá»ƒ bá»‹ quarantine/remove náº¿u compromised, abandoned, vi pháº¡m license hoáº·c gÃ¢y háº¡i.
           required: true
+

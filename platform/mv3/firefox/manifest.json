@@ -1,4 +1,4 @@
-{
+﻿{
   "action": {
     "default_area": "navbar",
     "default_icon": {
@@ -8,7 +8,7 @@
     },
     "default_popup": "popup.html"
   },
-  "author": "Raymond Hill, uBlock Origin contributors, and uBlock Plus+ contributors",
+  "author": "TXA Studio Team (TXAVL)",
   "background": {
     "scripts": [ "/js/background.js" ],
     "type": "module"
@@ -65,7 +65,7 @@
     "storage",
     "unlimitedStorage"
   ],
-  "short_name": "uBlock Plus+",
+  "short_name": "ShieldBlock",
   "version": "1.0",
   "web_accessible_resources": [
     {
@@ -102,3 +102,4 @@
     }
   ]
 }
+

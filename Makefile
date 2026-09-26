@@ -1,4 +1,4 @@
-# https://stackoverflow.com/a/6273809
+﻿# https://stackoverflow.com/a/6273809
 run_options := $(filter-out $@,$(MAKECMDGOALS))
 
 .PHONY: all clean cleanassets test lint chromium opera firefox npm dig \
@@ -70,25 +70,25 @@ dist/build/mv3-data:
 power-codemirror:
 	$(MAKE) -sC platform/mv3/extension/lib/codemirror/codemirror-ubol/ ubol.bundle
 
-dist/build/uBlockPlus.chromium: tools/make-mv3.sh $(mv3-sources) $(platform) $(mv3-data) dist/build/mv3-data
+dist/build/ShieldBlock.chromium: tools/make-mv3.sh $(mv3-sources) $(platform) $(mv3-data) dist/build/mv3-data
 	tools/make-mv3.sh chromium
 
-mv3-chromium: power-codemirror dist/build/uBlockPlus.chromium
+mv3-chromium: power-codemirror dist/build/ShieldBlock.chromium
 
-dist/build/uBlockPlus.firefox: tools/make-mv3.sh $(mv3-sources) $(platform) $(mv3-data) dist/build/mv3-data
+dist/build/ShieldBlock.firefox: tools/make-mv3.sh $(mv3-sources) $(platform) $(mv3-data) dist/build/mv3-data
 	tools/make-mv3.sh firefox
 
-mv3-firefox: power-codemirror dist/build/uBlockPlus.firefox
+mv3-firefox: power-codemirror dist/build/ShieldBlock.firefox
 
-dist/build/uBlockPlus.edge: tools/make-mv3.sh $(mv3-sources) $(mv3-edge-deps) $(mv3-data) dist/build/mv3-data
+dist/build/ShieldBlock.edge: tools/make-mv3.sh $(mv3-sources) $(mv3-edge-deps) $(mv3-data) dist/build/mv3-data
 	tools/make-mv3.sh edge
 
-mv3-edge: power-codemirror dist/build/uBlockPlus.edge
+mv3-edge: power-codemirror dist/build/ShieldBlock.edge
 
-dist/build/uBlockPlus.safari: tools/make-mv3.sh $(mv3-sources) $(mv3-safari-deps) $(mv3-data) dist/build/mv3-data
+dist/build/ShieldBlock.safari: tools/make-mv3.sh $(mv3-sources) $(mv3-safari-deps) $(mv3-data) dist/build/mv3-data
 	tools/make-mv3.sh safari
 
-mv3-safari: power-codemirror dist/build/uBlockPlus.safari
+mv3-safari: power-codemirror dist/build/ShieldBlock.safari
 
 dist/build/uAssets:
 	tools/pull-assets.sh
@@ -99,13 +99,13 @@ clean:
 cleanassets:
 	rm -rf dist/build/mv3-data dist/build/uAssets
 
-# Official uBlock Origin store identities and signing credentials do not belong
+# Official TXA Studio ShieldBlock store identities and signing credentials do not belong
 # to this community fork. Publishing must be configured explicitly in a
 # separate, fork-owned release workflow.
 publish-chromium publish-edge publish-firefox \
 publish-dev-chromium publish-dev-firefox \
 upload-firefox upload-dev-firefox:
-	@echo "Store publishing is intentionally disabled in uBlock Plus+."
+	@echo "Store publishing via TXA Studio official channels only."
 	@false
 
 # Not real targets, just convenient for auto-completion at shell prompt
@@ -123,3 +123,4 @@ record:
 	@echo
 wasm:
 	@echo
+

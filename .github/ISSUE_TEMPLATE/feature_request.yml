@@ -1,76 +1,77 @@
-name: Feature request / community proposal
-description: Đề xuất tính năng để cộng đồng thảo luận và vote bằng reaction.
+﻿name: Feature request / community proposal
+description: Äá» xuáº¥t tÃ­nh nÄƒng Ä‘á»ƒ cá»™ng Ä‘á»“ng tháº£o luáº­n vÃ  vote báº±ng reaction.
 title: "[Feature]: "
 labels: ["enhancement", "proposal", "needs-triage"]
 body:
   - type: markdown
     attributes:
       value: |
-        Hãy mô tả vấn đề người dùng trước giải pháp. Vote 👍 là tín hiệu ưu tiên, không thể ghi đè giới hạn MV3, security, privacy hoặc license.
+        HÃ£y mÃ´ táº£ váº¥n Ä‘á» ngÆ°á»i dÃ¹ng trÆ°á»›c giáº£i phÃ¡p. Vote ðŸ‘ lÃ  tÃ­n hiá»‡u Æ°u tiÃªn, khÃ´ng thá»ƒ ghi Ä‘Ã¨ giá»›i háº¡n MV3, security, privacy hoáº·c license.
   - type: checkboxes
     id: preflight
     attributes:
-      label: Kiểm tra trước
+      label: Kiá»ƒm tra trÆ°á»›c
       options:
-        - label: Tôi đã tìm issue/roadmap trùng.
+        - label: TÃ´i Ä‘Ã£ tÃ¬m issue/roadmap trÃ¹ng.
           required: true
-        - label: Tôi không yêu cầu chạy remote code hoặc bypass sandbox/quota không được hỗ trợ.
+        - label: TÃ´i khÃ´ng yÃªu cáº§u cháº¡y remote code hoáº·c bypass sandbox/quota khÃ´ng Ä‘Æ°á»£c há»— trá»£.
           required: true
   - type: textarea
     id: problem
     attributes:
-      label: Vấn đề và nhóm người dùng
-      description: Ai gặp vấn đề, thường xuyên thế nào, workflow hiện tại ra sao?
+      label: Váº¥n Ä‘á» vÃ  nhÃ³m ngÆ°á»i dÃ¹ng
+      description: Ai gáº·p váº¥n Ä‘á», thÆ°á»ng xuyÃªn tháº¿ nÃ o, workflow hiá»‡n táº¡i ra sao?
     validations:
       required: true
   - type: textarea
     id: proposal
     attributes:
-      label: Hành vi mong muốn và acceptance criteria
+      label: HÃ nh vi mong muá»‘n vÃ  acceptance criteria
     validations:
       required: true
   - type: dropdown
     id: layer
     attributes:
-      label: Tầng capability phù hợp nhất
+      label: Táº§ng capability phÃ¹ há»£p nháº¥t
       options:
-        - Power Edition MV3
-        - Managed Enterprise (tương lai)
-        - Native Companion / Power Mode (tương lai)
-        - Chưa biết, cần nghiên cứu
+        - ShieldBlock Cyber Edition (MV3)
+        - Managed Enterprise (tÆ°Æ¡ng lai)
+        - Native Companion / Power Mode (tÆ°Æ¡ng lai)
+        - ChÆ°a biáº¿t, cáº§n nghiÃªn cá»©u
     validations:
       required: true
   - type: dropdown
     id: mv3_mapping
     attributes:
-      label: Khả năng trên MV3
+      label: Kháº£ nÄƒng trÃªn MV3
       options:
-        - Có API công khai tương đương
-        - Chỉ làm được một phần
-        - Không có API tương đương
-        - Chưa xác định
+        - CÃ³ API cÃ´ng khai tÆ°Æ¡ng Ä‘Æ°Æ¡ng
+        - Chá»‰ lÃ m Ä‘Æ°á»£c má»™t pháº§n
+        - KhÃ´ng cÃ³ API tÆ°Æ¡ng Ä‘Æ°Æ¡ng
+        - ChÆ°a xÃ¡c Ä‘á»‹nh
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence / ví dụ / tài liệu API
-      description: Link tài liệu chính thức, reproduction hoặc benchmark nếu có.
+      label: Evidence / vÃ­ dá»¥ / tÃ i liá»‡u API
+      description: Link tÃ i liá»‡u chÃ­nh thá»©c, reproduction hoáº·c benchmark náº¿u cÃ³.
   - type: textarea
     id: privacy_security
     attributes:
-      label: Privacy, permission và threat model
-      description: Dữ liệu nào được đọc/lưu/truyền? Có cần quyền mới, enterprise policy hay native IPC không?
+      label: Privacy, permission vÃ  threat model
+      description: Dá»¯ liá»‡u nÃ o Ä‘Æ°á»£c Ä‘á»c/lÆ°u/truyá»n? CÃ³ cáº§n quyá»n má»›i, enterprise policy hay native IPC khÃ´ng?
     validations:
       required: true
   - type: textarea
     id: resources
     attributes:
-      label: Ảnh hưởng RAM/CPU/quota
-      description: Nêu DNR/regex/storage/cache/wake-up cost và phương án cho low-memory.
+      label: áº¢nh hÆ°á»Ÿng RAM/CPU/quota
+      description: NÃªu DNR/regex/storage/cache/wake-up cost vÃ  phÆ°Æ¡ng Ã¡n cho low-memory.
     validations:
       required: true
   - type: textarea
     id: alternatives
     attributes:
-      label: Phương án khác hoặc fallback
+      label: PhÆ°Æ¡ng Ã¡n khÃ¡c hoáº·c fallback
+

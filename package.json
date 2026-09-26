@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "shield-block",
   "version": "1.1.1",
   "description": "ShieldBlock - Ad & Tracker Blocker Pro: Complete ad and tracker blocking extension for Chromium MV3",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/TXAVL/ShieldBlock.git"
   },
-  "author": "Raymond Hill, uBlock Origin contributors, and uBlock Plus+ contributors",
+  "author": "TXA Studio Team (TXAVL) — based on uBlock Origin (GPL-3.0)",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/TXAVL/ShieldBlock/issues"
@@ -31,3 +31,4 @@
     "globals": "^15.14.0"
   }
 }
+

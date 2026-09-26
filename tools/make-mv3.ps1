@@ -1,4 +1,4 @@
-#*******************************************************************************
+﻿#*******************************************************************************
 #
 #     uBlock Plus+
 #     Copyright (C) 2026-present uBlock Plus+ contributors
@@ -253,7 +253,7 @@ function Test-ChromiumExtensionVersion {
 $projectRoot = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 $buildRoot = Join-Path $projectRoot 'dist/build'
 $editionSuffix = if ( $ExperimentalWebRequest ) { '.experimental' } else { '' }
-$outputDirectory = [IO.Path]::GetFullPath((Join-Path $buildRoot "uBlockPlus$editionSuffix.$Platform"))
+$outputDirectory = [IO.Path]::GetFullPath((Join-Path $buildRoot "ShieldBlock$editionSuffix.$Platform"))
 if ( $outputDirectory.StartsWith(
     [IO.Path]::GetFullPath($buildRoot) + [IO.Path]::DirectorySeparatorChar,
     [StringComparison]::OrdinalIgnoreCase
@@ -298,7 +298,7 @@ if ( $Before -ne '' ) {
     Assert-Path (Join-Path $beforeDirectory $Platform)
 }
 
-Write-Host '*** uBlock Plus+ MV3: Creating extension'
+Write-Host '*** ShieldBlock MV3: Creating extension'
 Write-Host "PLATFORM=$Platform"
 Write-Host "VERSION=$Version"
 Write-Host "BEFORE=$beforeDirectory"
@@ -320,7 +320,7 @@ try {
         $git = [string] $gitCommand.Source
         $uboRoot = New-BuildTempDirectory
         $temporaryDirectories.Add($uboRoot)
-        Write-Host "*** uBlock Plus+ MV3: Fetching uBO $UboVersion into $uboRoot"
+        Write-Host "*** ShieldBlock MV3: Fetching uBO $UboVersion into $uboRoot"
         Invoke-NativeCommand $git @('init', '-q') $uboRoot
         Invoke-NativeCommand $git @(
             'remote', 'add', 'origin', 'https://github.com/gorhill/uBlock.git'
@@ -331,7 +331,7 @@ try {
         Invoke-NativeCommand $git @('checkout', '-q', 'FETCH_HEAD') $uboRoot
     }
 
-    Write-Host '*** uBlock Plus+ MV3: Copying common files'
+    Write-Host '*** ShieldBlock MV3: Copying common files'
     Copy-TreeContents (Join-Path $uboRoot 'src/css/fonts/Inter') `
         (Join-Path $outputDirectory 'css/fonts/Inter')
     foreach ( $file in @(
@@ -378,7 +378,7 @@ try {
     Copy-RequiredFile (Join-Path $projectRoot 'NOTICE.md') `
         (Join-Path $outputDirectory 'NOTICE.md')
 
-    Write-Host '*** uBlock Plus+ MV3: Copying MV3-specific files'
+    Write-Host '*** ShieldBlock MV3: Copying MV3-specific files'
     $mv3Root = Join-Path $projectRoot 'platform/mv3'
     $extensionRoot = Join-Path $mv3Root 'extension'
     Copy-RequiredFile (Join-Path $mv3Root 'chromium/manifest.json') `
@@ -433,7 +433,7 @@ try {
         Join-Path $extensionRoot 'lib/s14e-serializer/LICENSE'
     ) (Join-Path $outputDirectory 'lib/s14e-serializer.LICENSE')
 
-    Write-Host '*** uBlock Plus+ MV3: Generating rulesets'
+    Write-Host '*** ShieldBlock MV3: Generating rulesets'
     $rulesetBuildDirectory = New-BuildTempDirectory
     $temporaryDirectories.Add($rulesetBuildDirectory)
 
@@ -542,7 +542,7 @@ try {
     }
 
     if ( $beforeDirectory -ne '' ) {
-        Write-Host '*** uBlock Plus+ MV3: Salvaging rule IDs to minimize diff size'
+        Write-Host '*** ShieldBlock MV3: Salvaging rule IDs to minimize diff size'
         Invoke-NativeCommand $node @(
             'salvage-ruleids.mjs',
             ('before=' + (Join-Path $beforeDirectory $Platform)),
@@ -578,7 +578,7 @@ try {
         $manifest.optional_permissions = @(
             $manifest.optional_permissions | Where-Object { $_ -ne 'webRequest' }
         )
-        $manifest.name = 'uBlock Plus+ Experimental'
+        $manifest.name = 'ShieldBlock Experimental'
         $manifest | Add-Member -MemberType NoteProperty -Name key `
             -Value $experimentalMetadata.publicKey -Force
         Write-Utf8NoBom (Join-Path $outputDirectory 'experimental-webrequest.json') (
@@ -593,15 +593,15 @@ try {
         ($manifest | ConvertTo-Json -Depth 100) + "`n"
     )
 
-    Write-Host "*** uBlock Plus+ ${Platform}: Extension ready"
+    Write-Host "*** ShieldBlock ${Platform}: Extension ready"
     Write-Host "Extension location: $outputDirectory"
 
     $createPackage = $Full.IsPresent -or $Version -ne ''
     if ( $createPackage ) {
         if ( $ExperimentalWebRequest ) {
-            Write-Host '*** uBlock Plus+ MV3: Creating experimental package'
+            Write-Host '*** ShieldBlock MV3: Creating experimental package'
         } else {
-            Write-Host '*** uBlock Plus+ MV3: Creating publishable package'
+            Write-Host '*** ShieldBlock MV3: Creating publishable package'
         }
         $packageDirectory = New-BuildTempDirectory
         $temporaryDirectories.Add($packageDirectory)
@@ -611,7 +611,7 @@ try {
             Remove-Item -LiteralPath $logFile -Force
         }
 
-        $packageName = "uBlock-Plus_$packageVersion$editionSuffix.$Platform.zip"
+        $packageName = "ShieldBlock_$packageVersion$editionSuffix.$Platform.zip"
         $packagePath = Join-Path $buildRoot $packageName
         if ( Test-Path -LiteralPath $packagePath ) {
             Remove-Item -LiteralPath $packagePath -Force
@@ -631,3 +631,4 @@ try {
         }
     }
 }
+

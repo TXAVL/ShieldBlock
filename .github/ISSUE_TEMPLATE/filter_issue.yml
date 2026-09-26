@@ -1,17 +1,17 @@
-name: Filter issue
-description: Báo false positive, missed content hoặc vấn đề một entry trong Filter Store.
+﻿name: Filter issue
+description: BÃ¡o false positive, missed content hoáº·c váº¥n Ä‘á» má»™t entry trong Filter Store.
 title: "[Filter]: "
 labels: ["filter-issue", "needs-triage"]
 body:
   - type: dropdown
     id: type
     attributes:
-      label: Loại vấn đề
+      label: Loáº¡i váº¥n Ä‘á»
       options:
-        - False positive / website bị hỏng
-        - Quảng cáo/tracker chưa bị chặn
-        - Performance / quá nhiều rule hoặc RAM
-        - Source/maintainer có dấu hiệu bị compromise
+        - False positive / website bá»‹ há»ng
+        - Quáº£ng cÃ¡o/tracker chÆ°a bá»‹ cháº·n
+        - Performance / quÃ¡ nhiá»u rule hoáº·c RAM
+        - Source/maintainer cÃ³ dáº¥u hiá»‡u bá»‹ compromise
         - License/attribution
         - Metadata catalog sai
     validations:
@@ -19,14 +19,14 @@ body:
   - type: input
     id: entry
     attributes:
-      label: Catalog entry ID và trust tier
+      label: Catalog entry ID vÃ  trust tier
       placeholder: entry-id (community)
     validations:
       required: true
   - type: input
     id: version
     attributes:
-      label: uBlock Plus+ version/commit
+      label: ShieldBlock version/commit
     validations:
       required: true
   - type: input
@@ -38,25 +38,26 @@ body:
   - type: textarea
     id: reproduction
     attributes:
-      label: URL mẫu công khai và bước tái hiện
-      description: Không đăng URL nội bộ, tài khoản, token hoặc browsing history.
+      label: URL máº«u cÃ´ng khai vÃ  bÆ°á»›c tÃ¡i hiá»‡n
+      description: KhÃ´ng Ä‘Äƒng URL ná»™i bá»™, tÃ i khoáº£n, token hoáº·c browsing history.
     validations:
       required: true
   - type: textarea
     id: minimal_config
     attributes:
-      label: Cấu hình tối thiểu và filter/rule nghi ngờ
-      description: Tắt list không liên quan nếu có thể và ghi kết quả.
+      label: Cáº¥u hÃ¬nh tá»‘i thiá»ƒu vÃ  filter/rule nghi ngá»
+      description: Táº¯t list khÃ´ng liÃªn quan náº¿u cÃ³ thá»ƒ vÃ  ghi káº¿t quáº£.
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Evidence đã redacted
+      label: Evidence Ä‘Ã£ redacted
   - type: checkboxes
     id: routing
     attributes:
       label: Routing
       options:
-        - label: Tôi đã kiểm tra homepage của list; nếu maintainer có tracker riêng, tôi sẽ liên kết báo cáo tương ứng.
+        - label: TÃ´i Ä‘Ã£ kiá»ƒm tra homepage cá»§a list; náº¿u maintainer cÃ³ tracker riÃªng, tÃ´i sáº½ liÃªn káº¿t bÃ¡o cÃ¡o tÆ°Æ¡ng á»©ng.
           required: true
+
