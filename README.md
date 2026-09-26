@@ -4,7 +4,7 @@
 
 # ShieldBlock - Ad & Tracker Blocker Pro
 
-**Giải pháp chặn quảng cáo toàn diện, tối ưu tốc độ & tích hợp điều khiển YouTube In-Player cho Chromium Manifest V3**
+**Comprehensive ad & tracker blocking, maximum speed optimization & integrated YouTube In-Player Controls for Chromium Manifest V3**
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-ShieldBlock_Pro-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll) [![Latest release](https://img.shields.io/github/v/release/TXAVL/ShieldBlock?include_prereleases&label=pre--release&color=3b82f6)](https://github.com/TXAVL/ShieldBlock/releases) [![Chromium 130+](https://img.shields.io/badge/Chromium-130%2B-4285F4?logo=googlechrome&logoColor=white)](#quick-start) [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-22863a)](LICENSE.txt)
 
@@ -16,18 +16,18 @@
 
 </div>
 
-**ShieldBlock - Ad & Tracker Blocker Pro** là tiện ích chặn quảng cáo mạnh mẽ, bảo vệ quyền riêng tư toàn diện cho trình duyệt trên chuẩn Manifest V3. Trang bị bộ lọc quy tắc khai báo hiệu năng cao kết hợp cùng công nghệ độc quyền **YouTube Pro In-Player Controls**:
-- 🛡️ **Biểu tượng khiên phát sáng thông minh**: Đèn sáng dạ quang khi đang hoạt động, tắt mờ khi tạm dừng.
-- ⚡ **Zero-Delay YouTube Ad Skip**: Tự động bỏ qua video quảng cáo siêu tốc, bấm nút bỏ qua ngay lập tức, dọn dẹp các thông báo chống adblock.
-- 🚀 **Bảo vệ toàn diện**: Chặn banner, pop-up, video ads, mã theo dõi, tối ưu hóa bộ nhớ và tăng tốc tải trang tối đa.
+**ShieldBlock - Ad & Tracker Blocker Pro** is a powerful ad-blocking and privacy protection browser extension built for Chromium Manifest V3. Combining high-performance declarative rule filtering with exclusive **YouTube Pro In-Player Controls**:
+- 🛡️ **Smart Luminous Shield Icon**: Illuminated glowing badge when active, dims when paused.
+- ⚡ **Zero-Delay YouTube Ad Skip**: Automatically bypasses video ads in milliseconds, skips instantly, and cleans up anti-adblock notices.
+- 🚀 **Comprehensive Protection**: Blocks banners, pop-ups, video ads, trackers, optimizes memory footprint, and maximizes page load speed.
 
 
 ## Contents
 
 > [!IMPORTANT]
-> **🚀 Cài đặt nhanh nhất (Khuyên dùng):** Cài đặt trực tiếp từ **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** để nhận cập nhật tự động và sử dụng ngay lập tức mà không cần tải file zip.
+> **🚀 Fastest Installation (Recommended):** Install directly from the **[Chrome Web Store](https://chromewebstore.google.com/detail/neajkofkkadimcabbhekjcgdbbkfpfll)** to get automatic updates and start using immediately without downloading a ZIP file.
 >
-> **Cài đặt thủ công (Dành cho Developer / Bản Unpacked):** Tải [ShieldBlock extension ZIP — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) và [file SHA-256](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), rồi làm theo hướng dẫn [cài bản Unpacked](#install-an-unpacked-build). GitHub's **Code → Download ZIP** là mã nguồn phát triển, cần build trước khi nạp vào Chrome.
+> **Manual Installation (Developers / Unpacked Build):** Download the [ShieldBlock extension ZIP — v1.1.1](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip) and its [SHA-256 file](https://github.com/TXAVL/ShieldBlock/releases/download/v1.1.1/ShieldBlock_1.1.1.chromium.zip.sha256), then follow [unpacked build installation](#install-an-unpacked-build). GitHub's **Code → Download ZIP** contains development source code and must be built before loading into Chrome.
 
 - [Features and screenshots](#features-and-screenshots)
 - [Quick start, updates and removal](#quick-start)
@@ -66,19 +66,19 @@ The screenshots below show the actual interface and key features of **ShieldBloc
 ### 1. Popup
 <p align="center">
 <img src="docs/assets/readme/popup.png" width="280" alt="ShieldBlock Popup - Site controls, protection modes and quick actions">
-<br><strong>Popup:</strong> Điều khiển bật/tắt bảo vệ nhanh chóng cho từng trang web, chuyển đổi chế độ lọc (Basic, Optimal, Complete), hiển thị khiên phát sáng dạ quang thông minh và các công cụ lọc phần tử tức thì.
+<br><strong>Popup:</strong> Quick per-site protection toggle, filtering mode selector (Basic, Optimal, Complete), smart luminous shield indicator, and instant element inspection tools.
 </p>
 
 ### 2. Option
 <p align="center">
 <img src="docs/assets/readme/option.png" width="850" alt="ShieldBlock Option - Dashboard settings and appearance controls">
-<br><strong>Option:</strong> Quản lý toàn diện cấu hình hoạt động của tiện ích: Protection presets, Memory profiles (Auto, Balanced, Low-memory), chủ đề giao diện, quyền riêng tư và sao lưu/khôi phục dữ liệu.
+<br><strong>Option:</strong> Comprehensive extension settings, protection presets, memory profiles (Auto, Balanced, Low-memory), appearance themes, browser privacy controls, and backup/restore.
 </p>
 
 ### 3. Custom Filter
 <p align="center">
 <img src="docs/assets/readme/custom-filter.png" width="850" alt="ShieldBlock Custom Filter - Personal cosmetic filter editor">
-<br><strong>Custom Filter:</strong> Quản lý và tự do thêm các bộ lọc cá nhân, quy tắc chặn phần tử thẩm mỹ (cosmetic rules) theo tên miền, hỗ trợ nhập/xuất danh sách quy tắc dễ dàng.
+<br><strong>Custom Filter:</strong> Manage custom user filters, author site-specific cosmetic rules, easily import/export rulesets in text format, and test rules in sandbox.
 </p>
 
 <details>
